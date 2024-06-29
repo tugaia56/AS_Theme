@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="inbound_message_background_unselected">#b33c4043</color>
+    <color name="input_separator_line">#805f6368</color>
+    <color name="progress_overlay_color">#73000000</color>
+    <color name="record_button_body_ready_to_record_track">#335bb974</color>
+    <color name="record_button_body_recorded_track_secondary">#33669df6</color>
+    <color name="record_button_body_recording_track_secondary">#33ee675c</color>
+    <color name="record_button_pulse_color">#33ffffff</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+</resources>

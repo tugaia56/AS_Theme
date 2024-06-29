@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background">@*android:color/background_dark</color>
+    <color name="color_background_10_percent_alpha">#1a000000</color>
+    <color name="color_background_50_percent_alpha">#7f000000</color>
+    <color name="color_hint_success_weak">@*android:color/background_dark</color>
+    <color name="color_hint_warning_weak">#ff412b0e</color>
+    <color name="color_on_background">#ffffffff</color>
+    <color name="color_on_error">@*android:color/background_dark</color>
+    <color name="color_on_notification_icon">#ffffffff</color>
+    <color name="color_on_primary">#ffffffff</color>
+    <color name="color_on_secondary">#ffffffff</color>
+    <color name="color_on_surface">#ffffffff</color>
+    <color name="color_primary">@*android:color/accent_material_dark</color>
+    <color name="color_primary_variant">#d205f7</color>
+    <color name="color_secondary">@*android:color/accent_material_dark</color>
+    <color name="color_secondary_variant">#71f705</color>
+    <color name="color_status_bar">@*android:color/background_dark</color>
+    <color name="color_surface">@*android:color/background_dark</color>
+    <color name="color_surface_on_surface">@*android:color/background_dark</color>
+    <color name="color_text_strong">#ffffffff</color>
+    <color name="color_text_weak">#ffffffff</color>
+    <color name="color_visa_blue">#ff7276bb</color>
+    <color name="deprecated_color_achievement_emphasized_area">@*android:color/background_dark</color>
+    <color name="deprecated_color_achievement_emphasized_success">@*android:color/background_dark</color>
+    <color name="material_card_selected">@*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="stocard_line">@*android:color/background_dark</color>
+</resources>

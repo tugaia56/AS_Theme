@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Making a dark theme? You know what to do! -->
+    <style name="DialogStyle" parent="@style/Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_background_material</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAlignment">gravity</item>
+    </style>
+    <!--
+      ~ Custom dialog message on theme launch.
+      ~ Add word in launch_dialog_negative to add a cancel button on the dialog
+      -->
+    <string name="launch_dialog_title">Dark Shadow System</string>
+    <string name="launch_dialog_content">⚠️ Instructions⚠️\n\n
+        Select YOUR Android System at the top of the overlay list for your ROM\n\n
+        Press the small icons warning❗​\nfor important details\n\n
+        Restart your device\nafter installing overlay\n\n
+        Enable overlay in Manager tab\n\n\n
+        ⚠️​ ⚠️​ ⚠️​⚠️ ​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​\n\n
+        PREFIX NAME OPTIONS-CHOICES\n\n
+        \" Without Prefix \"\nWorks with all Systems\n\n
+        \" A 13-14 \"\nIt\'s just for Android 13-14\nDoesn\'t work with\nOxygenOS 11-12-13-14\n\n
+        \" OOS \"\nIt\'s just for OxygenOS 11-12-13-14\nDoesn\'t work with Android 13-14\n\n
+        \" OOS 11 \"\nIt\'s just for OxygenOS 11\nDoesn\'t work with Android 13-14\nand OxygenOS 12-13-14\n\n
+        \" OOS 11-12 \"\nIt\'s just for OxygenOS 11-12\nDoesn\'t work with Android 13-14\nand OxygenOS 13-14\n\n
+        \" OOS 12 \"\nIt\'s just for OxygenOS 12\nDoesn\'t work with Android 13-14\nand OxygenOS 11-13-14\n\n
+        \" OOS 13-14 \"\nIt\'s just for OxygenOS 13-14\nDoesn\'t work with Android 13-14\nand OxygenOS 11-12-14\n\n\n
+        ⚠️​ USE ONLY OPTIONS⚠️​\n⚠️​ FOR YOUR SYSTEM⚠️​\n\n\n
+        👋 Welcome 👋\n\n
+        ❤️ Thank You for choosing❤️\n\n
+        🎨 Dark Shadow Theme🎨\n\n
+    </string>
+    <string name="launch_dialog_positive">OK</string>
+    <string name="launch_dialog_negative">Exit</string>
+    <string name="launch_dialog_neutral">Telegram Group</string>
+    <string name="launch_dialog_repo_url">https://t.me/OnePlus_Mods_Theme</string>
+</resources>

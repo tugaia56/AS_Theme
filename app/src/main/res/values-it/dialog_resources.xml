@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Making a dark theme? You know what to do! -->
+    <style name="DialogStyle" parent="@style/Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_background_material</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAlignment">gravity</item>
+    </style>
+    <!--
+      ~ Custom dialog message on theme launch.
+      ~ Add word in launch_dialog_negative to add a cancel button on the dialog
+      -->
+    <string name="launch_dialog_content">⚠️ Istruzioni⚠️\n\n
+        Seleziona il TUO Sistema Android nella parte superiore dell\'elenco overlay per la tua Rom\n\n
+        Premi le piccole icone avviso❗​\nper dettagli importanti\n\n
+        Riavvia il dispositivo\ndopo aver installato gli overlay\n\n
+        Abilita gli overlay\nnella scheda Gestore\n\n\n
+        ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​\n\n
+        PREFISSO NOME OPZIONI-SCELTE\n\n
+        \" Senza Prefisso \"\nFunziona con tutti i Sistemi\n\n
+        \" A 13-14 \"\nÉ solo per Android 13-14\nnon funziona con\nOxygenOS 11-12-13-14\n\n
+        \" OOS \"\nÉ per OxygenOS 11-12-13-14\nnon funziona con Android 13-14\n\n
+        \" OOS 11 \"\nÉ solo per OxygenOS 11\nnon funziona con Android 13-14\ne OxygenOS 12-13-14\n\n
+        \" OOS 11-12 \"\nÉ solo per OxygenOS 11-12\nnon funziona con Android 13-14\ne OxygenOS 13-14\n\n
+        \" OOS 12 \"\nÉ solo per OxygenOS 12\nnon funziona con Android 13-14\ne OxygenOS 11-13-14\n\n
+        \" OOS 13-14 \"\nÉ solo per OxygenOS 13-14\nnon funziona con Android 13-14\ne OxygenOS 11-12\n\n
+        ⚠️​ USA SOLO LE OPZIONI⚠️​\n⚠️​ PER IL TUO SISTEMA⚠️​\n\n\n
+        👋 Benvenuto👋\n\n
+        ❤️ Grazie per aver scelto❤️\n\n
+        🎨 Dark Shadow Theme🎨\n\n
+    </string>
+    <string name="launch_dialog_negative">Esci</string>
+    <string name="launch_dialog_neutral">Gruppo Telegram</string>
+</resources>

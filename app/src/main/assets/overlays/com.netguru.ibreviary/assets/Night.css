@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Garamond';
+    src: url('file:///android_asset/Garamond.ttf'); /* but this does */
+}
+
+body {
+    font-family: 'Garamond';
+	font-weight:400;
+	margin-left:20px;
+	margin-right:20px;
+    background-color:#000;
+	color: #fff;
+	font-size: 130%!important;
+}
+
+.sezione
+{
+	color: #ff2837;
+	text-transform: uppercase;
+	font-size: 160%;
+	text-align: center;
+}
+
+.titolo
+{
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+/* utilizzati nell'editor */
+
+.capolettera_grande
+{
+	color: #ff2837;
+	font-size: 160%;
+}
+
+.capolettera_piccolo
+{
+	color: #ff2837;
+	font-size: 120%;
+	font-weight: bolder;
+}
+
+.paragrafo_grande
+{
+	font-weight: bolder;
+	font-size: 125%;
+}
+
+.paragrafo_piccolo
+{
+	font-weight: bolder;
+	font-size: 105%;
+}
+
+.rubrica
+{
+	color: #ff2837;
+}
+
+.citazione
+{
+	color: #ff2837;
+}
+
+.risposta
+{
+	font-weight: bolder;
+}

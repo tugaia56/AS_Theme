@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="Widget.Design.BottomSheet.Modal" parent="@*android:style/Widget">
+        <item name="android:background">@*android:color/background_dark</item>
+        <item name="android:elevation">16.0dip</item>
+        <item name="backgroundTint">@*android:color/background_dark</item>
+        <item name="behavior_hideable">true</item>
+        <item name="behavior_peekHeight">auto</item>
+        <item name="behavior_skipCollapsed">false</item>
+        <item name="enforceMaterialTheme">false</item>
+        <item name="shapeAppearance">@null</item>
+        <item name="shapeAppearanceOverlay">@null</item>
+    </style>
+    <style name="TextAppearance.Lite.Sheet.Item" parent="">
+        <item name="android:background">@*android:color/background_dark</item>
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@*android:color/white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">250.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:foreground">#00000000</item>
+        <item name="android:drawablePadding">24.0dip</item>
+        <item name="android:letterSpacing">-0.009</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="itemStrokeColor">@*android:color/accent_material_dark</item>
+        <item name="itemStrokeWidth">1.5dip</item>		
+        <item name="cornerRadius">24.0dip</item>
+		
+    </style>	
+</resources>

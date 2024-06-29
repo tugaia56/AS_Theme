@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dip" android:width="32.0dip" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M25
+            11.75L22
+            11.75L22
+            10.25L25
+            10.25L25
+            11.75Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M16
+            11.75L7
+            11.75L7
+            10.25L16
+            10.25L16
+            11.75Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M19
+            8.25C17.4812
+            8.25 16.25
+            9.4812 16.25
+            11C16.25
+            12.5188 17.4812
+            13.75 19
+            13.75C20.5188
+            13.75 21.75
+            12.5188 21.75
+            11C21.75
+            9.4812 20.5188
+            8.25 19
+            8.25ZM19
+            7C16.7909
+            7 15
+            8.7909 15
+            11C15
+            13.2091 16.7909
+            15 19
+            15C21.2091
+            15 23
+            13.2091 23
+            11C23
+            8.7909 21.2091
+            7 19
+            7Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M7
+            20.25L10
+            20.25L10
+            21.75L7
+            21.75L7
+            20.25Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M16
+            20.25L25
+            20.25L25
+            21.75L16
+            21.75L16
+            20.25Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M13
+            23.75C14.5188
+            23.75 15.75
+            22.5188 15.75
+            21C15.75
+            19.4812 14.5188
+            18.25 13
+            18.25C11.4812
+            18.25 10.25
+            19.4812 10.25
+            21C10.25
+            22.5188 11.4812
+            23.75 13
+            23.75ZM13
+            25C15.2091
+            25 17
+            23.2091 17
+            21C17
+            18.7909 15.2091
+            17 13
+            17C10.7909
+            17 9
+            18.7909 9
+            21C9
+            23.2091 10.7909
+            25 13
+            25Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M28
+            4m-4
+            0a4
+            4 0
+            1 1
+            8 0a4
+            4 0
+            1 1
+            -8 0" />
+</vector>

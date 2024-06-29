@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffe4f2ef" android:pathData="M24
+            24m-24
+            0a24
+            24 0
+            1 1
+            48 0a24
+            24 0
+            1 1
+            -48 0" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M16.423
+            21h15.154c0.669
+            0 0.911
+            0.07 1.156
+            0.2 0.244
+            0.131 0.436
+            0.323 0.567
+            0.567 0.13
+            0.245 0.2
+            0.487 0.2
+            1.156v7.154c0
+            0.669 -0.07
+            0.911 -0.2
+            1.156 -0.131
+            0.244 -0.323
+            0.436 -0.567
+            0.567 -0.245
+            0.13 -0.487
+            0.2 -1.156
+            0.2L16.423
+            32c-0.669
+            0 -0.911
+            -0.07 -1.156
+            -0.2 -0.244
+            -0.131 -0.436
+            -0.323 -0.567
+            -0.567 -0.13
+            -0.245 -0.2
+            -0.487 -0.2
+            -1.156v-7.154c0
+            -0.669 0.07
+            -0.911 0.2
+            -1.156 0.131
+            -0.244 0.323
+            -0.436 0.567
+            -0.567 0.245
+            -0.13 0.487
+            -0.2 1.156
+            -0.2z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="2.0" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M24
+            26.5m-2
+            0a2
+            2 0
+            1 1
+            4 0a2
+            2 0
+            1 1
+            -4 0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M27.5
+            13.195L29.5
+            13.002 29.5
+            18.002 27.5
+            18.002zM19
+            13.002L21
+            13.266 21
+            18.002 19
+            18.002zM23.25
+            12.002L25.25
+            12.406 25.25
+            18.002 23.25
+            18.002z" android:fillType="evenOdd" />
+</vector>

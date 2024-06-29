@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M14.381
+            3.905L20.095
+            3.905L20.095
+            19.143L14.381
+            19.143L14.381
+            3.905ZM22
+            3.905C22
+            2.857 21.143
+            2 20.095
+            2L14.381
+            2C13.333
+            2 12.476
+            2.857 12.476
+            3.905L12.476
+            19.143C12.476
+            20.19 13.333
+            21.048 14.381
+            21.048L20.095
+            21.048C21.143
+            21.048 22
+            20.19 22
+            19.143L22
+            3.905Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M2
+            21.048L3.905
+            21.048L3.905
+            18.19L2
+            18.19L2
+            21.048ZM2
+            17.238L3.905
+            17.238L3.905
+            14.381L2
+            14.381L2
+            17.238ZM2
+            13.429L3.905
+            13.429L3.905
+            10.571L2
+            10.571L2
+            13.429ZM4.857
+            21.048L7.714
+            21.048L7.714
+            19.143L4.857
+            19.143L4.857
+            21.048ZM4.857
+            12.476L7.714
+            12.476L7.714
+            10.571L4.857
+            10.571L4.857
+            12.476ZM8.667
+            21.048L11.524
+            21.048L11.524
+            19.143L8.667
+            19.143L8.667
+            21.048ZM8.667
+            12.476L11.524
+            12.476L11.524
+            10.571L8.667
+            10.571L8.667
+            12.476Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M11.467
+            5.01C10.19
+            5.038 9.19
+            5.362 8.01
+            6.352C7.771
+            6.552 7.552
+            6.752 7.352
+            6.971L9.6
+            9.238C9.895
+            9.543 9.8
+            9.79 9.371
+            9.79L3.733
+            10.01C3.305
+            10.01 2.952
+            9.657 2.952
+            9.229L3.171
+            3.59C3.171
+            3.162 3.419
+            3.067 3.724
+            3.362L5.952
+            5.486C6.171
+            5.267 6.429
+            4.971 6.676
+            4.771C8.248
+            3.448 9.686
+            2.99 11.467
+            2.952C11.467
+            2.952 11.41
+            5.067 11.467
+            5.01" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+</vector>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- secondo background visibile -->
+    <item android:left="2.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="2.0dip">
+        <shape android:shape="rectangle">
+            <gradient android:startColor="@*android:color/background_dark" android:endColor="@*android:color/ripple_material_dark" android:angle="90.0" />
+        </shape>
+    </item>
+<!-- terzo background sfumatura sotto -->
+    <item android:left="2.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="2.0dip">
+        <shape android:shape="rectangle">
+            <gradient android:startColor="@*android:color/transparent" android:endColor="@*android:color/transparent" android:angle="90.0" />
+        </shape>
+    </item>
+</layer-list>

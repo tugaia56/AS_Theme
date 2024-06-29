@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cf_bar_surface">@*android:color/background_dark</color>
+    <color name="cf_divider">@*android:color/button_material_dark</color>
+    <color name="cf_primary">@*android:color/accent_material_dark</color>
+    <color name="cf_surface">@*android:color/background_dark</color>
+    <color name="cf_text_primary">#ffffffff</color>
+    <color name="cf_text_secondary">#ffbdbdbd</color>
+    <color name="dcf_text_primary">#ffffffff</color>
+    <color name="google_daynight_default_color_primary_text">#ffffffff</color>
+    <color name="google_daynight_default_color_secondary_text">#ffbdbdbd</color>
+</resources>

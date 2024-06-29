@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a_moment_ago">un attimo fa</string>
+    <string name="accept_button">Ok</string>
+    <string name="app_name">Battery notifier</string>
+    <string name="app_version_name">Versione</string>
+    <string name="authorize_now">Autorizza adesso</string>
+    <string name="background_processes_notification_channel">Processi in background</string>
+    <string name="battery_charged">Impostazioni batteria carica</string>
+    <string name="battery_charged_notifications">Batteria carica</string>
+    <string name="battery_discharged">Impostazioni batteria scarica</string>
+    <string name="battery_discharged_notifications">Batteria scarica</string>
+    <string name="battery_icon_style">Stile icona</string>
+    <string name="battery_icon_style_default">testo</string>
+    <string name="battery_icon_style_text">Testo</string>
+    <string name="battery_icon_style_text_limits">Selezione colori</string>
+    <string name="battery_icon_style_text_limits_description">La carica della batteria sarà in rosso se inferiore del valore più basso selezionato
+             in verde se maggiore del valore più alto selezionato
+             altrimenti in bianco</string>
+    <string name="battery_icon_style_text_limits_summary">La carica della batteria sarà in rosso se inferiore al %1$d%%
+             in verde se maggiore del %2$d%%
+             altrimenti in bianco</string>
+    <string name="battery_icon_style_text_limits_summary_always_white">La carica della batteria sarà sempre del colore bianco</string>
+    <string name="battery_icon_style_text_limits_summary_green">La carica della batteria sarà in verde se maggiore del %2$d%%
+             altrimenti in bianco</string>
+    <string name="battery_icon_style_text_limits_summary_red">La carica della batteria sarà in rosso se inferiore del %1$d%%
+             altrimenti in bianco</string>
+    <string name="battery_icon_style_vertical_icon">Icona verticale</string>
+    <string name="battery_phone_notification_battery_is_fully_charged">Batteria carica</string>
+    <string name="battery_phone_notification_battery_is_fully_charged_in_a_few_seconds">La ricarica terminerà presto</string>
+    <string name="battery_phone_notification_battery_is_fully_discharged">Si spegnerà presto</string>
+    <string name="battery_phone_notificaton_subtitle">%2$s | %1$s | %3$s | %4$s</string>
+    <string name="battery_phone_notificaton_title">Batteria al %1$d%%</string>
+    <string name="battery_unknown_state">Stato batteria sconosciuto</string>
+    <string name="battery_usage_statistics">Statistiche batteria</string>
+    <string name="battery_wearable_notificaton_subtitle">"%2$s
+%3$s
+%4$s"</string>
+    <string name="battery_wearable_notificaton_title">Batteria %1$d%%</string>
+    <string name="buy_it">Acquista!</string>
+    <string name="cancel_button">Annulla</string>
+    <string name="cant_exec_cpu_usage_statistics_app">"Non posso avviare CPU Stats Reader"</string>
+    <string name="changelog">Novità</string>
+    <string name="charge_percent">%1$d%%</string>
+    <string name="charged">Carico</string>
+    <string name="charging">In carica</string>
+    <string name="click_to_set_notification_sound">Tocca per impostare un suono di notifica</string>
+    <string name="cpu_usage_statistics">Statistiche CPU</string>
+    <string name="cpu_usage_statistics_advertisement">"Per usare questa funzione occorre \"CPU Stats Reader\" che non sembra essere sul dispositivo.
+
+\"CPU Stats Reader\" è sviluppato da \"RYO Software\" e può essere scaricato gratuitamente dal Play Store…"</string>
+    <string name="data_field">%1$s: &lt;strong>%2$s&lt;/strong></string>
+    <string name="date_time">%1$s alle %2$s</string>
+    <string name="delay_first_notification">Ritardo prima notifica</string>
+    <string name="delay_first_notification_description">"Quando si verificano le condizioni
+             attendi i minuti impostati prima di notificare.
+
+La riproduzione della notifica ti farà usare gli intervalli di ripetizione impostati"</string>
+    <string name="delay_first_notification_off">Esegui la notifica quando si verificano le condizioni</string>
+    <string name="delay_first_notification_on">Dopo che le condizioni si sono verificate
+             attendi %1$s prima di notificare la prima volta</string>
+    <string name="device_plugged_to_charger_notification">Dispositivo connesso al caricatore</string>
+    <string name="device_unplugged_from_charger_notification">Dispositivo disconnesso dal caricatore</string>
+    <string name="discharging">Scaricamento</string>
+    <string name="dismiss_current_alert">Rimuovi allarme</string>
+    <string name="do_not_show_anymore">Non mostrare più</string>
+    <string name="enable_battery_charged_notifications_off">"Non monitorare l'evento batteria carica"</string>
+    <string name="enable_battery_charged_notifications_on">"Monitora il sistema per rilevare l'evento batteria carica"</string>
+    <string name="enable_battery_discharged_notifications_off">"Non monitorare l'evento batteria scarica"</string>
+    <string name="enable_battery_discharged_notifications_on">"Monitora il sistema per rilevare l'evento batteria scarica"</string>
+    <string name="enable_device_plugged_to_charger_notification_off">"Non monitorare l'evento dispositivo connesso ad un caricatore"</string>
+    <string name="enable_device_plugged_to_charger_notification_on">"Monitora il sistema per rilevare l'evento dispositivo connesso ad un caricatore"</string>
+    <string name="enable_device_unplugged_from_charger_notification_off">"Non monitorare l'evento dispositivo disconnesso ad un caricatore"</string>
+    <string name="enable_device_unplugged_from_charger_notification_on">"Monitora il sistema per rilevare l'evento dispositivo disconnesso ad un caricatore"</string>
+    <string name="enable_percent_instead_of_full_charge_stat">Notifica per percentuale</string>
+    <string name="enable_percent_instead_of_full_charge_stat_off">"Notifica solo l'evento carica completa (non funziona in alcuni dispositivi)"</string>
+    <string name="enable_percent_instead_of_full_charge_stat_on">Notifica il raggiungimento di una percentuale di carica</string>
+    <string name="error">Errore</string>
+    <string name="exit_button">Esci</string>
+    <string name="free_software_licenses">Licenze software free</string>
+    <string name="health">Salute</string>
+    <string name="health_cold">Fredda</string>
+    <string name="health_dead">Morta</string>
+    <string name="health_good">Buona</string>
+    <string name="health_over_heat">Surriscaldata</string>
+    <string name="health_over_voltage">Sovraccarica</string>
+    <string name="health_unespecified_failure">Errore generico</string>
+    <string name="hide_notification_from_secure_lockscreen">Nascondi notifica dallo schermo bloccato</string>
+    <string name="hide_notification_from_secure_lockscreen_off">Visualizza la notifica anche con schermo bloccato</string>
+    <string name="hide_notification_from_secure_lockscreen_on">"Non visualizzare la notifica con schermo bloccato"</string>
+    <string name="how_it_works">Come funziona?</string>
+    <string name="information">Info</string>
+    <string name="install_now">Installa ora</string>
+    <string name="invalid_app_signature">"La firma dell'app non è valida.
+
+Disinstalla e utilizza il Play Store per installlare una versione valida dell'app…"</string>
+    <string name="last_plug_info_date_time">Cavo connesso il %1$s (%2$s)</string>
+    <string name="last_plug_info_time">Cavo connesso alle %1$s (%2$s)</string>
+    <string name="last_reboot_info__with_charge_percent">%1$s
+             quando la batteria era al %2$d%%</string>
+    <string name="last_reboot_info_date_time">Dispositivo avviato il %1$s (%2$s)</string>
+    <string name="last_reboot_info_time">Dispositivo avviato alle %1$s (%2$s)</string>
+    <string name="last_unplug_info_date_time">Cavo disconnesso il %1$s (%2$s)</string>
+    <string name="last_unplug_info_time">Cavo disconnesso alle %1$s (%2$s)</string>
+    <string name="later">Più tardi</string>
+    <string name="minutes">Minuti</string>
+    <string name="monitorization_is_disabled">Monitoraggio disattivo</string>
+    <string name="monitorization_is_enabled">Monitoraggio attivo</string>
+    <string name="monitorized_charger_ac">AC</string>
+    <string name="monitorized_charger_usb">Cavo USB</string>
+    <string name="monitorized_charger_usb_not_selected_but_ac_warning">"Non hai selezionato cavo USB
+             ma caricatore AC.
+
+Alcuni caricatori AC sono rilevati dal sistema come cavo USB per il voltaggio erogato…"</string>
+    <string name="monitorized_charger_values_separator">
+            </string>
+    <string name="monitorized_charger_wireless">Wireless</string>
+    <string name="monitorized_chargers">Caricatori monitorati</string>
+    <string name="more_by_ryo_software">Altre app di RYO Software</string>
+    <string name="more_than_one_minute_ago">%1$s fa</string>
+    <string name="needs_internet_access">Occorre una connessione internet</string>
+    <string name="no_delay">Nessun ritardo</string>
+    <string name="no_vibrate">Nessuna vibrazione</string>
+    <string name="not_all_required_permissions_has_been_granted">"Alcuni dei permessi negati sono obbligatori
+             quindi non è possibile continuare"</string>
+    <string name="notification_sound">Suono</string>
+    <string name="notification_volume">Volume</string>
+    <string name="notification_volume_summary_lollipop">%1$s (%2$s)</string>
+    <string name="notifications">Allarmi</string>
+    <string name="notifications_dismissed_until_cable_plugged">Nessun allarme fino alla connessione ad un caricatore</string>
+    <string name="notifications_dismissed_until_cable_unplugged">Nessun allarme fino alla disconnessione dal caricatore</string>
+    <string name="notifications_subsystem_access_needed_advertisement">"Per permettere notifiche sonore anche con il profilo \"nessuno\" attivo occorre autorizzare l'app all'accesso del subsistema delle notifiche."</string>
+    <string name="others">Altri</string>
+    <string name="percent_of_charge">Percentuale di carica</string>
+    <string name="percent_of_full_charge_value">Notifica quando il livello raggiunge il %1$d%%</string>
+    <string name="percent_of_full_discharge_value">Notifica quando il livello raggiunge il %1$d%%</string>
+    <string name="play_sound_even_if_silenced">Riproduci le notifiche anche in silenzioso</string>
+    <string name="play_sound_even_if_silenced_off">"Non riprodurre le notifiche con dispositivo silenzioso"</string>
+    <string name="play_sound_even_if_silenced_on">Riproduci le notifiche anche con dispositivo in silenzioso</string>
+    <string name="play_sounds_according_to_the_system_profile">Le notifiche sonore saranno riprodotte solo con i profili selezionati</string>
+    <string name="play_sounds_according_to_the_system_profile_off">riproduzione notifiche disattivata perché nessun profilo volume selezionato</string>
+    <string name="play_sounds_according_to_the_system_profile_on">riproduzione notifiche attivata se il profilo volume attivo è %1$s</string>
+    <string name="play_sounds_according_to_the_system_profile_on_all">notification sounds will be played regardless of active volume profile</string>
+    <string name="play_sounds_according_to_the_system_profile_on_all_with_warning">app will play notification sounds regardless of active volume profile
+             but some devices will not play sounds while not in normal profile</string>
+    <string name="play_sounds_according_to_the_system_profile_on_with_warning">app will play notification sounds if active volume profile is %1$s
+             but some devices will not play sounds while not in normal profile</string>
+    <string name="plugged_to">Connesso a</string>
+    <string name="pro">PRO</string>
+    <string name="registration">Registrazione</string>
+    <string name="registration_account">Account</string>
+    <string name="registration_info">Inserisci il codice di sblocco</string>
+    <string name="registration_key_is_valid">Codice di sblocco valido</string>
+    <string name="registration_key_isnt_valid">Codice di sblocco non valido</string>
+    <string name="registration_number">Codice di sblocco</string>
+    <string name="remaining_time_estimation">Stima tempo residuo</string>
+    <string name="repeat_interval">Intervallo ripetizione</string>
+    <string name="repeat_interval_description">Seleziona intervalli ripetizioni</string>
+    <string name="repeat_until_plugged">Notifica fino alla connessione</string>
+    <string name="repeat_until_unplugged">Notifica fino alla disconnessione</string>
+    <string name="repeats_count">Numero max ripetizioni</string>
+    <string name="repeats_until_max_number_of_repeats">Notifica max %1$d volte</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="selected_function_is_only_available_for_pro_users">"La funzione selezionata è disponibile solo per utenti PRO.
+
+Se acquisti la versione PRO elimini la pubblicità
+             sblocchi funzioni non disponibili nella versione free e supporti gli sviluppi futuri."</string>
+    <string name="settings">Impostazioni</string>
+    <string name="show_battery_remaining_time_estimation_at_notification">Visualizza tempo residuo</string>
+    <string name="show_battery_remaining_time_estimation_at_notification_off">"La notifica includerà la carica residua invece della stima del tempo residuo fino alla carica completa o la batteria è finita"</string>
+    <string name="show_battery_remaining_time_estimation_at_notification_on">Quando possibile la carica della batteria viene sostituita una stima del tempo residuo per completare la carica o alla scarica completa (nota che la stima dipende da molti fattori e potrebbe non essere accurata)</string>
+    <string name="show_battery_statistics_at_notification">"Visualizza statistiche d'uso"</string>
+    <string name="show_battery_statistics_at_notification_off">"La notifica non include le statistiche d'uso"</string>
+    <string name="show_battery_statistics_at_notification_on">"La notifica potrebbe includere le statistiche d'uso"</string>
+    <string name="show_device_boot_time">Visualizza data/ora di avvio del dispositivo</string>
+    <string name="show_device_boot_time_off">"Non visualizzare data/ora di avvio del dispositivo sulla barra di stato"</string>
+    <string name="show_device_boot_time_on">Visualizza data/ora di avvio del dispositivo nella barra di stato</string>
+    <string name="show_device_plug_unplug_time">Visualizza data/ora ultima connessione/disconnessione del dispositivo</string>
+    <string name="show_device_plug_unplug_time_off">"Non visualizzare data/ora ultima connessione/disconnessione del dispositivo"</string>
+    <string name="show_device_plug_unplug_time_on">Visualizza data/ora ultima connessione/disconnessione del dispositivo nella barra di stato</string>
+    <string name="show_icon_at_status_bar">Icona barra di stato</string>
+    <string name="show_icon_at_status_bar_always">"Visualizza un'icona nella barra di stato"</string>
+    <string name="show_icon_at_status_bar_never">"Non visualizzare un'icona nella barra di stato"</string>
+    <string name="show_icon_at_status_bar_only_if_charging">"Visualizza un'icona nella barra di stato solo se in carica"</string>
+    <string name="show_statusbar_notification">Visualizza notifica nella barra di stato</string>
+    <string name="show_statusbar_notification_off_advertisement_oreo">"A partire da Android Oreo
+             le app non possono mantenere il processo in esecuzione senza una notifica nella barra di stato.
+
+Quindi
+             l'app non è in grado di disattivare la notifica se gli eventi di batteria carica/scarica o cavo connesso/disconnesso sono attivi"</string>
+    <string name="show_statusbar_notification_off_advertisement_pre_oreo">"Se si rimuove la notifica
+             il sistema può disabilitare il servizio in background che monitora la batteria.
+
+Se succede
+             l'app non potrà notificare la batteria scarica o completamente carica…"</string>
+    <string name="show_statusbar_notification_off_oreo">Visualizza notifica solo se gli eventi di batteria carica/scarica o cavo connesso/disconnesso sono attivi</string>
+    <string name="show_statusbar_notification_off_pre_oreo">Non visualizzare notifica nella lista notifiche</string>
+    <string name="show_statusbar_notification_on">Visualizza notifica nella lista notifiche</string>
+    <string name="silence_alarms_settings">Avvisi silenziosi</string>
+    <string name="silence_sounds_if_screen_on">Con schermo acceso</string>
+    <string name="silence_sounds_if_screen_on_off">"Riproduci allarme anche con schermo acceso o se si accende durante la riproduzione dell'allarme"</string>
+    <string name="silence_sounds_if_screen_on_on">"Non riprodurre l'allarme con schermo acceso o se si accende durante"</string>
+    <string name="silence_sounds_if_wearable_connected">Con indossabile connesso</string>
+    <string name="silence_sounds_if_wearable_connected_off">Riproduci allarme anche con indossabile connesso</string>
+    <string name="silence_sounds_if_wearable_connected_on">"Non riprodurre l'allarme con indossabile connesso"</string>
+    <string name="silence_sounds_while_in_call">In chiamata</string>
+    <string name="silence_sounds_while_in_call_off">Riproduci allarme anche con chiamata in corso</string>
+    <string name="silence_sounds_while_in_call_on">"Non riprodurre l'allarme con chiamata in corso"</string>
+    <string name="silent_sound">Nessuno</string>
+    <string name="status">Stato</string>
+    <string name="stops_battery_charged_notifications_if_battery_percent_descends">Nessuna notifica quando il levello scende</string>
+    <string name="stops_battery_charged_notifications_if_battery_percent_descends_off">"Notifica batteria carica
+             anche se il livello scende
+             fino alla disconnessione o al raggiungimento del numero max di notifiche"</string>
+    <string name="stops_battery_charged_notifications_if_battery_percent_descends_on">Nessuna notifica di batteria carica se il livello scende
+             anche se connesso</string>
+    <string name="strings_and_separator"> e </string>
+    <string name="strings_middle_separator">
+             </string>
+    <string name="strings_or_separator"> o </string>
+    <string name="system_profile_none">nessuno</string>
+    <string name="system_profile_none_ucfirst">Nessuno</string>
+    <string name="system_profile_normal">normale</string>
+    <string name="system_profile_normal_ucfirst">Normale</string>
+    <string name="system_profile_prioritary">priorità</string>
+    <string name="system_profile_prioritary_ucfirst">Priorità</string>
+    <string name="system_profile_silent_all">silenzio totale</string>
+    <string name="system_profile_silent_all_except_alarms">solo allarmi</string>
+    <string name="system_profile_silent_all_except_alarms_ucfirst">Solo allarmi</string>
+    <string name="system_profile_silent_all_ucfirst">Silenzio totale</string>
+    <string name="technology">Tecnologia</string>
+    <string name="temperature">Temperatura</string>
+    <string name="temperature_celsius">%1$sº C</string>
+    <string name="temperature_fahrenheit">%1$sº F</string>
+    <string name="temperature_format">Unità temperatura</string>
+    <string name="temperature_format_celsius">Celsius</string>
+    <string name="temperature_format_fahrenheit">Fahrenheit</string>
+    <string name="temperature_format_kelvin">Kelvin</string>
+    <string name="temperature_kelvin">%1$s K</string>
+    <string name="temperature_with_decimals">%1$.01f</string>
+    <string name="temperature_without_decimals">%1$.0f</string>
+    <string name="try_button">Prova</string>
+    <string name="use_customized_volume_for_notifications">Volume impostato a %1$d (valore max %2$d)</string>
+    <string name="use_system_volume_for_notifications">Usa volume di sistema per le notifiche</string>
+    <string name="user_data_policy">Informativa sulla privacy</string>
+    <string name="vibrate_allways">Vibra sempre</string>
+    <string name="vibrate_depending_of_system_settings">Usa impostazioni di sistema</string>
+    <string name="vibration">Vibrazione</string>
+    <string name="vibration_pattern">Sequenza vibrazione</string>
+    <string name="vibration_pattern_description">"Imposta la sequenza vibrazione.
+
+Il primo valore indica i millisecondi con vibrazione attiva.
+
+I valori seguenti
+             se presenti
+             alternano la durata in millisecondi di vibrazione attiva o disattiva.
+
+Separare i valori con virgola."</string>
+    <string name="voltage">Voltaggio</string>
+    <string name="voltage_value">%1$s V</string>
+    <string name="voltage_with_decimals">%1$.02f</string>
+    <string name="voltage_without_decimals">%1$.0f</string>
+    <string name="warning">Attenzione</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@*android:color/background_dark</color>
+    <color name="icon_circle_0">#ff27303f</color>
+    <color name="icon_circle_1">#ff3c282e</color>
+    <color name="icon_circle_10">#ff3c3b2a</color>
+    <color name="icon_circle_11">#ffa23900</color>
+    <color name="icon_circle_12">#ff003a3d</color>
+    <color name="icon_circle_13">#ff6c0000</color>
+    <color name="icon_circle_14">#ff4c3c63</color>
+    <color name="icon_circle_15">#ff003a69</color>
+    <color name="icon_circle_2">#ff3c2f2a</color>
+    <color name="icon_circle_3">#ff273d35</color>
+    <color name="icon_circle_4">#ff3c3b2a</color>
+    <color name="icon_circle_5">#ff5c4b34</color>
+    <color name="icon_circle_6">#ff1c1b1b</color>
+    <color name="icon_circle_7">#ff232d36</color>
+    <color name="icon_circle_8">#ff1d2c36</color>
+    <color name="icon_circle_9">#ff3c283a</color>
+    <color name="icon_inside_0">#ff7eabf5</color>
+    <color name="icon_inside_1">#fff57e96</color>
+    <color name="icon_inside_10">#ffffc77d</color>
+    <color name="icon_inside_13">#ffe2463a</color>
+    <color name="icon_inside_14">#ffe48bf3</color>
+    <color name="icon_inside_15">#ff00acfc</color>
+    <color name="icon_inside_2">#fff5a77e</color>
+    <color name="icon_inside_3">#ff7ef5bd</color>
+    <color name="icon_inside_4">#fff5e87e</color>
+    <color name="icon_inside_5">#fff5c37e</color>
+    <color name="icon_inside_6">#fff2f2f2</color>
+    <color name="icon_inside_7">#ff3c5f7c</color>
+    <color name="icon_inside_8">#ff80c7f2</color>
+    <color name="icon_inside_9">#fff57ed7</color>
+    <color name="search_box_background">@*android:color/button_material_dark</color>
+    <color name="toolbar">#ff3c4043</color>
+    <color name="toolbar_overflow">@*android:color/white</color>
+</resources>

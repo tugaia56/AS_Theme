@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alert_dialog_title_text">@*android:color/white</color>
+    <color name="color_edge_effect">@*android:color/white</color>
+    <color name="settingslib_colorSurfaceHeader">@*android:color/background_dark</color>
+    <color name="settingslib_text_color_primary_device_default">@*android:color/accent_material_dark</color>
+    <color name="settingslib_surface_dark">@*android:color/holo_primary</color>
+</resources>

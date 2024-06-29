@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="banner_accent_attention_high">@*android:color/accent_material_dark</color>
+    <color name="banner_accent_attention_low">@*android:color/accent_material_dark</color>
+    <color name="banner_accent_attention_medium">#fffdd663</color>
+    <color name="banner_background_attention_high">#ff3b2d2c</color>
+    <color name="banner_background_attention_low">#ff2b3328</color>
+    <color name="banner_background_attention_medium">#ff333121</color>
+    <color name="samsung_one_ui_allow_all_background_on">#ff2d2d2d</color>
+    <color name="samsung_one_ui_divider">#ff3a3a3a</color>
+    <color name="samsung_one_ui_item_summary_text">#ff8c8c8c</color>
+    <color name="samsung_one_ui_item_text">#fffafafa</color>
+    <color name="samsung_one_ui_label_text">#ffcccccc</color>
+    <color name="samsung_one_ui_list_item_background">@*android:color/background_dark</color>
+    <color name="samsung_one_ui_summary_text">#ffe5e5e5</color>
+    <color name="samsung_one_ui_switch_thumb_off">#ff8f8f8f</color>
+    <color name="samsung_one_ui_switch_track_off">#ff666660</color>
+    <color name="samsung_one_ui_window_background">@*android:color/background_dark</color>
+</resources>

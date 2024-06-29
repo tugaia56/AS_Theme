@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18
+            23L5
+            23C3.895
+            23 3
+            22.105 3
+            21L3
+            4C3
+            2.895 3.895
+            2 5
+            2L14
+            2C14.858
+            1.922 15.694
+            2.302 16.2
+            3L18.6
+            5.3L18.787
+            5.486C19.508
+            6.001 19.954
+            6.816 20
+            7.7L20
+            14L18
+            14L18
+            9L15
+            9C13.895
+            9 13
+            8.105 13
+            7L13
+            4L5
+            4L5
+            21L18
+            21L18
+            19L20
+            19L20
+            21C20
+            22.105 19.105
+            23 18
+            23ZM15
+            4L15
+            7L18
+            7L15
+            4Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M10.411
+            16.411m-1.411
+            0a1.411
+            1.411 0
+            1 1
+            2.822 0a1.411
+            1.411 0
+            1 1
+            -2.822 0" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M14.645
+            16.411m-1.411
+            0a1.411
+            1.411 0
+            1 1
+            2.822 0a1.411
+            1.411 0
+            1 1
+            -2.822 0" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.879
+            16.411m-1.411
+            0a1.411
+            1.411 0
+            1 1
+            2.822 0a1.411
+            1.411 0
+            1 1
+            -2.822 0" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+</vector>

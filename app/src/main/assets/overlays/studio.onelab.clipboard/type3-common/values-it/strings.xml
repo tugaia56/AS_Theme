@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">Scegli un\'applicazione</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">cancella</string>
+    <string name="abc_menu_enter_shortcut_label">invio</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spazio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="about">Leggimi</string>
+    <string name="about_content">"Clipt crea un collegamento tra tutti i tuoi dispositivi per aumentare la produttività. Invia senza problemi ed in sicurezza testo
+             foto e dati sul cloud utilizzando gli appunti. È facile come copiare su un dispositivo e incollare su un altro
+             lavorando completamente in background.
+
+Smetti di dover inviare email a te stesso e aumenta la tua efficienza digitale su più dispositivi con Clipt."</string>
+    <string name="about_report">Segnala un bug</string>
+    <string name="about_version">Versione Numero: %s</string>
+    <string name="add_device">AGGIUNGI DISPOSITIVO</string>
+    <string name="add_device_android">Android</string>
+    <string name="add_device_chrome">Desktop - PC/Mac</string>
+    <string name="add_device_info">Fare clic sul pulsante per ricevere l\'e-mail con le istruzioni.</string>
+    <string name="add_device_title">Email di istruzioni</string>
+    <string name="add_device_updated_message">Vuoi tornare al menu?</string>
+    <string name="add_device_updated_title">Elenco dei dispositivi aggiornato</string>
+    <string name="app_name">Clipt</string>
+    <string name="ayp_custom_action_left">Azione personalizzata del player di YouTube a sinistra</string>
+    <string name="ayp_custom_action_right">Azione personalizzata del player di YouTube a destra</string>
+    <string name="ayp_full_screen_button">Pulsante schermo intero</string>
+    <string name="ayp_live">LIVE</string>
+    <string name="ayp_null_time">0:00</string>
+    <string name="ayp_open_video_in_youtube">Apri il video su YouTube</string>
+    <string name="ayp_play_button">Pulsante Play</string>
+    <string name="bottomsheet_action_expand_halfway">Espandere a metà</string>
+    <string name="cancel">Annulla</string>
+    <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite di caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="chip_text">Testo Chip</string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
+    <string name="click_to_resume">Clicca per riprendere</string>
+    <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> e inserisci il codice mostrato sopra.</string>
+    <string name="com_facebook_image_download_unknown_error">Errore imprevisto durante il download di un\'immagine.</string>
+    <string name="com_facebook_internet_permission_error_message">L\'accesso a WebView richiede l\'autorizzazione INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Errore AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">È piaciuto</string>
+    <string name="com_facebook_like_button_not_liked">Piace</string>
+    <string name="com_facebook_loading">Caricamento in corso…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancella</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continua con Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log con Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Collegato come: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Effettuato l\'accesso utilizzando Facebook</string>
+    <string name="com_facebook_send_button_text">Invia</string>
+    <string name="com_facebook_share_button_text">Condivisione</string>
+    <string name="com_facebook_smart_device_instructions">Per connettere il tuo account
+             apri l\'app Facebook sul tuo dispositivo mobile e controlla le notifiche.</string>
+    <string name="com_facebook_smart_device_instructions_or">- O -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Non sei tu?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continua come %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Conferma Login</string>
+    <string name="com_facebook_tooltip_default">"Hai il controllo: scegli le informazioni che desideri condividere con le app."</string>
+    <string name="common_google_play_services_enable_button">Abilita</string>
+    <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
+    <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string name="common_google_play_services_install_button">Installa</string>
+    <string name="common_google_play_services_install_text">"L\'app %1$s non funzionerà senza Google Play Services
+             non presente sul tuo dispositivo."</string>
+    <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilità di Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non funzionerà senza Google Play Services
+             non supportati dal tuo dispositivo.</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+    <string name="common_google_play_services_update_text">%1$s non funzionerà se non aggiorni Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s non funzionerà senza Google Play Services
+             attualmente in fase di aggiornamento.</string>
+    <string name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrà eseguito a breve."</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="connected_devices">DISPOSITIVI CONNESSI</string>
+    <string name="contact_us">Contattaci</string>
+    <string name="continue_">Continua</string>
+    <string name="copy">Copia</string>
+    <string name="copy_toast_msg">Link copiato negli appunti</string>
+    <string name="dashboard">Pannello di controllo</string>
+    <string name="delete_account">Elimina Account</string>
+    <string name="delete_account_message">Tutti i tuoi contenuti su Clipt verranno rimossi.</string>
+    <string name="delete_account_title">Vuoi eliminare il tuo account?</string>
+    <string name="delete_device">Elimina dispositivo</string>
+    <string name="delete_device_confirm_message">"Sei sicuro di voler eliminare '%s'?"</string>
+    <string name="device_name">Nome dispositivo</string>
+    <string name="error_icon_content_description">Errore</string>
+    <string name="expand_button_title">Avanzate</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
+    <string name="fab_error">Si prega di installare un File Manager.</string>
+    <string name="fallback_menu_item_copy_link">Copia link</string>
+    <string name="fallback_menu_item_open_in_browser">Apri nel browser</string>
+    <string name="fallback_menu_item_share_link">Condividi link</string>
+    <string name="fcm_fallback_notification_channel_label">Varie</string>
+    <string name="finish">Finito</string>
+    <string name="floating_button">Floating Button</string>
+    <string name="google_permission_error">Per utilizzare Clipt
+             devi accettare i permessi.</string>
+    <string name="history_clear_confirmation">Sei sicuro di voler cancellare tutta la tua cronologia? Gli elementi appuntati non verranno eliminati.</string>
+    <string name="history_command_clear">Cancella tutto</string>
+    <string name="history_item_send">Copia il contenuto più recente negli appunti su altri dispositivi.</string>
+    <string name="history_item_tutorial">Come inviare testo utilizzando Clipt.</string>
+    <string name="history_item_tutorial_copy0">"Copia il contenuto desiderato nel
+tuo telefono."</string>
+    <string name="history_item_tutorial_copy1">Controlla la barra delle notifiche per il pulsante Clipt. Tocca per inviare gli elementi copiati ad altri dispositivi.</string>
+    <string name="history_item_tutorial_copy2">Puoi anche inviare i tuoi contenuti direttamente dall\'app Clipt utilizzando il pulsante "INVIA" sulla tua home page.</string>
+    <string name="history_item_tutorial_send">Copia alcuni contenuti sul tuo telefono per iniziare.</string>
+    <string name="history_item_tutorial_send_ready">C\'è qualcosa nei tuoi appunti. Fare clic per inviare.</string>
+    <string name="how_to_android">Come inviare da Android a Mac/PC</string>
+    <string name="how_to_laptop">Come inviare da Mac/PC ad Android</string>
+    <string name="how_to_use">Come si usa</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="instruction_privacy_info_0">Clipt è collegato al tuo account Google Drive per trasferire testo
+             immagini o file utilizzando il cloud.</string>
+    <string name="instruction_privacy_info_1">Il dispositivo invia un File ID anonimo ai dispositivi collegati indicando loro quale testo o file scaricare dal cloud.</string>
+    <string name="instruction_privacy_info_2">Clipt non può leggere i tuoi contenuti. Clipt è un modo sicuro e protetto per trasferire testo
+             immagini o persino file tra dispositivi.</string>
+    <string name="instruction_privacy_title_0">Google Drive</string>
+    <string name="instruction_privacy_title_1">File ID</string>
+    <string name="instruction_privacy_title_2">Crittografato</string>
+    <string name="instruction_ready">Sono pronto per Clipt!</string>
+    <string name="internet_error">Nessuna connessione internet. Si prega di controllare Internet.</string>
+    <string name="item_tutorial_add_info">Clipt richiede l\'installazione su altri dispositivi per trasferire testo
+             immagini o file su di essi.</string>
+    <string name="item_tutorial_add_link"><u>Mostrami come</u></string>
+    <string name="item_tutorial_add_title">Azione richiesta</string>
+    <string name="item_tutorial_info">"Come inviare testo utilizzando Clipt?</string>
+    <string name="item_tutorial_info_link"><u>Impara</u></string>
+    <string name="item_tutorial_title">Istruzioni</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="link_error">Questo sito non può essere raggiunto</string>
+    <string name="loading">Caricamento…</string>
+    <string name="mail_us">Scrivici</string>
+    <string name="main_send_text">Clipt</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
+    <string name="material_hour_selection">Seleziona ora</string>
+    <string name="material_hour_suffix">"%1$s in punto"</string>
+    <string name="material_minute_selection">Seleziona minuti</string>
+    <string name="material_minute_suffix">%1$s minuti</string>
+    <string name="material_slider_range_end">Fine intervallo
+            </string>
+    <string name="material_slider_range_start">Inizio intervallo
+            </string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Passare alla modalità orologio per l\'inserimento dell\'ora.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minuti</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Seleziona ora</string>
+    <string name="material_timepicker_text_input_mode_description">Passa alla modalità di immissione del testo per l\'ora.</string>
+    <string name="messenger_send_button_text">Invia</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese prossimo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonna giorni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uso: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Passa all\'anno %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuori dal limite: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data inizio – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Seleziona Intervallo</string>
+    <string name="mtrl_picker_range_header_unselected">Data inizio: data fine</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fine data</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Inizio data</string>
+    <string name="mtrl_picker_text_input_day_abbr">G</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">A</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocca per passare alla selezione di un giorno</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di immissione del testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocca per passare alla selezione di un anno</string>
+    <string name="next">Prossimo</string>
+    <string name="no_content">Nessun contenuto</string>
+    <string name="node_empty_instruction">Clipt funziona trasferendo le informazioni tra i dispositivi. Connettiti con un altro dispositivo per farlo funzionare.</string>
+    <string name="not_set">Non impostato</string>
+    <string name="notification_download_complete">Download completato.</string>
+    <string name="notification_file_text">Fare clic per accedere all\'app.</string>
+    <string name="notification_file_title">File ricevuti.</string>
+    <string name="notification_image_text">Nuova foto ricevuta. Incolla dove vuoi o accedi dall\'app.</string>
+    <string name="notification_image_title">Foto ricevuta. Fare clic per accedere all\'app.</string>
+    <string name="notification_link_text">Nuovo collegamento ricevuto. Incolla dove vuoi o accedi dall\'estensione.</string>
+    <string name="notification_link_title">Fare clic per aprire</string>
+    <string name="notification_preference_title">Notifiche</string>
+    <string name="notification_received_check">Fare clic per controllare il file.</string>
+    <string name="notification_received_copied">Copiato negli appunti.</string>
+    <string name="notification_received_title">Nuovi contenuti ricevuti.</string>
+    <string name="notification_shortcut">Collegamento notifiche</string>
+    <string name="notification_text_text">Non è necessario fare clic
+             gli appunti vengono aggiornati automaticamente.</string>
+    <string name="notification_text_title">Basta incollare dove vuoi
+             direttamente da Clipt.</string>
+    <string name="notification_upload_complete">Caricamento completato.</string>
+    <string name="ok">OK</string>
+    <string name="on_boarding_agree">Concordo</string>
+    <string name="on_boarding_congrats_info">Sembra che tu ti sia già connesso a un altro dispositivo. Sei pronto per iniziare!!</string>
+    <string name="on_boarding_congrats_title">Congratulazioni!</string>
+    <string name="on_boarding_finish_info">Sembra che tu ti sia già connesso a un altro dispositivo. Sei pronto per iniziare!</string>
+    <string name="on_boarding_finish_title">Congratulazioni!</string>
+    <string name="on_boarding_install">Installa su altri dispositivi</string>
+    <string name="on_boarding_install_browser_account_hint">Ricordati di effettuare il login con:</string>
+    <string name="on_boarding_install_browser_hint">Una volta completata l\'installazione
+             questa pagina verrà ricaricata. Se non si ricarica
+             assicurati di aver effettuato l\'accesso allo stesso account Google su entrambi Clipt.</string>
+    <string name="on_boarding_install_browser_or">o</string>
+    <string name="on_boarding_install_browser_search">Cerca <b>Clipt</b> nell\'estensione Chrome WebStore sul tuo Mac o PC.</string>
+    <string name="on_boarding_install_browser_title">Digita questo nel browser del tuo computer ed installa l\'estensione</string>
+    <string name="on_boarding_install_chrome">Chrome</string>
+    <string name="on_boarding_install_chromium">Edge
+             Opera
+             Brave
+             Vivaldi
+             Chromium</string>
+    <string name="on_boarding_install_firefox">Firefox</string>
+    <string name="on_boarding_install_hint">Cliptfunziona collegando i dispositivi tra loro. Si prega di installare prima su altri dispositivi per vedere la magia.</string>
+    <string name="on_boarding_install_how_to">Come funziona Clipt?</string>
+    <string name="on_boarding_install_info">Clipt richiede l\'installazione su altri dispositivi per trasferire testo
+             immagini o file su di essi.</string>
+    <string name="on_boarding_install_mobile">Connetti un altro telefono o tablet</string>
+    <string name="on_boarding_install_mobile_android">Telefono o tablet Android</string>
+    <string name="on_boarding_install_mobile_hint">Solo 2 minuti per connettersi per una vita di miglioramenti della produttività!</string>
+    <string name="on_boarding_install_mobile_ios">iPhone o iPad</string>
+    <string name="on_boarding_install_mobile_qr_cant_scan">Non è possibile eseguire la scansione?</string>
+    <string name="on_boarding_install_mobile_qr_title">Scansiona il QR sul dispositivo che vuoi connettere ed installa l\'app</string>
+    <string name="on_boarding_install_mobile_search_title">Cerca Clipt sul tuo telefonino nell\'app o nel Play Store ed installa l\'app</string>
+    <string name="on_boarding_install_mobile_title">Quale dispositivo vuoi connettere?</string>
+    <string name="on_boarding_install_safari">Safari</string>
+    <string name="on_boarding_install_title">Quale browser usi?</string>
+    <string name="on_boarding_install_unsupported_info">Spiacenti
+             non siamo pronti per gli utenti di Safari e Firefox. Ci scusiamo e lavoreremo per includerli in futuro!</string>
+    <string name="on_boarding_installed">Ho installato</string>
+    <string name="on_boarding_instruction_info">Iniziamo con Clipt. Guarda il video qui sotto per vedere come funziona e collega i tuoi dispositivi installando Clipt su di essi per vedere la magia.</string>
+    <string name="on_boarding_instruction_info0">Sul tuo telefono copia qualsiasi testo che ti piace dall\'esterno di Clipt.</string>
+    <string name="on_boarding_instruction_info1">Scorri verso il basso per visualizzare il pulsante di invio Clipt nella barra delle notifiche. Premilo per inviare ciò che hai copiato ad altri dispositivi.</string>
+    <string name="on_boarding_instruction_info2">Oppure premi invia direttamente all\'interno dell\'app per condividere con gli altri dispositivi connessi.</string>
+    <string name="on_boarding_instruction_info3">Se desideri un\'altra opzione
+             vai alle impostazioni di Clipt per inserire l\'icona Clipt nel menu delle impostazioni rapide.</string>
+    <string name="on_boarding_instruction_title">Come funziona Clipt?</string>
+    <string name="on_boarding_instruction_title0">Copia contenuto</string>
+    <string name="on_boarding_instruction_title1">Invia nella Barra di Notifica</string>
+    <string name="on_boarding_instruction_title2">Oppure invia nell\'app Clipt</string>
+    <string name="on_boarding_instruction_title3">Configurazione nel menu delle impostazioni</string>
+    <string name="on_boarding_intro0">"&lt;big>&lt;big>&lt;font color='#000000'>Piattaforma multipla&lt;/font>&lt;/big>&lt;/big>&lt;br>Android
+             PC
+             Mac"</string>
+    <string name="on_boarding_intro0_n">"&lt;big>&lt;big>&lt;font color='#FFFFFF'>Piattaforma multipla&lt;/font>&lt;/big>&lt;/big>&lt;br>Android
+             PC
+             Mac"</string>
+    <string name="on_boarding_intro1">"&lt;big>&lt;big>&lt;font color='#000000'>Facile da usare&lt;/font>&lt;/big>&lt;/big>&lt;br>Molteplici modi per inviare."</string>
+    <string name="on_boarding_intro1_n">"&lt;big>&lt;big>&lt;font color='#FFFFFF'>Facile da usare&lt;/font>&lt;/big>&lt;/big>&lt;br>Molteplici modi per inviare."</string>
+    <string name="on_boarding_intro2">"&lt;big>&lt;big>&lt;font color='#000000'>Sicura&lt;/font>&lt;/big>&lt;/big>&lt;br>Non vediamo le informazioni che invii.&lt;br>&lt;br>&lt;u>Per saperne di più…&lt;/u>&lt;br>"</string>
+    <string name="on_boarding_intro2_n">"&lt;big>&lt;big>&lt;font color='#FFFFFF'>Sicura&lt;/font>&lt;/big>&lt;/big>&lt;br>Non vediamo le informazioni che invii.&lt;br>&lt;br>&lt;u>Per saperne di più…&lt;/u>&lt;br>"</string>
+    <string name="on_boarding_learn_how_to">Impara come usare</string>
+    <string name="on_boarding_learn_more">Per saperne di più…</string>
+    <string name="on_boarding_mail_info">Abbiamo inviato un\'e-mail all\'indirizzo sopra. Controlla la tua casella di posta per le istruzioni.</string>
+    <string name="on_boarding_mail_no_receive">Non l\'hai ricevuto?</string>
+    <string name="on_boarding_mail_title">Controlla la tua email</string>
+    <string name="on_boarding_no_receive_done">Installato con successo</string>
+    <string name="on_boarding_no_receive_title">Scrivilo sul tuo Chrome</string>
+    <string name="on_boarding_sign_in">Accedi con Google</string>
+    <string name="on_boarding_sign_in_info">Assicurati di utilizzare lo stesso account Google che utilizzi su Chrome.</string>
+    <string name="on_boarding_sign_in_successfully">Accesso avvenuto</string>
+    <string name="on_boarding_sign_in_title">Collegamento a Google Drive</string>
+    <string name="on_boarding_sub_title">The Seamless Clipboard</string>
+    <string name="on_boarding_tnc">Per iniziare
+             rivedi e accetta i <u><b>Termini &amp; Condizioni</b></u> facendo clic sul collegamento.</string>
+    <string name="password_toggle_content_description">Visualizza password</string>
+    <string name="pause_service_title">Disattiva Clipt</string>
+    <string name="permission_denied">L\'utente ha negato l\'autorizzazione all\'accesso al file.</string>
+    <string name="pins_clear_confirmation">Sei sicuro di voler cancellare i tuoi pin?</string>																																																																					   
+    <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preferences">Preferenze</string>
+    <string name="privacy">Privacy</string>
+    <string name="process_text_action">Clipt</string>
+    <string name="quick_setting_menu">Menu di impostazioni rapide</string>
+    <string name="quick_setting_menu_info">"Clipt e tutte le altre app non possono leggere gli appunti in background su Android. Pertanto è necessario premere un pulsante per caricare il testo su Clipt.
+
+Il pulsante nella barra delle notifiche ed il pulsante nella schermata iniziale dell\'app sono abilitati per impostazione predefinita. Se desideri utilizzare il pulsante nel menu delle impostazioni rapide
+             trovalo utilizzando il menu a discesa e trascinalo nella posizione desiderata."</string>
+    <string name="quick_setting_menu_shortcut">Pulsante Invia nel menu Impostazioni rapide</string>
+    <string name="rationale_ask">Questa app potrebbe non funzionare correttamente senza le autorizzazioni richieste.</string>
+    <string name="rationale_ask_again">Questa app potrebbe non funzionare correttamente senza le autorizzazioni richieste. Apri la schermata delle impostazioni dell\'app per modificare le autorizzazioni.</string>
+    <string name="reach_pinned_limitation">Hai già %d pin. Elimina gli elementi appuntati per continuare.</string>
+    <string name="rename_device">Rinomina</string>												
+    <string name="search_menu_title">Cerca</string>
+    <string name="send">Invia</string>
+    <string name="settings">Impostazioni</string>
+    <string name="shortcut">Aggiungi collegamento nella Home</string>
+    <string name="sign_in">Registrati</string>
+    <string name="sign_in_error_message">Accedi.</string>
+    <string name="sign_in_error_title">Errore di accesso</string>
+    <string name="sign_out">Disconnetti dal tuo Account</string>
+    <string name="skip"><u>Salta</u></string>
+    <string name="tagmanager_preview_dialog_button">Continua</string>
+    <string name="tagmanager_preview_dialog_message">Modalità anteprima aggiornata.</string>
+    <string name="tagmanager_preview_dialog_title">Anteprima</string>
+    <string name="terms_and_conditions">Termini &amp; Condizioni</string>
+    <string name="theme_settings_title">Stile</string>
+    <string name="timeout_error">Qualcosa è andato storto. Per favore riprova.</string>
+    <string name="title_settings_dialog">Autorizzazioni richieste</string>
+    <string name="toast_copied">Contenuto copiato negli appunti.</string>
+    <string name="toast_saved">File salvato nei Download.</string>
+    <string name="toast_sending">Invio a Clipt</string>
+    <string name="toast_sent">✔</string>
+    <string name="tutorial_install_info">Vai al webstore di Chrome per scaricare l\'estensione Chrome sul tuo PC o Mac. Oppure
+             vai al Play Store per aggiungere un altro dispositivo Android.</string>
+    <string name="tutorial_install_title">Installa su altri dispositivi</string>
+    <string name="tutorial_send_checkbox">Non mostrare più</string>
+    <string name="tutorial_send_dialog">Controlla le notifiche per questa barra: tocca per sincronizzare l\'elemento copiato qui.</string>
+    <string name="type_file">File</string>
+    <string name="type_image">Immagine</string>
+    <string name="type_link">Link</string>
+    <string name="type_text">Testo</string>
+    <string name="type_unknown">Sconosciuto</string>
+    <string name="untitled">Senza titolo</string>
+    <string name="upload_count_error">Massimo 10 file alla volta.</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+</resources>

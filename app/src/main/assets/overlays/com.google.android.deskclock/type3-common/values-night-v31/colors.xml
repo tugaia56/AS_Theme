@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aag_remoteviews_listColor">@*android:color/button_material_dark</color>
+    <color name="aag_remoteviews_windowColor">@*android:color/background_dark</color>
+    <color name="analog_appwidget_day_text_color">#ffffffff</color>
+    <color name="analog_appwidget_dial_number_color">@*android:color/accent_material_dark</color>
+    <color name="analog_appwidget_hour_hand_color">@*android:color/white</color>
+    <color name="analog_appwidget_minute_hand_color">@*android:color/white</color>
+    <color name="analog_appwidget_second_hand_color">@*android:color/white</color>
+    <color name="appwidget_background_color">@*android:color/background_dark</color>
+    <color name="appwidget_clock_hour_text_color">@*android:color/accent_material_dark</color>
+    <color name="appwidget_clock_text_color">@*android:color/accent_material_dark</color>
+    <color name="appwidget_label_color">#ffffffff</color>
+    <color name="cities_appwidget_tile_color_day">@*android:color/background_dark</color>
+    <color name="cities_appwidget_tile_color_night">@*android:color/background_dark</color>
+    <color name="stopwatch_widget_lap_count">#ffbdbdbd</color>
+	
+</resources>

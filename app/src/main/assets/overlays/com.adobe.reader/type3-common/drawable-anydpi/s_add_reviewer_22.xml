@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="22.0dip" android:width="22.0dip" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="243.0" android:translateY="-8702.0">
+        <group>
+            <clip-path android:pathData="M-243 8702h22v22h-22z" />
+            <group android:translateX="-243.0" android:translateY="8702.0">
+                <group android:translateX="-11.5" android:translateY="-3734.0">
+                    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M24.888 3744.488a9.139 9.139 0 0 0 -1.576 -0.563 0.461 0.461 0 0 1 -0.319 -0.3 3.579 3.579 0 0 1 -0.178 -1.294 0.478 0.478 0 0 1 0.155 -0.325 5.257 5.257 0 0 0 1.424 -3.666c0 -2.4 -1.634 -4.343 -3.65 -4.343 -2.016 0 -3.65 1.943 -3.65 4.343a5.236 5.236 0 0 0 1.424 3.666 0.478 0.478 0 0 1 0.155 0.325 3.234 3.234 0 0 1 -0.228 1.353 0.459 0.459 0 0 1 -0.3 0.247c-3.007 0.786 -5.146 2.885 -5.146 5.367v0.229a0.47 0.47 0 0 0 0.47 0.471h7.435a6.891 6.891 0 0 1 3.984 -5.51z" />
+                </group>
+                <group android:translateX="-11.5" android:translateY="-3734.0">
+                    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M27.75 3745.5a5.25 5.25 0 1 0 5.25 5.25 5.25 5.25 0 0 0 -5.25 -5.25zm2.75 6h-2v2A0.5 0.5 0 0 1 28 3754h-0.5a0.5 0.5 0 0 1 -0.5 -0.5v-2h-2a0.5 0.5 0 0 1 -0.5 -0.5v-0.5A0.5 0.5 0 0 1 25 3750h2v-2a0.5 0.5 0 0 1 0.5 -0.5H28a0.5 0.5 0 0 1 0.5 0.5v2h2a0.5 0.5 0 0 1 0.5 0.5v0.5a0.5 0.5 0 0 1 -0.5 0.5z" />
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="LButtonDisable">@*android:color/background_dark</color>
+    <color name="RButtonDisable">#ff343434</color>
+    <color name="author_tips">#ffacacac</color>
+    <color name="colorTrack">@*android:color/background_leanback_dark</color>
+    <color name="foreground">@*android:color/background_dark</color>
+    <color name="line">#ff2d2d2d</color>
+    <color name="menu">#ffffffff</color>
+    <color name="popup_background">#ff00ff</color>
+    <color name="popup_background_click">@*android:color/ripple_material_dark</color>
+    <color name="popup_select">#ff1f2f4c</color>
+    <color name="popup_select_click">@*android:color/ripple_material_dark</color>
+    <color name="rounded_pop">@*android:color/background_leanback_dark</color>
+    <color name="spinner">#ff666666</color>
+    <color name="whiteClick">@*android:color/ripple_material_dark</color>
+    <color name="whiteText">#ffffffff</color>
+</resources>

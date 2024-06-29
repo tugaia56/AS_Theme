@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_dark_grey">@*android:color/background_dark</color>
+    <color name="grey_020_dark_grey">@*android:color/background_dark</color>
+    <color name="grey_012_white_012">@*android:color/background_dark</color>
+    <color name="grey_012_transparent">@*android:color/transparent</color>
+    <color name="light_grey">#1fffffff</color>
+    <color name="new_multiselect_color">@*android:color/transparent</color>
+    <color name="grey_054_white_054">@*android:color/white</color>
+    <color name="white_transparent">@*android:color/transparent</color>
+</resources>

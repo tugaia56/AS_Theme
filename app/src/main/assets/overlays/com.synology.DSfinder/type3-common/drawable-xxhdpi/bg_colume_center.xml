@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- primo background sotto a tutto - bordo -->
+    <item>
+        <shape android:shape="rectangle">
+			<corners android:topLeftRadius="0.0dp" android:topRightRadius="0.0dp" android:bottomLeftRadius="0.0dp" android:bottomRightRadius="0.0dp" />
+            <gradient android:startColor="#00000000" android:endColor="#00000000" android:angle="45.0" />
+        </shape>
+    </item>
+<!-- secondo background visibile -->
+    <item android:left="2.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="2.0dip">
+        <shape android:shape="rectangle">
+			<corners android:topLeftRadius="0.0dp" android:topRightRadius="0.0dp" android:bottomLeftRadius="0.0dp" android:bottomRightRadius="0.0dp" />
+            <gradient android:startColor="@*android:color/holo_primary" android:endColor="@*android:color/holo_primary" android:angle="90.0" />
+            <stroke android:width="1.0dip" android:color="@*android:color/holo_primary"/>
+        </shape>
+    </item>
+</layer-list>

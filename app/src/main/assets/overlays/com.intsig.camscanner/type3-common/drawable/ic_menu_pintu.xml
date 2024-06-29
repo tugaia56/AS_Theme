@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="28.0" android:viewportHeight="28.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffd8d8d8" android:pathData="M1.1667
+            0L26.8333
+            0A1.1667
+            1.1667 0
+            0 1
+            28 1.1667L28
+            26.8333A1.1667
+            1.1667 0
+            0 1
+            26.8333 28L1.1667
+            28A1.1667
+            1.1667 0
+            0 1
+            0 26.8333L0
+            1.1667A1.1667
+            1.1667 0
+            0 1
+            1.1667 0z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:strokeAlpha="0.0" android:fillAlpha="0.0" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M13
+            5L13
+            3L5
+            3C4
+            3 3
+            3.9 3
+            5L3
+            13L5
+            13L5
+            5L13
+            5ZM15
+            3L15
+            5L23
+            5L23
+            13L25
+            13C25
+            13 25
+            11.3258 25
+            10C25
+            8.9924 25
+            5 25
+            5C25
+            3.9 24
+            3 23
+            3L15
+            3ZM15
+            23L15
+            25L23
+            25C24
+            25 25
+            24.1 25
+            23L25
+            15L23
+            15L23
+            23L15
+            23ZM3
+            15L3
+            23C3
+            24.1 4
+            25 5
+            25L13
+            25L13
+            23L5
+            23L5
+            15L3
+            15Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M5
+            21l18
+            0l0
+            -3l-5
+            -5l-3
+            3l-5
+            -6l-5
+            7z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.5
+            9.5m-2.5
+            0a2.5
+            2.5 0
+            1 1
+            5 0a2.5
+            2.5 0
+            1 1
+            -5 0" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

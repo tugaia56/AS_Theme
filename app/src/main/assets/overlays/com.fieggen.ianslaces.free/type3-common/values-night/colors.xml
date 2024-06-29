@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="banner_solid">@*android:color/background_floating_material_dark</color>
+    <color name="banner_stroke">@*android:color/accent_material_dark</color>
+    <color name="button_light_stroke">@*android:color/background_floating_material_dark</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorPrimary">@*android:color/background_dark</color>
+    <color name="colorPrimaryDark">@*android:color/background_dark</color>
+    <color name="grid_cell_background">@*android:color/background_floating_material_dark</color>
+    <color name="heading">@*android:color/accent_material_dark</color>
+    <color name="info_help_background">@*android:color/background_floating_material_dark</color>
+    <color name="infobox_solid">@*android:color/background_floating_material_dark</color>
+    <color name="main_background">@*android:color/background_floating_material_dark</color>
+    <color name="section_heading">@*android:color/white</color>
+    <color name="text">@*android:color/white</color>
+</resources>

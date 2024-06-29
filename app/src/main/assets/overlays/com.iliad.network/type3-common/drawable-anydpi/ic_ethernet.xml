@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="11.0dip" android:width="26.0dip" android:viewportWidth="26.0" android:viewportHeight="11.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M6.331
+            1.198a0.725
+            0.725 0
+            0 0
+            -0.995 0L1.207
+            5.14a0.649
+            0.649 0
+            0 0
+            0 0.95l4.129
+            3.943a0.713
+            0.713 0
+            0 0
+            0.499 0.198c0.178
+            0 0.36
+            -0.065 0.496
+            -0.198a0.649
+            0.649 0
+            0 0
+            0 -0.95L2.7
+            5.617l3.632
+            -3.469a0.649
+            0.649 0
+            0 0
+            0 -0.95zM20.664
+            1.198a0.725
+            0.725 0
+            0 0
+            -0.995 0
+            0.649 0.649
+            0 0
+            0 0
+            0.95L23.3
+            5.617l-3.632
+            3.466a0.649
+            0.649 0
+            0 0
+            0 0.95
+            0.713 0.713
+            0 0
+            0 0.498
+            0.198c0.18
+            0 0.36
+            -0.065 0.497
+            -0.198l4.129
+            -3.942a0.649
+            0.649 0
+            0 0
+            0 -0.95l-4.129
+            -3.943z" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="0.5" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M8.386
+            3.77c-1.019
+            0 -1.848
+            0.825 -1.848
+            1.845s0.83
+            1.847 1.848
+            1.847c1.02
+            0 1.845
+            -0.826 1.845
+            -1.847 0
+            -1.02 -0.825
+            -1.846 -1.845
+            -1.846zM12.998
+            3.77c-1.019
+            0 -1.844
+            0.825 -1.844
+            1.845s0.825
+            1.847 1.844
+            1.847a1.847
+            1.847 0
+            0 0
+            0 -3.692zM17.615
+            3.77a1.845
+            1.845 0
+            1 0
+            0 3.692
+            1.845 1.845
+            0 1
+            0 0
+            -3.693z" android:fillType="evenOdd" />
+</vector>

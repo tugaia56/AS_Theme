@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*android:color/accent_material_dark</color>
+    <color name="appwidget_favourite_background">#aa9a7517</color>
+    <color name="fab_background">@*android:color/button_material_dark</color>
+    <color name="fab_foreground">#ffffffff</color>
+    <color name="menu_background">@*android:color/background_dark</color>
+    <color name="path_3">#ff00ffff</color>
+    <color name="path_4">#ffffff00</color>
+    <color name="path_color">#ffffff00</color>
+    <color name="pb3_background_color">@*android:color/background_dark</color>
+    <color name="pb3_fuel_chooser_background">@*android:color/background_dark</color>
+    <color name="pb3_fuel_chooser_text">@*android:color/accent_material_dark</color>
+    <color name="primary">@*android:color/holo_red_light</color>
+    <color name="primary_dark">@*android:color/accent_material_dark</color>
+    <color name="section_header">@*android:color/button_material_dark</color>
+    <color name="splash_background">@*android:color/button_material_dark</color>
+    <color name="tutorial_background">@*android:color/background_dark</color>
+    <color name="tutorial_text">@*android:color/accent_material_dark</color>
+    <color name="update_text">@*android:color/accent_material_dark</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_settings_thumb_off_color">#ffffffff</color>
+    <color name="home_settings_track_off_color">@*android:color/background_holo_dark</color>
+    <color name="home_settings_track_on_color">@*android:color/background_holo_dark</color>
+    <color name="home_settings_header_accent">@*android:color/background_cache_hint_selector_material_light</color>
+    <color name="home_settings_header_collapsed">@*android:color/Red_700</color>
+    <color name="home_settings_header_expanded">@*android:color/background_dark</color>
+</resources>

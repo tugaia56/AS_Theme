@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_chart_bar_color">@*android:color/accent_material_dark</color>
+    <color name="comms_ic_voicemail_error_color_error">@*android:color/accent_material_dark</color>
+    <color name="comms_ic_voicemail_error_color_voicemail">@*android:color/accent_material_dark</color>
+    <color name="dialer_call_green">#ffffffff</color>													<!-- icona termina chiamata  -->
+    <color name="dialer_end_call_button_color">@*android:color/ripple_material_dark</color>				<!-- sfondo termina chiamata bubble -->
+    <color name="dialer_incall_white_color">@*android:color/white</color>
+    <color name="dialpad_icon_blue_disabled">#1fffffff</color>
+    <color name="dialpad_icon_green_background">@*android:color/accent_material_dark</color>
+    <color name="dialpad_icon_text_disabled">#61ffffff</color>
+    <color name="dialpad_icon_tint_disabled">#61ffffff</color>
+    <color name="dialpad_icon_tint_enabled">@*android:color/white</color>
+    <color name="google_white">@*android:color/white</color>
+    <color name="survey_disabled_state_color">#61ffffff</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+</resources>

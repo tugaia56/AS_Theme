@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="car_list_divider">#1fffffff</color>
+    <color name="car_list_divider_light">#0cffffff</color>
+    <color name="speed_bump_background">#ff4c4c4c</color>
+</resources>

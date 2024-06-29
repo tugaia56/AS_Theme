@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_clear_finished">Clear finished</string>
+    <string name="failed_apk_export">Failed to export APKs</string>
+    <string name="pref_updates_incompatible">Incompatible updates</string>
+    <string name="pref_updates_incompatible_desc">Show updates for incompatible or disabled apps that may fail to install</string>
+    <string name="ui_accent_1">Dark Shadow Accent</string>
+</resources>

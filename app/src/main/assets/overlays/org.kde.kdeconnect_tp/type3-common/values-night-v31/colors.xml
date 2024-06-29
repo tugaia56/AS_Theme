@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*android:color/accent_material_dark</color>
+    <color name="activity_background">@*android:color/background_dark</color>
+    <color name="card_stroke_color">@*android:color/accent_material_dark</color>
+    <color name="on_secondary">@*android:color/button_material_dark</color>
+    <color name="primary">@*android:color/accent_material_dark</color>
+    <color name="primaryDark">@*android:color/background_dark</color>
+    <color name="text_color_primary">@*android:color/white</color>
+    <color name="toolbar_color">@*android:color/background_dark</color>
+</resources>

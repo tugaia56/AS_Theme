@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MainSwitchText.Settingslib" parent="@*android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="*android:textSize">20.0sp</item>
+        <item name="*android:textColor">@*android:color/white</item>
+        <item name="*android:fontFamily">google_sans_text_medium</item>
+    </style>
+    <style name="LegalTextStyle">
+        <item name="*android:textSize">14.0sp</item>
+        <item name="*android:textColor">#ffffffff</item>
+        <item name="*android:lineSpacingMultiplier">1.4</item>
+        <item name="*android:layout_marginStart">24.0dip</item>
+        <item name="*android:layout_marginEnd">97.0dip</item>
+    </style>
+    <style name="StatementTitleStyle">
+        <item name="*android:textSize">16.0sp</item>
+        <item name="*android:textStyle">normal</item>
+        <item name="*android:textColor">@*android:color/accent_material_dark</item>
+        <item name="*android:gravity">center|top</item>
+        <item name="*android:layout_marginTop">18.0dip</item>
+        <item name="*android:layout_marginBottom">26.0dip</item>
+        <item name="*android:lineSpacingExtra">-2.0sp</item>
+        <item name="*android:lineSpacingMultiplier">1.4</item>
+        <item name="*android:fontFamily">sans-serif-medium</item>
+    </style>	
+</resources>

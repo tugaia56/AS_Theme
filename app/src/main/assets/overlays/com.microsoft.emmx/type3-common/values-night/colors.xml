@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="edge_surface_secondary">#00000000</color>
+    <color name="bookmark_save_disable_color">@*android:color/background_dark</color>
+    <color name="collections_add_rename_button_background_disabled">@*android:color/background_dark</color>
+    <color name="collections_drawer_gray_button_background">@*android:color/background_dark</color>
+    <color name="collections_drawer_item_image_background">@*android:color/background_dark</color>
+    <color name="collections_menu_dividing_line">@*android:color/background_dark</color>
+    <color name="edge_feedback_prompt_popup_back_color">@*android:color/background_dark</color>
+    <color name="edge_ntp_search_box_background">@*android:color/holo_primary</color>
+    <color name="edge_overflow_action_item_bg">@*android:color/background_dark</color>
+    <color name="edge_overflow_action_item_disable_icon">@*android:color/background_dark</color>
+    <color name="edge_overflow_action_item_disable_tv">@*android:color/background_dark</color>
+    <color name="edge_overflow_button">@*android:color/accent_material_dark</color>
+    <color name="edge_overflow_button_pressed">@*android:color/ripple_material_dark</color>
+    <color name="edge_recent_tab_separator_color">@*android:color/background_dark</color>
+    <color name="edge_top_sites_icon_outer_background">@*android:color/background_dark</color>
+    <color name="edge_zero_container_bg">@*android:color/background_dark</color>
+    <color name="fluentui_communication_blue">@*android:color/accent_material_dark</color>
+    <color name="fluentui_communication_shade_20">#ff004c87</color>
+    <color name="fluentui_communication_shade_30">#ff043862</color>
+    <color name="fluentui_communication_tint_20">#ff3aa0f3</color>
+    <color name="fre_edge_spliter_background">@*android:color/background_dark</color>
+    <color name="google_logo_tint">@*android:color/white</color>
+    <color name="hub_collection_placeholder_background">@*android:color/background_dark</color>
+    <color name="hub_collections_banner_background">@*android:color/background_dark</color>
+    <color name="hub_new_searchbox_background">@*android:color/background_dark</color>
+    <color name="hub_signin_prompt_icon_background">@*android:color/background_dark</color>
+    <color name="inapp_browser_dialog_bg">@*android:color/background_dark</color>
+    <color name="inapp_browser_dialog_text_color">#ffffffff</color>
+    <color name="inapp_dialog_option_item_title">#ffeaeaea</color>
+    <color name="navigation_bubble_arrow">@*android:color/white</color>
+</resources>

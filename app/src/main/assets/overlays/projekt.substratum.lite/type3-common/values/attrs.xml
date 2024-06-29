@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="state_dragged" format="boolean" />
+    <attr name="backgroundTint" format="color" />
+    <attr name="behavior_hideable" format="boolean" />
+    <attr name="behavior_peekHeight" format="dimension">
+        <enum name="auto" value="-1" />
+    </attr>
+    <attr name="behavior_skipCollapsed" format="boolean" />
+    <attr name="enforceMaterialTheme" format="boolean" />
+    <attr name="itemShapeAppearance" format="reference" />
+    <attr name="shapeAppearanceOverlay" format="reference" />
+    <attr name="shapeAppearance" format="reference" />
+    <attr name="fontFamily" format="string" />
+    <attr name="itemStrokeColor" format="color" />
+    <attr name="itemStrokeWidth" format="dimension" />
+    <attr name="cornerRadius" format="dimension" />
+	
+</resources>

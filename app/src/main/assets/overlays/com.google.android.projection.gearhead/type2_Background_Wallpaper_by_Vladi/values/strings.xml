@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_title_amp">Dashes</string>
+    <string name="wallpaper_title_black">Black</string>
+    <string name="wallpaper_title_cordoba">Matrix</string>
+    <string name="wallpaper_title_default">Mountains</string>
+    <string name="wallpaper_title_dusk">Sand</string>
+    <string name="wallpaper_title_ether">Exhaust</string>
+    <string name="wallpaper_title_fiber">Engine</string>
+    <string name="wallpaper_title_forest">Tarmac</string>
+    <string name="wallpaper_title_gray">Dark</string>
+    <string name="wallpaper_title_grille">Grille</string>
+    <string name="wallpaper_title_pleats">Pattern</string>
+    <string name="wallpaper_title_rotor">Rotor</string>
+    <string name="wallpaper_title_stitches">Ferrari</string>
+    <string name="wallpaper_title_trail">Moon</string>
+    <string name="wallpaper_title_waves">Scales</string>
+    <string name="wallpaper_title_wind">Fiber</string>
+</resources>

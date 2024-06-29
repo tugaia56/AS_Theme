@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="advanced_outline_color">#ffffffff</color>
+    <color name="contacts_default_avatar_bg_color">#ff585c66</color>
+    <color name="oneplus_accent_button_text_color">#d8000000</color>
+    <color name="oneplus_accent_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_add_contact_bg_color">#ff585c66</color>
+    <color name="oneplus_sub_accent_color">#00000000</color>
+    <color name="oneplus_tab_layout_stroke_color_default">#33ffffff</color>
+    <color name="op_control_icon_color_active_dark">#d8ffffff</color>
+    <color name="op_control_text_color_primary_dark">#d8ffffff</color>
+</resources>

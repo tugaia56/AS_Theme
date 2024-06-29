@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_author">by polychromaticfox</string>
+    <string name="about_donate">Donate</string>
+    <string name="about_donate_link">https://yasobe.ru/na/sai</string>
+    <string name="about_licenses">Licenses</string>
+    <string name="about_source">GitHub</string>
+    <string name="about_source_link">https://github.com/Aefyr/SAI</string>
+    <string name="app_name">SAI</string>
+    <string name="app_name_full">Split APKs Installer</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="backup_app_feature_install_date">Installed: %s</string>
+    <string name="backup_app_feature_split">Split APK</string>
+    <string name="backup_app_feature_system_app">System app</string>
+    <string name="backup_app_feature_update_date">Updated: %s</string>
+    <string name="backup_backup">Export</string>
+    <string name="backup_backup_export_in_progress">Export in progress</string>
+    <string name="backup_backup_failed">Failed to export %s</string>
+    <string name="backup_backup_in_progress">Exporting %s...</string>
+    <string name="backup_backup_prompt">Export %s?</string>
+    <string name="backup_backup_status">Exporting %d apps</string>
+    <string name="backup_backup_success">Successfully exported %s</string>
+    <string name="backup_dialog_title">Select split APK parts to export</string>
+    <string name="backup_enqueue">Enqueue</string>
+    <string name="backup_error_cant_mkdir">Unable to create a directory for exported apps</string>
+    <string name="backup_export_all_splits">Export all split APKs</string>
+    <string name="backup_export_all_splits_prompt">Do you want to export all split APKs?</string>
+    <string name="backup_filter">Filter</string>
+    <string name="backup_filter_common_option_doesnt_matter">"Doesn't matter"</string>
+    <string name="backup_filter_common_option_no">No</string>
+    <string name="backup_filter_common_option_yes">Yes</string>
+    <string name="backup_filter_sort">Sort</string>
+    <string name="backup_filter_sort_option_installed">Install date</string>
+    <string name="backup_filter_sort_option_name">Name</string>
+    <string name="backup_filter_sort_option_updated">Update date</string>
+    <string name="backup_filter_split_apk">Split APK</string>
+    <string name="backup_filter_system_app">System app</string>
+    <string name="backup_load_splits_error">Unable to get split APK parts</string>
+    <string name="backup_preparing">Preparing apps...</string>
+    <string name="backup_search_hint">Search apps</string>
+    <string name="backup_search_show_system_apps">Show system apps</string>
+    <string name="backup_search_splits_only">Split APKs only</string>
+    <string name="backup_splits_loading">Loading...</string>
+    <string name="backup_warning">"Please note
+             that export feature is still in beta. Here's some FAQ about it:
+
+1) Exported apps get saved to \"SAI\" folder in internal storage
+
+2) SAI only exports apps' APKs
+             their data isn't exported
+
+3) Apps are exported as a .apks file which is a renamed ZIP archive containing all the APKs"</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chip_text">Chip text</string>
+    <string name="choose_button_label">Select</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="com.crashlytics.android.build_id">7697438f-e9a3-4a32-8144-27318637f15a</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services
+             which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services
+             which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services
+             which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="copied">Copied</string>
+    <string name="copy">Copy</string>
+    <string name="copy2">Copy</string>
+    <string name="default_dir">/sdcard</string>
+    <string name="default_web_client_id">29668295084-efat6nc2032ivs90vfn2rtm7cvo1r9np.apps.googleusercontent.com</string>
+    <string name="dont_show_again">"Don't show again"</string>
+    <string name="error">Error</string>
+    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="firebase_database_url">https://justfcm-4dfd5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">29668295084</string>
+    <string name="google_api_key">AIzaSyD_57MaSePalK4rIzwRbhh72LgaLF5TXpM</string>
+    <string name="google_app_id">1:29668295084:android:8320ff2e3d10145a</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD_57MaSePalK4rIzwRbhh72LgaLF5TXpM</string>
+    <string name="google_storage_bucket">justfcm-4dfd5.appspot.com</string>
+    <string name="help">Help</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="installer_app_installed">App installed</string>
+    <string name="installer_app_installed_full">%s has been installed</string>
+    <string name="installer_device">Device</string>
+    <string name="installer_error_aborted">Installation was cancelled by user</string>
+    <string name="installer_error_bad_apks">Invalid APK files selected</string>
+    <string name="installer_error_blocked">Installation was blocked by %s</string>
+    <string name="installer_error_blocked_device">device</string>
+    <string name="installer_error_conflict">Unable to install the app because it conflicts with an already installed app with same package name</string>
+    <string name="installer_error_generic">Installation failed</string>
+    <string name="installer_error_incompatible">Application is incompatible with this device</string>
+    <string name="installer_error_installer2_mixed_extensions_internal">You have to select one or more .apk/.apks/.zip files
+             no mixed extensions allowed</string>
+    <string name="installer_error_installer2_mixed_extensions_saf">You have to select either a single .zip/.apks file or multiple .apk files</string>
+    <string name="installer_error_lidl_rom">Your ROM is incompatible with rootless installer. Try selecting another installer in SAI settings.</string>
+    <string name="installer_error_mixed_extensions">You must select either a single .zip/.apks file or multiple .apk files</string>
+    <string name="installer_error_root_no_root">Unable to acquire root access</string>
+    <string name="installer_error_rootless">"Rootless installer error:
+
+ %s"</string>
+    <string name="installer_error_shell">"%1$s installer error:
+
+ %2$s"</string>
+    <string name="installer_error_shizuku_unavailable">"Unable to access Shizuku Server
+             please make sure it's running and SAI is authorized to use it"</string>
+    <string name="installer_error_storage">Not enough storage space to install the app</string>
+    <string name="installer_error_unknown_apk_size">Unable to get APK size from the archive
+             please enable \"Extract APKs from archives\" setting and try again</string>
+    <string name="installer_error_while_extracting">Error while extracting APK files from ZIP: %s</string>
+    <string name="installer_error_zip_contains_no_apks">"ZIP doesn't contain any apk files"</string>
+    <string name="installer_help"><b>What is SAI?</b>"
+SAI (Split APKs Installer) is an app that lets you install multiple APKs as if it was a single package. This is useful for installing apps that are distributed as App Bundles since Android provides no built-in way to install them from sources other than Google Play.
+
+"<b>How to use SAI?</b>"
+Click \"Install APKs\" button and select base APK and additional configuration-specific APKs or a ZIP archive that contains all required APKs
+             then click \"Select\" button to start installation process.
+
+"<b>.apks</b>"
+You can rename a .zip archive that contains .apk files to .apks (e.g.: somesplitapp.zip -> somesplitapp.apks)
+             so it can be opened with SAI from other apps.
+
+"<b>Installing apps from external storage</b>"
+You can long click install button to select files via system file picker that supports external storage."</string>
+    <string name="installer_install_apks">Install APKs</string>
+    <string name="installer_installation_confirmation">Install \"%s\"?</string>
+    <string name="installer_installation_failed">App not installed</string>
+    <string name="installer_installation_in_progress">Installing…</string>
+    <string name="installer_miui_warning_message">Looks like your device is running MIUI. MIUI is known for breaking standard Android API features and some SAI users have reported SAI not working on MIUI. Usually it can be fixed by disabling MIUI optimizations in developer settings
+             which I suggest you should do.</string>
+    <string name="installer_miui_warning_oof">Unable to open development settings. Cool ROM</string>
+    <string name="installer_miui_warning_open_dev_settings">Open developer settings</string>
+    <string name="installer_miui_warning_title">MIUI detected</string>
+    <string name="installer_no_root">Unable to acquire root access
+             proceeding with rootless installer</string>
+    <string name="installer_open">Open</string>
+    <string name="installer_pick_apks">Select files to install</string>
+    <string name="installer_placeholder_text">No installer sessions</string>
+    <string name="installer_select_theme">Select theme</string>
+    <string name="installer_show_full_error">Show full error</string>
+    <string name="installer_state_created">Preparing</string>
+    <string name="installer_state_failed">Failed to install</string>
+    <string name="installer_state_installed">Installed</string>
+    <string name="installer_state_installing">Installing</string>
+    <string name="installer_state_queued">Queued</string>
+    <string name="installer_unable_to_launch_app">Unable to launch app</string>
+    <string name="installer_unknown_app">Unknown app</string>
+    <string name="label_parent_dir">...</string>
+    <string name="label_parent_directory">Parent Directory</string>
+    <string name="last_edit">Last edited: %s</string>
+    <string name="main_backup">Export</string>
+    <string name="main_installer">Installer</string>
+    <string name="main_navigation_disabled">Unable to perform open with during ongoing installation</string>
+    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_cancel">@*android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@*android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Select a Date</string>
+    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Invalid format.</string>
+    <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Select a Date Range</string>
+    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="name_format_builder_preview">Preview: %s</string>
+    <string name="name_format_builder_preview_empty">Please select at least one part</string>
+    <string name="name_format_builder_title">Select parts to include in exported app name</string>
+    <string name="no">No</string>
+    <string name="not_set">Not set</string>
+    <string name="ok">OK</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12
+            4.5C7
+            4.5 2.73
+            7.61 1
+            12c1.73
+            4.39 6
+            7.5 11
+            7.5s9.27
+            -3.11 11
+            -7.5c-1.73
+            -4.39 -6
+            -7.5 -11
+            -7.5zM12
+            17c-2.76
+            0 -5
+            -2.24 -5
+            -5s2.24
+            -5 5
+            -5 5
+            2.24 5
+            5 -2.24
+            5 -5
+            5zM12
+            9c-1.66
+            0 -3
+            1.34 -3
+            3s1.34
+            3 3
+            3 3
+            -1.34 3
+            -3 -1.34
+            -3 -3
+            -3z</string>
+    <string name="path_password_eye_mask_strike_through">M2
+            4.27 L19.73
+            22 L22.27
+            19.46 L4.54
+            1.73 L4.54
+            1 L23
+            1 L23
+            23 L1
+            23 L1
+            4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2
+            4.27 L2
+            4.27 L4.54
+            1.73 L4.54
+            1.73 L4.54
+            1 L23
+            1 L23
+            23 L1
+            23 L1
+            4.27 Z</string>
+    <string name="path_password_strike_through">M3.27
+            4.27 L19.74
+            20.74</string>
+    <string name="permissions_required_shizuku">SAI requires permission to use Shizuku Server</string>
+    <string name="permissions_required_storage">SAI requires permission to access storage</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="project_id">justfcm-4dfd5</string>
+    <string name="search_menu_title">Search</string>
+    <string name="settings_category_main_export">Export</string>
+    <string name="settings_category_main_installer">Installer</string>
+    <string name="settings_category_main_other">Other</string>
+    <string name="settings_category_main_ui">UI</string>
+    <string name="settings_main_about">About</string>
+    <string name="settings_main_backup_backup_dir">Exported apps directory</string>
+    <string name="settings_main_backup_backup_dir_dialog">Select directory with</string>
+    <string name="settings_main_backup_backup_dir_summary">"Directory where SAI will export apps.
+Currently: %s"</string>
+    <string name="settings_main_backup_file_name_format">Exported app name</string>
+    <string name="settings_main_backup_file_name_format_summary">"Exported .apks file name format.
+Currently: %s"</string>
+    <string name="settings_main_extract_archives">Extract APKs from archives</string>
+    <string name="settings_main_extract_archives_summary">Extract APK files from .zip/.apks archives into temporary files before installing them. If disabled
+             SAI will install APKs directly from archives without temp files. Not recommended to enable</string>
+    <string name="settings_main_file_picker_sort">Files sorting</string>
+    <string name="settings_main_file_picker_sort_summary">"When selecting APKs
+Currently: %s"</string>
+    <string name="settings_main_home_directory">Home directory</string>
+    <string name="settings_main_home_directory_summary">"Starting directory in APKs picker
+Currently: %s"</string>
+    <string name="settings_main_install_location">Install location</string>
+    <string name="settings_main_install_location_summary">"Where to install apps.
+Currently: %s"</string>
+    <string name="settings_main_installer">Installer</string>
+    <string name="settings_main_installer_error_no_shizuku">"You don't have Shizuku installed
+             please get it from Google Play and set it up"</string>
+    <string name="settings_main_installer_error_shizuku_pre_m">"SAI doesn't support Shizuku on Android versions lower than 6.0"</string>
+    <string name="settings_main_installer_show_dialogs">Show installer dialogs</string>
+    <string name="settings_main_installer_show_dialogs_summary">Show dialogs when installation fails or succeeds. You can always open those dialogs manually by tapping installation session entry. Only affects new installer</string>
+    <string name="settings_main_installer_summary">"Installer to use for APKs installation.
+Currently: %s"</string>
+    <string name="settings_main_pick_dir">Pick Directory</string>
+    <string name="settings_main_reset_one_time_warnings">Reset one-time warnings</string>
+    <string name="settings_main_sign_apks">Sign APKs</string>
+    <string name="settings_main_sign_apks_summary">Sign APKs before installing</string>
+    <string name="settings_main_ui_show_app_features">Show app features</string>
+    <string name="settings_main_ui_show_app_features_summary">Show contextual app feature badges on export screen</string>
+    <string name="settings_main_use_old_installer">Legacy installer</string>
+    <string name="settings_main_use_old_installer_summary">"Use legacy installer implementation. SAI will be restarted to apply this setting (Don't switch if there are ongoing installations or exports
+             they may be corrupted)"</string>
+    <string name="settings_main_use_root">Use root</string>
+    <string name="settings_main_use_root_error">Unable to acquire root access</string>
+    <string name="settings_main_use_root_summary">Try using rooted installer. If SAI is unable to acquire root access it will fallback to rootless installer</string>
+    <string name="settings_title">Settings</string>
+    <string name="sss">Super Secret Settings</string>
+    <string name="sss_custom_install_create_summary">"Custom install-create command that will be used to create pm session used in Rooted and Shizuku installers
+             the command must not contain any spaces except for the ones that separate arguments ('spaces in quotes' will be split into arguments as well). Enter \"null\" to disable"</string>
+    <string name="sss_custom_install_create_title">Custom install-create command</string>
+    <string name="sss_dont_replace_dots_summary">In exported app file name</string>
+    <string name="sss_dont_replace_dots_title">"Don't replace dots with commas"</string>
+    <string name="sss_use_installer_2_summary">Restart SAI to apply</string>
+    <string name="sss_use_installer_2_title">Use installer2</string>
+    <string name="sss_warning_summary"><b>"Don't touch anything here unless you know what you're doing. Some options here can break SAI or even damage your system"</b></string>
+    <string name="sss_warning_title"><b>WARNING</b></string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s
+             %2$s</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="yes">Yes</string>
+</resources>

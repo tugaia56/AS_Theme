@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="200.0dip" android:width="175.12436dip" android:viewportWidth="176.0" android:viewportHeight="201.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M43
+            133m-133
+            0a133
+            133 0
+            1 1
+            266 0a133
+            133 0
+            1 1
+            -266 0" />
+        <path android:fillColor="#00000000" android:pathData="M290.691
+            -136.271L56.605
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M276.261
+            -136.271L42.176
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M261.833
+            -136.271L27.747
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M247.403
+            -136.271L13.318
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M232.974
+            -136.271L-1.111
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M218.545
+            -136.271L-15.54
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M204.116
+            -136.271L-29.97
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M189.686
+            -136.271L-44.399
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M175.257
+            -136.271L-58.827
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M160.829
+            -136.271L-73.257
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M146.399
+            -136.271L-87.687
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M131.969
+            -136.271L-102.116
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M117.54
+            -136.271L-116.544
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M103.112
+            -136.271L-130.974
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M88.682
+            -136.271L-145.403
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M74.253
+            -136.271L-159.832
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M59.824
+            -136.271L-174.262
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M45.394
+            -136.271L-188.69
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M30.966
+            -136.271L-203.119
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+        <path android:fillColor="#00000000" android:pathData="M16.537
+            -136.271L-217.549
+            428.861" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.34" />
+    </group>
+</vector>

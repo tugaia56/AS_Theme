@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="applogColorAccent">@*android:color/accent_material_dark</color>
+    <color name="passcode_bg">@*android:color/button_material_dark</color>
+    <color name="passcode_circle_default">#1affffff</color>
+    <color name="passcode_circle_pressed">#ffffffff</color>
+    <color name="passcode_text">#ffffffff</color>
+    <color name="passcode_text_pressed">@*android:color/background_dark</color>
+</resources>

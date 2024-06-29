@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="70.0dip" android:width="70.0dip" android:autoMirrored="true" android:viewportWidth="70.0" android:viewportHeight="70.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M37.1681
+            56.4954C35.798
+            57.1682 34.202
+            57.1682 32.8319
+            56.4954L19.1966
+            49.7992C17.8265
+            49.1263 16.8314
+            47.8538 16.493
+            46.3419L13.1253
+            31.2958C12.7869
+            29.7839 13.1421
+            28.1971 14.0902
+            26.9847L23.5261
+            14.9186C24.4743
+            13.7062 25.9123
+            13 27.433
+            13L42.567
+            13C44.0877
+            13 45.5257
+            13.7062 46.4739
+            14.9186L55.9098
+            26.9847C56.8579
+            28.1971 57.2131
+            29.7839 56.8747
+            31.2958L53.507
+            46.3419C53.1686
+            47.8538 52.1735
+            49.1263 50.8034
+            49.7992L37.1681
+            56.4954Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M37.1681
+            56.4954C35.798
+            57.1682 34.202
+            57.1682 32.8319
+            56.4954L19.1966
+            49.7992C17.8265
+            49.1263 16.8314
+            47.8538 16.493
+            46.3419L13.1253
+            31.2958C12.7869
+            29.7839 13.1421
+            28.1971 14.0902
+            26.9847L23.5261
+            14.9186C24.4743
+            13.7062 25.9123
+            13 27.433
+            13L42.567
+            13C44.0877
+            13 45.5257
+            13.7062 46.4739
+            14.9186L55.9098
+            26.9847C56.8579
+            28.1971 57.2131
+            29.7839 56.8747
+            31.2958L53.507
+            46.3419C53.1686
+            47.8538 52.1735
+            49.1263 50.8034
+            49.7992L37.1681
+            56.4954Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

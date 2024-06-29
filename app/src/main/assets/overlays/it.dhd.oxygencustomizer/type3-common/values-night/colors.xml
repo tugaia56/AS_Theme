@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="changelog_bg">@*android:color/background_dark</color>
+    <color name="colorBackground">@*android:color/background_dark</color>
+    <color name="colorContainer">@*android:color/background_dark</color>
+    <color name="neumorph_outline_end">#ff0f0f0f</color>
+    <color name="neumorph_outline_start">#ff363636</color>
+    <color name="offStateColor">@*android:color/button_material_dark</color>
+    <color name="offStateColor2">#1affffff</color>
+    <color name="offStateColor4">#99000000</color>
+    <color name="rippleAccent">@*android:color/ripple_material_dark</color>
+    <color name="shadow">#40000000</color>
+    <color name="textColorPrimary">@*android:color/white</color>
+</resources>

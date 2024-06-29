@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="94.0dip" android:width="74.0dip" android:viewportWidth="74.0" android:viewportHeight="94.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff363636" android:pathData="M0
+            89.247a34.991
+            4.753 0
+            1 0
+            69.982 0a34.991
+            4.753 0
+            1 0
+            -69.982 0z" />
+    <path android:fillColor="#ff4b4b4b" android:pathData="M54.447
+            89.42H15.057C13.316
+            89.42 11.904
+            87.645 11.904
+            85.454V15.72C11.904
+            13.53 13.316
+            11.754 15.057
+            11.754H54.446C56.188
+            11.754 57.6
+            13.53 57.6
+            15.72V85.455C57.6
+            87.645 56.188
+            89.42 54.447
+            89.42Z" />
+    <path android:fillColor="#ff686868" android:pathData="M11.904
+            20.542h45.696v58.919h-45.696z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M58.078
+            14.938m-14.938
+            0a14.938
+            14.938 0
+            1 1
+            29.877 0a14.938
+            14.938 0
+            1 1
+            -29.877 0" />
+    <path android:fillColor="#00000000" android:pathData="M55.23
+            14.41V10.186C55.23
+            8.586 56.65
+            7.277 58.385
+            7.277V7.277C60.12
+            7.277 61.54
+            8.586 61.54
+            10.186V14.41H55.23Z" android:strokeColor="#ffffffff" android:strokeWidth="1.81935" android:strokeLineCap="round" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M64.284
+            13.342H52.761V20.619H64.284V13.342ZM57.7
+            18.251C57.7
+            18.704 58.07
+            19.074 58.522
+            19.074C58.975
+            19.074 59.346
+            18.704 59.346
+            18.251V16.605C59.346
+            16.152 58.975
+            15.782 58.522
+            15.782C58.07
+            15.782 57.7
+            16.152 57.7
+            16.605V18.251Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M52.761
+            20.619h11.523v1.819h-11.523z" android:strokeAlpha="0.5" android:fillAlpha="0.5" />
+</vector>

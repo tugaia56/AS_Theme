@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="permissionx_default_dialog_bg">@*android:color/background_dark</color>
+    <color name="permissionx_split_line">@*android:color/background_holo_dark</color>
+    <color name="permissionx_text_color">#ffffffff</color>
+    <color name="permissionx_tint_color">@*android:color/accent_material_dark</color>
+</resources>

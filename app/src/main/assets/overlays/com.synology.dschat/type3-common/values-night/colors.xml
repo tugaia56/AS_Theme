@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionSheetC1">#ffffffff</color>
+    <color name="actionSheetC3">#fff0f3f6</color>
+    <color name="actionSheetC4">#ff8c8e90</color>
+    <color name="actionSheetC6">#26ffffff</color>
+    <color name="actionSheetC9">@*android:color/button_material_dark</color>
+    <color name="applogColorAccent">@*android:color/accent_material_dark</color>
+    <color name="cc1_custom_grey_for_outline">@*android:color/white</color>
+    <color name="certificateDivider">#26ffffff</color>
+    <color name="certificateEmptyViewIconTint">#ffffffff</color>
+    <color name="certificateEmptyViewText">#d9828383</color>
+    <color name="certificateIconTint">#fff0f3f6</color>
+    <color name="certificateInfo">#ff8c8e90</color>
+    <color name="certificateTitle">#ffffffff</color>
+    <color name="certificateToolbarBackground">@*android:color/background_dark</color>
+    <color name="certificateToolbarTextPrimary">#ffffffff</color>
+    <color name="certificateToolbarTint">#fff0f3f6</color>
+    <color name="certificateWindowBackGround">@*android:color/background_dark</color>
+    <color name="passcode_circle_default">#1affffff</color>
+    <color name="passcode_circle_pressed">#ffffffff</color>
+    <color name="passcode_input_bg">@*android:color/button_material_dark</color>
+    <color name="passcode_pref_bg">@*android:color/background_dark</color>
+    <color name="passcode_text">#fff0f4f8</color>
+    <color name="passcode_text_pressed">@*android:color/background_dark</color>
+    <color name="passcode_toolbar_bg">@*android:color/background_dark</color>
+</resources>

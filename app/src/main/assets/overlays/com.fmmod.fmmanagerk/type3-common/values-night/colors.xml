@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider_gray">#268696a0</color>
+    <color name="list_item_sub_title">#ff8696a0</color>
+    <color name="list_item_title">#ffe9edef</color>
+    <color name="oneui_bkgray">@*android:color/background_dark</color>
+    <color name="primary_round">#ff222e36</color>
+    <color name="primary_statusbar">#ff0f1e25</color>
+    <color name="primary_text">#ffe9edef</color>
+</resources>

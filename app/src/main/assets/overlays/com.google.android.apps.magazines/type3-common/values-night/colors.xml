@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_ripple_color_darken">#10ffffff</color>
+    <color name="cluster_divider_bg">@*android:color/button_material_dark</color>
+    <color name="cluster_divider_border">@*android:color/button_material_dark</color>
+    <color name="content_edition_icon_background">#ff3f4042</color>
+    <color name="footer_background">@*android:color/holo_light_primary_dark</color>
+    <color name="footer_text_color">#ffe3e3e3</color>
+    <color name="functional_tab_background_color">@*android:color/background_dark</color>
+    <color name="garamond_panel_background">@*android:color/button_material_dark</color>
+    <color name="gm3_search_bar_color">@*android:color/button_material_dark</color>
+    <color name="navigation_pill_outline">#ff4c5e7e</color>
+    <color name="overflow_header_icon_bg_color">@*android:color/holo_light_primary_dark</color>
+    <color name="pager_shadow_end">#60ffffff</color>
+    <color name="region_chip_selected_background">@*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="snackbar_action_text_color">@*android:color/accent_material_dark</color>
+    <color name="subgroup_overlay_color">@*android:color/holo_primary</color>
+    <color name="weather_container_background_color">@*android:color/holo_light_primary_dark</color>
+    <color name="weather_container_border">@*android:color/holo_light_primary_dark</color>
+    <color name="wheel_loading">#10ffffff</color>
+</resources>

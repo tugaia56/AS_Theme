@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notifiche nuove</item>
+        <item quantity="one">%d notifica nuova</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Altre %s notifiche nel gruppo.</item>
+        <item quantity="one">%s altra notifica nel gruppo.</item>
+    </plurals>
+</resources>

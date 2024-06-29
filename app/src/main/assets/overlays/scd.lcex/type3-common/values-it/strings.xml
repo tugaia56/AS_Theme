@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">barra spaziatrice</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="action_about">Informazioni</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_clear">Pulisci</string>
+    <string name="action_delete">Cancella</string>
+    <string name="action_exit">Esci</string>
+    <string name="action_floating">Mobile</string>
+    <string name="action_new">Nuovo</string>
+    <string name="action_open">Apri</string>
+    <string name="action_playpause">Play/Pausa</string>
+    <string name="action_record">Registra</string>
+    <string name="action_save">Salva/Invia</string>
+    <string name="action_search">Ricerca</string>
+    <string name="action_send">Invia</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="action_share">C</string>
+    <string name="app_name">Logcat Extreme</string>
+    <string name="back">indietro</string>
+    <string name="bottomsheet_action_expand_halfway">Espandi a metà</string>
+    <string name="cancel">Cancella</string>
+    <string name="character_counter_content_description">Limite di caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="clearlist_message">"Cancella l\'elenco dei registri
+
+L\'elenco può essere ripristinato toccando due volte l\'icona Cancella"</string>
+    <string name="clearlist_title">Pulisci Log</string>
+    <string name="click_hidden">Tocca per ripristinare la finestra ridotta a icona</string>
+    <string name="click_persistent">Tocca per ridurre a icona la finestra</string>
+    <string name="confirm">Conferma</string>
+    <string name="copy">Copia</string>
+    <string name="dialog_cancel">Cancella</string>
+    <string name="dialog_conn_err">Impossibile connettersit</string>
+    <string name="dialog_conn_msg">Per favore controlla la tua connessione Internet</string>
+    <string name="dialog_del_msg">Vuoi veramente cancellare questo elemento?</string>
+    <string name="dialog_del_title">Cancellare oggetto</string>
+    <string name="dialog_limit_msg">Impossibile aggiungere nuovi elementi</string>
+    <string name="dialog_limit_title">Limite raggiunto!</string>
+    <string name="dialog_loading">Caricamento dati…</string>
+    <string name="dialog_new_title">Nuovo oggetto</string>
+    <string name="dialog_nodata_msg">Impossibile eseguire l\'azione richiesta</string>
+    <string name="dialog_nodata_title">Elenco vuoto</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dmesg_root_warning">A causa delle restrizioni di Android solo le app con permessi di root possono ricevere correttamente i messaggi del kernel</string>
+    <string name="dmesg_title">Messaggi Kernel</string>
+    <string name="dmesg_warning_title">Notare che</string>
+    <string name="edit">modifica</string>
+    <string name="error_icon_content_description">Errore</string>
+    <string name="error_noaccess">"Impossibile accedere alla scheda SD.
+
+Si è verificato un errore o l\'autorizzazione non è stata concessa."</string>
+    <string name="error_reading">Impossibile leggere il file!</string>
+    <string name="error_title">Errore</string>											
+    <string name="expand_button_title">Avanzate</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra menù a discesa</string>
+    <string name="fab_description">Descrizione del pulsante FAB</string>
+    <string name="floating_permission">"È necessaria un\'autorizzazione speciale per abilitare questa funzione.
+Seleziona \"Consenti sopra altre app \"o \"Appare sopra\" nelle Impostazioni del dispositivo."</string>
+    <string name="floating_takemethere">Portami la</string>
+    <string name="floating_title">Logcat Mobile</string>
+    <string name="floating_warning">Avviare una nuova sessione di Logcat Mobile
+             qualsiasi attività di registro corrente
+             inclusa la registrazione
+             verrà interrotta.</string>
+    <string name="gotit">Fatto</string>
+    <string name="info_about_title">INFORMAZIONI</string>
+    <string name="info_controls">"Scorri da sinistra a destra per aprire il menu di navigazione
+             da lì passa tra l'interfaccia utente principale di Logcat
+             Logcat Mobile
+             Messaggi Kernel e accedi ai file salvati.
+La cartella di output per i file registro è \"LogcatX\"
+             nella memoria interna o nella scheda SD
+             a seconda del dispositivo.
+
+Il registratore Logcat è in grado di funzionare in background
+             basta premere il pulsante di registrazione e chiudere l\'app
+             la registrazione continua fino a quando non la si interrompe."</string>
+    <string name="info_controls_title">CONTROLLI</string>
+    <string name="info_notes">"A causa delle restrizioni Android
+             solo le app con autorizzazione read_logs o l\'accesso root possono ottenere registri a livello di sistema.
+Per i dispositivi non root
+             concedere l'autorizzazione read_logs seguendo questi passaggi:
+1) installa ADB (Android Debug Bridge) sul tuo computer
+2) collega il tuo dispositivo Android al computer
+3) aprire shell (Linux
+             Mac) o prompt dei comandi (Windows) ed eseguire il comando seguente
+\"adb shell pm grant scd.lcex android.permission.READ_LOGS\"
+
+I livelli di priorità vanno da \"Verbose\" (priorità minima) a \"Fatal\" (priorità massima)
+             minore è il livello di priorità e maggiore è il numero di righe visualizzate.
+
+Il buffer Logcat e il livello di priorità sono correlati
+             se il buffer Logcat è impostato su \"eventi\"
+             il livello di priorità deve essere \"Info\" o inferiore
+             se impostato su \"Radio\"
+             il livello deve essere \"Debug\" o inferiore.
+
+Il \"Logcat Mobile\" viene eseguito separatamente e non condivide le impostazioni con l\'app principale."</string>
+    <string name="info_notes_title">NOTE</string>
+    <string name="info_overview">"Leggi log live
+             registra
+             metti in pausa e riprendi
+             invia via mail
+             filtra e configura
+             il tutto con facilità.
+Puoi persino leggere i messaggi del kernel (Messaggi Kernel).
+Un ottimo strumento per sapere cosa sta succedendo nel tuo dispositivo Android.
+
+Logcat Extreme è altamente configurabile
+             vai alla pagina delle impostazioni per configurare i filtri registro
+             il formato di output
+             il buffer di registro e molto altro.
+
+\"Logcat Mobile\" è una funzione utile fornita dalla libreria StandOut
+             che mantiene Logcat in alto
+             proprio mentre stai lavorando sul tuo dispositivo. Perfetto per i tuoi test! Logcat viene mostrato all\'interno di una finestra che puoi spostare
+             ridimensionare e persino minimizzare
+             proprio come una scrivania."</string>
+    <string name="info_overview_title">PANORAMICA</string>
+    <string name="info_title">Info</string>
+    <string name="join_the_discussion">"Partecipa alla discussione su
+xda-developers.com
+
+"</string>
+    <string name="lc_clear_list">Cancella elenco registri</string>
+    <string name="lc_clear_message">Cancella tutte le voci nell\'elenco registro</string>
+    <string name="lc_filter">Filtro log</string>
+    <string name="lc_level">Livello priorità</string>
+    <string name="lc_restore_list">Ripristina elenco registri</string>
+    <string name="lc_restore_message">Ripristina tutte le voci cancellate nell\'elenco registro</string>
+    <string name="lc_settings">Impostazioni</string>
+    <string name="lc_textsize">Dimensione testo</string>
+    <string name="lc_theme">Tema</string>
+    <string name="logcat_warning_message">"A causa delle restrizioni Android
+             solo le app con autorizzazione read_logs o l\'accesso root possono ottenere registri a livello di sistema.
+Per concedere l\'autorizzazione read_logs su dispositivi non rootati connettersi a un computer ed eseguire il comando ADB seguente:
+
+\"adb shell pm grant scd.lcex android.permission.READ_LOGS\"
+
+Per ulteriori informazioni
+             consultare la sezione \"Informazioni e guida\"."</string>
+    <string name="logcat_warning_title">Notare che</string>
+    <string name="maillog_attachment">allegati</string>
+    <string name="maillog_attachment_message">Elaborazione allegati...</string>
+    <string name="maillog_content">testo mail</string>
+    <string name="maillog_content_message">Elaborazione della richiesta...</string>
+    <string name="maillog_content_warning">"
+
+Avviso: Log troppo grande
+Invio delle ultime 1000 righe"</string>
+    <string name="maillog_entries_warning">non raccomandato per registri di grandi dimensioni</string>
+    <string name="maillog_title">Invia Log</string>
+    <string name="message_pro_feature">Logcat Extreme è gratuito e persino privo di pubblicità
+             ti preghiamo di considerare la versione Pro con funzionalità extra incluse
+             supporterai ulteriori sviluppi di questa app.</string>
+    <string name="message_pro_nofeat">Funzionalità disponibile in Logcat Extreme Pro.</string>
+    <string name="message_pro_nostore">"Attività non trovata.
+
+Sembra che il Play Store non sia installato sul tuo dispositivo."</string>
+    <string name="message_pro_title">Solo Pro</string>
+    <string name="minimized">Ridotti al minimo</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimozione %1$s</string>
+    <string name="navigation_drawer_close">Chiudi drawer navigazione</string>
+    <string name="navigation_drawer_open">Apri drawer navigazione</string>
+    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="perapp_title">Logcat per App</string>
+    <string name="preferences_category_filter">Filtro</string>
+    <string name="preferences_category_logcat">Logcat</string>
+    <string name="preferences_category_miscellaneous">Miscellanea</string>
+    <string name="preferences_filter_by_tag">Filtra per tag</string>
+    <string name="preferences_filter_by_tag_sum">TAG deve corrispondere al target (ad es. Nome del servizio). Per un filtro più flessibile utilizzare invece la casella di ricerca</string>
+    <string name="preferences_logcat_buffer">Logcat buffer</string>
+    <string name="preferences_logcat_buffer_sum">Cambia sorgente registro. Logcat verrà riavviato</string>
+    <string name="preferences_logcat_format">Formato Registri</string>
+    <string name="preferences_logcat_format_sum">Cambia formato registro. Logcat verrà riavviato</string>
+    <string name="preferences_occurrence_time">Tempo che serve</string>
+    <string name="preferences_occurrence_time_sum">Mostra cancella i dati del registro. Logcat verrà riavviato</string>
+    <string name="preferences_priority_level">Livello Priorità</string>
+    <string name="preferences_priority_level_sum">Modifica il livello di priorità del registro. Logcat verrà riavviato</string>
+    <string name="preferences_scrolling">Scorrimento</string>
+    <string name="preferences_scrolling_sum">Cambia la modalità di scorrimento nell\'elenco dei registri</string>
+    <string name="preferences_search_box">Casella di ricerca</string>
+    <string name="preferences_search_box_sum">Opzioni casella di ricerca
+             maiuscole/minuscole vs ignora maiuscole/minuscole. Disponibile solo nella versione Pro</string>
+    <string name="preferences_split_output">Uscita divisa</string>
+    <string name="preferences_split_output_sum">Dividi l\'output in file con un numero fisso di righe
+             utile per registrare/salvare grandi log. Disponibile solo nella versione Pro</string>
+    <string name="preferences_text_size">Dimensione testo</string>
+    <string name="preferences_text_size_sum">Modifica la dimensione del testo nell\'elenco dei registri</string>
+    <string name="preferences_title">Impostazioni</string>
+    <string name="preferences_ui_category_mode">Disposizione pulsanti</string>
+    <string name="preferences_ui_category_theme">Selezione tema</string>
+    <string name="preferences_ui_mode_bar">Barra inferiore</string>
+    <string name="preferences_ui_mode_flt">Pulsante Mobile (FAB)</string>
+    <string name="preferences_ui_theme_dark">Dark Shadow Theme</string>
+    <string name="preferences_ui_theme_light">Tema Chiaro</string>
+    <string name="preferences_ui_title">Interfaccia utente</string>
+    <string name="preferences_wakelock">Wakelock</string>
+    <string name="preferences_wakelock_sum">Applica/Rimuovi wakelock</string>
+    <string name="remindlater">Ricorda più tardi</string>
+    <string name="saved_hint">Tocca per aprire. Premere a lungo per gestire</string>
+    <string name="saved_manage">Gestisci Log</string>
+    <string name="saved_notfound">Nessun Log trovato</string>
+    <string name="saved_title">Registri Salvati</string>
+    <string name="savelog_done">è stato salvato con successo</string>
+    <string name="savelog_error">il file non è stato salvato!</string>
+    <string name="savelog_message">salvataggio su file...</string>
+    <string name="savelog_title">Salva/Invia Log</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="searchbox_hint">ricerca</string>
+    <string name="settings_buffer_events_warning">richiede informazioni come livello di priorità</string>
+    <string name="settings_buffer_radio_warning">richiede il debug come livello di priorità</string>
+    <string name="settings_recwarning">Nota: modificando questa impostazione ora Logcat verrà riavviato e la registrazione corrente verrà interrotta.</string>
+    <string name="settings_warning">Nota: modificando questa impostazione Logcat verrà riavviato.</string>																						  
+    <string name="theme_title">Selezione Tema</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+</resources>

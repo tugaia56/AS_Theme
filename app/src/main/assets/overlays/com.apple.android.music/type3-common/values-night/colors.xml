@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">@*android:color/background_dark</color>
+    <color name="background_color_layer1">#ff1c1c1e</color>
+    <color name="color_primary_disabled">@*android:color/accent_material_dark</color>
+    <color name="color_primary_pressed">#ffff4661</color>
+    <color name="color_primary_rollover">#ffff5f7a</color>
+    <color name="key_color">@*android:color/accent_material_dark</color>
+    <color name="label_color">@*android:color/white</color>
+    <color name="quaternary_fill_color">#2e767680</color>
+    <color name="quaternary_label_color">#29ebebf5</color>
+    <color name="rounded_image_stroke_color">#1affffff</color>
+    <color name="secondary_background_color">#ff1c1c1e</color>
+    <color name="secondary_fill_color">#52787880</color>
+    <color name="secondary_label_color">#99ebebf5</color>
+    <color name="separator_color">#ff38383a</color>
+    <color name="snack_bar_color">@*android:color/background_dark</color>
+    <color name="system_gray_2">#ff636366</color>
+    <color name="system_light_gray">#ff2c2c2e</color>
+    <color name="tertiary_background_color">#ff2c2c2e</color>
+    <color name="tertiary_fill_color">#3d767680</color>
+    <color name="tertiary_label_color">#4debebf5</color>
+    <color name="tint_disabled_player_action_button">#29ebebf5</color>
+    <color name="translucent_separator_color">#a6545458</color>
+</resources>

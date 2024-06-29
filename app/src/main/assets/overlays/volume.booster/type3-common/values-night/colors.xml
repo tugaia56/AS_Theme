@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="promotion_bottom_exit_dialog_bg_color">@*android:color/holo_primary</color>
+    <color name="promotion_bottom_exit_dialog_content_bg">#ff414141</color>
+    <color name="promotion_bottom_exit_dialog_line_color">#ffffffff</color>
+    <color name="promotion_bottom_rate_dialog_bg_rate_btn">#ff414141</color>
+    <color name="promotion_exit_dialog_background_color">@*android:color/holo_primary</color>
+    <color name="promotion_exit_dialog_btn_bg_disable">#8001875f</color>
+    <color name="promotion_exit_dialog_btn_text_color_disable">#80ffffff</color>
+    <color name="promotion_exit_dialog_gift_bg_color">#ff414141</color>
+    <color name="promotion_exit_dialog_gift_bg_pressed_color">#ff515151</color>
+    <color name="promotion_exit_dialog_text_color_primary">#ffffffff</color>
+    <color name="promotion_exit_dialog_text_color_secondary">#ffffffff</color>
+    <color name="promotion_exit_rate_btn_bg_color">#ff414141</color>
+    <color name="promotion_exit_rate_btn_bg_pressed_color">#ff515151</color>
+    <color name="promotion_exit_rate_window_background_color">@*android:color/background_dark</color>
+</resources>

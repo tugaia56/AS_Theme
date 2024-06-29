@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_device_no_longer_belongs_to_id_and_disabled">"Dispositivo non più collegato a questo ID. L'ID sarà disabilitato su questo dispositivo e spostato nel cestino. Ripristinarlo per usarlo di nuovo"</string>
+    <string name="_device_no_longer_belongs_to_id_title">Dispositivo non più collegato a questo ID</string>
+    <string name="_is_available_">" è disponibile"</string>
+    <string name="_this_id_is_no_longer_available_and_has_been_disabled">"
+L'ID non è più disponibile ed è stato disabilitato"</string>
+    <string name="a_secsignid_with_the_user_short_name_already_exists_">Un SecSign ID con questo nome utente già esiste</string>
+    <string name="a_secsignid_with_the_user_short_name_doesn_t_exist_on_the_server_">"SecSign ID con questo nome utente non esiste sul server"</string>
+    <string name="about_secsign_textview">SecSign</string>
+    <string name="about_version_textview">Versione</string>
+    <string name="access_denied">Accesso negato</string>
+    <string name="access_pass_bottom_info_text" />
+    <string name="access_to_1_s_at_2_s_denied_3_d_attempts_remaining_">"Accesso a '%1$s' alle %2$s negato. %3$d tentativi rimasti"</string>
+    <string name="account_has_now_been_unlocked_re_type_your_user_short_name_on_the_website_and_proceed_as_usual">Account sbloccato. Ridigita il tuo utente sul sito web e procedi come al solito</string>
+    <string name="allow_button">Autorizza</string>
+    <string name="allow_sign_in">Autorizza accesso</string>
+    <string name="an_error_occurred">Si è verificato un errore</string>
+    <string name="an_internal_error_occurred_on_the_secsignid_server_">Si è verificato un errore sul server SecSign ID</string>
+    <string name="app_name">SecSign ID</string>
+    <string name="authentication_time_out">Timeout autenticazione</string>
+    <string name="back">Indietro</string>
+    <string name="backgroundimage_content_description">Backgroundimage</string>
+    <string name="bug_report_crashed">SecSign ID si è arrestato in modo anomalo. Invia segnalazione per email</string>
+    <string name="button_abort">Interrompi</string>
+    <string name="button_contact_us">Contattaci</string>
+    <string name="button_delete">Elimina</string>
+    <string name="button_moreinfos">Più info</string>
+    <string name="button_notnow">Non ora</string>
+    <string name="button_ok">OK</string>
+    <string name="button_restore_id">Ripristina SecSign ID</string>
+    <string name="button_show">Mostra</string>
+    <string name="button_text_about">Info app SecSign</string>
+    <string name="button_text_contactus">Contattaci</string>
+    <string name="button_text_disabled_ids">Cestino</string>
+    <string name="button_text_disabled_ids_delete">Elimina</string>
+    <string name="button_text_disabled_ids_restore">Ripristina</string>
+    <string name="button_text_help">Aiuto</string>
+    <string name="button_text_history">Storico</string>
+    <string name="button_text_introductionmovie">Video: SecSign ID in azione</string>
+    <string name="button_text_newidentity">Nuova identità su server esterno</string>
+    <string name="button_text_privacy">Informativa sulla privacy</string>
+    <string name="button_text_rate_app">Valuta questa app</string>
+    <string name="button_text_remote">Disconnessione remota</string>
+    <string name="button_text_restoreidentity">Ripristina identità</string>
+    <string name="button_text_restoreidentityonotherserver">Ripristina identità da server esterno</string>
+    <string name="button_text_sendfeedback">Invia feedback</string>
+    <string name="button_text_tellafriend">Dillo a un amico</string>
+    <string name="button_text_terms">Termini e condizioni</string>
+    <string name="can_t_find_your_access_pass">"Non trovi il pass d'accesso?"</string>
+    <string name="cant_connect_to_server">Impossibile connettersi al server</string>
+    <string name="cant_restore_because_id_exists_title">Questo SecSign ID già esiste</string>
+    <string name="cant_restore_because_id_is_disabled">This username is already on this device. It was disabled and moved to trash. Do you want to delete the disabled ID and continue?</string>
+    <string name="cant_restore_because_id_is_disabled_title">Questo SecSign ID è disabilitato</string>
+    <string name="cant_restore_because_id_is_enabled">"Questo utente è già sul dispositivo. Vuoi eliminare l'ID esistente per continuare?"</string>
+    <string name="common_open_on_phone">Apri dal telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="continue_button">Continua</string>
+    <string name="could_not_connect_to_">Impossibile connettersi a %s</string>
+    <string name="could_not_connect_to_server_because_there_is_no_network_connection_available_">Impossibile connettersi al server
+             connessione di rete non disponibile</string>
+    <string name="could_not_create_secsign_id">Impossibile generare SecSign ID</string>
+    <string name="create_new_secsignid_content_description">Genera nuovo SecSign ID</string>
+    <string name="create_wizard_account_description">Il mio ID online sicuro</string>
+    <string name="create_wizard_error_creating_account_failed">Generazione account non riuscita</string>
+    <string name="create_wizard_error_ldap_password_wrong">Username/password errati</string>
+    <string name="create_wizard_error_ldap_password_wrong_msg">Username o password errati</string>
+    <string name="create_wizard_error_too_many_ids">Fantastico
+             hai tre SecSign ID. Per altri ID necessiti un account premium</string>
+    <string name="create_wizard_error_too_many_ids_hint">Per fare spazio a nuovi SecSign ID
+             puoi eliminare i SecSign ID disabilitati</string>
+    <string name="create_wizard_error_too_many_ids_subject">ho bisogno di altri ID</string>
+    <string name="create_wizard_error_too_many_ids_text">"Ciao %1$s
+            
+invia questa mail per ottenere più ID.
+Grazie per aver usato SecSign ID.
+
+I miei ID: %2$s"</string>
+    <string name="create_wizard_error_too_many_ids_title">Non sono più disponibili SecSign ID</string>
+    <string name="create_wizard_header_generate">Generazione SecSign ID</string>
+    <string name="create_wizard_header_name">Scegli nome utente</string>
+    <string name="create_wizard_header_passcode">Scegli un codice di accesso</string>
+    <string name="create_wizard_header_password">Scegli una password</string>
+    <string name="create_wizard_header_text">Genera SecSign ID</string>
+    <string name="create_wizard_header_text_new_design">Genera un nuovo SecSign ID</string>
+    <string name="create_wizard_header_text_step_x_of_x">Passo %1$d di %2$d</string>
+    <string name="create_wizard_invalid_server_address">Indirizzo server non valido…</string>
+    <string name="create_wizard_invalid_server_msg">"L'indirizzo %1$s non è un indirizzo server valido"</string>
+    <string name="create_wizard_ldappassword_edittext_hint">Password</string>
+    <string name="create_wizard_name_help">Questo è il nome che inserirai più avanti sul sito web</string>
+    <string name="create_wizard_not_equal_code">"Il primo codice di accesso non corrisponde al secondo codice di accesso"</string>
+    <string name="create_wizard_not_equal_word">"La prima password non corrisponde alla seconda password"</string>
+    <string name="create_wizard_otherserver_edittext_hint">"Indirizzo server"</string>
+    <string name="create_wizard_otherserver_textview">Altro SecSign ID server</string>
+    <string name="create_wizard_password_edittext_hint1_code">Inserire codice di accesso (min. %d cifre)</string>
+    <string name="create_wizard_password_edittext_hint1_word">Inserire password (min. %d caratteri)</string>
+    <string name="create_wizard_password_edittext_hint2_code">Reinserire codice di accesso</string>
+    <string name="create_wizard_password_edittext_hint2_word">Reinserire password</string>
+    <string name="create_wizard_password_help">"Il SecSign ID è protetto da un codice di accesso. Il codice di accesso viene utilizzato solo per la crittografia della chiave privata. Non verrà mai trasmesso o memorizzato. 
+ 
+ Potrai scegliere una password più complessa dalla modalità modifica"</string>
+    <string name="create_wizard_password_switch">Codice numerico</string>
+    <string name="create_wizard_password_switch_description">Utilizzare il tastierino numerico per digitare più rapidamente</string>
+    <string name="create_wizard_password_textview_code">Codice di accesso</string>
+    <string name="create_wizard_password_textview_word">Password</string>
+    <string name="create_wizard_register_step1">Creo coppia di chiavi…</string>
+    <string name="create_wizard_register_step2">Registro SecSign ID…</string>
+    <string name="create_wizard_register_step3">Salvo SecSign ID…</string>
+    <string name="create_wizard_server_description">"Inserisci l'indirizzo del server del SecSign ID"</string>
+    <string name="create_wizard_server_result">Ricerca server…</string>
+    <string name="create_wizard_subsubheader1">Scegli nome utente</string>
+    <string name="create_wizard_subsubheader2">Scegli codice di accesso</string>
+    <string name="create_wizard_too_short_code">Il codice di accesso deve essere composto da almeno %d cifre</string>
+    <string name="create_wizard_too_short_or_too_long_code">Il codice di accesso deve essere composto da almeno %1$d e non più di %2$d cifre</string>
+    <string name="create_wizard_too_short_or_too_long_word">La password deve contenere almeno %1$d e non più di %2$d caratteri</string>
+    <string name="create_wizard_too_short_word">La password deve contenere almeno %d caratteri</string>
+    <string name="create_wizard_usershortname_edittext_hint">per es. jdoe</string>
+    <string name="create_wizard_usershortname_textview">Nome utente</string>
+    <string name="create_wizard_verifying_restoration">Verifica codice ripristino…</string>
+    <string name="create_wizard_verifying_restoration_mail">Verifica mail codice ripristino…</string>
+    <string name="create_wizard_verifying_user_name">Verifica nome utente…</string>
+    <string name="description_changes_msg">Descrizione modificata</string>
+    <string name="device_deleted_active_text">Impossibile eliminare il dispositivo in uso. Puoi eliminarlo usando un altro dispositivo con lo stesso SecSign ID oppure puoi bloccare il SecSign ID</string>
+    <string name="device_deleted_active_title">Dispositivo attivo selezionato</string>
+    <string name="device_deleted_text">Il dispositivo è stato eliminato dal server e non può più essere utilizzato per accedere</string>
+    <string name="device_deleted_title">Dispositivo eliminato</string>
+    <string name="device_list_created">Creato:</string>
+    <string name="device_list_delete">Rimuovi</string>
+    <string name="devices_progress_delete">Rimozione dispositivo…</string>
+    <string name="devices_progress_load">Ottengo dispositivi…</string>
+    <string name="dialog_enter_mail">Inserisci email</string>
+    <string name="disabled_ids_button">Cestino</string>
+    <string name="disabled_ids_delete">SecSign ID eliminati correttamente</string>
+    <string name="disabled_ids_restore">SecSign ID ripristinati correttamente</string>
+    <string name="don_t_show_again">"Non mostrare più"</string>
+    <string name="edit_account_cancel">Annulla</string>
+    <string name="edit_account_description_textview">Modifica descrizione</string>
+    <string name="edit_account_devices_text">Dispositivi</string>
+    <string name="edit_account_disable">Disabilita</string>
+    <string name="edit_account_disable_id_button_text">Disabilita SecSign ID</string>
+    <string name="edit_account_disable_msg">Vuoi disabilitare questa identità?</string>
+    <string name="edit_account_disable_title">Disabilita SecSign ID</string>
+    <string name="edit_account_new_email_button_text">Nuovo indirizzo email</string>
+    <string name="edit_account_new_key_pair_button_text">Crea nuova coppia di chiavi</string>
+    <string name="edit_account_pass_successfully_changed">Password cambiata con successo</string>
+    <string name="edit_account_restoration_text">Mostra codice di backup</string>
+    <string name="edit_account_successfully_disabled_msg">%1$s disabilitato con successo</string>
+    <string name="edit_personal_data_email_description">"Fornendo il tuo indirizzo email sarai in grado di sospendere il SecSign ID e ripristinarlo su un altro dispositivo in caso di smarrimento del telefono.
+
+Conferma questo indirizzo email cliccando sul link nell'email di conferma. Se non ricevi un'email entro 5 minuti
+             controlla l'indirizzo email e la tua cartella spam"</string>
+    <string name="edit_personal_data_email_edittext_hint">jdoe@secsign.com</string>
+    <string name="edit_personal_data_email_invalid">Indirizzo email non valido</string>
+    <string name="edit_personal_data_email_saved">Indirizzo email salvato</string>
+    <string name="edit_personal_data_email_saving">Salvo email…</string>
+    <string name="edit_personal_data_email_textview">Indirizzo email</string>
+    <string name="edit_private_key_protection">Protezione chiave privata</string>
+    <string name="edit_tap_for_settings">Tocca per le impostazioni</string>
+    <string name="email_confirm_notice_msg">"Controlla la tua email e clicca sul link di conferma. Se non ricevi l'email entro 5 minuti
+             controlla l'indirizzo e-mail e la tua cartella spam"</string>
+    <string name="email_confirm_notice_title">Invia email di conferma a</string>
+    <string name="error">Errore</string>
+    <string name="error_qr_code">Errore lettura QRcode</string>
+    <string name="explanation_view_continue_button">Continua</string>
+    <string name="explanation_view_devices_text">"Un SecSign ID può essere usato su più dispositivi. Per questo
+             la funzione di ripristino deve essere attivata. Questa opzione consente la gestione di tutti i dispositivi contenenti l'ID"</string>
+    <string name="explanation_view_devices_title">Dispositivi</string>
+    <string name="explanation_view_email_text">"L'indirizzo email per le notifiche e il ripristino dell'ID può essere modificato in qualsiasi momento"</string>
+    <string name="explanation_view_email_title">Nuovo indirizzo email</string>
+    <string name="explanation_view_fingerprint_text">"L'accesso all'app SecSign ID è protetto con l'impronta digitale o il PIN del dispositivo dell'utente. La chiave privata è protetta dal software indipendente Trusted Execution Environment del dispositivo. Questa sezione del dispositivo è separata dal sistema operativo tramite hardware e non è accessibile
+             ad esempio
+             da malware"</string>
+    <string name="explanation_view_fingerprint_title">Protezione: impronta digitale o PIN dispositivo</string>
+    <string name="explanation_view_link_text">Ulteriori informazioni disponibili qui</string>
+    <string name="explanation_view_newkeypair_text">"Una modifica della chiave può essere avviata in qualsiasi momento
+             ad esempio dopo un aggiornamento del sistema. Sia la chiave privata che quella pubblica vengono eliminate e viene generata una nuova coppia di chiavi. Per la configurazione in locale del server SecSign ID
+             la modifica della chiave può essere avviata in qualsiasi momento sia manualmente dall'amministratore che automaticamente
+             ad esempio dopo un aggiornamento"</string>
+    <string name="explanation_view_newkeypair_title">Crea una nuova coppia di chiavi</string>
+    <string name="explanation_view_password_text">"L'accesso all'app SecSign ID è protetto con una password alfanumerica. La procedura brevettata SafeKey protegge la chiave privata sul dispositivo e la protegge ad esempio dagli attacchi di Brute Force. La password non viene mai trasmessa o memorizzata all'esterno del dispositivo e
+             pertanto
+             non può essere intercettata dagli aggressori"</string>
+    <string name="explanation_view_password_title">Protezione: password</string>
+    <string name="explanation_view_pin_text">"L'accesso all'app SecSign ID è protetto con un PIN numerico. La procedura brevettata SafeKey protegge la chiave privata sul dispositivo e la protegge ad esempio dagli attacchi di Brute Force. Il PIN non viene mai trasmesso o memorizzato all'esterno del dispositivo e
+             pertanto
+             non può essere intercettato dagli aggressori"</string>
+    <string name="explanation_view_pin_title">Protezione: PIN</string>
+    <string name="explanation_view_restore_text">"Se il dispositivo con il SecSign ID viene smarrito o rubato
+             l'ID può essere ripristinato su un nuovo dispositivo. La funzione di ripristino deve prima essere attivata sul dispositivo nativo per utilizzarla sul nuovo. Quando attivato
+             riceverai un codice di backup che devi archiviare in modo sicuro.
+
+Il ripristino può anche essere utilizzato per duplicare l'ID
+             così da utilizzarlo su vari dispositivi contemporaneamente.
+
+È possibile attivare il ripristino e controllare il codice di backup in qualsiasi momento nella schermata seguente"</string>
+    <string name="explanation_view_restore_title">Impostazioni di ripristino</string>
+    <string name="fcm_fallback_notification_channel_label">Varie</string>
+    <string name="finding_sessions">Ricerco ID con sessioni aperte…</string>
+    <string name="fingerprint_activity_cancel_button_title">Annulla</string>
+    <string name="fingerprint_activity_failed">Autenticazione fallita</string>
+    <string name="fingerprint_activity_failed_error_msg">Autenticazione fallita. Riprova</string>
+    <string name="fingerprint_activity_msg">Conferma impronta per continuare</string>
+    <string name="fingerprint_activity_msg_devicepin">Conferma password per continuare</string>
+    <string name="fingerprint_activity_no_fingerprint_or_device_pin">"Attivare l'impronta digitale o PIN/pattern/password del dispositivo"</string>
+    <string name="fingerprint_activity_retry">Impronta non riconosciuta. Riprova</string>
+    <string name="fingerprint_activity_success">Impronta riconosciuta</string>
+    <string name="fingerprint_activity_success_devicepin">Autenticato con successo</string>
+    <string name="fingerprint_activity_title">Autenticazione</string>
+    <string name="fingerprint_activity_touchsensor">Sensore impronta</string>
+    <string name="fingerprint_activity_use_password_button_title">Usa password</string>
+    <string name="fingerprint_title_text">Impronta digitale</string>
+    <string name="gdpr_alert_msg">"Accetto che il mio indirizzo email verrà salvato. L'email verrà utilizzata per il ripristino
+             per sospendere un SecSign ID e per inviare notifiche SecSign di sistema. Puoi eliminare la tua email in qualsiasi momento. Questo accordo è richiesto dal regolamento generale sulla protezione dei dati dell'UE (GDPR)"</string>
+    <string name="gdpr_alert_title">Salvo email</string>
+    <string name="help_text_edit_description">Aggiungi una descrizione al tuo ID per uso interno
+             ad esempio \"WordPress\"
+             \"privat\" o informazioni sul server utilizzato. La descrizione non è accessibile al pubblico</string>
+    <string name="history_title">Storico</string>
+    <string name="huawei_fix_failed_message">"Si è verificato un errore con l'impronta digitale su questo dispositivo. Riprova e contatta l'assistenza se il problema persiste"</string>
+    <string name="invalid_key_pair">Coppia di chiavi non valida</string>
+    <string name="invalid_passcode">Codice di accesso non valido</string>
+    <string name="invalid_passcode_try_again">Codice di accesso non valido. Riprova</string>
+    <string name="invalid_password">Password non valida</string>
+    <string name="invalid_password_try_again">Password non valida. Riprova</string>
+    <string name="invalid_restore_code_msg">Inserisci codice di ripristino</string>
+    <string name="invalid_restore_code_title">Codice di ripristino non valido</string>
+    <string name="invalid_user_short_name">Nome utente non valido</string>
+    <string name="key_protection_fingerprint">Impronta digitale o PIN</string>
+    <string name="key_protection_password">Password</string>
+    <string name="key_protection_pin">PIN</string>
+    <string name="key_protection_saved_in_hardware_tee">Questa chiave è protetta da un hardware TEE</string>
+    <string name="loading_qr_code">Caricamento QRcode…</string>
+    <string name="log_button_text">Invia al supporto</string>
+    <string name="log_copy_button_text">Copia negli appunti</string>
+    <string name="log_sign_in_for_1_s_at_2_s_3_s_at_4_s_was_successful">"Accesso di '%1$s' su '%2$s' (%3$s) alle %4$s ha avuto successo"</string>
+    <string name="logo_content_description">Logo</string>
+    <string name="menu_add">＋</string>
+    <string name="menu_cancel">Annulla</string>
+    <string name="menu_done">Fatto</string>
+    <string name="menu_edit">Modifica</string>
+    <string name="menu_edit_account_save">Salva</string>
+    <string name="menu_more_about_back">Indietro</string>
+    <string name="menu_more_history_clear">Pulisci tutto</string>
+    <string name="menu_next">Avanti</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="more_about_textview">Info</string>
+    <string name="more_advancedoptions_textview">Opzioni avanzate</string>
+    <string name="more_feedback_textview">Feedback</string>
+    <string name="more_howitworks_textview">Come funziona</string>
+    <string name="more_language_description">Scegli lingua</string>
+    <string name="more_newidentity_textview">Genera un SecSign ID su un server di terze parti</string>
+    <string name="more_restore_textview">Ripristina o duplica un SecSign ID</string>
+    <string name="more_sendfeedback_bugreport_subject">Segnalazione bug</string>
+    <string name="more_sendfeedback_dialog_cancel">Annulla</string>
+    <string name="more_sendfeedback_dialog_title">Invia feedback</string>
+    <string name="more_sendfeedback_loveya_subject">Mi piace</string>
+    <string name="more_sendfeedback_supposeenhancement_subject">Proposte di miglioramento</string>
+    <string name="more_tellafriend_chooser_title">Invio mail…</string>
+    <string name="more_tellafriend_no_client_installed">Nessun client di posta elettronica installato</string>
+    <string name="more_tellafriend_subject">SecSign ID - Your Mobile Identity</string>
+    <string name="more_tellafriend_text">vai su www.secsign.com</string>
+    <string name="mr_button_content_description">Pulsante trasmissione</string>
+    <string name="mr_cast_button_connected">Pulsante trasmissione. Connesso</string>
+    <string name="mr_cast_button_connecting">Pulsante trasmissione. In connessione</string>
+    <string name="mr_cast_button_disconnected">Pulsante trasmissione. Disconnesso</string>
+    <string name="mr_chooser_searching">Cerco dispositivi</string>
+    <string name="mr_chooser_title">Trasmetti su</string>
+    <string name="mr_controller_album_art">Copertina</string>
+    <string name="mr_controller_casting_screen">Schermata trasmissione</string>
+    <string name="mr_controller_close_description">Chiudi</string>
+    <string name="mr_controller_collapse_group">Comprimi</string>
+    <string name="mr_controller_disconnect">Disconnetti</string>
+    <string name="mr_controller_expand_group">Espandi</string>
+    <string name="mr_controller_no_info_available">Nessuna informazione disponibile</string>
+    <string name="mr_controller_no_media_selected">Nessun media selezionato</string>
+    <string name="mr_controller_pause">Pausa</string>
+    <string name="mr_controller_play">Riproduci</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop_casting">Stop trasmissione</string>
+    <string name="mr_controller_volume_slider">Cursore volume</string>
+    <string name="mr_system_route_name">Sistema</string>
+    <string name="mr_user_route_category_name">Dispositivi</string>
+    <string name="multiple_simultaneous_sign_in_attempts_with_your_user_name_have_been_detected_for_security_reasons_this_sign_in_was_suspended_by_the_server_please_try_again">"Rilevati più tentativi simultanei di accesso con il tuo nome utente.
+Per sicurezza
+             questo accesso è stato sospeso dal server. Riprova"</string>
+    <string name="network_error">Errore di rete</string>
+    <string name="newdesign_change_email_title">Immetti un nuovo indirizzo email per \"%1$s\"</string>
+    <string name="newdesign_introduction_login">Accesso</string>
+    <string name="newdesign_introduction_reg">Registrazione</string>
+    <string name="newdesign_introduction_text">SecSign ID: autenticazione mobile per il tuo sito web. Provalo e usalo anche con il nostro portale gratuito di messaggistica sicura e condivisione cloud!</string>
+    <string name="newdesign_main_title">Utenze</string>
+    <string name="newdesign_mainscreen_button_create">Genera nuovo SecSign ID</string>
+    <string name="newdesign_mainscreen_button_qrcode">"Avvia accoppiamento con QRcode"</string>
+    <string name="newdesign_mainscreen_button_restore">Ripristina vecchio SecSign ID</string>
+    <string name="newdesign_restore_activated_title">Ripristino attivato per \"%1$s\"
+             questo è il tuo codice di backup:</string>
+    <string name="newdesign_restore_need_help">Hai bisogno di aiuto?</string>
+    <string name="newdesign_startscreen_button_continue">Continua su Dashboard</string>
+    <string name="newdesign_startscreen_button_create">Genera il tuo primo SecSign ID</string>
+    <string name="newdesign_startscreen_button_intro">Fammi fare un giro</string>
+    <string name="newdesign_startscreen_welcome">Ehi
+             benvenuto!</string>
+    <string name="newdesign_tut_signin1_header">Per prima cosa
+             digita il tuo nome utente</string>
+    <string name="newdesign_tut_signin1_subheader" />
+    <string name="newdesign_tut_signin2_header">Quindi
+             prendi il tuo smartphone e accetta la richiesta di accesso</string>
+    <string name="newdesign_tut_signin2_subheader" />
+    <string name="newdesign_tut_signin3_header">Confronta i simboli sullo smartphone</string>
+    <string name="newdesign_tut_signin3_subheader">con i simboli sul sito Web e tocca quello corretto</string>
+    <string name="newdesign_tut_signin4_header">"Questo è tutto!"</string>
+    <string name="newdesign_tut_signin4_subheader">"Hai effettuato correttamente l'accesso al sito web utilizzando il tuo SecSign ID!"</string>
+    <string name="newdesign_tut_signin_title">Scopri come accedere a un sito web utilizzando il tuo SecSign ID</string>
+    <string name="newdesign_tut_signup1_header">Innanzitutto
+             scegli un nome utente:</string>
+    <string name="newdesign_tut_signup1_subheader">Puoi scegliere qualsiasi tipo di utente
+             il tuo nome
+             indirizzo email
+             il tuo nome Facebook
+             ecc</string>
+    <string name="newdesign_tut_signup2_header">Quindi
+             scegli una password:</string>
+    <string name="newdesign_tut_signup2_subheader">Questo serve solo per proteggere la chiave SecSign ID sul dispositivo e non verrà mai trasmessa</string>
+    <string name="newdesign_tut_signup3_header">"Fatto! Sei pronto per iniziare:"</string>
+    <string name="newdesign_tut_signup3_subheader">"Grande! Questo è tutto! Ora hai un nuovo SecSign ID"</string>
+    <string name="newdesign_tut_signup_title">Come generare il tuo SecSign ID in tre semplici passi</string>
+    <string name="no_disabled_ids_deleted">Nessun SecSign ID scelto ed eliminato</string>
+    <string name="no_disabled_ids_restored">Nessun SecSign ID scelto e ripristinato</string>
+    <string name="no_email_set">Nessun indirizzo email impostato</string>
+    <string name="no_email_set_enabling_text">Il ripristino può essere abilitato solo dopo aver impostato un indirizzo email. Un codice verrà inviato a questo indirizzo email durante il ripristino del SecSign ID</string>
+    <string name="no_email_set_text">Questo SecSign ID non può essere ripristinato poiché non è stato salvato alcun indirizzo email. Pertanto
+             non è possibile inviare il codice di convalida e non è possibile ripristinare il SecSign ID</string>
+    <string name="no_ids_button_new_id">Nuovo ID</string>
+    <string name="no_ids_button_restore_id">Ripristino ID</string>
+    <string name="no_network">Nessuna rete</string>
+    <string name="no_portal_sessions">Nessuna sessione del portale attiva</string>
+    <string name="no_restoration_set">Ripristino non attivato</string>
+    <string name="no_restoration_set_text">"Il ripristino è disabilitato per questo SecSign ID. È possibile abilitarlo nella finestra di modifica dell'account del dispositivo originale"</string>
+    <string name="no_sign_in_pending">Nessun accesso in sospeso</string>
+    <string name="no_sign_in_pending_for_at">"Nessun accesso in sospeso di '%1$s' su %2$s"</string>
+    <string name="no_tee_available">"Sfortunatamente non puoi usare questa app per motivi di sicurezza. È necessario un dispositivo supportato con hardware sicuro. Inoltre avrai bisogno di Android 6 e dovrai attivare l'impronta digitale o il pin del dispositivo"</string>
+    <string name="not_tee_private_key_invalid_message">"Si è verificato un errore durante la lettura della chiave privata. Riprova e contatta l'assistenza se il problema persiste. Se il ripristino è stato attivato
+             è possibile eliminare questa identità e ripristinarla in seguito"</string>
+    <string name="passcodes_did_not_match">Codici di accesso non corrispondenti. Riprova</string>
+    <string name="password_input_access_denied">Accesso negato. Riprova</string>
+    <string name="password_input_attempts_remaining">%1$d tentativi rimasti</string>
+    <string name="password_input_edittext_hint">Pass%1$s</string>
+    <string name="password_input_mobile_login_url">"per accedere a 
+%1$s"</string>
+    <string name="password_input_textview">Inserisci pass%1$s per %2$s</string>
+    <string name="password_input_textview2code">Inserisci il tuo vecchio codice di accesso</string>
+    <string name="password_input_textview2word">Inserisci la tua vecchia password</string>
+    <string name="password_input_textview3code">Inserisci il tuo nuovo codice di accesso</string>
+    <string name="password_input_textview3word">Inserisci la tua nuova password</string>
+    <string name="password_input_textview4code">Reinserisci il tuo nuovo codice di accesso</string>
+    <string name="password_input_textview4word">Reinserisci la tua nuova password</string>
+    <string name="password_input_verifying_password">Verifico pass%1$s</string>
+    <string name="password_input_word">word</string>
+    <string name="passwords_did_not_match">Le password non coincidono. Riprova</string>
+    <string name="please_note">Attenzione</string>
+    <string name="portal_button_text">Vai sul portale SecSign</string>
+    <string name="portal_header_1">Usa il tuo SecSign ID per accesso sicuro e condivisione file</string>
+    <string name="portal_header_2">Invita altri ID per condividere file o fornire ad utenti esterni link di accesso altamente sicuri</string>
+    <string name="portal_header_3">Autenticazione a due fattori
+             trasmissione e archiviazione crittografate e architettura multilivello ad alta sicurezza</string>
+    <string name="portal_sessions_id_text">ID: %s</string>
+    <string name="push_noti_requests_your_auth">%s richiede la tua autenticazione</string>
+    <string name="push_noti_website_requests_your_auth">Un sito web richiede la tua autenticazione</string>
+    <string name="qr_code_auto_scan_notification">Inquadrare il QRcode</string>
+    <string name="qr_code_auto_scan_notification2">in mezzo allo schermo</string>
+    <string name="qr_code_camera_not_found">Non rilevo la fotocamera</string>
+    <string name="qr_code_camera_not_open">Impossibile aprire la fotocamera</string>
+    <string name="qr_code_could_not_read_qr_code_from_scanner">Impossibile leggere il QRcode</string>
+    <string name="qr_code_error_title">Permesso negato</string>
+    <string name="qr_code_link_not_valid">Questo non è un SecSign QRcode valido. Forse hai letto il QRcode sbagliato?</string>
+    <string name="qr_help_text">"Usa il QRcode di accoppiamento per
+ - On Premises OnBoarding
+ - Atlassian OnBoarding
+ - Ripristino di ID"</string>
+    <string name="recommend_fingerprint_text">"È possibile utilizzare l'impronta digitale per l'accesso anziché il codice di accesso. Vuoi vedere le opzioni possibili?"</string>
+    <string name="recommend_fingerprint_title">Usa la tua impronta digitale</string>
+    <string name="recommend_restoration_text">In case you lose this device you will be able to restore your SecSign ID if you have its restoration code. Would you like to see the restoration options now?</string>
+    <string name="recommend_restoration_title">Esegui il backup della tua identità</string>
+    <string name="regenerate_kp_1024bit">Chiave a 1024 bit</string>
+    <string name="regenerate_kp_2048bit">Chiave a 2048 bit</string>
+    <string name="regenerate_kp_2048bit_warning">Il tempo necessario per creare una coppia di chiavi a 2048 bit può richiedere più di due minuti</string>
+    <string name="regenerate_kp_2048bit_warning_title">Attenzione</string>
+    <string name="regenerate_kp_id_no_longer_available">"
+Questo ID non è più disponibile ed è stato disabilitato"</string>
+    <string name="regenerate_kp_keypair_changed">La coppia di chiavi è stata cambiata correttamente</string>
+    <string name="regenerate_kp_reliable_network_warning">Assicurarsi di disporre di una connessione di rete affidabile
+             prima di inviare la nuova chiave al server</string>
+    <string name="regenerate_kp_start_button">Avvia</string>
+    <string name="regenerate_kp_step1">Creo nuova coppia di chiavi…</string>
+    <string name="regenerate_kp_step2">Registro SecSign ID…</string>
+    <string name="regenerate_kp_step3">Salvo SecSign ID…</string>
+    <string name="reject_button">Rifiutato</string>
+    <string name="reject_sign_in">Rifiuta accesso</string>
+    <string name="rejecting_session">Rifiuto sessione…</string>
+    <string name="remote_logout_browser">Browser:</string>
+    <string name="remote_logout_close_sessions">Chiudo sessione portale…</string>
+    <string name="remote_logout_lastuse">Ultimo utilizzo:</string>
+    <string name="remote_logout_search_sessions">Ottengo sessioni portale…</string>
+    <string name="remote_logout_status">Stato:</string>
+    <string name="remote_logout_tap_on_id">Tocca su un SecSign ID</string>
+    <string name="remote_logout_usedfrom">Usato da:</string>
+    <string name="request_denied">Richiesta negata</string>
+    <string name="resendemail_result_msg">"L'email di conferma è stata inviata nuovamente. Controlla il tuo account email e clicca sul link di conferma. Se non ricevi un'email entro 5 minuti
+             controlla l'indirizzo email e la cartella spam"</string>
+    <string name="resendemail_result_title">Email di conferma inviata di nuovo</string>
+    <string name="restart_authentication_by_tapping_your_secsign_id_in_this_app_again">"Riavvia l'autenticazione toccando di nuovo il SecSign ID in questa app"</string>
+    <string name="restart_sign_in">"Riavvia l'accesso"</string>
+    <string name="restoration_code_old">Codice di ripristino scaduto</string>
+    <string name="restoration_code_old_text">Codice di convalida email scaduto. Riavviare il ripristino</string>
+    <string name="restoration_disabled_button_activate">Attivare</string>
+    <string name="restoration_disabled_button_back">No grazie</string>
+    <string name="restoration_disabled_learnmore1">Ulteriori info su questa funzione</string>
+    <string name="restoration_disabled_learnmore2">"Cos'è la funzione di ripristino?"</string>
+    <string name="restoration_disabled_learnmore3">Come funziona?</string>
+    <string name="restoration_disabled_note">"L'abilitazione del ripristino ti consentirà di ripristinare il tuo SecSign ID in caso di smarrimento del dispositivo o della password"</string>
+    <string name="restoration_disabled_title">Attivare il ripristino</string>
+    <string name="restoration_enabled_button_back">Indietro</string>
+    <string name="restoration_enabled_button_copy">Copia</string>
+    <string name="restoration_enabled_button_deactivate">Disattiva</string>
+    <string name="restoration_enabled_button_show_qr_code">Mostra QRcode</string>
+    <string name="restoration_enabled_copy_alert_msg">Ora puoi incollarlo in un gestore di password o stamparlo e conservarlo in luogo sicuro</string>
+    <string name="restoration_enabled_copy_alert_title">Codice di backup copiato negli appunti</string>
+    <string name="restoration_enabled_copy_label">Codice di backup</string>
+    <string name="restoration_enabled_note">Si raccomanda di scrivere questo codice e tenerlo al sicuro. Ne avrai bisogno per ripristinare il tuo SecSign ID se perdi questo dispositivo</string>
+    <string name="restoration_enabled_readabout">Leggi</string>
+    <string name="restoration_enabled_restoreenabled">Ripristino abilitato</string>
+    <string name="restoration_enabled_title">Codice di backup:</string>
+    <string name="restoration_progress">Ottengo codice di backup…</string>
+    <string name="restore_code_description">Si raccomanda di annotare questo codice e tenerlo in luogo sicuro. Ne avrai bisogno per ripristinare la tua identità su un altro dispositivo se lo perdi</string>
+    <string name="restore_code_header">Codice di backup</string>
+    <string name="restore_notice_show_device_list">Mostra lista dispositivi</string>
+    <string name="restore_notice_was_restored_on_a_new">ripristinato su un nuovo %s</string>
+    <string name="restore_notice_your_secsignid">Il tuo SecSign ID</string>
+    <string name="restore_sec_sign_id_button_text">Ripristina vecchio ID</string>
+    <string name="restore_wizard_header_mail">Codice di convalida email</string>
+    <string name="restore_wizard_header_name">Inserisci nome utente</string>
+    <string name="restore_wizard_header_restoration">Inserisci codice di backup</string>
+    <string name="restore_wizard_header_text">Ripristina SecSign ID</string>
+    <string name="restore_wizard_header_text_new_design">Ripristina un SecSign ID</string>
+    <string name="restore_wizard_help_text">Questo è il nome del tuo SecSign ID esistente</string>
+    <string name="restore_wizard_ldappassword_edittext_hint">Password</string>
+    <string name="restore_wizard_mail_help">Controlla la tua email su %s e inserisci il codice di convalida appena ricevuto</string>
+    <string name="restore_wizard_mail_hint">"Codice dall'email appena ricevuta"</string>
+    <string name="restore_wizard_restoration_help">"L'app SecSign sul dispositivo originale può mostrare il codice di backup necessario qui per autorizzare il ripristino del SecSign ID"</string>
+    <string name="restore_wizard_restoration_hint">Codice di backup</string>
+    <string name="restore_wizard_restoration_mail_textview">Codice di convalida email</string>
+    <string name="restore_wizard_restoration_textview">Inserisci codice di backup</string>
+    <string name="restore_wizard_subsubheader1">Inserisci vecchio nome utente</string>
+    <string name="restore_wizard_subsubheader2">Inserisci codice di backup</string>
+    <string name="restore_wizard_subsubheader3">Inserisci codice email</string>
+    <string name="restore_wizard_user_exists_text">Esiste già un SecSign ID con il nome utente %s su questo dispositivo. Non è necessario ripristinarlo</string>
+    <string name="restore_wizard_user_exists_title">Nome utente già esistente</string>
+    <string name="save_account_error">"Errore nel salvare i dati dell'account sul disco"</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="secsign_id_successfully_created">SecSign ID generato correttamente!</string>
+    <string name="secsigner_app_is_out_of_date">"L'app SecSign è obsoleta"</string>
+    <string name="secsignid_accountlist_unconfemail_changemail">Cambia email</string>
+    <string name="secsignid_accountlist_unconfemail_noemailset">Non è impostata alcuna email per il tuo SecSign ID \"%s\"</string>
+    <string name="secsignid_accountlist_unconfemail_refresh">Aggiorna</string>
+    <string name="secsignid_accountlist_unconfemail_resendemail">Reinvia email di conferma</string>
+    <string name="secsignid_accountlist_unconfemail_unconfemail">"L'email %1$s per il tuo SecSign ID \"%2$s\" non è ancora confermata"</string>
+    <string name="secsignid_createid_char_not_allowed_msg">"Il carattere '%1$s' non è autorizzato"</string>
+    <string name="secsignid_createid_char_not_allowed_title">Carattere non autorizzato</string>
+    <string name="secsignid_edit_error_alert_msg">"Errore imprevisto durante la modifica dell'ID. Sembra essere un bug specifico del dispositivo. 
+
+Invia un'email a support@secsign.com così possiamo risolverlo"</string>
+    <string name="secsignid_edit_error_alert_title">Errore modifica ID</string>
+    <string name="secsignid_edit_error_create_email_subject">"App android SecSign: errore nella modifica dell'ID"</string>
+    <string name="secsignid_editaccount_change_to_fingerprint_alert_button_cancel">Annulla</string>
+    <string name="secsignid_editaccount_change_to_fingerprint_alert_button_fingerprint">Attiva impronta digitale</string>
+    <string name="secsignid_editaccount_change_to_fingerprint_alert_button_restore">Impostazioni ripristino</string>
+    <string name="secsignid_editaccount_change_to_fingerprint_alert_msg">"Con l'autenticazione tramite impronta digitale
+             la chiave verrà salvata nell'ambiente di esecuzione protetto del dispositivo. Per questo motivo la chiave non verrà salvata in un backup e verrà eliminata anche se si disabilita l'impronta digitale nelle impostazioni di sistema. Ecco perché ti raccomandiamo vivamente di attivare il ripristino per il tuo ID
+             se non l'hai ancora fatto"</string>
+    <string name="secsignid_editaccount_change_to_fingerprint_alert_title">Si raccomanda di attivare il ripristino</string>
+    <string name="secsignid_locked">SecSign ID bloccato</string>
+    <string name="secsignid_locked_message">Il tuo SecSign ID è stato bloccato perché raggiunto il numero max di accessi falliti. Modifica questo ID e crea una nuova coppia di chiavi</string>
+    <string name="secsignid_locked_use_restore_message">Il tuo SecSign ID \"%s\" è stato bloccato
+             perché raggiunto il numero max di accessi falliti. Vai alla funzione di ripristino per utilizzare nuovamente questo ID</string>
+    <string name="secsignid_private_key_error_saving_alert_email_send_email">Invia rapporto</string>
+    <string name="secsignid_private_key_error_saving_alert_email_subject">App android SecSign: errore nel salvatare la chiave privata</string>
+    <string name="secsignid_private_key_error_saving_alert_msg">"Errore imprevisto durante il salvataggio della chiave privata. Sembra essere un bug specifico del dispositivo. 
+
+Invia un'email a support@secsign.com così possiamo risolverlo"</string>
+    <string name="secsignid_private_key_error_saving_alert_title">Errore nel salvare la chiave</string>
+    <string name="secsignid_private_key_error_with_fingerprint_alert_msg">"Errore imprevisto durante l'autenticazione tramite impronta digitale. Sembra essere un bug specifico del dispositivo. 
+
+Invia un'email a support@secsign.com così possiamo risolverlo. 
+
+Se è stato attivato il ripristino per questo ID
+             è possibile eliminarlo e ripristinarlo in seguito"</string>
+    <string name="secsignid_private_key_error_with_fingerprint_alert_title">Errore di autenticazione</string>
+    <string name="secsignid_private_key_error_with_fingerprint_create_email_subject">App android SecSign: errore nel salvare la chiave con impronta digitale</string>
+    <string name="secsignid_private_key_error_with_fingerprint_email_subject">"App android SecSign: errore nel passare all'impronta digitale"</string>
+    <string name="secsignid_prop_default_identity_server_name">SecSign</string>
+    <string name="secsignid_suspended">SecSign ID sospeso</string>
+    <string name="secsignid_unavailable">SecSign ID non disponibile</string>
+    <string name="server_certificate_rejected">Certificato server rifiutato</string>
+    <string name="server_connection_closed">Il server ha chiuso la connessione senza restituire un risultato</string>
+    <string name="server_is_down_for_maintenance">Server fuori uso per manutenzione</string>
+    <string name="server_unavailable">SecSign ID server non disponibile</string>
+    <string name="session_was_successfully_denied">Sessione negata con successo</string>
+    <string name="show_qr_code_notice_text">"Leggi questo QRcode nell'app SecSign di un altro telefono per ripristinare questo SecSign ID"</string>
+    <string name="sign_in_for_1_s_at_2_s_3_s_at_4_s_failed_due_to_5_s_">"Accesso di '%1$s' su '%2$s' (%3$s) alle %4$s fallito
+             a causa di: %5$s"</string>
+    <string name="sign_in_for_1_s_at_2_s_3_s_at_4_s_was_cancelled_">"Accesso di '%1$s' su '%2$s' (%3$s) alle %4$s è stato cancellato"</string>
+    <string name="sign_in_for_1_s_at_2_s_3_s_at_4_s_was_denied_">"Accesso di '%1$s' su '%2$s' (%3$s) alle %4$s è stato negato"</string>
+    <string name="sign_in_for_1_s_at_2_s_3_s_at_4_s_was_retracted_">"Accesso di '%1$s' su '%2$s' (%3$s) alle %4$s è stato ritirato"</string>
+    <string name="sign_in_for_1_s_at_2_s_3_s_at_4_s_was_timed_out_">"Accesso di '%1$s' su '%2$s' (%3$s) alle %4$s è scaduto"</string>
+    <string name="sign_in_invalid">Accesso non valido</string>
+    <string name="sign_ins_for_1_s_had_been_suspended_due_to_simultaneous_sign_in_attempts">"Accessi di '%1$s' sospesi
+             a causa di tentativi di accesso simultanei. L'accesso è stato riattivato alle %2$s"</string>
+    <string name="start_a_new_sign_in_at_the_website_you_want_to_sign_in">Avvia un nuovo accesso dal sito web a cui desideri accedere</string>
+    <string name="start_movie_text">Guarda come funziona</string>
+    <string name="step1_content_description">Passo 1 del tutorial</string>
+    <string name="step2_content_description">Passo 2 del tutorial</string>
+    <string name="step3_content_description">Passo 3 del tutorial</string>
+    <string name="successfully_authenticated">Autenticato con successo</string>
+    <string name="successfully_closed">Sessione chiusa con successo</string>
+    <string name="support_log_email_subject">Logs App android SecSign</string>
+    <string name="switch_to_alphanumeric_password">Passa a password alfanumerica</string>
+    <string name="switch_to_numeric_passcode">Passa a codice di accesso numerico</string>
+    <string name="tab_icon_content_description">Icona Tab</string>
+    <string name="tab_name_1">SecSign ID</string>
+    <string name="tab_name_2">Introduzione</string>
+    <string name="tab_name_3">Portale</string>
+    <string name="tab_name_4">Altro</string>
+    <string name="tap_on_the_right_access_pass_to_complete_your_authentication_try_again">"Tocca il pass d'accesso corretto per completare l'autenticazione. Riprova"</string>
+    <string name="tap_the_reject_sign_in_button_below">"Tocca il pulsante 'Rifiuta accesso' in basso"</string>
+    <string name="tee_private_key_invalid_message">Il blocco dello schermo sicuro è stato disabilitato perché ha invalidato la chiave privata. Ripristina questa identità per usarla di nuovo</string>
+    <string name="tee_private_key_invalid_title">Chiave privata non valida</string>
+    <string name="the_authentication_has_been_aborted">"L'autenticazione è stata interrotta"</string>
+    <string name="the_certificate_received_from_server_is_untrustworthy_">Il certificato ricevuto dal server non è affidabile</string>
+    <string name="the_decrypted_secure_key_did_not_match_">La chiave sicura decodificata non corrisponde</string>
+    <string name="the_secsignid_does_no_longer_belong_to_this_device_">Il SecSign ID non appartiene più a questo dispositivo</string>
+    <string name="the_secsignid_has_been_irrevocably_locked_">Il SecSign ID è stato bloccato irrevocabilmente</string>
+    <string name="the_secsignid_has_been_irrevocably_locked_contactus">"Il SecSign ID è stato bloccato irrevocabilmente. Contattare l'assistenza"</string>
+    <string name="the_secsignid_has_been_irrevocably_locked_email_text">"Il mio SecSign ID '%1$s' è stato bloccato irrevocabilmente"</string>
+    <string name="the_secsignid_has_been_locked_by_the_secsignid_server_">Il SecSign ID è stato bloccato dal server SecSign ID</string>
+    <string name="the_secsignid_server_did_not_understand_this_request_">Il SecSign ID server non ho capito questa richiesta</string>
+    <string name="the_secsignid_server_does_not_support_this_request_">Il SecSign ID server non supporta questa richiesta</string>
+    <string name="the_secsignid_server_does_not_support_this_version">"Il SecSign ID server non supporta questa versione dell'app SecSign ID. Aggiornare alla versione corrente"</string>
+    <string name="the_server_cannot_process_your_request_at_the_moment_">Il server non può elaborare la tua richiesta al momento</string>
+    <string name="the_server_could_not_verify_the_validity_of_the_key_pair_">"Il server non può verificare la validità della coppia di chiavi. Sembra sia un problema con l'impronta digitale. Contattare l'assistenza"</string>
+    <string name="the_server_could_not_verify_the_validity_of_the_key_pair_try_again">"Il server non può verificare la validità della coppia di chiavi. Sembra sia un problema con l'impronta digitale. Riprova con un codice di accesso"</string>
+    <string name="the_server_has_locked_this_id_because_the_maximum_number_of_continuous_authentication_failures_has_been_exceeded_">Il server ha bloccato questo ID perché è stato superato il numero max di errori consecutivi di autenticazione</string>
+    <string name="the_server_has_locked_this_id_because_the_maximum_number_of_overall_authentication_failures_has_been_exceeded_">Il server ha bloccato questo ID perché è stato superato il numero max di errori complessivi di autenticazione</string>
+    <string name="the_server_has_suspended_this_id_due_to_the_excessive_number_of_failed_key_exchange_attempts_">"Il server ha sospeso questo ID per l'eccessivo numero di tentativi di scambio chiavi falliti"</string>
+    <string name="the_server_is_down_for_maintenance_and_cannot_accept_requests_from_your_device_please_try_again_later_">Il server è in manutenzione e non può accettare richieste dal tuo dispositivo. Riprova più tardi</string>
+    <string name="the_server_sent_an_error_code_of_">"Il server ha inviato un codice di errore di: "</string>
+    <string name="the_server_was_not_found">Il server non è stato trovato</string>
+    <string name="the_server_was_unable_to_verify_this_device">Il server non è stato in grado di verificare questo dispositivo</string>
+    <string name="the_state_of_the_server_is_still_unknown_">Lo stato del server è ancora sconosciuto</string>
+    <string name="the_user_short_name_must_consist_of_a_minimum_of_d_characters">Il nome utente deve essere composto da minimo %d caratteri</string>
+    <string name="there_is_no_access_pass_for_this_secsignid">"Non esiste un pass d'accesso per questo SecSign ID.
+Avvia un nuovo accesso dal tuo computer"</string>
+    <string name="this_access_pass_does_not_belong_to_this_secsignid_">Questo pass di accesso non appartiene a questo SecSign ID</string>
+    <string name="this_access_pass_has_been_rejected_">Questo pass di accesso è stato rifiutato</string>
+    <string name="this_access_pass_has_expired">Questo pass di accesso è scaduto</string>
+    <string name="this_access_pass_is_invalid_">Questo pass di accesso non è valido</string>
+    <string name="this_access_pass_is_unknown_to_the_server_">Questo pass di accesso non è noto al server</string>
+    <string name="this_access_pass_was_cancelled_by_the_requesting_service_">Questo pass di accesso è stato annullato dal servizio richiedente</string>
+    <string name="this_access_pass_was_suspended_by_the_server">Questo pass di accesso è stato sospeso dal server</string>
+    <string name="this_authentication_attempt_has_timed_out">Questo tentativo di autenticazione è scaduto</string>
+    <string name="this_sign_in_does_not_belong_to_the_secsign_id">Questo accesso non appartiene al SecSign ID</string>
+    <string name="this_sign_in_has_been_cancelled">Questo accesso è stato annullato</string>
+    <string name="this_sign_in_has_been_rejected">Questo accesso è stato rifiutato</string>
+    <string name="this_sign_in_has_expired">Questo accesso è scaduto</string>
+    <string name="this_sign_in_is_invalid">Questo accesso non è valido</string>
+    <string name="this_sign_in_is_unknown_to_the_server">Questo accesso è sconosciuto al server</string>
+    <string name="title_about">Info app SecSign</string>
+    <string name="title_activity_access_pass_chooser">Selezionare pass di accesso per</string>
+    <string name="title_activity_access_pass_chooser2">Aiuto</string>
+    <string name="title_activity_access_pass_chooser_no_pass_icons">Conferma</string>
+    <string name="title_activity_appupdate_msg">Avviso di aggiornamento</string>
+    <string name="title_activity_create_sec_sign_id">Genera SecSign ID</string>
+    <string name="title_activity_devices">Dispositivi di ID</string>
+    <string name="title_activity_disabled_ids">Cestino</string>
+    <string name="title_activity_edit_account">Modifica ID</string>
+    <string name="title_activity_edit_personal_data">Modifica email</string>
+    <string name="title_activity_introduction">Introduzione</string>
+    <string name="title_activity_introduction_video">Video di introduzione</string>
+    <string name="title_activity_log">Logs</string>
+    <string name="title_activity_main">SecSign ID</string>
+    <string name="title_activity_more">Altro</string>
+    <string name="title_activity_password_input">Inserisci pass%1$s</string>
+    <string name="title_activity_password_input2">Cambia pass%1$s</string>
+    <string name="title_activity_password_title">Concedi accesso</string>
+    <string name="title_activity_portal">Portale SecSign</string>
+    <string name="title_activity_regenerate_keypair">Crea coppia di chiavi</string>
+    <string name="title_activity_remote_logout">Logout remoto</string>
+    <string name="title_activity_restoration_settings">Ripristino</string>
+    <string name="title_activity_restore_sec_sign_id">Ripristino SecSign ID</string>
+    <string name="title_activity_scan_qr_code">Leggi QRcode</string>
+    <string name="title_activity_show_qr_code">Accoppiamento QRcode</string>
+    <string name="title_activity_show_restoration_code">Codice di backup</string>
+    <string name="title_help">Aiuto</string>
+    <string name="title_remote">Logout remoto</string>
+    <string name="tutorial_step1_text">Vai su www.SecSign.com dal computer e clicca su \"Try it now\"</string>
+    <string name="tutorial_step2_text">Inserisci nome utente del nuovo SecSign ID</string>
+    <string name="tutorial_step3_text">Tocca il tuo SecSign ID sopra</string>
+    <string name="tutorial_steps">Prossimi passi</string>
+    <string name="typo_in_email_concom">"L'indirizzo termina con .coN ma probabilmente intendevi .coM"</string>
+    <string name="typo_in_email_msg">"Controlla la tua email '%1$s' per errori di battitura"</string>
+    <string name="typo_in_email_title">"Errore di battitura nell'email?"</string>
+    <string name="unknown_access_pass">Codice di accesso sconosciuto</string>
+    <string name="unknown_secsignid">SecSign ID sconosciuto</string>
+    <string name="unknown_server">Server sconosciuto</string>
+    <string name="user_short_name_not_available">Nome utente non disponibile</string>
+    <string name="wrong_access_pass_selected">Pass di accesso selezionato errato</string>
+    <string name="wrong_password">Password errata</string>
+    <string name="wrong_restoration">Codice di ripristino errato</string>
+    <string name="wrong_restoration_text">Il codice di ripristino inserito è errato</string>
+    <string name="wrong_url">URL errato?</string>
+    <string name="your_priority_code_is">Il tuo codice di priorità è %1$s</string>
+</resources>

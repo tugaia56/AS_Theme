@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:autoMirrored="true" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M17
+            7.546L17
+            3.046L12.5
+            3.046C12.24
+            3.03 12.016
+            3.256 12
+            3.517L12
+            17.546C11.984
+            17.806 12.24
+            18.03 12.5
+            18.046L21.5
+            18.046C21.76
+            18.062 21.984
+            17.807 22
+            17.546L22
+            8.046L17.5
+            8.046C17.24
+            8.062 17.016
+            7.807 17
+            7.546Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M4.999
+            7.501L4.999
+            3.001L9.499
+            3.001C9.759
+            2.985 9.983
+            3.211 9.999
+            3.472L9.999
+            17.501C10.015
+            17.761 9.759
+            17.985 9.499
+            18.001L0.499
+            18.001C0.239
+            18.016 0.015
+            17.762 -0.001
+            17.501L-0.001
+            8.001L4.499
+            8.001C4.759
+            8.016 4.984
+            7.762 4.999
+            7.501Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M10.013
+            3.001C9.813
+            3.001 9.714
+            3.001 9.613
+            3.1L6.6
+            6.086C6.5
+            6.187 6.5
+            6.286 6.5
+            6.487L10
+            6.487L10.013
+            3.001Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.5
+            3.046C18.7
+            3.046 18.8
+            3.046 18.9
+            3.145L21.913
+            6.131C22.013
+            6.232 22.013
+            6.332 22.013
+            6.532L18.513
+            6.532L18.5
+            3.046Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M3.513
+            3C3.313
+            3 3.213
+            3 3.113
+            3.1L0.1
+            6.085C0
+            6.186 0
+            6.286 0
+            6.486L3.5
+            6.486L3.513
+            3Z" android:fillType="nonZero" />
+</vector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_title_amp">Tratti</string>
+    <string name="wallpaper_title_black">Nero</string>
+    <string name="wallpaper_title_cordoba">Matrix</string>
+    <string name="wallpaper_title_default">Montagne</string>
+    <string name="wallpaper_title_dusk">Sabbia</string>
+    <string name="wallpaper_title_ether">Scarico</string>
+    <string name="wallpaper_title_fiber">Motore</string>
+    <string name="wallpaper_title_forest">Asfalto</string>
+    <string name="wallpaper_title_gray">Scuro</string>
+    <string name="wallpaper_title_grille">Griglia</string>
+    <string name="wallpaper_title_pleats">Motivo</string>
+    <string name="wallpaper_title_rotor">Rotore</string>
+    <string name="wallpaper_title_stitches">Ferrari</string>
+    <string name="wallpaper_title_trail">Luna</string>
+    <string name="wallpaper_title_waves">Aridità</string>
+    <string name="wallpaper_title_wind">Fibra</string>
+</resources>

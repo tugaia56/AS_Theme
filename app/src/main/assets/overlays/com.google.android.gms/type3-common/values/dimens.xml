@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="design_bottom_sheet_modal_elevation">16.0dip</dimen>
+    <dimen name="design_fab_elevation">0.0dip</dimen>
+    <dimen name="design_snackbar_elevation">6.0dip</dimen>
+    <dimen name="fm_toolbar_elevation">0.0dip</dimen>
+    <dimen name="place_picker_v1_center_bar_elevation">0.0dip</dimen>
+    <dimen name="place_picker_v1_list_item_elevation">0.0dip</dimen>
+    <dimen name="profile_card_elevation">0.0dip</dimen>
+    <dimen name="sp_card_elevation">0.0dip</dimen>
+    <dimen name="suw_card_elevation">0.0dip</dimen>
+    <dimen name="suw_glif_card_elevation">0.0dip</dimen>
+    <dimen name="suw_header_elevation_hack">0.0dip</dimen>
+    <dimen name="suw_title_area_elevation">0.0dip</dimen>
+    <dimen name="udc_consent_scrollview_elevation_glif">0.0dip</dimen>
+    <dimen name="wallet_credit_card_input_background_elevation">10.0dip</dimen>
+    <dimen name="wallet_default_elevation">0.0dip</dimen>
+    <dimen name="tp_default_elevation">0.0dip</dimen>
+    <dimen name="auth_setup_wizard_card_elevation">0.0dip</dimen>
+    <dimen name="auth_setup_wizard_title_area_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_radius">14.0dip</dimen>
+</resources>

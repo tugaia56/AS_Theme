@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Applica</string>
+    <string name="hot_to_title">Il pacchetto icone è disponibile nel tuo launcher</string>
+    <string name="how_to_apply">Come applicare</string>
+    <string name="how_to_disclaimer">"La procedura esatta varia per ogni launcher, quindi non siamo in grado di fornire informazioni più dettagliate.
+
+Se non riesci a trovare l'opzione, contatta gli sviluppatori del tuo launcher per assistenza."</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="step1_descr">Avvia il tuo launcher</string>
+    <string name="step2_descr">"Cerca nelle sue impostazioni l'opzione per modificare il pacchetto icone in uso"</string>
+    <string name="step3_descr">Seleziona \"Tullio Icon\"</string>
+</resources>

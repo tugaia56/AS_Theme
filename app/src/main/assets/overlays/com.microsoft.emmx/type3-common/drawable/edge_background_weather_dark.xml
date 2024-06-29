@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <shape shape="rectangle">
+            <solid color="@*android:color/ripple_material_dark" />
+            <corners radius="20.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <solid color="@*android:color/group_button_dialog_pressed_holo_light" />
+            <corners radius="20.0dip" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="annotation_background_color_translucent">#0000ff00</color>
+    <color name="blue_tonal">#ff0842a0</color>
+    <color name="checked_list_item_color">#4dffffff</color>
+    <color name="chip_default">#15ffffff</color>
+    <color name="darktrans_icons">#b6e8eaed</color>
+    <color name="done_text_color_disabled">#ff9aa0a6</color>
+    <color name="fade_edge_end_color">#1bbbbbbb</color>
+    <color name="gradient_start">#00202124</color>
+    <color name="happy_trees_color_celebration">#ff382d50</color>
+    <color name="happy_trees_color_food">#ff3a5c63</color>
+    <color name="happy_trees_color_groceries">#ff364b6d</color>
+    <color name="happy_trees_color_music">@*android:color/background_dark</color>
+    <color name="happy_trees_color_notes">#ff382c63</color>
+    <color name="happy_trees_color_places">#ff583a4f</color>
+    <color name="happy_trees_color_recipes">#ff511c22</color>
+    <color name="happy_trees_color_travel">#ff103259</color>
+    <color name="happy_trees_color_video">#ff424459</color>
+    <color name="keep_hairline_color">#28e8eaed</color>
+    <color name="on_blue_tonal">@*android:color/accent_material_dark</color>
+    <color name="on_yellow_tonal">#ffffdea0</color>
+    <color name="overscroll_color">@*android:color/background_dark</color>
+    <color name="pressed_state_color">#28ffffff</color>
+    <color name="recurrence_header_background">@*android:color/background_dark</color>
+    <color name="recurrence_picker_background">@*android:color/background_dark</color>
+    <color name="recurrence_spinner_text_color_normal">@*android:color/white</color>
+    <color name="scrim_color">#99000000</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+    <color name="yellow_tonal">#ff5c4300</color>
+</resources>

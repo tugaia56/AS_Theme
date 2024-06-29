@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="carColorBlue">@*android:color/accent_material_dark</color>
+    <color name="carColorGreen">#ff448b47</color>
+    <color name="carColorRed">#ffc5221f</color>
+    <color name="carColorYellow">#ffd5792d</color>
+    <color name="colorMenuText">@*android:color/white</color>
+    <color name="colorPodcastTitle">@*android:color/white</color>
+    <color name="colorProgramDescription">@*android:color/white</color>
+    <color name="colorProgramTime">#ffd8dbdd</color>
+    <color name="colorProgramTitle">@*android:color/white</color>
+    <color name="colorText">@*android:color/white</color>
+    <color name="color_loginb_background">#1affffff</color>
+    <color name="pairing_pin_color">@*android:color/white</color>
+    <color name="secondary_label_color">#ccffffff</color>
+    <color name="span_color_text">#ffffffff</color>
+    <color name="user_color">#19ffffff</color>
+    <color name="user_text_not_focus">#ffd8dbdd</color>
+</resources>

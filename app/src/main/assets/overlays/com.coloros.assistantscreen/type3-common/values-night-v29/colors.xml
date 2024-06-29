@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="advice_type_title_text_color_normal">#8cffffff</color>
+    <color name="black30">#4cffffff</color>
+    <color name="black_30">#4cffffff</color>
+    <color name="black_85">#d9ffffff</color>
+    <color name="card_background">@*android:color/button_material_dark</color>
+    <color name="card_loading_lumos_background">@*android:color/button_material_dark</color>
+    <color name="card_store_divider_color">#0fffffff</color>
+    <color name="card_store_icon_empty_operation">#1affffff</color>
+    <color name="color_step_text">#ffffffff</color>
+    <color name="common_loading_placeholder_color">@*android:color/background_dark</color>
+    <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
+    <color name="couiGreenTintControlPressed">@*android:color/ripple_material_dark</color>
+    <color name="couiGreenTintLightNormal">@*android:color/accent_material_dark</color>
+    <color name="coui_fast_scroller_message_text_color">#d9ffffff</color>
+    <color name="default_text_color">#ffffffff</color>
+    <color name="loading_failed_background_color">@*android:color/button_material_dark</color>
+    <color name="loading_failed_text_color">#4dffffff</color>
+    <color name="menu_icon_information">#ffffffff</color>
+    <color name="pop_container_card">@*android:color/background_dark</color>
+    <color name="popupColorTertiary">#08ffffff</color>
+    <color name="popup_item_drawable_color">#ffffffff</color>
+    <color name="popup_item_text_color">#d9ffffff</color>
+    <color name="quick_app_card_background">@*android:color/button_material_dark</color>
+    <color name="step_activity_highest_record_layout_color">@*android:color/background_dark</color>
+    <color name="step_display_year_bg_color">@*android:color/background_dark</color>
+    <color name="text_black">#ffffffff</color>
+    <color name="tv_follow_navigate_color">#85ffffff</color>
+</resources>

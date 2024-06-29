@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/ripple_material_dark" android:pathData="M48,24C48,37.254 37.2557,48 24.0007,48C10.7457,48 0,37.254 0,24C0,10.7446 10.7457,0 24.0007,0C37.2557,0 48,10.7446 48,24Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/ripple_material_dark" android:pathData="M48,24C48,37.254 37.2557,48 24.0007,48C10.7457,48 0,37.254 0,24C0,10.7446 10.7457,0 24.0007,0C37.2557,0 48,10.7446 48,24Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M18,16V32H21V16H18Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M25.5,32V16H30V32H25.5Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M15,32V16H16.5V32H15Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M22.5,32V16H24V32H22.5Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M31.5,16V32H33V16H31.5Z" />
+</vector>

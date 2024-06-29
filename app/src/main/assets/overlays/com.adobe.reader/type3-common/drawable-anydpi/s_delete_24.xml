@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="-714.0" android:translateY="-6598.0">
+        <group>
+            <clip-path android:pathData="M714 6598h24v24h-24z" />
+            <group android:translateX="714.233" android:translateY="6598.0">
+                <group android:translateX="-51.5" android:translateY="-1018.0">
+                    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M68.588 1038.012h-9.62L57.647 1025H69.811ZM67.168 1020h-6.829a1.092 1.092 0 0 0 -1.092 1.092v1.91h-4.434a0.546 0.546 0 0 0 -0.546 0.546v0.91a0.546 0.546 0 0 0 0.546 0.546h1.244l1.351 14.5a0.546 0.546 0 0 0 0.544 0.494H69.59a0.546 0.546 0 0 0 0.543 -0.494l1.318 -14.517h1.266a0.546 0.546 0 0 0 0.546 -0.546l-0.014 -0.877a0.546 0.546 0 0 0 -0.546 -0.546L68.248 1023 68.26 1021.092A1.092 1.092 0 0 0 67.168 1020Zm-5.925 2h5v1h-5z" />
+                </group>
+                <group android:translateX="-51.494" android:translateY="-1017.996">
+                    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M63.708 1036.6a0.791 0.791 0 0 1 -0.792 -0.792l0.022 -8.951a0.792 0.792 0 0 1 1.583 0l-0.022 8.951a0.791 0.791 0 0 1 -0.792 0.792z" />
+                </group>
+                <group android:translateX="-51.496" android:translateY="-1017.996">
+                    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M61.113 1036.585a0.791 0.791 0 0 1 -0.857 -0.719l-0.7 -8.922a0.79151327 0.79151327 0 1 1 1.577 -0.138l0.7 8.922a0.791 0.791 0 0 1 -0.719 0.857z" />
+                </group>
+                <group android:translateX="-51.492" android:translateY="-1017.996">
+                    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M66.3 1036.585a0.79 0.79 0 0 1 -0.719 -0.857l0.741 -8.922a0.79151327 0.79151327 0 1 1 1.577 0.138l-0.741 8.922a0.792 0.792 0 0 1 -0.857 0.719z" />
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

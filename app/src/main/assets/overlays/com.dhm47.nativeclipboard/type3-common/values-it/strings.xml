@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla Home Page</string>
+    <string name="abc_action_bar_home_description_format">%1$s
+             %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s
+             %2$s
+             %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">Scegli una applicazione</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Ricerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Ricerca… query</string>
+    <string name="abc_searchview_description_search">Ricerca…</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="search_menu_title">Ricerca…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about">Informazioni</string>
+    <string name="access_decs">"Viene utilizzato per rilevare il doppio tocco e monitorare gli appunti
+
+-"Osserva le tue azioni": essere informato del doppio tocco.
+-"Recupera contenuto finestra": per recuperare il campo di testo doppio tocco.
+-"Osserva il testo che digiti": vengono osservati solo Home
+             Recent e Back."</string>
+    <string name="accessibility">Accessibilità</string>
+    <string name="accessibility_available">Questa app richiede i permessi di Accesso</string>
+    <string name="active_theme">Tema Applicato:</string>
+    <string name="add">Inserisci</string>
+    <string name="altrcombos">Combinazioni alternative</string>
+    <string name="altrcombos_summary">Modi alternativi per aprire gli appunti</string>
+    <string name="app_name">Native Clipboard</string>
+    <string name="backup">Backup</string>
+    <string name="backup_location">Posizione di Backup</string>
+    <string name="bgcolor">Colore Sfondo</string>
+    <string name="blacklist">Lista nera</string>
+    <string name="blacklist_help">Scegli le app da non copiare (ad esempio
+             gestori di password).</string>
+    <string name="both_available">Puoi usare questa app da Xposed o Accessibilità</string>
+    <string name="both_enabled">Hai abilitato sia Xposed che Accessibilità</string>
+    <string name="category_advanced">Avanzate</string>
+    <string name="category_backup">Backup &amp; Ripristino</string>
+    <string name="category_sizes">Dimensioni Native Clipboard</string>
+    <string name="category_theme">Tema</string>
+    <string name="cbbutton">Inserisci Pulsante CB</string>
+    <string name="cbbutton_summary">"Inserisci Pulsante CB al menu di selezione
+*Richiede Riavvio"</string>
+    <string name="chrome_warning">A causa delle limitazioni in Chrome quando si incolla un appunto &lt;b>tutto&lt;/b> il testo precedente nel campo sarà &lt;b>sostituito&lt;/b></string>
+    <string name="chromepref">Chrome (beta)</string>
+    <string name="clear_all">Elimina tutto</string>
+    <string name="clear_all_conf">Eliminare tutti gli appunti?</string>
+    <string name="clip_text_hint">Testo appunti</string>
+    <string name="clipboard">Appunti</string>
+    <string name="clpcolor">Colore Appunti</string>
+    <string name="clpcolor_summary">Sfondo degli appunti</string>
+    <string name="columncount">Numero di colonne</string>
+    <string name="columncount_summary">Usa 0 per adattamento automatico</string>
+    <string name="compat_conflict">"Non funziona con la modalità di compatibilità"</string>
+    <string name="compatibility_user">Stai usando la modalità di compatibilità</string>
+    <string name="compatibility_user_desc">Passare a utilizzare Accessibilità
+             utilizza meno RAM e NON ha bisogno della notifica</string>
+    <string name="delete">Elimina</string>
+    <string name="deleted">Eliminato:</string>
+    <string name="dialog_color_picker">Scegli colore</string>
+    <string name="disable_access_toast">Fare clic su Native Clip Board
+             quindi disattivare</string>
+    <string name="disable_one">Si prega di disabilitarne uno</string>
+    <string name="disable_xposed_toast">Deselezionare Native Clip Board
+             quindi riavviare</string>
+    <string name="doesnt_work">Sfortunatamente questa app richiede Xposed
+             o Jelly Bean 4.3 e versioni successive</string>
+    <string name="done_button">FATTO</string>
+    <string name="double_tap">Doppio Tap</string>
+    <string name="edit">Modifica</string>
+    <string name="enable_access_toast">Fare clic su Native Clip Board
+             quindi attivare</string>
+    <string name="enable_accessibility">Abiltare Accessibilità</string>
+    <string name="enable_xposed_toast">Controllare Native Clip Board
+             quindi riavviare</string>
+    <string name="goto_accessibility">Vai alle Impostazioni</string>
+    <string name="goto_xposed">Vai a Xposed Installer</string>
+    <string name="help">Aiuto</string>
+    <string name="history_summary">"Scegli il numero di elementi da conservare nella cronologia"</string>
+    <string name="history_title">Dimensione Cronologia</string>
+    <string name="intro_both_avl">"Ognuno ha i suoi vantaggi e svantaggi
+             fare clic sul pulsante qui sotto per visitare il forum XDA per vedere il confronto"</string>
+    <string name="intro_combo_hint">"
+Questo può essere successivamente modificato in Avanzate"</string>
+    <string name="intro_compare">Confronto</string>
+    <string name="intro_desc">"Gli appunti nativi forniscono un accesso diretto a qualsiasi testo che hai copiato senza lasciare l'app corrente"</string>
+    <string name="intro_here">" Qui"</string>
+    <string name="intro_try_it">Prova</string>
+    <string name="intro_welcome">Benvenuto a Native clipboard</string>
+    <string name="intro_xposed_enable">Abilitare il modulo dal programma di installazione Xposed
+             riavviare. Quindi torna per continuare il tutorial</string>
+    <string name="intro_xposed_test">"Seleziona questo o clic prolungato su "INCOLLA""</string>
+    <string name="intro_xposed_test_m">Seleziona questo</string>
+    <string name="monitorservice">Modalità di compatibilità</string>
+    <string name="monitorservice_summary">"Utilizzare un servizio in background per monitorare il testo copiato per MIUI e Samsung Rom
+*Disabilita la Lista Nera"</string>
+    <string name="name_hint">Nome del Tema</string>
+    <string name="newfirst">Prima il più nuovo</string>
+    <string name="notification_summary">Questo potrebbe essere necessario per mantenere il servizio in esecuzione (specialmente su dispositivi con poca RAM)</string>
+    <string name="notification_title">Visualizza Notifica</string>
+    <string name="pastefunction">Passa a funzionalità di incolla</string>
+    <string name="pastefunction_summary_off">"Clic singolo: Incolla
+Clic prolungato : Apre ClipBoard
+*Richiede Riavvio"</string>
+    <string name="pastefunction_summary_on">"Clic singolo: apre ClipBoard
+Clic prolungato : Incolla
+*Richiede Riavvio"</string>
+    <string name="path_access">(Impostazioni> Accessibilità> Native Clip Board)</string>
+    <string name="path_both">"(Xposed> Moduli> Native Clip Board)
+(Impostazioni> Accessibilità> Native Clip Board)"</string>
+    <string name="path_xposed">(Xposed> Moduli> Native Clip Board)</string>
+    <string name="pin">Pin</string>
+    <string name="pinnedcolor">Colore Appunti Bloccati</string>
+    <string name="pinnedfirst">Primo Bloccato</string>
+    <string name="pinnedlast">Ultimo Bloccato</string>
+    <string name="req_reboot">*Richiede Riavvio</string>
+    <string name="req_xposed">Richiede Xposed</string>
+    <string name="restore">Ripristina</string>
+    <string name="save">Salva</string>
+    <string name="save_collections">Salva Tema corrente</string>
+    <string name="share">Condividi</string>
+    <string name="shrink">Ridurre</string>
+    <string name="singlepaste">Singolo Incolla</string>
+    <string name="singlepaste_summary">Chiude gli appunti direttamente dopo aver incollato</string>
+    <string name="skip_button">SALTA</string>
+    <string name="sort">Ordinamento appunti</string>
+    <string name="support">Supporto</string>
+    <string name="tap_longtap">Tap + Tap Prolungato</string>
+    <string name="theme_collections">Collezione Temi :</string>
+    <string name="theme_collections_summary">"Clicca per applicare
+Clic prolungato per eliminare"</string>
+    <string name="title_hint">Imposta un titolo per gli appunti</string>
+    <string name="triple_tap">Triplo Tap</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="txtcolor">Colore Testo</string>
+    <string name="txtsize">Dimensione Testo</string>
+    <string name="uisize">Altezza della ClipBoard</string>
+    <string name="undo">Annulla</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="unpin">Unpin</string>
+    <string name="usedefault">Usa predefinito</string>
+    <string name="windowsize_summary">Usa la linea per abbinare altezza degli appunti ad altezza della tastiera</string>
+    <string name="xda">XDA Thread</string>
+    <string name="xposed">Xposed</string>
+    <string name="xposed_available">È necessario abilitare il modulo tramite il programma di installazione Xposed</string>
+    <string name="xposed_desc">Gestore di appunti a livello di sistema Inseriscis</string>
+    <string name="chromepref_summary">"Usa opzione Tastiera
+In avanzate"</string>
+    <string name="compat_key">Compatibilità tastiera</string>
+    <string name="compat_key_summary">"Utilizzare per accedere al testo copiato nelle app in cui il doppio tocco non funziona (ex. Chrome)"</string>
+    <string name="diff_explanation">"-Integrato:
+ Funziona come una lingua aggiuntiva per Google Keyboard 
+(Non consigliato se hai più di una lingua)
+
+-Indipendente:
+ Funziona come una tastiera separata 
+Utilizza questa opzione se non usi Google Keyboard o non vuoi passare la mia tastiera ogni volta che cambi la lingua nella tastiera di Google"</string>
+    <string name="enable_keyboard">Abilita Tastiera</string>
+    <string name="enable_keyboard_desc">Vai alle impostazioni e attiva una delle due tastiere
+             quindi fai di nuovo clic</string>
+    <string name="explain_button">Spiegazione differenza</string>
+    <string name="key_monitor">Monitoraggio Tasti Fisici</string>
+    <string name="key_monitor_summary">"Monitorare Indietro e Home per chiudere gli Appunti quando si fa clic.
+Gli utenti di Xiaomi lo devono disattivare affinché la modalità ad una mano funzioni"</string>
+    <string name="keyboard_help">Aiutami a scegliere</string>
+    <string name="keyboard_intro_desc">"Usa una tastiera piena di testi copiati per le app in cui gli appunti non si aprono.
+Ad esempio: Office App
+             Browser Web"</string>
+    <string name="keyboard_intro_title">Tastiera</string>
+    <string name="keyboard_q1">Quale tastiera usi?</string>
+    <string name="keyboard_q2">Hai più di una lingua per tastiera?</string>
+    <string name="keyboard_q3">Ti dispiace passare gli appunti ogni volta che devi cambiare lingua?</string>
+    <string name="no">No</string>
+    <string name="smart_position">Posizione Appunti intelligente</string>
+    <string name="smart_position_summary">Posiziona gli appunti sul lato opposto dello schermo
+             in modo che il campo di testo non sia coperto</string>
+    <string name="switchingkeyboard1">Puoi cambiare tastiera usando uno dei tre modi:</string>
+    <string name="switchingkeyboard2">"1: utilizzo dell'opzione nel pannello delle notifiche 
+2-Usando il fondo nella Navigazione
+             nell'angolo in basso a destra dello schermo 
+3-Se utilizzi Google Keyboard
+             utilizza l'interruttore per il mappamondo"</string>
+    <string name="toast_independent">Usa indipendente</string>
+    <string name="toast_integrated">Usa integrato</string>
+    <string name="yes">Si</string>
+    <string name="auto_clipboard_height">Rileva altezza della tastiera</string>
+    <string name="draw_over_1">Per mostrare gli appunti
+             questa autorizzazione deve essere concessa
+             fare clic</string>
+    <string name="draw_over_2">per andare alle impostazioni per abilitarlo.</string>
+    <string name="draw_over_no_permission">Autorizzazione non concessa
+             Gli Appunti NON verranno visualizzati</string>
+    <string name="draw_over_title">Disegna su altre app</string>
+    <string name="example_1">Scorri per eliminare</string>
+    <string name="example_2">Tirare la barra delle azioni per spostarsi</string>
+    <string name="example_3">Clic prolungato per vedere di più ... Apri il menu per sbloccare
+             In modo che possa essere cancellato
+             o clic prolungato per tornare indietro</string>
+    <string name="issue_open">Gli appunti nativi hanno riscontrato un problema e si sono interrotti
+             si prega di riaprire Native Clipboard</string>
+    <string name="issue_reboot">Native Clipboard si è bloccata
+             per favore riavvia il tuo dispositivo</string>
+    <string name="keyboard_auto_return_summery">Ritorna automaticamente alla tastiera normale dopo la chiusura</string>
+    <string name="keyboard_auto_return_title">Ritorno Automatico</string>
+    <string name="keyboard_no_choice">Per favore scegli la tastiera che usi</string>
+    <string name="keyboard_single_paste_summery">Torna alla tastiera normale dopo aver incollato</string>
+    <string name="keyboard_theme_dark">Scuro</string>
+    <string name="keyboard_theme_light">Chiaro</string>
+    <string name="keyboard_theme_same">Come negli Appunti</string>
+    <string name="night_mode">Modalità Notturna</string>
+    <string name="night_mode_auto">Auto</string>
+    <string name="night_mode_day">Tema chiaro</string>
+    <string name="night_mode_night">Tema scuro</string>
+    <string name="no_backup">Nessun file di backup trovato</string>
+    <string name="open">Per favore apri "</string>
+    <string name="reading_list">Lettura elenco ripristinato dallo spazio di archiviazione</string>
+    <string name="restore_default">Ripristina predefinito</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="define_appintro" />
+    <string name="library_appintro_author">Paolo Rotolo</string>
+    <string name="library_appintro_authorWebsite">http://paolorotolo.github.io/</string>
+    <string name="library_appintro_classPath">com.github.paolorotolo.appintro</string>
+    <string name="library_appintro_isOpenSource">Vero</string>
+    <string name="library_appintro_libraryDescription">AppIntro è una libreria per fare una bella introduzione nelle tue app Android.</string>
+    <string name="library_appintro_libraryName">AppIntro</string>
+    <string name="library_appintro_libraryVersion">3.2.0</string>
+    <string name="library_appintro_libraryWebsite">https://github.com/PaoloRotolo/AppIntro</string>
+    <string name="library_appintro_licenseId">apache_2_0</string>
+    <string name="library_appintro_repositoryLink">https://github.com/PaoloRotolo/AppIntro</string>
+    <string name="md_back_label">Indietro</string>
+    <string name="md_cancel_label">Annulla</string>
+    <string name="md_choose_label">Scegli</string>
+    <string name="md_custom_label">Personalizzato</string>
+    <string name="md_done_label">Fatto</string>
+    <string name="md_error_label">Errore</string>
+    <string name="md_presets_label">Predefiniti</string>
+    <string name="md_storage_perm_error">La tua app non ha ottenuto i permessi per READ_EXTERNAL_STORAGE.</string>
+    <string name="new_folder">Nuova Cartella</string>
+    <string name="password_toggle_content_description">Attiva / disattiva la visibilità della password</string>
+    <string name="path_password_eye">M12
+            4.5C7
+            4.5 2.73
+            7.61 1
+            12c1.73
+            4.39 6
+            7.5 11
+            7.5s9.27
+            -3.11 11
+            -7.5c-1.73
+            -4.39 -6
+            -7.5 -11
+            -7.5zM12
+            17c-2.76
+            0 -5
+            -2.24 -5
+            -5s2.24
+            -5 5
+            -5 5
+            2.24 5
+            5 -2.24
+            5 -5
+            5zM12
+            9c-1.66
+            0 -3
+            1.34 -3
+            3s1.34
+            3 3
+            3 3
+            -1.34 3
+            -3 -1.34
+            -3 -3
+            -3z</string>
+    <string name="path_password_eye_mask_strike_through">M2
+            4.27 L19.73
+            22 L22.27
+            19.46 L4.54
+            1.73 L4.54
+            1 L23
+            1 L23
+            23 L1
+            23 L1
+            4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2
+            4.27 L2
+            4.27 L4.54
+            1.73 L4.54
+            1.73 L4.54
+            1 L23
+            1 L23
+            23 L1
+            23 L1
+            4.27 Z</string>
+    <string name="path_password_strike_through">M3.27
+            4.27 L19.74
+            20.74</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="bg_subtitle_sync_dialog">#ffbdbdbd</item>
+    <item type="drawable" name="dialog_fragment_bg">@*android:color/background_dark</item>
+    <item type="drawable" name="drawer_split_line">#1affffff</item>
+    <item type="drawable" name="login_bg">@*android:color/background_dark</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="splash_bg">@*android:color/background_dark</item>
+    <item type="drawable" name="translucent_gray">#80000000</item>
+</resources>

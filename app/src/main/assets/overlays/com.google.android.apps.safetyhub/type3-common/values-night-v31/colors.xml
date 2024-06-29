@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sud_system_primary_text">#d50000</color>
+    <color name="sud_system_secondary_text">#e53935</color>
+    <color name="sud_system_tertiary_text_inactive">#6a1b9a</color>
+    <color name="survey_button_background_color">#9c27b0</color>
+    <color name="survey_button_text_color">#3d5afe</color>
+    <color name="daynight_dynamic_accent">@*android:color/accent_material_dark</color>
+    <color name="daynight_dynamic_color_neutral1_50">@*android:color/background_dark</color>
+    <color name="daynight_notification_text_primary">#ffffffff</color>
+    <color name="daynight_notification_text_secondary">#ffffffff</color>
+    <color name="google_marterial_button_stroke_color">#64b5f6</color>
+    <color name="google_marterial_dialog_background_color">#01579b</color>
+    <color name="google_marterial_dialog_body_text_color">#004d40</color>
+    <color name="google_marterial_dialog_title_color">#00897b</color>
+    <color name="settingslib_colorSurfaceVariant">@*android:color/background_dark</color>
+    <color name="settingslib_dialog_accent">@*android:color/accent_material_dark</color>
+    <color name="settingslib_dialog_background">@*android:color/background_dark</color>
+    <color name="settingslib_dialog_colorError">@*android:color/accent_material_dark</color>
+    <color name="settingslib_text_color_preference_category_title">@*android:color/accent_material_dark</color>
+    <color name="settingslib_text_color_primary_device_default">#ffffffff</color>
+    <color name="settingslib_thumb_disabled_color">#ffffffff</color>
+    <color name="settingslib_thumb_off_color">#ffffffff</color>
+    <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>
+    <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
+   <color name="sud_system_accent_icon_text_button">#388e3c</color>
+    <color name="sud_system_background_surface">#ffd600</color>
+    <color name="sud_system_hyperlink_text">#f57f17</color>
+    <color name="sud_system_surface">#fff176</color>
+    <color name="survey_outlined_button_text_color">@*android:color/accent_material_dark</color>
+    <color name="settingslib_surface_dark">@*android:color/background_dark</color>
+</resources>

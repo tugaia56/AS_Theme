@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_home_description_format">%1$s
+             %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s
+             %2$s
+             %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">Scegli un\' applicazione</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta avendo problemi con i servizi di Google Play. Se il problema persiste
+             contatta lo sviluppatore per assistenza.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_copy">Copyright 2013 uZum Apps</string>
+    <string name="about_header">Wakelock Detector</string>
+    <string name="about_review">Se ti piace questa app
+             per favore votala e lascia una recensione.</string>
+    <string name="about_us">Riguardo l\'app</string>
+    <string name="advanced_mode">Modalità avanzata</string>
+    <string name="advanced_mode_tip">mostra i processi di sistema che vengono utilizzati dal sistema operativo Android</string>
+    <string name="agree">Si
+             sono d\'accordo</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="developer_supported">+ developer supported</string>
+    <string name="dlg_stats_screen_on">Tempo di attivazione</string>
+    <string name="dlg_stats_time">Statistiche durante</string>
+    <string name="dlg_stats_total_awake">Tempo totale dei risvegli</string>
+    <string name="email_body">Dear developer!</string>
+    <string name="email_company_address">uzumapps@gmail.com</string>
+    <string name="email_developer">Email developer</string>
+    <string name="email_title">User request</string>
+    <string name="faq">FAQ</string>
+    <string name="faq_answer_1">Analizza le app che utilizzano la funzionalità wakelock e mostra quali stavano causando wakelock
+             per quanto tempo e quante volte. Vedendo queste statistiche ti renderai conto quali app stavano scaricando la batteria</string>
+    <string name="faq_answer_10">"Questa non è un\'utility di free memory. Non chiuderà automaticamente le app in esecuzione in background
+             poiché alcuni servizi in background sono necessari e dovrebbero essere eliminati manualmente."</string>
+    <string name="faq_answer_2">"Wakelock è una funzionalità del sistema operativo Android per gli sviluppatori
+             controlla il ciclo di vita della CPU del dispositivo (awake
+            asleep) e lo stato dello schermo (acceso
+             spento
+             inattivo)"</string>
+    <string name="faq_answer_3">Modalità risparmio. È quando la CPU è in modalità di sospensione (la modalità di consumo della batteria più bassa). Il dispositivo entra automaticamente in questa modalità se è inattivo. Per questo motivo
+             le app devono utilizzare i wakelock per riattivare la CPU e fare alcune cose come controllare il nuovo messaggio
+             ottenere la posizione GPS
+             allarmare ed ecc....</string>
+    <string name="faq_answer_4">"I Wakelock possono essere utilizzati per mantenere la CPU in funzione
+             impedire che lo schermo si attenui
+             evitare che lo schermo si spenga. Queste caratteristiche aumentano molto il consumo della batteria
+             specialmente se non sono disponibili per un lungo periodo di tempo. È una buona pratica utilizzare i wakelock solo quando strettamente necessario
+             per il minor tempo necessario e per rilasciarli il prima possibile. Solitamente la gestione di 'Wakelock' è lasciata alle preferenze del programmatore ma sfortunatamente non tutti i programmatori prestano attenzione meticolosa per gestire i suoi effetti sul consumo della batteria."</string>
+    <string name="faq_answer_5">"CPU [Wakelocks parziale] \nQuesto tipo di wakelock può mantenere la CPU in esecuzione mentre lo schermo del telefono è spento. \nScreen wakelocks [Wakelocks completo] \nQuesto può impedire lo spegnimento dello schermo (anche la CPU funzionerà)"</string>
+    <string name="faq_answer_6">"I trigger di attivazione sono le app che attivano il telefono al risveglio da deep sleep tramite AlarmManager del sistema operativo Android. Nota che se hai problemi con "AlarmManager"
+             i trigger di attivazione ti aiutano a rilevare quali app sono registrate su AlarmManager"</string>
+    <string name="faq_answer_7">"1. Scollegare il telefono dal caricabatterie.
+	
+2. Non usare il telefono per almeno 2-3 ore. Ha bisogno di tempo per raccogliere i dati per l\'analisi. 
+
+3. Apri il programma
+             puoi vedere le app che stavano causando wakelock. 
+
+4. Nella barra in alto
+             puoi filtrare i wakelock per CPU o Schermo.
+
+5. Per impostazione predefinita
+             le app sono ordinate in base all'utilizzo di wakelock. Puoi anche ordinarli in base allo stato di esecuzione o in ordine alfabetico"</string>
+    <string name="faq_answer_8">"Innanzitutto
+             cerca su Google 'problema wakelock di nome-app'. Questo ti mostrerà le possibili soluzioni. In caso contrario
+             controllare le impostazioni dell\'app (impostazioni per la frequenza degli eventi
+             gli aggiornamenti automatici
+             la sincronizzazione dei dati e così via). Puoi anche forzare a fermare l\'app come soluzione temporanea dalle impostazioni. Altrimenti
+             disinstalla e scarica un\'app alternativa"</string>
+    <string name="faq_answer_9">"Premi "Informazioni app" nella visualizzazione estesa. Premi "Forza interruzione" nella finestra delle impostazioni dell\'app
+             interrompe completamente l\'app. "Pulisci cache"
+             "Pulisci dati" e infine "Disinstalla""</string>
+    <string name="faq_question_1">Cosa fa quest\'app?</string>
+    <string name="faq_question_10">Cosa non fa Wakelock Detector?</string>
+    <string name="faq_question_2">Cos\'è il Wakelock e perché dovrei preoccuparmene?</string>
+    <string name="faq_question_3">Qual\'è lo stato preferito per il mio dispositivo?</string>
+    <string name="faq_question_4">Come i Wakelock influenzano il consumo della batteria?</string>
+    <string name="faq_question_5">"Cosa sono i Wakelock "CPU" e "Screen"</string>
+    <string name="faq_question_6">"Che cos\'è "Wakeup Trigger"?"</string>
+    <string name="faq_question_7">Qual\'è il modo passo-passo per usarlo?</string>
+    <string name="faq_question_8">Cosa devo fare quando trovo app che scaricano la batteria?</string>
+    <string name="faq_question_9">Come disinstallare l\'app che scarica la batteria?</string>
+    <string name="knowledge_base_agree">Knowledge base è la raccolta di soluzioni esistenti per i problemi di wakelock. È possibile trovare la descrizione e le soluzioni per i problemi comuni di wakelock. Tuttavia non è garantito che tu possa trovare la soluzione in questo database</string>
+    <string name="later">Più tardi</string>
+    <string name="menu_exit">Uscita</string>
+    <string name="menu_install_as_system">Installa come \napp di sistema</string>
+    <string name="menu_more">Altro</string>
+    <string name="menu_refresh">Aggiorna</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_share">Condividi</string>
+    <string name="menu_sort">Ordina per</string>
+    <string name="menu_sort_abc">Per Nome</string>
+    <string name="menu_sort_active">In esecuzione</string>
+    <string name="menu_sort_usage">Per utilizzo</string>
+    <string name="menu_type">Statistiche</string>
+    <string name="menu_type_both">Screen wakelock</string>
+    <string name="menu_type_cpu">CPU wakelock</string>
+    <string name="menu_type_kernel">Kernel wakelock</string>
+    <string name="menu_type_pkg">Wakeup triggers</string>
+    <string name="menu_type_screen">Window</string>
+    <string name="more_features">Aggiornamento</string>
+    <string name="popup_copy_astext">Copia come testo</string>
+    <string name="popup_email_this">Invia questo per email</string>
+    <string name="popup_googleit">Google it</string>
+    <string name="popup_tip">Tip</string>
+    <string name="purchase">Acquista</string>
+    <string name="purchase_knowledge_base">"Knowledge base
+(42 inserimenti)"</string>
+    <string name="purchase_widgets">Widgets</string>
+    <string name="purchased">Acquistato</string>
+    <string name="rate_this_app">Valuta questa applicazione</string>
+    <string name="reset_on_usb_unplug">Statistiche da quando si scollega</string>
+    <string name="reset_on_usb_unplug_tip">mostra le statistiche dal momento in cui il cavo USB è stato scollegato</string>
+    <string name="show_0_wakelocks">Mostra wakelocks vuoti</string>
+    <string name="show_0_wakelocks_tip">mostra tutti i wakelock inclusi quelli con durate vuote (0)</string>
+    <string name="sorry_action_fail">Impossibile eseguire questa attività al momento
+             riprova più tardi</string>
+    <string name="sorry_device_not_supported">Spiacenti
+             il tuo dispositivo non supporta le statistiche sulla batteria</string>
+    <string name="st_app_idle">Inattivo</string>
+    <string name="st_app_running">In esecuzione</string>
+    <string name="st_app_system_level">Sistema</string>
+    <string name="st_app_user_level">Utente</string>
+    <string name="st_bring_to_front">Apri</string>
+    <string name="st_change_theme">Cambia tema</string>
+    <string name="st_count_times">%s volte</string>
+    <string name="st_googleplay">Playstore</string>
+    <string name="st_info">App Info</string>
+    <string name="st_loading">Caricamento in corso..</string>
+    <string name="st_no_statistics">Non ci sono ancora statistiche sulla batteria disponibili
+             dacci un po\' di tempo!</string>
+    <string name="st_packagename">Nome del pacchetto</string>
+    <string name="st_share_content">Rilevatore Wakelock: mostra quali app mantengono sveglio il tuo telefono Android https://play.google.com/store/apps/details?id=com.uzumapps.wakelockdetector</string>
+    <string name="st_status">Stato</string>
+    <string name="st_theme_dark">Tema scuro</string>
+    <string name="st_theme_light">Tema chiaro</string>
+    <string name="st_type">Genere</string>
+    <string name="tip_activitytitle">WLD - Knowledge Base</string>
+    <string name="tip_appdesc">Descrizione dell\'app:</string>
+    <string name="tip_appname">Nome dell\'applicazione:</string>
+    <string name="tip_appversion">Versione dell\'app:</string>
+    <string name="tip_packagename">Nome del pacchetto:</string>
+    <string name="tip_problemdesc">Problema:</string>
+    <string name="tip_reference">Riferimento:</string>
+    <string name="tip_solution">Soluzione:</string>
+    <string name="tip_wakelocktag">Wakelock tag:</string>
+    <string name="total_stats_awake">Awake</string>
+    <string name="total_stats_deep_sleep">Deep sleep</string>
+    <string name="total_stats_since">Statistiche da ~ %s</string>
+    <string name="widget_medium_name">Wakelock - CPU wakelocks</string>
+    <string name="widget_pie_name">Wakelock - Widget grande</string>
+    <string name="widget_small_name">Wakelock - Widget Piccolo</string>
+    <string name="window_title">WLD</string>
+    <string name="accept">Accetta</string>
+    <string name="app_name">Wakelock Detector Full</string>
+    <string name="are_you_sure">Sei sicuro?</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4999689826930058/2862190120</string>
+    <string name="create_calendar_message">Consenti annuncio per creare un evento del calendario?</string>
+    <string name="create_calendar_title">Crea un evento del calendario</string>
+    <string name="decline">Declino</string>
+    <string name="menu_uninstall_from_system">Installa come \napp utente</string>
+    <string name="msg_now_reboot">È possibile riavviare il device ora!</string>
+    <string name="needs_root">L\'autorizzazione di accesso è stata modificata in KitKat
+             ora le statistiche avanzate richiedono l\'accesso ROOT :(</string>
+    <string name="notification_whitelist">Lista bianca</string>
+    <string name="purchase_notification">Notifica WakeLock</string>
+    <string name="refresh_on_touch">Aggiorna al tocco</string>
+    <string name="st_greenify">Greenify</string>
+    <string name="st_uninstall">Rimuovi</string>
+    <string name="store_picture_message">Consenti il salvataggio dell\'immagine nella galleria di immagini?</string>
+    <string name="store_picture_title">Salva immagine</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+</resources>

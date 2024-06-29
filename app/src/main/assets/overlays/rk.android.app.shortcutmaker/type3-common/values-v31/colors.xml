@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkBackground">@*android:color/background_dark</color>
+    <color name="darkCardBackground">@*android:color/holo_primary</color>
+    <color name="darkPrimary">@*android:color/accent_material_dark</color>
+    <color name="dark_icon_primary">@*android:color/accent_material_dark</color>
+    <color name="dark_icon_quaternary">@*android:color/accent_material_dark</color>
+    <color name="dark_icon_secondary">@*android:color/accent_material_dark</color>
+    <color name="dark_icon_tertiary">@*android:color/accent_material_dark</color>
+    <color name="ic_launcher_background">@*android:color/holo_primary</color>
+    <color name="lightBackground">@*android:color/background_dark</color>
+    <color name="lightCardBackground">@*android:color/holo_primary</color>
+    <color name="lightPrimary">@*android:color/accent_material_dark</color>
+    <color name="light_icon_primary">@*android:color/accent_material_dark</color>
+    <color name="light_icon_quaternary">@*android:color/accent_material_dark</color>
+    <color name="light_icon_secondary">@*android:color/accent_material_dark</color>
+    <color name="light_icon_tertiary">@*android:color/accent_material_dark</color>
+    <color name="dark_icon">@*android:color/background_dark</color>
+    <color name="light_icon">@*android:color/background_dark</color>
+</resources>

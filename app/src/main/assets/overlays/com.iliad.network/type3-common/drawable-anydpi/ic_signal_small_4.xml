@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="9.0dip" android:width="13.0dip" android:viewportWidth="21.0" android:viewportHeight="15.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffdedede" android:pathData="M18.647
+            0L19.294
+            0A1
+            1 0
+            0 1
+            20.294 1L20.294
+            14A1
+            1 0
+            0 1
+            19.294 15L18.647
+            15A1
+            1 0
+            0 1
+            17.647 14L17.647
+            1A1
+            1 0
+            0 1
+            18.647 0z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M14.235
+            2.647L14.882
+            2.647A1
+            1 0
+            0 1
+            15.882 3.647L15.882
+            14A1
+            1 0
+            0 1
+            14.882 15L14.235
+            15A1
+            1 0
+            0 1
+            13.235 14L13.235
+            3.647A1
+            1 0
+            0 1
+            14.235 2.647z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M9.824
+            5.294L10.471
+            5.294A1
+            1 0
+            0 1
+            11.471 6.294L11.471
+            14A1
+            1 0
+            0 1
+            10.471 15L9.824
+            15A1
+            1 0
+            0 1
+            8.824 14L8.824
+            6.294A1
+            1 0
+            0 1
+            9.824 5.294z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M5.412
+            7.941L6.059
+            7.941A1
+            1 0
+            0 1
+            7.059 8.941L7.059
+            14A1
+            1 0
+            0 1
+            6.059 15L5.412
+            15A1
+            1 0
+            0 1
+            4.412 14L4.412
+            8.941A1
+            1 0
+            0 1
+            5.412 7.941z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M1
+            10.588L1.647
+            10.588A1
+            1 0
+            0 1
+            2.647 11.588L2.647
+            14A1
+            1 0
+            0 1
+            1.647 15L1
+            15A1
+            1 0
+            0 1
+            0 14L0
+            11.588A1
+            1 0
+            0 1
+            1 10.588z" android:fillType="evenOdd" />
+</vector>

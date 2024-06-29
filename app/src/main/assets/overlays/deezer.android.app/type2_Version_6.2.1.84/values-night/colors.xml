@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_pressed">@*android:color/accent_material_dark</color>
+    <color name="button_accent_ripple">@*android:color/ripple_material_dark</color>
+    <color name="consent_bottom_background">@*android:color/group_button_dialog_focused_holo_dark</color>
+    <color name="cookie_consent_color_primary">@*android:color/background_dark</color>
+    <color name="cookie_consent_parameters_pressed">@*android:color/button_material_dark</color>
+    <color name="gradient_white_end">#00424242</color>
+    <color name="gradient_white_start">@*android:color/button_material_dark</color>
+    <color name="native_ad_background_facebook">@*android:color/background_dark</color>
+    <color name="offerwall_background">@*android:color/background_dark</color>
+    <color name="offerwall_primary_cta_color">@*android:color/button_material_dark</color>
+    <color name="sort_bar_divider">#ff282832</color>
+    <color name="text_body_disabled">#ff919196</color>
+    <color name="text_second_line_disabled">#ff5a5a65</color>
+</resources>

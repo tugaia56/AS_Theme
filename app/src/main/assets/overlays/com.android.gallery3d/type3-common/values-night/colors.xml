@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="album_background">@*android:color/background_dark</color>
+    <color name="albumset_background">@*android:color/background_dark</color>
+    <color name="default_background">@*android:color/background_dark</color>
+    <color name="primary_text">#deffffff</color>
+    <color name="timeline_title_background_color">@*android:color/background_dark</color>
+    <color name="timeline_title_number_text_color">#99ffffff</color>
+</resources>

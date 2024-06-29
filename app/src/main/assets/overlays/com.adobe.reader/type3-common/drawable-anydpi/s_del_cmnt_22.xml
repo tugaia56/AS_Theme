@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="22.0dip" android:width="22.0dip" android:autoMirrored="true" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M15.6
+            18H6.9L5.7
+            6h11.1L15.6
+            18zM14.5
+            2H8C7.4
+            2 7
+            2.4 7
+            3v1.5H3.5C3.2
+            4.5 3
+            4.7 3
+            5v1c0
+            0.3 0.2
+            0.5 0.5
+            0.5h0.8L5.5
+            19c0
+            0.3 0.2
+            0.5 0.5
+            0.5h10.6c0.3
+            0 0.5
+            -0.2 0.5
+            -0.5l1.2
+            -12.5H19c0.3
+            0 0.5
+            -0.2 0.5
+            -0.5V5c0
+            -0.3 -0.2
+            -0.5 -0.5
+            -0.5h-3.5V3C15.5
+            2.4 15.1
+            2 14.5
+            2zM8.5
+            3.5H14v1H8.5V3.5z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M11.2
+            16.5c-0.4
+            0 -0.7
+            -0.3 -0.7
+            -0.7V8.2c0
+            -0.4 0.3
+            -0.7 0.7
+            -0.7S12
+            7.8 12
+            8.2v7.6C12
+            16.2 11.7
+            16.5 11.2
+            16.5z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M8.9
+            16.5c-0.4
+            0 -0.8
+            -0.3 -0.8
+            -0.7L7.4
+            8.3c0
+            -0.4 0.3
+            -0.8 0.7
+            -0.8s0.8
+            0.3 0.8
+            0.7l0
+            0l0.7
+            7.5C9.6
+            16.1 9.3
+            16.4 8.9
+            16.5C8.9
+            16.5 8.9
+            16.5 8.9
+            16.5L8.9
+            16.5z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M13.6
+            16.5c-0.4
+            0 -0.7
+            -0.4 -0.7
+            -0.8c0
+            0 0
+            0 0
+            0l0.7
+            -7.5c0
+            -0.4 0.4
+            -0.7 0.8
+            -0.7s0.7
+            0.4 0.7
+            0.8l-0.7
+            7.5C14.4
+            16.2 14
+            16.5 13.6
+            16.5L13.6
+            16.5z" />
+</vector>

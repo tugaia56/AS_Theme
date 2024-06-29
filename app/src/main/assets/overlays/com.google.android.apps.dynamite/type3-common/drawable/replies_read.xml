@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="16.0dip" android:width="16.0dip" android:viewportWidth="16.0" android:viewportHeight="16.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/button_material_light" android:pathData="M13.3335
+            2.6667H2.6668C1.9335
+            2.6667 1.3402
+            3.2667 1.3402
+            4L1.3335
+            16L4.0002
+            13.3334H13.3335C14.0668
+            13.3334 14.6668
+            12.7334 14.6668
+            12V4C14.6668
+            3.2667 14.0668
+            2.6667 13.3335
+            2.6667ZM13.3335
+            12H2.6668V4H13.3335V12ZM9.3335
+            9.3334H4V10.6667H9.3335V9.3334ZM4
+            7.3334H12V8.6667H4V7.3334ZM12
+            5.3334H4V6.6667H12V5.3334Z" android:fillType="evenOdd" />
+</vector>

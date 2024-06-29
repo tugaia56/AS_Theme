@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_home_description_format">%1$s
+             %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s
+             %2$s
+             %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="alertdialog_btn_negative">Chiudi</string>
+    <string name="alertdialog_btn_neutral">Cancella</string>
+    <string name="alertdialog_btn_positive">Ok</string>
+    <string name="alertdialog_message">"Questa è una Finestra di Avviso.
+
+Lo stile del testo del titolo è definito in framework-res style: 
+
+ TextAppearance.Holo.Widget.ActionBar.Title"</string>
+    <string name="alertdialog_title">Finestra di Avviso</string>
+    <string name="alertdialogabout_btn_negative">Chiudi</string>
+    <string name="alertdialogabout_message">"La maggior parte del codice contenuto in Theme Debugger è stato inserito da Fabio Durigon. Grazie a lui possiamo duplicare i nostri temi utilizzando le interfacce utente Holo Dark e Light di Android. Stringhe e interfaccia utente principale di Cristian Giordano
+             themer e debugger."</string>
+    <string name="alertdialogabout_title">Informazioni Theme Debugger</string>
+    <string name="alertdialogpro_btn_negative">Swag!</string>
+    <string name="alertdialogpro_btn_neutral">Cancella</string>
+    <string name="alertdialogpro_btn_positive">Ok</string>
+    <string name="alertdialogpro_message">Questa funzione sarà presto disponibile
+             restate sintonizzati per altre novità!</string>
+    <string name="alertdialogpro_title">Theme Debugger</string>
+    <string name="app_name">Theme Debugger</string>
+    <string name="btn_alertdialog">Visualizza Avviso</string>
+    <string name="btn_check_off_disabled">btn_check_off_disabled</string>
+    <string name="btn_check_off_holo">btn_check_off_holo</string>
+    <string name="btn_check_on_disabled">btn_check_on_disabled</string>
+    <string name="btn_check_on_holo">btn_check_on_holo</string>
+    <string name="btn_default_disabled">disabilitato</string>
+    <string name="btn_default_normal">normale</string>
+    <string name="btn_maketoast">Visualizza Toast</string>
+    <string name="btn_notification_high">Notifica - Priorità Alta</string>
+    <string name="btn_notification_low">Notifica - Priorità Bassa</string>
+    <string name="btn_progress_horizontal">Barra Avanzamento</string>
+    <string name="btn_progress_horizontal_ind">Barra Avanzamento Indeterminata</string>
+    <string name="btn_progress_spinner">Visualizza Indicatori Progresso</string>
+    <string name="btn_radio_off_disabled">btn_radio_off_disabled</string>
+    <string name="btn_radio_off_holo">btn_radio_off_holo</string>
+    <string name="btn_radio_on_disabled">btn_radio_on_disabled</string>
+    <string name="btn_radio_on_holo">btn_radio_on_holo</string>
+    <string name="btn_userinput">Input Utente</string>
+    <string name="color_holo_blue_bright">Holo Blue Bright</string>
+    <string name="color_holo_blue_dark">Holo Blue Dark</string>
+    <string name="color_holo_blue_light">Holo Blue Light</string>
+    <string name="color_primary_text_dark">Primary Text Dark</string>
+    <string name="color_primary_text_light">Primary Text Light</string>
+    <string name="color_sect_holo_blue">Holo Blue</string>
+    <string name="color_sect_primary_text">Primary Text</string>
+    <string name="launcher_name">Theme Debug</string>
+    <string name="nav_drawer_close">Chiudi Drawer</string>
+    <string name="nav_drawer_heather">Scegli un tema</string>
+    <string name="nav_drawer_item1">Material Dark</string>
+    <string name="nav_drawer_item10">Legacy Light</string>
+    <string name="nav_drawer_item11">Legacy Wallpaper</string>
+    <string name="nav_drawer_item12">DeviceDefault Dark</string>
+    <string name="nav_drawer_item13">DeviceDefault Light</string>
+    <string name="nav_drawer_item14">DeviceDefault - Dark Actionbar</string>
+    <string name="nav_drawer_item15">Checkerboard Dark</string>
+    <string name="nav_drawer_item16">Checkerboard Light</string>
+    <string name="nav_drawer_item2">Material Light</string>
+    <string name="nav_drawer_item3">Material Light - Dark Actionbar</string>
+    <string name="nav_drawer_item4">Material Wallpaper</string>
+    <string name="nav_drawer_item5">Holo Dark</string>
+    <string name="nav_drawer_item6">Holo Light</string>
+    <string name="nav_drawer_item7">Holo Light - Dark Actionbar</string>
+    <string name="nav_drawer_item8">Holo Wallpaper</string>
+    <string name="nav_drawer_item9">Legacy Black</string>
+    <string name="nav_drawer_open">Apr Drawer</string>
+    <string name="notext_hint">Digita qualcosa qui</string>
+    <string name="notification_message_high">"Questa è una notifica fatta da Theme Debugger. Ti consente di testare i colori dello sfondo e delle icone utilizzati dalle notifiche ad alta priorità.
+
+Questo è il tipo più comune di notifica."</string>
+    <string name="notification_message_low">"Questa è una notifica fatta da Theme Debugger. Ti consente di testare i colori dello sfondo e delle icone utilizzati dalle notifiche a bassa priorità.
+
+Questo tipo di notifica viene generalmente utilizzato
+             ad esempio
+             dal widget meteo di Google Now."</string>
+    <string name="notification_option1">Pulsante 1</string>
+    <string name="notification_option2">Pulsante 2</string>
+    <string name="notification_option3">Pulsante 3</string>
+    <string name="notification_smallmessage">Tirami giù!</string>
+    <string name="notification_title_high">Notifica - Alta Priorità</string>
+    <string name="notification_title_low">Notifica - Bassa Priorità</string>
+    <string name="spinner_prompt">Titolo Finestra Dialogo</string>
+    <string name="t1">Normal</string>
+    <string name="t10">Condensed Bold</string>
+    <string name="t11">Condensed Italic</string>
+    <string name="t12">Condensed Bold Italic</string>
+    <string name="t2">Italic</string>
+    <string name="t3">Bold</string>
+    <string name="t4">Bold Italic</string>
+    <string name="t5">Light</string>
+    <string name="t6">Light Italic</string>
+    <string name="t7">Thin</string>
+    <string name="t8">Thin Italic</string>
+    <string name="t9">Condensed</string>
+    <string name="text_btn_normal">Pulsanti Normali</string>
+    <string name="text_btn_small">Pulsanti Piccoli</string>
+    <string name="text_cheatsheet_button">"btn_default_button
+Framework-res.apk"</string>
+    <string name="text_cheatsheet_seekbar">"Seek Bar
+             Scrubber
+Framework-res.apk
+
+scrubber_primary_holo
+scrubber_control_normal_holo
+scrubber_track_holo_dark
+scrubber_track_holo_light"</string>
+    <string name="text_cheatsheet_switch">"switch_thumb
+Framework-res.apk"</string>
+    <string name="text_dialogwindowtitle">Titolo Finestra Dialogo</string>
+    <string name="text_disabled">Disabilitato</string>
+    <string name="text_enabled">Abilitato</string>
+    <string name="text_not_an_image">Il file non è un\'immagine</string>
+    <string name="text_off">Off</string>
+    <string name="text_on">On</string>
+    <string name="text_progressbar_dialog_title">Premi indietro per interrompere</string>
+    <string name="text_restart_ui">Riavvia system UI</string>
+    <string name="text_sect_buttons">Pulsanti Principali (btn_default)</string>
+    <string name="text_sect_checkbox">Casella Controllo (btn_check)</string>
+    <string name="text_sect_main">Interfaccia Principale</string>
+    <string name="text_sect_pickerdate">Scegli Data</string>
+    <string name="text_sect_pickertime">Scegli Orario</string>
+    <string name="text_sect_progressbar">Barra Avanzamento</string>
+    <string name="text_sect_radio">Radio (btn_radio)</string>
+    <string name="text_sect_rating">Barra Valutazione</string>
+    <string name="text_sect_ratingbar">Barra Valutazione</string>
+    <string name="text_sect_scrubber">Scrubber</string>
+    <string name="text_sect_seekbar">Barra Volume</string>
+    <string name="text_sect_selspinner">Spinner</string>
+    <string name="text_sect_spinner">Spinner</string>
+    <string name="text_sect_switchtoggles">Interruttori e Commutatori</string>
+    <string name="text_sect_sysactions">Azioni Sistema</string>
+    <string name="text_sect_textinput">Immissione Testo</string>
+    <string name="text_sect_textstyles">Stile Testo</string>
+    <string name="text_set_window_bg">Scegli Sfondo</string>
+    <string name="text_settings">Informazioni</string>
+    <string name="text_tab_1">Toggle</string>
+    <string name="text_tab_2">Widget</string>
+    <string name="text_tab_3">Azioni</string>
+    <string name="text_tab_4">Testo</string>
+    <string name="text_test">Test UI</string>
+    <string name="text_thumb">switch_thumb</string>
+    <string name="text_toggle">btn_toggle</string>
+    <string name="text_ui_button1">Pulsante</string>
+    <string name="text_ui_checkbox1">Casella Controllo</string>
+    <string name="text_ui_radio1">Pulsante Radio</string>
+    <string name="text_ui_smbutton1">Pulsante Piccolo</string>
+    <string name="text_ui_switch1">Interruttore</string>
+    <string name="title_activity_font_tester">Debug Caratteri</string>
+    <string name="toast_message">"Questo è un test per i toast e stiamo testando i toast. :)"</string>
+    <string name="toast_notification_low">"Nota: la notifica di priorità bassa non aggiunge un\'icona alla barra di stato."</string>
+</resources>

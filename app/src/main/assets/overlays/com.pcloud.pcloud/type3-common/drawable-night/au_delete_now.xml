@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="236.0dip" android:width="200.0dip" android:viewportWidth="200.0" android:viewportHeight="236.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M100
+            0C44.8
+            0 0
+            44.8 0
+            100c0
+            45.7 30.7
+            84.3 72.6
+            96.2c2.2
+            -12.3 13
+            -21.7 25.9
+            -21.7c13.2
+            0 24.1
+            9.7 26
+            22.4c43.3
+            -11 75.4
+            -50.2 75.4
+            -96.9C200
+            44.8 155.2
+            0 100
+            0z" />
+    <path android:fillColor="#fff" android:pathData="M135
+            55H65c-5.5
+            0 -10
+            4.5 -10
+            10v70c0
+            5.5 4.5
+            10 10
+            10h70c5.5
+            0 10
+            -4.5 10
+            -10V65C145
+            59.5 140.5
+            55 135
+            55zM119.9
+            70.1c4.1
+            0 7.4
+            3.3 7.4
+            7.4s-3.3
+            7.4 -7.4
+            7.4s-7.4
+            -3.3 -7.4
+            -7.4S115.8
+            70.1 119.9
+            70.1zM65.3
+            129.9L87.8
+            100l17.4
+            22.5l12.2
+            -15.1l18
+            22.5H65.3z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/white" android:pathData="M100
+            200m-36
+            0a36
+            36 0
+            1 1
+            72 0a36
+            36 0
+            1 1
+            -72 0" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M107
+            185.1l-2
+            -2l-10
+            0l-2
+            2l-7
+            0l0
+            4l28
+            0l0
+            -4z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M88
+            215.1c0
+            2.2 1.8
+            4 4
+            4h16c2.2
+            0 4
+            -1.8 4
+            -4v-24H88V215.1z" />
+</vector>

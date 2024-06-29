@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey_0">#fffafafa</color>
+    <color name="grey_9">@*android:color/background_dark</color>
+    <color name="grey_8">@*android:color/button_material_dark</color>
+    <color name="black">@*android:color/background_dark</color>
+    <color name="grey_bubble_background">@*android:color/button_material_dark</color>
+    <color name="grey_10">@*android:color/background_dark</color>
+    <color name="grey_7">@*android:color/button_material_dark</color>
+    <color name="bar_color_25_percent">@*android:color/accent_material_dark</color>
+    <color name="blue_1">@*android:color/accent_material_dark</color>
+    <color name="container_background_color">@*android:color/background_dark</color>
+    <color name="feedPressStateBackgroundColor">#ff525252</color>
+    <color name="igds_search_avatar_stroke">#2bffffff</color>
+    <color name="splash_screen_background">@*android:color/background_dark</color>
+</resources>

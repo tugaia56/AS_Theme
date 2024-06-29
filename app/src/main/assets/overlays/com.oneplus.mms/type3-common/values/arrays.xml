@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="op_default_photo_theme_colors">
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+    </array>
+    <array name="texture_bg_color_array">
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+    </array>
+</resources>

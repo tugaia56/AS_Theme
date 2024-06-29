@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gearhead_launcher_icon_diameter">84.0dip</dimen>
+    <dimen name="gearhead_launcher_icon_radius">42.0dip</dimen>
+    <dimen name="gearhead_launcher_label_text_size">0.0dip</dimen>
+    <dimen name="gearhead_launcher_label_height">0.0dip</dimen>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:autoMirrored="true" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.007
+            6.619a1
+            1 0
+            0 0
+            -1.707 -0.707l-8.043
+            8.043 -3.043
+            -3.043a1
+            1 0
+            0 0
+            -1.438 1.39l0.024
+            0.025 3.75
+            3.75a1
+            1 0
+            0 0
+            1.414 0l8.75
+            -8.75a0.994
+            0.994 0
+            0 0
+            0.292 -0.708Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.007
+            6.619a1
+            1 0
+            0 0
+            -1.707 -0.707l-8.043
+            8.043 -3.043
+            -3.043a1
+            1 0
+            0 0
+            -1.438 1.39l0.024
+            0.025 3.75
+            3.75a1
+            1 0
+            0 0
+            1.414 0l8.75
+            -8.75a0.994
+            0.994 0
+            0 0
+            0.292 -0.708Z" />
+</vector>

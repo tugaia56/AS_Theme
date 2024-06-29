@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bronze_primary">#ffe6ab83</color>
+    <color name="car_list_divider_light">#0cffffff</color>
+    <color name="diamond_primary">#ff01a5b9</color>
+    <color name="gold_primary">#ffd1a803</color>
+    <color name="platinum_primary">#ffcedee5</color>
+    <color name="silver_primary">#ffc4c7cc</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+</resources>

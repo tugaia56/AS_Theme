@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="certificateEmptyViewIconTint">#ffffffff</color>
+    <color name="certificateEmptyViewText">#d9828383</color>
+    <color name="certificateInfo">#b9e5e6e9</color>
+    <color name="certificateTitle">#ffffffff</color>
+    <color name="certificateToolbarBackground">@*android:color/background_dark</color>
+    <color name="certificateToolbarTextPrimary">#ffffffff</color>
+    <color name="certificateToolbarTint">#ff7f8285</color>
+    <color name="certificateWindowBackGround">@*android:color/background_dark</color>
+    <color name="passcode_circle_default">#1affffff</color>
+    <color name="passcode_circle_pressed">#ffffffff</color>
+    <color name="passcode_input_bg">@*android:color/background_dark</color>
+    <color name="passcode_pref_bg">@*android:color/background_dark</color>
+    <color name="passcode_text">#ffffffff</color>
+    <color name="passcode_text_pressed">#ffffffff</color>
+    <color name="passcode_toolbar_bg">@*android:color/background_dark</color>
+    <color name="ui_doc_app_bg">@*android:color/background_dark</color>
+    <color name="ui_doc_bg">@*android:color/background_dark</color>
+    <color name="ui_doc_toolbar_tint">@*android:color/background_dark</color>
+</resources>

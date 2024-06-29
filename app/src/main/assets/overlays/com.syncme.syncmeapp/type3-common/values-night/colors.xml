@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activity_main__bottom_navigation_view_background">@*android:color/background_floating_material_dark</color>
+    <color name="activity_main__product_hunt_list_item__background">@*android:color/holo_light_primary_dark</color>
+    <color name="activity_main__product_hunt_list_item__title">@*android:color/white</color>
+    <color name="activity_main__search_bar">@*android:color/white</color>
+    <color name="activity_main__sliding_menu__list_item_icon_tint">@*android:color/white</color>
+    <color name="activity_phone_call_recording_list_item__icons">@*android:color/white</color>
+    <color name="colorOnSecondary">@*android:color/background_dark</color>
+    <color name="fragment_callerid_activated__tab_background">@*android:color/white</color>
+    <color name="ic_searchmode_back_grey">@*android:color/white</color>
+    <color name="main_activity__list_item_mark_selection">@*android:color/white</color>
+    <color name="premium_offer_background">#00000000</color>
+    <color name="premium_sync_disclaimer">#00000000</color>
+    <color name="primaryOrWhiteForDark">@*android:color/white</color>
+    <color name="sn_premium_logo_text">@*android:color/transparent</color>
+    <color name="spamColor">@*android:color/accent_material_dark</color>
+    <color name="tealish_green">@*android:color/accent_material_dark</color>
+    <color name="textColorPrimary">#ffffffff</color>
+    <color name="textColorSecondaryOrWhiteForDark">@*android:color/white</color>
+    <color name="toolbar_up_button">@*android:color/white</color>
+    <color name="widget_darkOrWhiteTextForDark">@*android:color/white</color>
+    <color name="widget_whiteOrDarkTextForDark">#de000000</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="black">@*android:color/background_dark</item>
+    <item type="drawable" name="list_background">#fff4f4f4</item>
+    <item type="drawable" name="ltgray">#fff4f4f4</item>
+    <item type="drawable" name="ltyellow">#fffff4db</item>
+    <item type="drawable" name="mini_list_devider">#ffbababa</item>
+    <item type="drawable" name="mini_page_bg_color">#ffededed</item>
+    <item type="drawable" name="mini_win_background_draw">#00000000</item>
+    <item type="drawable" name="mj_color_black_00_transparent">#00000000</item>
+    <item type="drawable" name="mj_color_gray_lighter">#ff999999</item>
+    <item type="drawable" name="mj_color_green_50_percent">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="mj_color_green_normal">@*android:color/accent_material_dark</item>
+    <item type="drawable" name="mj_color_white">#ffffffff</item>
+    <item type="drawable" name="mj_color_white_00_transparent">#00ffffff</item>
+    <item type="drawable" name="namcard_picker_bkg_hover">@*android:color/holo_light_primary_dark</item>
+    <item type="drawable" name="namcard_picker_bkg_normal">@*android:color/holo_primary</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="title_background">#ffebebec</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="transparent_background">#99000000</item>
+    <item type="drawable" name="widget_edit_block_bg_normal">@*android:color/transparent</item>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="certificateEmptyViewIconTint">#ffffffff</color>
+    <color name="certificateEmptyViewText">#d9828383</color>
+    <color name="certificateInfo">#b9e5e6e9</color>
+    <color name="certificateTitle">#ffffffff</color>
+    <color name="certificateToolbarBackground">@*android:color/background_dark</color>
+    <color name="certificateToolbarTextPrimary">#ffffffff</color>
+    <color name="certificateWindowBackGround">@*android:color/background_dark</color>
+    <color name="dialog_background">@*android:color/background_dark</color>
+    <color name="dialog_text_color">#ffffffff</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_accent_ripple">@*android:color/ripple_material_dark</color>
+    <color name="com_braze_content_card_background">@*android:color/background_floating_material_dark</color>
+    <color name="com_braze_content_card_background_border">@*android:color/background_floating_material_dark</color>
+    <color name="com_braze_content_card_background_shadow">@*android:color/background_floating_material_dark</color>
+    <color name="com_braze_content_card_empty_text_color">@*android:color/white</color>
+    <color name="com_braze_content_cards_action_hint_text_color">@*android:color/accent_material_dark</color>
+    <color name="com_braze_content_cards_description">@*android:color/white</color>
+    <color name="com_braze_content_cards_display_background_color">@*android:color/background_dark</color>
+    <color name="com_braze_content_cards_title">@*android:color/white</color>
+    <color name="com_braze_content_cards_unread_bar_color">@*android:color/accent_material_dark</color>
+    <color name="cookie_consent_parameters_pressed">@*android:color/button_material_dark</color>
+    <color name="cs_loaderColor">#ffffffff</color>
+    <color name="cs_progressMaxActive">#ffffffff</color>
+    <color name="cs_progressPrimary">#ffffffff</color>
+    <color name="cs_progressSecondary">#8affffff</color>
+    <color name="native_ad_background_facebook">@*android:color/background_dark</color>
+    <color name="offerwall_primary_cta_color">@*android:color/button_material_dark</color>
+    <color name="white">#ffffffff</color>
+</resources>

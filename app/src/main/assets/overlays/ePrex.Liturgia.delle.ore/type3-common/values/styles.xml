@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.DialogWindowTitleBackground.AppCompat" parent="@*android:style/Widget">
+        <item name="*android:background">@*android:color/background_dark</item>
+        <item name="*android:paddingLeft">@*android:dimen/dialog_padding_material</item>
+        <item name="*android:paddingTop">18.0dip</item>
+        <item name="*android:paddingRight">@*android:dimen/dialog_padding_material</item>
+    </style>
+</resources>

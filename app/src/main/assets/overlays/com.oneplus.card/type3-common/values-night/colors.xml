@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_background">#0affffff</color>
+    <color name="card_stroke">#0fffffff</color>
+    <color name="op_delete_bg_color">#19ffffff</color>
+    <color name="op_divider_card_bg">#19ffffff</color>
+    <color name="op_ic_bus_color">#ff6779e4</color>
+    <color name="op_ic_group_color">#ffe69c58</color>
+    <color name="op_ic_hotel_color">#ff6c6dc4</color>
+    <color name="op_ic_movie_color">#ffcb635b</color>
+    <color name="op_ic_plane_color">#ff6394da</color>
+    <color name="op_ic_train_color">#ff2fa7b7</color>
+    <color name="op_manual_expried_bg_color">#19ffffff</color>
+    <color name="to_delete_color">#ffc6534c</color>
+    <color name="to_expired_color">#ff858fca</color>
+    <color name="user_tutorial_tip_bg_color">#1e000000</color>
+</resources>

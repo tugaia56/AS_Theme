@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="33.668dip" android:width="33.668dip" android:viewportWidth="33.668" android:viewportHeight="33.668"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M16.834
+            16.834m-16.834
+            0a16.834
+            16.834 0
+            1 1
+            33.668 0a16.834
+            16.834 0
+            1 1
+            -33.668 0" android:strokeColor="#00000000" android:strokeWidth="2.0" />
+    <path android:fillColor="#00000000" android:pathData="M16.834
+            16.834m-15.834
+            0a15.834
+            15.834 0
+            1 1
+            31.668 0a15.834
+            15.834 0
+            1 1
+            -31.668 0" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="2.0" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M22.164
+            15.369a0.749
+            0.749 0
+            0 0
+            -0.55 -0.227L18.248
+            15.142L18.248
+            11.777a0.749
+            0.749 0
+            0 0
+            -0.227 -0.55A0.749
+            0.749 0
+            0 0
+            17.472 11L15.919
+            11a0.749
+            0.749 0
+            0 0
+            -0.55 0.226
+            0.749 0.749
+            0 0
+            0 -0.227
+            0.55L15.142
+            15.142L11.777
+            15.142a0.749
+            0.749 0
+            0 0
+            -0.55 0.227A0.749
+            0.749 0
+            0 0
+            11 15.919L11
+            17.472a0.748
+            0.748 0
+            0 0
+            0.226 0.55
+            0.749 0.749
+            0 0
+            0 0.55
+            0.227L15.142
+            18.249v3.366a0.773
+            0.773 0
+            0 0
+            0.777 0.776L17.472
+            22.391a0.773
+            0.773 0
+            0 0
+            0.777 -0.776L18.249
+            18.248h3.365a0.773
+            0.773 0
+            0 0
+            0.777 -0.777L22.391
+            15.919A0.749
+            0.749 0
+            0 0
+            22.164 15.369Z" />
+</vector>

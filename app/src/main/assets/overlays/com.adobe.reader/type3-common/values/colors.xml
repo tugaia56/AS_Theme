@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="FillHighlightColorNightMode">@*android:color/accent_material_dark</color>
+    <color name="spectrum_dark_blue5">@*android:color/accent_material_dark</color>
+    <color name="spectrum_darkest_blue6">@*android:color/accent_material_dark</color>
+    <color name="spectrum_lightest_blue4">@*android:color/accent_material_dark</color>
+    <color name="spectrum_lightest_blue4_alpha50">@*android:color/ripple_material_dark</color>
+    <color name="spectrum_static_blue4">@*android:color/accent_material_dark</color>
+
+    <color name="BackgroundOverlayColor">@*android:color/background_dark</color>
+    <color name="StaticBlack">@*android:color/background_dark</color>
+    <color name="adobe_csdk_oneupview_background_color">@*android:color/background_dark</color>
+    <color name="adobe_spectrum_static_black">@*android:color/background_dark</color>
+    <color name="black">@*android:color/background_dark</color>
+    <color name="custom_dialog_edit_color">@*android:color/background_dark</color>
+    <color name="adobe_spectrum_darkest_gray50">@*android:color/background_dark</color>
+    <color name="blue">@*android:color/accent_material_dark</color>
+    <color name="font_picker_list_disabled_color">@*android:color/ripple_material_dark</color>
+    <color name="font_picker_list_selected_color">@*android:color/accent_material_dark</color>
+    <color name="goto_dialog_disabled_button_text_color">@*android:color/ripple_material_dark</color>
+    <color name="action_blue_color_focused">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_dark50_blue5">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_darkest_blue6">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_lightest_blue4">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_static_blue4">@*android:color/accent_material_dark</color>
+    <color name="comment_filter_stroke_color_selected">@*android:color/accent_material_dark</color>
+    <color name="feedback_dropdown_border_color_selected">@*android:color/accent_material_dark</color>
+    <color name="selector_button">@*android:color/accent_material_dark</color>
+    <color name="selector_dialog_button_default">@*android:color/accent_material_dark</color>
+    <color name="FillHighlightColor">@*android:color/accent_material_dark</color>
+    <color name="LabelHighlightColor">@*android:color/accent_material_dark</color>
+    <color name="StaticBlueSecondaryColor">@*android:color/accent_material_dark</color>
+    <color name="action_bar_button_color">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_darkest_blue4">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_light245_blue5">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_lightest_blue6">@*android:color/accent_material_dark</color>
+    <color name="adobe_spectrum_static_blue6">@*android:color/accent_material_dark</color>
+    <color name="comment_button_selected_color">@*android:color/accent_material_dark</color>
+    <color name="file_download_progressbar_primary_color">@*android:color/accent_material_dark</color>
+    <color name="selected_list_item_background_phone">@*android:color/accent_material_dark</color>
+    <color name="share_action_blue_color">@*android:color/accent_material_dark</color>
+    <color name="text_highlight_color">@*android:color/ripple_material_dark</color>
+    <color name="material_grey_900">@*android:color/background_dark</color>
+
+</resources>

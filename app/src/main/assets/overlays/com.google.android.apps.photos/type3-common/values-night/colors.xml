@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="delete_button_enabled_color">@*android:color/accent_material_dark</color>
+    <color name="delete_button_enabled_text_color">#ffffffff</color>
+    <color name="material_google_red_500">@*android:color/accent_material_dark</color>
+    <color name="material_grey_white_1000">@*android:color/background_dark</color>
+    <color name="people_chip_selected_state_background_color">#1eeeeaed</color>
+    <color name="photos_assistant_cardui_overlay">#42ffffff</color>
+	<color name="photos_cloudstorage_winback_header_image_bottom_right_color">#ff1c455e</color>
+    <color name="photos_cloudstorage_winback_header_image_top_left_color">#ff284631</color>
+    <color name="photos_daynight_blue50">@*android:color/ripple_material_dark</color>
+    <color name="photos_daynight_grey800_alpha38">@*android:color/ripple_material_dark</color>
+    <color name="photos_daynight_white_elevation_12dp">#ff3b3b3e</color>
+    <color name="photos_daynight_white_elevation_1dp">@*android:color/holo_primary</color>
+    <color name="photos_daynight_white_elevation_3dp">@*android:color/background_dark</color>
+    <color name="photos_daynight_white_elevation_8dp">@*android:color/background_dark</color>
+    <color name="photos_draganddrop_drop_overlay_background">#f0000000</color>
+    <color name="photos_flyingsky_confirm_suggestion_edit_text_cursor_color">#ff0f84ff</color>
+    <color name="photos_flyingsky_confirm_suggestion_edit_text_hint_color">#ff707378</color>
+    <color name="photos_photofragment_mediadetails_scrim_start_color">#33000000</color>
+    <color name="photos_printingskus_common_ui_education_splash_background">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="photos_printingskus_storefront_config_contentrow_alpha50">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="photos_search_explore_suggestedmerge_daynight_green600_alpha12">#1f81c995</color>
+    <color name="photos_search_explore_suggestedmerge_daynight_grey600_alpha12">#1fdadce0</color>
+    <color name="photos_search_explore_suggestedmerge_daynight_red600_alpha12">#1ff28b82</color>
+    <color name="photos_search_guidedconfirmation_daynight_green600_alpha12">#1f81c995</color>
+    <color name="photos_search_guidedconfirmation_daynight_grey600_alpha12">#1fdadce0</color>
+    <color name="photos_search_guidedconfirmation_daynight_red600_alpha12">#1ff28b82</color>
+    <color name="photos_sharingshortcuts_onboarding_dialog_top_background_color">@*android:color/background_dark</color>
+    <color name="play_protect_auth_accent_color">@*android:color/accent_material_dark</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+</resources>

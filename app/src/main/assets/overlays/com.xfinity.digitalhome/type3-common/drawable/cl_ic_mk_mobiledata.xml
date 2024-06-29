@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="cl_ic_mk_mobiledata" android:height="72.0dip" android:width="72.0dip" android:viewportWidth="72.0" android:viewportHeight="72.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:name="layer_2">
+        <group android:name="group3">
+            <group android:name="group4">
+                <path android:name="rectangle2" android:fillColor="#ffffffff" android:pathData="M 26,66.2 L 31.7,66.2 L 31.7,35.7 L 26,35.7 L 26,66.2 Z" />
+                <path android:name="rectangle3" android:fillColor="#ffffffff" android:pathData="M 11.7,66.2 L 17.4,66.2 L 17.4,47.7 L 11.7,47.7 L 11.7,66.2 Z" />
+                <path android:name="rectangle4" android:fillColor="#ffffffff" android:pathData="M 54.5,66.2 L 60.2,66.2 L 60.2,5.7 L 54.5,5.7 L 54.5,66.2 Z" />
+                <path android:name="rectangle5" android:fillColor="#ffffffff" android:pathData="M 40.2,66.2 L 45.9,66.2 L 45.9,20.7 L 40.2,20.7 L 40.2,66.2 Z" />
+            </group>
+        </group>
+    </group>
+</vector>

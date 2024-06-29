@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#ff15202b</color>
+    <color name="border_color">#ff38444d</color>
+    <color name="community_blue">#ff3e80ff</color>
+    <color name="community_eggplant">#ffc35fc5</color>
+    <color name="community_foam">#ff009c7b</color>
+    <color name="community_fuchsia">#ffee37a4</color>
+    <color name="community_green">#ff459647</color>
+    <color name="community_orange">#ffe75803</color>
+    <color name="community_purple">#ff8f70fe</color>
+    <color name="community_red">#ffe85156</color>
+    <color name="community_teal">#ff0093a9</color>
+    <color name="custom_push_primary_dark_color">#b2ffffff</color>
+    <color name="global_ripple_selector_color">#6dffffff</color>
+    <color name="gray_0">@*android:color/background_dark</color>
+    <color name="gray_200">@*android:color/holo_primary</color>
+    <color name="gray_300">#ff6b7d8c</color>
+    <color name="gray_300_opacity_30">#4d6b7d8c</color>
+    <color name="gray_300_opacity_50">#806b7d8c</color>
+    <color name="gray_50">#ff10171e</color>
+    <color name="pressed">#ff101922</color>
+    <color name="pressed_overlay">#38000000</color>
+    <color name="super_follow_label_background">@*android:color/accent_material_dark</color>
+    <color name="super_follow_label_text">@*android:color/accent_material_dark</color>
+    <color name="text">#ffffffff</color>
+    <color name="toolbar_bg_color">#ff1c2938</color>
+    <color name="unread">@*android:color/holo_light_primary_dark</color>
+</resources>

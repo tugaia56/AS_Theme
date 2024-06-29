@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m3_sys_color_dynamic_dark_on_surface_variant">@*android:color/white</color>
+    <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>
+    <color name="m3_sys_color_dynamic_dark_surface_variant">@*android:color/holo_primary</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_on_surface">#fff</color>
+    <color name="m3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>
+    <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
+    <color name="m3_sys_color_dynamic_dark_on_background">@*android:color/white</color>
+    <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_tertiary">#fff</color>
+    <color name="m3_ref_palette_dynamic_secondary30">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_dynamic_secondary90">@*android:color/white</color>
+    <color name="m3_ref_palette_dynamic_primary20">#fff</color>
+    <color name="m3_ref_palette_dynamic_primary90">@*android:color/white</color>
+    <color name="m3_ref_palette_dynamic_primary30">@*android:color/accent_material_dark</color>
+
+</resources>

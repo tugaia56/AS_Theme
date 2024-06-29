@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_background_color">@*android:color/background_dark</color>
+    <color name="card_divider_color">@*android:color/background_floating_material_dark</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorPrimary">@*android:color/background_dark</color>
+    <color name="mi_switch_bg_unchecked">@*android:color/ripple_material_dark</color>
+</resources>

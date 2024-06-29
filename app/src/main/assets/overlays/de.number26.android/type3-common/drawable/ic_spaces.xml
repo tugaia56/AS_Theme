@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#fff2f2f2" android:pathData="M24
+            24m-24
+            0a24
+            24 0
+            1 1
+            48 0a24
+            24 0
+            1 1
+            -48 0" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M17.5
+            16C16.6716
+            16 16
+            16.6716 16
+            17.5V21.5C16
+            22.3284 16.6716
+            23 17.5
+            23H21.5C22.3284
+            23 23
+            22.3284 23
+            21.5V17.5C23
+            16.6716 22.3284
+            16 21.5
+            16H17.5ZM21.5
+            17.5H17.5L17.5
+            21.5L21.5
+            21.5L21.5
+            17.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M25
+            17.5C25
+            16.6716 25.6716
+            16 26.5
+            16H30.5C31.3284
+            16 32
+            16.6716 32
+            17.5V21.5C32
+            22.3284 31.3284
+            23 30.5
+            23H26.5C25.6716
+            23 25
+            22.3284 25
+            21.5V17.5ZM26.5
+            17.5H30.5V21.5L26.5
+            21.5V17.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M25
+            26.5C25
+            25.6716 25.6716
+            25 26.5
+            25H30.5C31.3284
+            25 32
+            25.6716 32
+            26.5V30.5C32
+            31.3284 31.3284
+            32 30.5
+            32H26.5C25.6716
+            32 25
+            31.3284 25
+            30.5V26.5ZM26.5
+            26.5H30.5V30.5H26.5V26.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M16
+            26.5C16
+            25.6716 16.6716
+            25 17.5
+            25H21.5C22.3284
+            25 23
+            25.6716 23
+            26.5V30.5C23
+            31.3284 22.3284
+            32 21.5
+            32H17.5C16.6716
+            32 16
+            31.3284 16
+            30.5V26.5ZM17.5
+            26.5H21.5L21.5
+            30.5H17.5L17.5
+            26.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffe8f2ee" android:pathData="M48
+            24C48
+            37.254 37.2557
+            48 24.0007
+            48C10.7457
+            48 0
+            37.254 0
+            24C0
+            10.7446 10.7457
+            0 24.0007
+            0C37.2557
+            0 48
+            10.7446 48
+            24Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M17.5
+            16C16.6716
+            16 16
+            16.6716 16
+            17.5V21.5C16
+            22.3284 16.6716
+            23 17.5
+            23H21.5C22.3284
+            23 23
+            22.3284 23
+            21.5V17.5C23
+            16.6716 22.3284
+            16 21.5
+            16H17.5ZM21.5
+            17.5H17.5L17.5
+            21.5L21.5
+            21.5L21.5
+            17.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M25
+            17.5C25
+            16.6716 25.6716
+            16 26.5
+            16H30.5C31.3284
+            16 32
+            16.6716 32
+            17.5V21.5C32
+            22.3284 31.3284
+            23 30.5
+            23H26.5C25.6716
+            23 25
+            22.3284 25
+            21.5V17.5ZM26.5
+            17.5H30.5V21.5L26.5
+            21.5V17.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M16
+            26.5C16
+            25.6716 16.6716
+            25 17.5
+            25H21.5C22.3284
+            25 23
+            25.6716 23
+            26.5V30.5C23
+            31.3284 22.3284
+            32 21.5
+            32H17.5C16.6716
+            32 16
+            31.3284 16
+            30.5V26.5ZM17.5
+            26.5H21.5L21.5
+            30.5H17.5L17.5
+            26.5Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M25
+            26.5C25
+            25.6716 25.6716
+            25 26.5
+            25H30.5C31.3284
+            25 32
+            25.6716 32
+            26.5V30.5C32
+            31.3284 31.3284
+            32 30.5
+            32H26.5C25.6716
+            32 25
+            31.3284 25
+            30.5V26.5ZM26.5
+            26.5H30.5V30.5H26.5V26.5Z" android:fillType="evenOdd" />
+</vector>

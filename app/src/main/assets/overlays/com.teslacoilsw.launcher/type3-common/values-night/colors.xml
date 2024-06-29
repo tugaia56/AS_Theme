@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backup_adapter_item_text_color">#ffffffff</color>
+    <color name="backup_adapter_section_text_color">#ffbdbdbd</color>
+    <color name="badge_settings_text_color_normal">#ffffffff</color>
+    <color name="cardIdleBackground">@*android:color/background_dark</color>
+    <color name="popup_color_icon_only_color">#ffffffff</color>
+    <color name="popup_color_primary">@*android:color/background_dark</color>
+    <color name="popup_color_secondary">@*android:color/background_dark</color>
+    <color name="popup_color_tertiary">@*android:color/background_dark</color>
+    <color name="prime_text_color">@*android:color/accent_material_dark</color>
+    <color name="switcher_bar_background_color">@*android:color/background_dark</color>
+    <color name="textColorPrimaryDayNight">@*android:color/white</color>
+    <color name="textColorSecondaryDayNight">#b3ffffff</color>
+    <color name="theme_color_accent">@*android:color/accent_material_dark</color>
+    <color name="theme_color_primary">@*android:color/accent_material_dark</color>
+    <color name="theme_color_primary_dark">@*android:color/background_dark</color>
+    <color name="theme_notification_bar_color">@*android:color/background_dark</color>
+    <color name="theme_toolbar_color">@*android:color/background_dark</color>
+    <color name="windowBackground">@*android:color/background_dark</color>
+</resources>

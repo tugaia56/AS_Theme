@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gm3_sys_color_on_primary">@*android:color/accent_material_dark</color>
+    <color name="gm3_sys_color_on_surface">@*android:color/white</color>
+    <color name="gm3_sys_color_on_surface_variant">#ffffffff</color>
+    <color name="gm3_sys_color_primary">#ffffffff</color>
+    <color name="gm3_sys_color_secondary">@*android:color/white</color>
+    <color name="gm3_sys_color_surface">@*android:color/background_dark</color>
+    <color name="settingslib_thumb_disabled_color">#ffffffff</color>
+    <color name="settingslib_thumb_off_color">#ffffffff</color>
+    <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>
+    <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>	
+</resources>

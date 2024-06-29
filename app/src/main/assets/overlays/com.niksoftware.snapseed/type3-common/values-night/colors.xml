@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*android:color/accent_material_dark</color>
+    <color name="crop_overlay">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="divider">#29f8f9fa</color>
+    <color name="histogram_brightness_stroke">@*android:color/background_dark</color>
+    <color name="introduction_label">#ff9aa0a6</color>
+    <color name="main_background">@*android:color/background_dark</color>
+    <color name="primary">@*android:color/background_dark</color>
+    <color name="primary_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_transparent">@*android:color/background_dark</color>
+    <color name="secondary_background">@*android:color/background_dark</color>
+    <color name="slider_background">@*android:color/holo_primary</color>
+    <color name="status_bar_light">#ff323335</color>
+    <color name="theme_item_disabled">@*android:color/background_dark</color>
+    <color name="theme_item_normal">@*android:color/white</color>
+    <color name="theme_item_primary">#fff1f3f4</color>
+    <color name="tool_background">#e647484b</color>
+    <color name="tool_background_secondary">#e6202026</color>
+    <color name="tool_text">@*android:color/white</color>
+</resources>

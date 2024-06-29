@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dir_selection_methods">
+        <item>Selettore file interno</item>
+        <item>Selettore file di sistema</item>
+    </string-array>
+    <string-array name="backup_file_name_formats">
+        <item>NOME_PACCHETTO_VERSIONE.apks</item>
+        <item>NOME.apks</item>
+        <item>NOME_VERSIONE.apks</item>
+    </string-array>
+    <string-array name="backup_file_name_formats_values">
+        <item>NOME_PACCHETTO_VERSIONE</item>
+        <item>NOME</item>
+        <item>NOME_VERSIONE</item>
+    </string-array>
+    <string-array name="file_picker_sort_variants">
+        <item>Per Nome (Alfabetico)</item>
+        <item>Per Nome (Alfabetico Inverso)</item>
+        <item>Primo modificato</item>
+        <item>Ultimo modificato</item>
+    </string-array>
+    <string-array name="install_locations">
+        <item>Lascia decidere il sistema</item>
+        <item>Solo interno</item>
+        <item>Preferisci esterno (il sistema può ancora decidere di utilizzare interno)</item>
+    </string-array>
+    <string-array name="install_locations_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="installers">
+        <item>Rootless (raccomandato)</item>
+        <item>Rooted (richiede root)</item>
+        <item>Shizuku (richiede Shizuku 3.x)</item>
+    </string-array>
+    <string-array name="name_format_parts">
+        <item>Nome</item>
+        <item>Versione</item>
+        <item>Codice Versione</item>
+        <item>Pacchetto</item>
+        <item>Timestamp</item>
+    </string-array>
+    <string-array name="size_units">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>PB</item>
+    </string-array>
+    <string-array name="themes">
+        <item>SAI</item>
+        <item>Ruby</item>
+        <item>Rena</item>
+        <item>Ukrrooter</item>
+        <item>Amoled</item>
+        <item>Pixel</item>
+        <item>SAI (F-Droid)</item>
+        <item>Dark</item>
+    </string-array>
+</resources>

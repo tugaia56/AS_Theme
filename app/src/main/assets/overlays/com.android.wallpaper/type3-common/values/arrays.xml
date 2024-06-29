@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="clock_colors">
+        <item>#ffb9b9b9</item>
+        <item>#ffffa3a7</item>
+        <item>#fff7ac69</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>#ff88d86a</item>
+        <item>#ff8ec8ff</item>
+        <item>#ffb9aaff</item>
+        <item>#fff6a2ff</item>
+        <item>#ff40d9cf</item>
+    </array>
+</resources>

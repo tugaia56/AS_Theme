@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_report_sub_container">@*android:color/background_dark</color>
+    <color name="bg_report_sub_edit">#ffffffff</color>
+    <color name="bg_system_notice_item">@*android:color/holo_primary</color>
+    <color name="circle_entrance_background_color">@*android:color/background_dark</color>
+    <color name="circle_item_name_bg">#80545454</color>
+    <color name="comment_content_color">#ffffffff</color>
+    <color name="comment_editbox_background_color">#19ffffff</color>
+    <color name="comment_username_high_light_bg">@*android:color/accent_material_dark</color>
+    <color name="explore_circle_item_bg">@*android:color/holo_primary</color>
+    <color name="home_tab_bg">@*android:color/accent_material_dark</color>
+    <color name="ic_add_circle_bg">#ffffffff</color>
+    <color name="ic_send_color">#ffffffff</color>
+    <color name="ic_send_color_bg">#ffffffff</color>
+    <color name="ic_tab_bottom_red">@*android:color/accent_material_dark</color>
+    <color name="image_placeholder_color">@*android:color/holo_primary</color>
+    <color name="my_circle_item_more_bg">#ffffffff</color>
+    <color name="oneplus_red">@*android:color/accent_material_dark</color>
+    <color name="other_profile_item_bg">#ffffffff</color>
+    <color name="publish_circle_select_arrow_color">@*android:color/white</color>
+    <color name="publish_toolbar_font_text_color">@*android:color/black</color>
+    <color name="ripple_bottom_color_normal">@*android:color/background_dark</color>
+    <color name="ripple_color_normal">@*android:color/background_dark</color>
+    <color name="ripple_color_press">#ff494b4d</color>
+</resources>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Portami a casa</string>
+    <string name="abc_action_bar_up_description">Torna indietro</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
+    <string name="abc_activitychooserview_choose_application">"Scelta di un'app"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">SPAZIO</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="accessibility_desc">"Questo servizio consente l\'uso della tinta personalizzata scorrendo verso il basso dalla parte superiore dello schermo. I dati ricevuti da questo servizio non vengono archiviati
+             raccolti o utilizzati in alcun modo. Gli usi sono spiegati di seguito. Questo servizio non invia i tuoi dati a terzi su Internet. 
+
+ Permessi: 
+
+ - Osserva le tue azioni: riceve una risposta dal sistema quando viene toccata la parte superiore dello schermo per attivare la tinta. 
+
+ - Recupera il contenuto della finestra: necessario per fare clic automaticamente su alcune impostazioni dopo che l\'utente ha scelto di voler attivare nell\'interfaccia fornita dall\'app"</string>
+    <string name="app_name">Mi Control Center</string>
+    <string name="available_via_carrier">Disponibile via %1$s</string>
+    <string name="available_via_passpoint">Disponibile via %1$s</string>
+    <string name="backup">Backup</string>
+    <string name="battery_detail_switch_title">Risparmio energetico</string>
+    <string name="big_clock_1">Sinistra</string>
+    <string name="big_clock_2">Centro</string>
+    <string name="big_clock_3">Destra</string>
+    <string name="blur_amount">Quantità Sfocatura</string>
+    <string name="blur_dialog_info">Avviso Sfocatura</string>
+    <string name="blur_dialog_message">"Il processo di sfocatura del contenuto richiede che il contenuto sia noto. E l\'unico modo per sapere cosa sfocare dietro il pannello è attraverso la registrazione dello schermo. Questo non funziona in modo continuo
+             cattura solo 1 fotogramma quando si abbassa il pannello.
+
+Se causa problemi o ritardi sul dispositivo (di solito nella schermata di blocco)
+             non utilizzarlo.
+
+Un\'icona del cast potrebbe apparire nella barra di stato.
+
+Quando richiesto
+             si prega di consentire la registrazione dello schermo."</string>
+    <string name="bt_is_off">Bluetooth disattivato</string>
+    <string name="buy">Acquista</string>
+    <string name="camera">Camera</string>
+    <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite di caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="chip_text">Chip text</string>
+    <string name="choose_file_name">Scegli il nome del file</string>
+    <string name="clear_all_notifications_text">Cancella tutto</string>
+    <string name="clear_text_end_icon_content_description">Cancella testo</string>
+    <string name="clock">Orologio</string>
+    <string name="color">Colore</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="connected_via_carrier">Connesso via %1$s</string>
+    <string name="connected_via_network_scorer_default">Connessione automatica tramite provider di valutazione della rete</string>
+    <string name="connected_via_passpoint">Connesso via %1$s</string>
+    <string name="copy">Copia</string>
+    <string name="cpv_custom">Personalizza</string>
+    <string name="cpv_default_title">Seleziona un colore</string>
+    <string name="cpv_presets">Predefiniti</string>
+    <string name="cpv_select">Applica</string>
+    <string name="cpv_transparency">Trasparenza</string>
+    <string name="custom_carrier_hint">Lascia vuoto per impostazione predefinita</string>
+    <string name="custom_image">Immagine personalizzata</string>
+    <string name="dark_colors">Colori Scuri</string>
+    <string name="data_saver">Risparmio dati</string>
+    <string name="data_usage_cycle">Questo mese: %s</string>
+    <string name="data_usage_today">Oggi: %s</string>
+    <string name="description_chrome_tutorial">"Se non usi Chrome
+             puoi saltare questo.
+Il browser Chrome potrebbe passare automaticamente a un\'interfaccia utente con un elenco di schede minimo mentre questa app è in esecuzione. Per mantenere l\'elenco completo delle schede con le anteprime
+             assicurati di disattivare l\'opzione \"Visualizzazione semplificata per schede aperte\"
+             situata in
+
+"</string>
+    <string name="description_launcher_gesture">"Se si utilizza il gesto di scorrimento verso il basso per trascinare le notifiche da qualsiasi punto della schermata principale
+             è necessario rimappare questa app.
+Se non usi il gesto o lo hai già fatto nella pagina precedente
+             puoi saltare questa parte."</string>
+    <string name="description_tiles_tutorial">"Imposta i dettagli di ciascun elemento come appare nel tuo Pannello. 
+
+Le modifiche vengono salvate automaticamente."</string>
+    <string name="description_wallpaper">"Alcuni telefoni possono chiudere in modo aggressivo questa app e impedirne il funzionamento in alcune situazioni. In questo caso
+             la soluzione consiste nell'utilizzare lo sfondo fornito in sostituzione.
+
+Questo funziona perché i telefoni autorizzano la cancellazione delle app di sfondi e le aiutano a rimanere in memoria."</string>
+    <string name="description_wallpaper_tutorial">"
+
+Nel caso in cui il tuo launcher non supporti la modifica di questo gesto
+             utilizza la sostituzione dello sfondo in basso
+             che invocherà la tinta utilizzando gli eventi di tocco dello sfondo."</string>
+    <string name="description_wifi_pie_message">"Sfortunatamente
+             a partire da Android 9 c\'è una restrizione che non consente alle app di ottenere il nome Wifi se l\'autorizzazione per la posizione non è concessa e la posizione non è attivata.
+
+Quindi
+             se si desidera che il nome della rete Wi-Fi sia mostrato
+             è necessario consentire l\'autorizzazione.
+
+Puoi saltare questo passaggio e \"Wi-Fi\" sarà usato come nome."</string>
+    <string name="disable_system_hu_text">"Purtroppo è necessaria un\'autorizzazione a livello di sistema per disabilitare le notifiche head-up del sistema. Può essere concesso utilizzando ADB con il comando seguente: 
+
+"</string>
+    <string name="dnd_suppressing_shade_text">Notifiche sospese da Non disturbare</string>
+    <string name="donate">Donazioni</string>
+    <string name="drag_to_add_tiles">Tieni premuto e trascina per aggiungere riquadri</string>
+    <string name="drag_to_remove_disabled">Occorrono almeno %1$d schede</string>
+    <string name="drag_to_remove_tiles">Trascina qui per rimuovere</string>
+    <string name="empty_shade_text">Nessuna notifica</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="expand_button_title">Avanzate</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="find_app_here">Trova %s qui</string>
+    <string name="finish">Finito</string>
+    <string name="gdpr_age_not_confirmed">Per favore conferma la tua età prima di continuare</string>
+    <string name="gdpr_buy_app">Compra app</string>
+    <string name="gdpr_cheap">economica</string>
+    <string name="gdpr_dialog_agree">Sì
+             accetto</string>
+    <string name="gdpr_dialog_back">Indietro</string>
+    <string name="gdpr_dialog_close">Chiudi</string>
+    <string name="gdpr_dialog_confirm_age">Confermo di avere almeno 16 anni</string>
+    <string name="gdpr_dialog_disagree_buy_app">"No grazie
+             voglio comprare l'app"</string>
+    <string name="gdpr_dialog_disagree_info">Capisco che continuerò a vedere la pubblicità
+             ma potrebbe non essere rilevante per i miei interessi.</string>
+    <string name="gdpr_dialog_disagree_no_ads">Nessuna pubblicità per favore</string>
+    <string name="gdpr_dialog_disagree_no_thanks">No
+             grazie</string>
+    <string name="gdpr_dialog_question">Possiamo continuare ad utilizzare i tuoi dati con questi scopi%1$s?</string>
+    <string name="gdpr_dialog_question_ads_info">" e per mostrare pubblicità personalizzata"</string>
+    <string name="gdpr_dialog_text1_part1">Ci teniamo alla tua privacy e alla sicurezza dei tuoi dati.</string>
+    <string name="gdpr_dialog_text1_part2">"Riusciamo a mantenere quest'app %1$s usando servizi di terze parti."</string>
+    <string name="gdpr_dialog_text2_plural">"In quest'app usiamo %1$s. Questi servizi (inclusi i loro partner) raccolgono identificatori univoci ed altri dati personali. Puoi cambiare la tua scelta in qualunque momento dalle impostazioni dell'app. &lt;a href=\"\">Clicca qui per saperne di più su questi servizi e sui tuoi dati personali&lt;/a>."</string>
+    <string name="gdpr_dialog_text2_singular">"In quest'app usiamo %1$s. Questo servizio (inclusi i suoi partner) raccolgono identificatori univoci ed altri dati personali. Puoi cambiare la tua scelta in qualunque momento dalle impostazioni dell'app. &lt;a href=\"\">Clicca qui per saperne di più su questo servizio e sui tuoi dati personali&lt;/a>."</string>
+    <string name="gdpr_dialog_text3">Accettando
+             confermi di avere almeno 16 anni.</string>
+    <string name="gdpr_dialog_text_explicit_non_personalised_info1">Non raccoglieremo i tuoi dati per personalizzare la publicità. Nonostante la pubblicità non targhetizzata non utilizzi gli indentificatori per personalizzare la pubblicità
+             ne fanno comunque uso per limitarne la frequenza
+             per aggregare le statistiche e per combattere frodi e abusi.</string>
+    <string name="gdpr_dialog_text_info1">Utilizziamo i seguenti servizi di terze parti in questa app:</string>
+    <string name="gdpr_dialog_text_info3">Clicca su un servizio per accedere alle sue informative sulla privacy%1$s.</string>
+    <string name="gdpr_dialog_text_info3_privacy_policy_part">" o clicca sul seguente link per accedere &lt;a href=\"%1$s\">alle informative sulla privacy di quest'app&lt;/a>"</string>
+    <string name="gdpr_dialog_title">Consenso al trattamento dei dati</string>
+    <string name="gdpr_free">gratuita</string>
+    <string name="gdpr_googles_check_json_field_companies">aziende</string>
+    <string name="gdpr_last_list_seperator">" e "</string>
+    <string name="gdpr_list_seperator">"
+             "</string>
+    <string name="gdpr_show_me_partners">Vedi partner</string>
+    <string name="gdpr_type_ads">pubblicità</string>
+    <string name="gdpr_type_analytics">"statistiche sull\'utilizzo"</string>
+    <string name="gdpr_type_authorization">autorizzazione</string>
+    <string name="gdpr_type_cloud_database">un database remoto</string>
+    <string name="gdpr_type_crash">segnalazioni sui crash</string>
+    <string name="gdpr_type_notifications">notifiche push</string>
+    <string name="gdpr_withdraw_consent">Annulla il consenso al trattamento dei dati</string>
+    <string name="header_date">Data (sulla sinistra)</string>
+    <string name="header_icons">Icone di sistema(sulla destra)</string>
+    <string name="helper_setup">Configurazione dell\'helper</string>
+    <string name="icon_content_description">Icona della finestra di dialogo</string>
+    <string name="image_blur">Sfocatura dell\'immagine</string>
+    <string name="inline_done_button">Fine</string>
+    <string name="inline_ok_button">Applica</string>
+    <string name="inline_turn_off_notifications">Disattiva notifiche</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="join_on_telegram">Unisciti al gruppo Telegram</string>
+    <string name="keyboard_picker">Selettore tastiera</string>
+    <string name="keyguard_missing_sim_message_short">Nessuna carta SIM</string>
+    <string name="keyguard_network_locked_message">Rete bloccata</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">SIM card inutilizzabile.</string>
+    <string name="keyguard_sim_error_message_short">Card non valida.</string>
+    <string name="keyguard_sim_locked_message">SIM card è bloccata.</string>
+    <string name="keyguard_sim_puk_locked_message">Il PUK blocca la SIM card.</string>
+    <string name="launcher_shortcut_name">Apri Notifiche</string>
+    <string name="launcher_shortcut_name2">Apri Quick Settings</string>
+    <string name="licence">"Risorse immagine dalla schermata introduttiva - Freepik.com
+ 
+Copyright 2013 Philip Schiffer
+Copyright © 2019 The Android Open Source Project
+Copyright © 2019 Google Inc. 
+Icone nel menu principale di Flaticon.com
+             autori srip
+             Freepik ed Eucalyp;
+Le seguenti modifiche sono state apportate al software fornito nel ramo di rilascio della torta da Platform_frameworks_base_SystemUI:
+Tutte queste modifiche menzionate sono soggette a nuove voci.
+Inoltre presto inizierò a cercare quei bug e TODO che sono menzionati (o non menzionati) e invieranno le richieste pull di GitHub. :)
+Modifiche al pulsante Impostazioni:
+ha aperto MainActivity su TunerClick
+lo ha aperto Impostazioni su clic
+Modifiche a ToggleSlider per luminosità:
+implementato è l'ascoltatore nel servizio del titolare per aggiornare la luminosità dello schermo utilizzando LayoutParams di WindowManager e updateViewLayout ()
+Modifiche a TouchAnimator:
+usato la riflessione per invocare Path.approximate () su API 21+ e disabilitato PathInterpolator su API 19 e versioni precedenti
+Modifiche a NotificationPanelView e StatusBarWindowView:
+codice refactored che utilizza PhoneStatusBar e PhoneStatusBarView per non utilizzarlo più e trasferito i metodi attualmente necessari incanalati da PhoneStatusBar a NotificationPanelView (ovvero ScrimController e BrightnessMirrorController).
+Modifiche a NotificationStackScrollLayout:
+nessun cambiamento significativo che altera visivamente la funzione del software. Diverse modifiche in ExpandableNotificationRow per consentire una maggiore personalizzazione
+Modificato BroadcastReceiver in DateView al lister per ACTION_DATE_CHANGED
+Aggiunto un controllo per null QsTile.State in setIcon ().
+Aggiunta personalizzazione del colore di sfondo di PanelView.
+Aggiunta preferenza per personalizzare il numero di colonne
+Aggiunti riquadri personalizzati che utilizzano le API pubbliche correnti per attivare o disattivare le impostazioni.
+Aggiunta personalizzazione del colore di sfondo di PanelView. Funzionerà anche su: Tinta degli elementi in primo piano (ad esempio: visualizzazioni di immagini
+             visualizzazione di testo
+             ..)
+Aggiunta una preferenza per scegliere il numero di riquadri qquick dalle impostazioni dell'app.
+Aggiunta personalizzazione del colore di luminosità di ToggleSlider.
+Aggiunta l'opzione per l'utente di scegliere un'immagine dalla memoria all'interno delle impostazioni dell'app e utilizzarla come sorgente di MultiUserSwitch ImageView
+Aggiunti fallback per livelli API inferiori."</string>
+    <string name="light_colors">Colori Chiari</string>
+    <string name="live_blur">Sfocatura dal vivo</string>
+    <string name="main_colors">Colori</string>
+    <string name="main_data_usage">Utilizzo dati</string>
+    <string name="main_edge_trigger">Trigger Bordi</string>
+    <string name="main_extras">Extra</string>
+    <string name="main_heads_up">Notifiche Toast</string>
+    <string name="main_layout">Disposizione</string>
+    <string name="manage_notifications_text">Gestisci</string>
+    <string name="miui_11_text">"Per consentire l\'apertura di notifiche da questa app
+             devi concedere l\'autorizzazione \"Altre autorizzazioni> Visualizza popup in sfondo\" per ogni app che ti invia notifiche. Questo non è il problema dell\'app
+             è come funziona Miui
+             purtroppo :(
+Puoi comunque utilizzare l\'app e decidere di eseguire questo passaggio in seguito."</string>
+    <string name="more_apps">Altre app</string>
+    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovere %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
+    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
+    <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleziona una data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
+    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uso: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Passa all\'anno %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuori dal limite: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inizio – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Seleziona un intervallo di date</string>
+    <string name="mtrl_picker_range_header_unselected">Data di inizio - Data di fine</string>
+    <string name="mtrl_picker_save">Salva</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inizio</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di inserimento calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocca per passare alla selezione di un giorno</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di inserimento testo</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocca per passare alla selezione di un anno</string>
+    <string name="mtrl_slider_range_content_description">%1$s per %2$s</string>
+    <string name="mute">Muto</string>
+    <string name="new_user_promo_text" />
+    <string name="no_thanks">No
+             grazie</string>
+    <string name="not_running">Disabilitato</string>
+    <string name="not_set">Non impostato</string>
+    <string name="notices_close">Chiudi</string>
+    <string name="notices_title">Avvisi</string>
+    <string name="notification_alert_title">Avvisi</string>
+    <string name="notification_channel_summary_default">Richiama la tua attenzione con suono o vibrazione.</string>
+    <string name="notification_channel_summary_low">"Favorisce la tua concentrazione grazie all'assenza di suono o vibrazione."</string>
+    <string name="notification_group_overflow_indicator">+ %s</string>
+    <string name="notification_header_divider_symbol">•</string>
+    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
+    <string name="notification_multichannel_desc">Qui non è possibile configurare questo gruppo di notifiche</string>
+    <string name="notification_section_header_gentle">Notifiche silenziose</string>
+    <string name="notification_service_label">Mi Control Center: visualizza notifiche personalizzate</string>
+    <string name="notification_silence_title">Modalità silenziosa</string>
+    <string name="notification_summary_message_format">%1$s: %2$s</string>
+    <string name="notification_unblockable_desc">Impossibile modificare queste notifiche.</string>
+    <string name="notifications_inactive_text">Il sistema ha rifiutato di mostrare le notifiche. Riavvia il telefono per risolvere il problema.</string>
+    <string name="notifications_inactive_title">Nessuna notifica</string>
+    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="path_password_eye">M12
+            4.5C7
+            4.5 2.73
+            7.61 1
+            12c1.73
+            4.39 6
+            7.5 11
+            7.5s9.27
+            -3.11 11
+            -7.5c-1.73
+            -4.39 -6
+            -7.5 -11
+            -7.5zM12
+            17c-2.76
+            0 -5
+            -2.24 -5
+            -5s2.24
+            -5 5
+            -5 5
+            2.24 5
+            5 -2.24
+            5 -5
+            5zM12
+            9c-1.66
+            0 -3
+            1.34 -3
+            3s1.34
+            3 3
+            3 3
+            -1.34 3
+            -3 -1.34
+            -3 -3
+            -3z</string>
+    <string name="path_password_eye_mask_strike_through">M2
+            4.27 L19.73
+            22 L22.27
+            19.46 L4.54
+            1.73 L4.54
+            1 L23
+            1 L23
+            23 L1
+            23 L1
+            4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2
+            4.27 L2
+            4.27 L4.54
+            1.73 L4.54
+            1.73 L4.54
+            1 L23
+            1 L23
+            23 L1
+            23 L1
+            4.27 Z</string>
+    <string name="path_password_strike_through">M3.27
+            4.27 L19.74
+            20.74</string>
+    <string name="pendingintent_null_exception">"L\'app non ha definito alcuna azione"</string>
+    <string name="permissions_are_required">Per eseguire l\'app sono necessarie le seguenti autorizzazioni:</string>
+    <string name="permissions_to_disable">Disabilitare queste autorizzazioni per disattivare il servizio:</string>
+    <string name="preference_copied">\"%1$s\"copiato negli appunti.</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="privacy_policy">Politica sulla riservatezza</string>
+    <string name="pro_done_text">"Hai la Pro ora. congratulazioni!"</string>
+    <string name="pro_reason_1" />
+    <string name="pro_reason_2" />
+    <string name="pro_reason_3" />
+    <string name="pro_reason_4" />
+    <string name="pro_reason_5" />
+    <string name="pro_reason_6" />
+    <string name="pro_reason_7" />
+    <string name="pro_reason_8" />
+    <string name="pro_reason_9" />
+    <string name="pro_text">"Hai la Pro"</string>
+    <string name="profile_pic">Scegli immagine del profilo</string>
+    <string name="qs_control_big_tile_state_off">Off</string>
+    <string name="qs_control_big_tile_state_on">On</string>
+    <string name="qs_control_big_tile_state_opening">Accendi…</string>
+    <string name="qs_control_customize_save_text">Fatto</string>
+    <string name="qs_control_customize_sub_title">Trascina gli interruttori aggiunti per riorganizzarli</string>
+    <string name="qs_control_customize_title">Toggle aggiunti</string>
+    <string name="qs_control_customize_title_available_toggles">Toggle disponibili</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo associato disponibile</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_cast_title">Trasmissione schermo</string>
+    <string name="quick_settings_cellular_detail_title">Dati mobili</string>
+    <string name="quick_settings_connected">Collegato</string>
+    <string name="quick_settings_connected_battery_level">Collegato
+             batteria %1$s</string>
+    <string name="quick_settings_connecting">Connecting...</string>
+    <string name="quick_settings_dnd_alarms_label">Solo allarmi</string>
+    <string name="quick_settings_dnd_label">Non disturbare</string>
+    <string name="quick_settings_dnd_none_label">Silenzio totale</string>
+    <string name="quick_settings_dnd_priority_label">Solo Priorità</string>
+    <string name="quick_settings_done">Fine</string>
+    <string name="quick_settings_flashlight_label">Torcia</string>
+    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_location_label">Geolocalizz.</string>
+    <string name="quick_settings_more_settings">Altre impostazioni</string>
+    <string name="quick_settings_nfc_label">NFC</string>
+    <string name="quick_settings_night_display_label">Luminosità notturna</string>
+    <string name="quick_settings_rotation_unlocked_label">Rotazione automatica</string>
+    <string name="quick_settings_tiles_default">cellulare
+             Wi-Fi
+             BT
+             torcia
+             suoneria
+             batteria
+             aereo
+             DND
+             posizione
+             rotazione
+             notte
+             luminosità
+             buio
+             hotspot
+             risparmio
+             cast
+             nfc
+             stock
+             sim</string>
+    <string name="quick_settings_tiles_more">
+            ss
+             rec
+             sync
+             schermo
+             timeout
+             blocco
+             orologio
+             camera
+             tastiera</string>
+    <string name="quick_settings_ui_mode_night_label">Tema scuro</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_secondary_label_transient">Accendi…</string>
+    <string name="rate_prompt">Vuoi valutare l\'app?</string>
+    <string name="reset">Reimposta</string>
+    <string name="restore">Ripristinare</string>
+    <string name="restore_title">"Tocca backup per ripristinare. 
+Long press to Elimina"</string>
+    <string name="running">In esecuzione</string>
+    <string name="saved_network">Salvato da %1$s</string>
+    <string name="screen_lock">Blocco Schermo</string>
+    <string name="screen_time">Tempo schermo</string>
+    <string name="screen_time_no_permission">Nessun permesso</string>
+    <string name="screenrecord_name">Registrazione dello schermo</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="security_lockscreen">Sicurezza su lockscreen</string>
+    <string name="send_email">Mandaci un\' email</string>
+    <string name="service_accessibility">Accessibilità</string>
+    <string name="service_notifications">Notifiche</string>
+    <string name="settings_package">com.android.settings</string>
+    <string name="shape_1">Cerchio</string>
+    <string name="shape_10">Quadrato</string>
+    <string name="shape_11">Pentagono</string>
+    <string name="shape_12">Valigia</string>
+    <string name="shape_13">Cuore</string>
+    <string name="shape_14">Cerchio Doppio</string>
+    <string name="shape_16">Sole</string>
+    <string name="shape_17">File</string>
+    <string name="shape_18">Cartella</string>
+    <string name="shape_19">Diamante</string>
+    <string name="shape_2">Contorno Cerchio</string>
+    <string name="shape_20">Cartellino prezzo</string>
+    <string name="shape_21">Lampadina</string>
+    <string name="shape_22">Medaglia</string>
+    <string name="shape_23">Stella</string>
+    <string name="shape_24">Emblema</string>
+    <string name="shape_25">Scudo</string>
+    <string name="shape_27">Droid</string>
+    <string name="shape_28">Fiore</string>
+    <string name="shape_29">Vaso</string>
+    <string name="shape_3">Cerchio Gradiente</string>
+    <string name="shape_30">Rettangolo Squadrato</string>
+    <string name="shape_31">Sasso</string>
+    <string name="shape_32">Cerchio Bordo Tratteggiato</string>
+    <string name="shape_4">Cerchio Holo</string>
+    <string name="shape_5">Goccia</string>
+    <string name="shape_6">Rettangolo Arrotondato</string>
+    <string name="shape_7">Rettangolo Circolare</string>
+    <string name="shape_8">Esagono</string>
+    <string name="shape_9">Nessuno</string>
+    <string name="show_me">Fammi vedere</string>
+    <string name="snooze_option_15_min">15 minuti</string>
+    <string name="snooze_option_1_day">1 giorno</string>
+    <string name="snooze_option_1_hour">1 ora</string>
+    <string name="snooze_option_2_hour">2 ore</string>
+    <string name="snooze_option_30_min">30 minuti</string>
+    <string name="snooze_undo">ANNULLA</string>
+    <string name="snoozed_for_time">Posticipato di %1$s</string>
+    <string name="solid_color">Tinta unita</string>
+    <string name="something_wrong">Qualcosa è andato storto…</string>
+    <string name="sound">Suono</string>
+    <string name="speed_label_fast">Veloce</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Lento</string>
+    <string name="speed_label_very_fast">Molto Veloce</string>
+    <string name="status_bar_airplane">Modalità aereo</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="style_selector_control">Pannello Quick Setting</string>
+    <string name="style_selector_shade">Pannello Notifiche</string>
+    <string name="sum_brightness_thumb">Se disabilitato
+             il cursore avrà una forma circolare</string>
+    <string name="sum_max_children">Numero massimo di notifiche consentite in un gruppo (impostazione predefinita di 8)</string>
+    <string name="sum_qs_size">Imposta la dimensione dell\'icona</string>
+    <string name="sum_small_corners">Rende quadrata la sezione dei riquadri rapidi</string>
+    <string name="summary_auto_dark">Dividi i colori in base al tema scuro del sistema.</string>
+    <string name="summary_backdrop_color">Colore mostrato sopra il contenuto dietro il pannello (ha la regolazione della trasparenza)</string>
+    <string name="summary_backup_restore">Puoi anche farlo per creare i tuoi temi e cambiarli.</string>
+    <string name="summary_blur">Sfoca lo sfondo del pannello.</string>
+    <string name="summary_collapsed_preference_list">%1$s
+             %2$s</string>
+    <string name="summary_colorize_hu_badge">Colora il badge con il colore di notifica</string>
+    <string name="summary_custom_background">Scegli un\'immagine dalla tua galleria come sfondo per le impostazioni rapide</string>
+    <string name="summary_custom_carrier">Scegli un testo personalizzato da visualizzare al posto del nome Gestore.</string>
+    <string name="summary_disable_hu_badge">Rimuovi il badge sulla barra di stato e mostrala nella notifica</string>
+    <string name="summary_dynamic_colors">Colorare lo sfondo di tutte le notifiche con il rispettivo colore</string>
+    <string name="summary_force_brightness">Abilitare solo se si verificano problemi di luminosità durante il cambio di app o lo sblocco del dispositivo.</string>
+    <string name="summary_handle_position">Scegli tra sinistra/destra. È possibile modificare la posizione verticale sullo schermo facendo scorrere la maniglia stessa.</string>
+    <string name="summary_hu">Mostra notifiche pop-up in stile nella parte superiore dello schermo.</string>
+    <string name="summary_keep_auto_bright">"Non passare a manuale quando si regola la luminosità. Ciò può causare problemi su alcuni dispositivi."</string>
+    <string name="summary_log_brightness">Usa i valori del dispositivo di scorrimento della luminosità logaritmica da Android 9+ che distribuisce i valori in modo più uniforme sul dispositivo di scorrimento
+             invece di avere la maggior parte dei valori nella metà inferiore.</string>
+    <string name="summary_no_top_bar">Disabilita il gradiente nero superiore e sposta il contenuto verso il basso</string>
+    <string name="summary_override_system">Aiuta a mostrare l\'app invece del sistema.</string>
+    <string name="summary_security_lockscreen">Nasconde il contenuto delle notifiche e impedisce di fare clic sui riquadri sensibili.</string>
+    <string name="summary_system_hu">Questo metodo è facoltativo. Per impostazione predefinita
+             l\'app tenta di interrompere la visualizzazione delle notifiche di sistema
+             ma a volte potrebbe non riuscire. Usalo per ottenere risultati perfetti. *Ricorda di disattivare questa opzione se disinstalli l\'app.</string>
+    <string name="summary_tint_active_icon">Usa \"Colore riquadro attivo\" per l\'icona interna</string>
+    <string name="summary_transparent_top">Può avere effetti strani su alcuni dispositivi</string>
+    <string name="summary_usage_warning">L\'icona diventa rossa quando questo valore viene superato</string>
+    <string name="summary_use_sections">Con notifiche silenziose</string>
+    <string name="summary_use_trigger">Aggiunge una maniglia laterale per abbassare l\'ombra da qualsiasi punto dello schermo.</string>
+    <string name="summary_wallpaper">Utile per mantenere l\'app in memoria per alcuni dispositivi.</string>
+    <string name="switch_sim">Cambia SIM dati</string>
+    <string name="sync">Sync</string>
+    <string name="system_ui_date_pattern">EEEMMMd</string>
+    <string name="theme_dynamic">Colore Notifiche Dinamico</string>
+    <string name="timeout">Autospegnimento dello schermo</string>
+    <string name="tip_1">"Ottimizzazione batteria 
+Alcuni telefoni sono impostati per killare le app in esecuzione in sfondo. Se causa problemi con questa app
+             controlla di seguito come risolverlo."</string>
+    <string name="title_always_show_footer">Mostra sempre la riga del piè di pagina</string>
+    <string name="title_auto_dark">Modalità scura automatica</string>
+    <string name="title_auto_expand_notifs">Notifiche di espansione automatica</string>
+    <string name="title_auto_in_slider">Mostra la luminosità automatica accanto al cursore</string>
+    <string name="title_backdrop_color">Dim dietro il colore</string>
+    <string name="title_background_type">Tipo Sfondo</string>
+    <string name="title_backup_restore">Backup &amp; Ripristino</string>
+    <string name="title_big_clock">Posizione orologio grande</string>
+    <string name="title_big_tiles_grid">Griglia Icone Grandi</string>
+    <string name="title_blur">Sfocatura dietro</string>
+    <string name="title_bottom_battery">Shift battery down</string>
+    <string name="title_brightness_at_bottom">Brightness slider at the bottom</string>
+    <string name="title_brightness_color">Colore cursore luminosità</string>
+    <string name="title_brightness_in_header">Brightness slider in header</string>
+    <string name="title_brightness_thumb">Brightness slider thumb</string>
+    <string name="title_centered_actions">Azioni di notifica centrate (come risposta
+             contrassegnare come letto)</string>
+    <string name="title_chrome_tabs">Schede Chrome</string>
+    <string name="title_circle_battery">Indicatore batteria circolare</string>
+    <string name="title_colorize_hu_badge">Colorare badge pop-up</string>
+    <string name="title_custom_background">Personalizza sfondo immagine</string>
+    <string name="title_custom_carrier">Personalizza nome Gestore</string>
+    <string name="title_default_color">Colore sfondo</string>
+    <string name="title_disable_hu_badge">Disabilita badge pop-up</string>
+    <string name="title_dual_sim">Dual SIM</string>
+    <string name="title_fg_color">Colore icona attiva</string>
+    <string name="title_fingerprint">Sostituisci gesti delle impronte digitali</string>
+    <string name="title_force_brightness">Forza luminosità schermo</string>
+    <string name="title_header_items">Principali voci Intestazione</string>
+    <string name="title_header_num">Numero icone intestazione</string>
+    <string name="title_hu">Usa Notifiche Pop-Up</string>
+    <string name="title_hu_timeout">Tempo sullo schermo del Pop-Up</string>
+    <string name="title_icon_animations">Abilita le animazioni delle icone quando vengono toccate</string>
+    <string name="title_icon_shape">Forma Icone Quick settings</string>
+    <string name="title_keep_auto_bright">Mantieni luminosità automatica</string>
+    <string name="title_launcher_gesture">Gesto Schermata iniziale</string>
+    <string name="title_log_brightness">Usa luminosità nuova</string>
+    <string name="title_max_children">Numero massimo notifiche</string>
+    <string name="title_no_top_bar">Rimuovi barra di stato superiore</string>
+    <string name="title_notifications_background">Colore Sfondo notifiche</string>
+    <string name="title_override_system">Sostituisci il pannello di sistema</string>
+    <string name="title_power_button">Mostra Pulsante menù di accensione</string>
+    <string name="title_qs_size">Dimensione Icona</string>
+    <string name="title_remove_in_fullscreen">Rimuovi a schermo intero</string>
+    <string name="title_reset_all_colors">Ripristina colori sui valori predefiniti</string>
+    <string name="title_setup_wifi">Nome Wi-Fi</string>
+    <string name="title_show_data_usage">Mostra utilizzo dati mobili</string>
+    <string name="title_show_netspeed">Mostra misuratore velocità rete</string>
+    <string name="title_show_seconds">Mostra secondi orologio</string>
+    <string name="title_show_signal_x">Mostra il simbolo X sul segnale quando i dati mobili sono disattivati</string>
+    <string name="title_small_corners">Angoli piccoli</string>
+    <string name="title_system_hu">Disabilita le notifiche Pop-Up di sistema</string>
+    <string name="title_text_color">Colore testo</string>
+    <string name="title_tiles_grid">Griglia Icone</string>
+    <string name="title_tiles_tutorial">Icone speciali</string>
+    <string name="title_tint_active_icon">Tinta icona attiva</string>
+    <string name="title_tips">Suggerimenti</string>
+    <string name="title_transparency_color">Transparency amount</string>
+    <string name="title_transparent_top">Barra di stato superiore trasparente</string>
+    <string name="title_usage_cycle_start">Azzera l\'utilizzo di oggi</string>
+    <string name="title_usage_show_today">Mostra l\'utilizzo di oggi</string>
+    <string name="title_usage_warning">Avviso a (GB)</string>
+    <string name="title_use_sections">Abilita sezioni notifica</string>
+    <string name="title_use_slide_anim">Usa animazione quando scorri tra i pannelli</string>
+    <string name="title_use_trigger">Use trigger</string>
+    <string name="title_wallpaper">Sostituisci sfondo</string>
+    <string name="touch_area_controls">Quick Setting</string>
+    <string name="touch_area_notifications">Notifiche</string>
+    <string name="touch_area_status_bar">Area scorrimento barra di stato</string>
+    <string name="trigger_bottom">In Basso</string>
+    <string name="trigger_enabled">Abilitato</string>
+    <string name="trigger_for_cc">Per Pannello QS</string>
+    <string name="trigger_left">Sinistra</string>
+    <string name="trigger_length">Lunghezza</string>
+    <string name="trigger_offset">Posizione</string>
+    <string name="trigger_only_home">Mostra solo sulla schermata principale</string>
+    <string name="trigger_remove_keyboard">Rimuovi quando viene visualizzata la tastiera</string>
+    <string name="trigger_right">Destra</string>
+    <string name="trigger_size">Dimensione</string>
+    <string name="trigger_tip_1">Per visualizzare l\'anteprima dei trigger
+             avviare il servizio</string>
+    <string name="trigger_tip_2">Android 10 gestures may cause conflicts. Increasing trigger size can help.</string>
+    <string name="trigger_vibrate">Vibra al tocco</string>
+    <string name="tutorial_tip1">You can configure your swipe area how you want.</string>
+    <string name="tutorial_tip2">You can swipe in the empty space
+             or near the edges of the screen to switch between panels.</string>
+    <string name="upgrade">Aggiorna a Pro</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="vibrate">Vibra</string>
+    <string name="view_licences">Visualizza le licenze</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="wallpaper_description">Wallpaper service used to open the shade when swiping down on home screen.</string>
+    <string name="wallpaper_label">Mi Wallpaper</string>
+    <string name="wifi_android_9_location_hint">"Unfortunately Android requires Location enabled to allow apps to scan for WiFi networks. 
+Click here to enable."</string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
+    <string name="wifi_check_password_try_again">Check password and try again</string>
+    <string name="wifi_connected_no_internet">No internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">Not connected due to low quality network</string>
+    <string name="wifi_disabled_generic">Disabled</string>
+    <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+    <string name="wifi_disabled_password_failure">Authentication problem</string>
+    <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
+    <string name="wifi_is_off">Wi-Fi is off</string>
+    <string name="wifi_metered_label">Metered</string>
+    <string name="wifi_no_internet">No internet access</string>
+    <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
+    <string name="wifi_not_in_range">Not in range</string>
+    <string name="wifi_remembered">Saved</string>
+    <string name="wifi_unmetered_label">Unmetered</string>
+    <string name="write_review">Scrivi una buona recensione</string>
+    <string name="write_settings_permission">needs permission to change some system settings.</string>
+</resources>

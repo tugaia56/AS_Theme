@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_surface_variant_non_material_you">#ff40484d</color>
+    <color name="large_circle_color">#fff2f2f2</color>
+    <color name="large_circle_text_color">@*android:color/background_dark</color>
+    <color name="medium_circle_color">#ffa3abc1</color>
+    <color name="medium_circle_text_color">@*android:color/background_dark</color>
+    <color name="settingslib_protection_color">@*android:color/black</color>
+    <color name="settingslib_switchbar_switch_thumb_tint">@*android:color/black</color>
+    <color name="settingslib_switchbar_switch_track_tint">#82000000</color>
+    <color name="small_circle_color">#ffd4e3ff</color>
+    <color name="small_circle_text_color">@*android:color/background_dark</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+    <color name="total_screen_time_text_color">#fff2f2f2</color>
+</resources>

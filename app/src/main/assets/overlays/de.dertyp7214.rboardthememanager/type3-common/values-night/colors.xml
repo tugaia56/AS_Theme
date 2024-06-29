@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">@*android:color/background_dark</color>
+    <color name="background">@*android:color/background_dark</color>
+    <color name="background_icon">#ff183a71</color>
+    <color name="black">#ffffffff</color>
+    <color name="foreground">@*android:color/holo_primary</color>
+    <color name="foreground_icon">@*android:color/accent_material_dark</color>
+    <color name="md3">@*android:color/accent_material_dark</color>
+    <color name="switch_thumb">@*android:color/background_dark</color>
+    <color name="switch_track">#ff8f8f8f</color>
+    <color name="text">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+</resources>

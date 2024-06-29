@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ad_tag_background">@*android:color/accent_material_dark</color>
+    <color name="ad_tag_text">#ffeeeeee</color>
+    <color name="adfree_progress_bar_inactive">@*android:color/background_dark</color>
+    <color name="adfree_progress_bar_start">@*android:color/accent_material_dark</color>
+    <color name="background_variation">@*android:color/accent_material_dark</color>
+    <color name="bottom_navigation_background">@*android:color/background_dark</color>
+    <color name="bottomsheet_background">@*android:color/background_dark</color>
+    <color name="chip_background">#1ac2c2c2</color>
+    <color name="chip_background_checked">@*android:color/ripple_material_dark</color>
+    <color name="chip_text_checked">@*android:color/white</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorPrimary">@*android:color/background_dark</color>
+    <color name="colorSecondary">@*android:color/accent_material_dark</color>
+    <color name="discount_background">@*android:color/accent_material_dark</color>
+    <color name="discount_text">#ffeeeeee</color>
+    <color name="listitem_highlight_background">#ff87413f</color>
+    <color name="loading_circle_background">@*android:color/button_material_dark</color>
+    <color name="material_button_background_disabled">@*android:color/holo_primary</color>
+    <color name="navbar_divider">#ff3c3c3e</color>
+    <color name="popup_menu_background">@*android:color/background_dark</color>
+    <color name="snackbar_background">@*android:color/background_dark</color>
+    <color name="spacerline">@*android:color/holo_primary</color>
+    <color name="text_light">#ffc2c2c2</color>
+    <color name="text_main">#ffeeeeee</color>
+    <color name="background_elevated">@*android:color/background_dark</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_54">#ffbbbbbb</color>
+    <color name="cardview_dark_background">@*android:color/background_floating_material_dark</color>
+    <color name="cardview_light_background">@*android:color/background_floating_material_dark</color>
+    <color name="launcher_background_color">@*android:color/accent_material_dark</color>
+    <color name="material_grey_100">@*android:color/background_floating_material_dark</color>
+    <color name="material_grey_600">#ffdddddd</color>
+    <color name="search_panel_background">@*android:color/transparent</color>
+    <color name="google_grey700">@*android:color/accent_material_dark</color>
+    <color name="gm_ref_palette_grey700">@*android:color/accent_material_dark</color>
+    <color name="og_material_elevation_dark_2">@*android:color/background_dark</color>
+	
+	</resources>

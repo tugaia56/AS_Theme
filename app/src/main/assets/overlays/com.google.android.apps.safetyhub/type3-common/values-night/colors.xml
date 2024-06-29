@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentTertiaryVariant">#ffc1a1c3</color>
+    <color name="banner_error_background">@*android:color/holo_primary</color>
+    <color name="banner_warning_background">#ff333124</color>
+    <color name="daynight_grey700_alpha38">#ff48494b</color>
+    <color name="daynight_grey800_alpha38">#ff58595a</color>
+    <color name="daynight_grey800_alpha38_inverted">#ff9d9fa1</color>
+    <color name="daynight_grey900">@*android:color/white</color>
+    <color name="daynight_neutral1_25">@*android:color/holo_primary</color>
+    <color name="daynight_surface_highlight">#ff525252</color>
+    <color name="daynight_video_window_background">@*android:color/background_dark</color>
+    <color name="escalated_action_button_background_disabled">#ff5a322e</color>
+    <color name="login_screen_background">@*android:color/background_dark</color>
+    <color name="navbar_selected_highlight">@*android:color/accent_material_dark</color>
+    <color name="onalert_action_button_background_disabled">#ff5e4f22</color>
+    <color name="reasonRun">#ff82abfb</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+    <color name="warning_view_error_background">@*android:color/holo_primary</color>
+    <color name="warning_view_warning_background">#ff333124</color>
+    <color name="yt_mono_filled_button_background_color_disabled">#fff1f1f1</color>
+    <color name="yt_mono_filled_button_background_color_enabled">#fff1f1f1</color>
+    <color name="yt_mono_filled_button_text_color_disabled">#ff717171</color>
+    <color name="yt_mono_filled_button_text_color_enabled">@*android:color/background_dark</color>
+    <color name="yt_mono_tonal_button_background_color">#1affffff</color>
+    <color name="yt_mono_tonal_button_text_color">#fff1f1f1</color>
+</resources>

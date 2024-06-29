@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_google_red_500">@*android:color/accent_material_dark</color>
+    <color name="material_grey_white_1000">@*android:color/background_dark</color>
+    <color name="play_protect_auth_accent_color">@*android:color/accent_material_dark</color>
+    <color name="play_protect_auth_content_color">#ffe8eaed</color>
+    <color name="play_protect_auth_title_color">#ffe8eaed</color>
+</resources>

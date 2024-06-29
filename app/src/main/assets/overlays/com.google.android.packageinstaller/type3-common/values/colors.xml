@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="og_material_elevation_dark_2">@*android:color/background_dark</color>
+
+    <color name="abc_search_url_text_normal">@*android:color/white</color>
+    <color name="abc_search_url_text_pressed">@*android:color/white</color>
+    <color name="abc_search_url_text_selected">@*android:color/white</color>
+    <color name="bright_foreground_material_light">@*android:color/white</color>
+    <color name="foreground_material_light">@*android:color/white</color>
+    <color name="shadow">#4c000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="header_background_color">#00000000</color>
+    <color name="grant_permissions_app_color">@*android:color/white</color>
+    <color name="grant_permissions_progress_color">#ccffffff</color>
+    <color name="google_grey700">@*android:color/accent_material_dark</color>
+    <color name="gm_ref_palette_grey700">@*android:color/accent_material_dark</color>
+    <color name="lb_content_title_text_color">#ffffffff</color>
+    <color name="lb_content_breadcrumb_text_color">#ffffffff</color>
+    <color name="lb_content_description_text_color">#ffffffff</color>
+    <color name="lb_action_fragment_background">@*android:color/background_floating_material_dark</color>
+    <color name="lb_dialog_activity_background">@*android:color/background_floating_material_dark</color>
+    <color name="lb_basic_card_info_bg_color">@*android:color/background_floating_material_dark</color>
+    <color name="material_blue_grey_800">@*android:color/background_floating_material_dark</color>
+    <color name="white">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#8affffff</color>
+    <color name="secondary_text_disabled_material_light">#24ffffff</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
+    <color name="primary_text_default_material_light">#deffffff</color>
+    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_dark_material_light">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_material_dark">@*android:color/primary_material_dark</color>
+    <color name="primary_material_light">@*android:color/primary_material_dark</color>
+    <color name="accent_material_dark">@*android:color/accent_material_dark</color>
+    <color name="accent_material_light">@*android:color/accent_material_dark</color>
+    <color name="background_floating_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="background_floating_material_light">@*android:color/background_floating_material_dark</color>
+    <color name="background_material_dark">@*android:color/background_dark</color>
+    <color name="background_material_light">@*android:color/background_dark</color>
+    <color name="bigIconColor">@*android:color/accent_material_dark</color>
+    <color name="notification_action_color_filter">@*android:color/accent_material_dark</color>
+    <color name="notification_icon_bg_color">@*android:color/accent_material_dark</color>
+</resources>

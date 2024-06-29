@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffe8f2ee" android:pathData="M24
+            48C37.2548
+            48 48
+            37.2548 48
+            24C48
+            10.7452 37.2548
+            0 24
+            0C10.7452
+            0 0
+            10.7452 0
+            24C0
+            37.2548 10.7452
+            48 24
+            48Z" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M23
+            24m-7.25
+            0a7.25
+            7.25 0
+            1 1
+            14.5 0a7.25
+            7.25 0
+            1 1
+            -14.5 0" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.5" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M27.7189
+            30.4607C26.9137
+            31.0498 25.9943
+            31.4921 25
+            31.748C25.6392
+            31.9125 26.3094
+            32 27
+            32C31.4183
+            32 35
+            28.4183 35
+            24C35
+            19.5817 31.4183
+            16 27
+            16C26.3094
+            16 25.6392
+            16.0875 25
+            16.252C25.9943
+            16.5079 26.9137
+            16.9502 27.7189
+            17.5393C30.9705
+            17.8971 33.5
+            20.6531 33.5
+            24C33.5
+            27.3469 30.9705
+            30.1029 27.7189
+            30.4607Z" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M23.75
+            19.5V20.6035C24.827
+            20.9081 25.6354
+            21.8524 25.7388
+            23H24.225C24.1092
+            22.4294 23.6047
+            22 23
+            22C22.3096
+            22 21.75
+            22.5596 21.75
+            23.25V24.75C21.75
+            25.4404 22.3096
+            26 23
+            26C23.6047
+            26 24.1092
+            25.5706 24.225
+            25H25.7388C25.6354
+            26.1476 24.827
+            27.0919 23.75
+            27.3965V28.5H22.25V27.3965C21.0957
+            27.07 20.25
+            26.0088 20.25
+            24.75V23.25C20.25
+            21.9912 21.0957
+            20.93 22.25
+            20.6035V19.5H23.75Z" android:fillType="evenOdd" />
+</vector>

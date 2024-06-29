@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_coin_blue">#ff394457</color>
+    <color name="action_coin_red">#ff523a3b</color>
+    <color name="arc_track">#995f6368</color>
+    <color name="camera_event_details_bottom_background">@*android:color/background_dark</color>
+    <color name="capsule_button">#ff35363a</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="cool_mode_icon_path">@*android:color/accent_material_dark</color>
+    <color name="eco_mode_icon_path">@*android:color/accent_material_dark</color>
+    <color name="heat_mode_icon_path">#ffff8b66</color>
+    <color name="nest_aware_current_plan_banner">#2e8ab4f8</color>
+    <color name="nest_aware_plan_background_selected">#2e8ab4f8</color>
+    <color name="remote_control_thermostat_bottom_bar_stroke">#ff5f6368</color>
+    <color name="station_view_progress_bar_blue_base">#ff394457</color>
+    <color name="station_view_progress_bar_green_base">#ff37493f</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+    <color name="swipe_refresh_progress_background">#ff35363a</color>
+</resources>

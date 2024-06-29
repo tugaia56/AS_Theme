@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="78.0dip" android:width="327.0dip" android:viewportWidth="930.0" android:viewportHeight="228.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M57
+            9L873
+            9A48
+            48 0
+            0 1
+            921 57L921
+            171A48
+            48 0
+            0 1
+            873 219L57
+            219A48
+            48 0
+            0 1
+            9 171L9
+            57A48
+            48 0
+            0 1
+            57 9z" />
+    <path android:fillColor="#00000000" android:pathData="M57
+            4.5L873
+            4.5A52.5
+            52.5 0
+            0 1
+            925.5 57L925.5
+            171A52.5
+            52.5 0
+            0 1
+            873 223.5L57
+            223.5A52.5
+            52.5 0
+            0 1
+            4.5 171L4.5
+            57A52.5
+            52.5 0
+            0 1
+            57 4.5z" android:strokeColor="#ffffffff" android:strokeWidth="9.0" android:strokeAlpha="0.08" />
+</vector>

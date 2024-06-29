@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fx_mobile_layer_color_1">@*android:color/background_dark</color>	
+    <color name="fx_mobile_layer_color_accent_opaque">#ff423262</color>
+    <color name="neutral_faded_normal_theme">#1ffbfbfe</color>
+    <color name="sync_disconnected_background_normal_theme">#ff5b5846</color>
+    <color name="sync_disconnected_icon_fill_normal_theme">#fffff36e</color>
+</resources>

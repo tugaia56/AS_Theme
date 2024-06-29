@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="category_disabled_color">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="home_navigation_bar_background">@*android:color/background_floating_material_dark</color>
+    <color name="home_navigation_ripple">@*android:color/ripple_material_dark</color>
+</resources>

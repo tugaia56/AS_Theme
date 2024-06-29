@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffd7ece8" android:pathData="M48
+            24C48
+            37.254 37.2557
+            48 24.0007
+            48C10.7457
+            48 0
+            37.254 0
+            24C0
+            10.7446 10.7457
+            0 24.0007
+            0C37.2557
+            0 48
+            10.7446 48
+            24Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M21
+            18L31
+            18" android:strokeColor="@*android:color/background_dark" android:strokeWidth="2.0" android:strokeLineCap="square" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M17
+            24L27
+            24" android:strokeColor="@*android:color/background_dark" android:strokeWidth="2.0" android:strokeLineCap="square" android:fillType="evenOdd" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M17
+            20C18.1046
+            20 19
+            19.1046 19
+            18C19
+            16.8954 18.1046
+            16 17
+            16C15.8954
+            16 15
+            16.8954 15
+            18C15
+            19.1046 15.8954
+            20 17
+            20Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M31
+            26C32.1046
+            26 33
+            25.1046 33
+            24C33
+            22.8954 32.1046
+            22 31
+            22C29.8954
+            22 29
+            22.8954 29
+            24C29
+            25.1046 29.8954
+            26 31
+            26Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M24
+            32C25.1046
+            32 26
+            31.1046 26
+            30C26
+            28.8954 25.1046
+            28 24
+            28C22.8954
+            28 22
+            28.8954 22
+            30C22
+            31.1046 22.8954
+            32 24
+            32Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="#00000000" android:pathData="M17
+            30L20
+            30" android:strokeColor="@*android:color/background_dark" android:strokeWidth="2.0" android:strokeLineCap="square" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M28
+            30L31
+            30" android:strokeColor="@*android:color/background_dark" android:strokeWidth="2.0" android:strokeLineCap="square" android:fillType="evenOdd" />
+</vector>

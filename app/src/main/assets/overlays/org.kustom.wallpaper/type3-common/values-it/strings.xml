@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Portami a casa</string>
+    <string name="abc_action_bar_up_description">Torna indietro</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
+    <string name="abc_activitychooserview_choose_application">"Scelta di un'app"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">SPAZIO</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="action_add">Aggiungi</string>
+    <string name="action_add_formula">Add Formula</string>
+    <string name="action_add_to_faves">Aggiungi ai preferiti</string>
+    <string name="action_after">After</string>
+    <string name="action_api_key">Usa chiave API</string>
+    <string name="action_apply">Applica</string>
+    <string name="action_before">Prima</string>
+    <string name="action_cancel">Annulla</string>
+    <string name="action_clear">Cancella</string>
+    <string name="action_close">Chiudi</string>
+    <string name="action_copied">Copiato</string>
+    <string name="action_copy">Copia</string>
+    <string name="action_cut">Taglia</string>
+    <string name="action_delete">Cancella</string>
+    <string name="action_done">Fatto</string>
+    <string name="action_down">Giù</string>
+    <string name="action_download">Scarica</string>
+    <string name="action_edit">Modifica</string>
+    <string name="action_export">Esporta</string>
+    <string name="action_fave">Preferito</string>
+    <string name="action_faves">Preferiti</string>
+    <string name="action_filter">Filtro</string>
+    <string name="action_fix">Fissa</string>
+    <string name="action_fix_now">Sistema Ora</string>
+    <string name="action_formula">Formula</string>
+    <string name="action_global">Globale</string>
+    <string name="action_help">Aiuto</string>
+    <string name="action_hide">Nascondi nel Launcher</string>
+    <string name="action_home">Home</string>
+    <string name="action_ignore">Ignora</string>
+    <string name="action_import">Importa</string>
+    <string name="action_imported">Importato nella Clipboard</string>
+    <string name="action_install">Installa</string>
+    <string name="action_list_dense">Icone piccole</string>
+    <string name="action_list_normal">Icone grandi</string>
+    <string name="action_load">Carica</string>
+    <string name="action_loading">Caricamento</string>
+    <string name="action_lock">Blocca</string>
+    <string name="action_more">Altro</string>
+    <string name="action_more_from">Altro da</string>
+    <string name="action_more_info">Altre informazioni</string>
+    <string name="action_new">Nuovo</string>
+    <string name="action_none">Nessuno</string>
+    <string name="action_ok">OK</string>
+    <string name="action_paste">Incolla</string>
+    <string name="action_pasted">Incollato</string>
+    <string name="action_play">Avvia</string>
+    <string name="action_recently_used">Usato di recente</string>
+    <string name="action_remote_from_faves">Rimuovi dai preferiti</string>
+    <string name="action_remove_formula">Rimuovi Formula</string>
+    <string name="action_remove_global">Rimuovi Global</string>
+    <string name="action_rename">Rinomina</string>
+    <string name="action_replace">Sostituisci</string>
+    <string name="action_replaced">Testo Sostituito</string>
+    <string name="action_restore">Ripristina</string>
+    <string name="action_result">Risultato</string>
+    <string name="action_save">Salva</string>
+    <string name="action_saving">Salvataggio</string>
+    <string name="action_search">Cerca</string>
+    <string name="action_setup_customize">Personalizza</string>
+    <string name="action_setup_info">Altre informazioni</string>
+    <string name="action_setup_remove">Rimuovi</string>
+    <string name="action_share">Condividi</string>
+    <string name="action_sort">Ordina</string>
+    <string name="action_subscribe">Abbonati</string>
+    <string name="action_uninstall">Disinstalla</string>
+    <string name="action_unlock">Sblocca</string>
+    <string name="action_up">Su</string>
+    <string name="action_updating">In aggiornamento</string>
+    <string name="action_use_global">Usa Global</string>
+    <string name="app_wp_description">Il Wallpaper più personalizzabile di sempre</string>
+    <string name="battery_source_ac">AC</string>
+    <string name="battery_source_battery">Batteria</string>
+    <string name="battery_source_wireless">Wireless</string>
+    <string name="battery_status_unknown">Sconosciuto</string>
+    <string name="bbcode_bg">Mostra il testo con sfondo giallo</string>
+    <string name="bbcode_blur">Sfoca il testo con un raggio di 5 (usa valori negativi per sfocatura esterna)</string>
+    <string name="bbcode_bold">Restituirà testo in grassetto</string>
+    <string name="bbcode_color">Restituirà testo in rosso</string>
+    <string name="bbcode_font">Farà il testo con il carattere globale \"myfont\"</string>
+    <string name="bbcode_italic">Restituirà testo in italic</string>
+    <string name="bbcode_size">Farà il testo il 20 percento più grande</string>
+    <string name="bbcode_underline">Mostra il testo sottolineato</string>
+    <string name="bbcode_xscale">Scalerà la proporzione di X di 0
+            5 (la metà)</string>
+    <string name="common_google_play_services_enable_button">Attiva</string>
+    <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
+    <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string name="common_google_play_services_install_button">Installa</string>
+    <string name="common_google_play_services_install_text">"L'app %1$s non funzionerà senza Google Play Services
+             non presente sul tuo dispositivo."</string>
+    <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilità di Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s non funzionerà senza Google Play Services
+             non supportati dal tuo dispositivo.</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+    <string name="common_google_play_services_update_text">%1$s non funzionerà se non aggiorni Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s non funzionerà senza Google Play Services
+             attualmente in fase di aggiornamento.</string>
+    <string name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrà eseguito a breve."</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="create_preset">Crea</string>
+    <string name="crop_image_activity_no_permissions">Annullamento in corso
+             autorizzazione richieste non concesse</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">Ritaglia</string>
+    <string name="crop_image_menu_flip">Capovolgi</string>
+    <string name="crop_image_menu_flip_horizontally">Capovolgi orizzontalmente</string>
+    <string name="crop_image_menu_flip_vertically">Capovolgi verticalmente</string>
+    <string name="crop_image_menu_rotate_left">Ruota in senso antiorario</string>
+    <string name="crop_image_menu_rotate_right">Ruota</string>
+    <string name="dialog_animator_ease">Attenua</string>
+    <string name="dialog_animator_empty_list">"Una animazione complessa è simile a CSS3
+             in qualsiasi punto della transizione da 0 (inizio) a 100 (fine) è possibile avere una proprietà impostata su un valore
+             Kustom si muoverà senza problemi fino a li. N
+Se dici che X dovrebbe essere a 100 alla posizione 50 Kustom si muoverà di 100 nella prima metà dell'animazione e poi interromperà.N
+Aggiungi la tua prima proprietà premendo più sulla parte superiore."</string>
+    <string name="dialog_animator_position">"Seleziona una posizione (Da 0 a 100 in percentuale)
+             usare questo quando si desidera che la proprietà all'interno dell'animazione sia al valore selezionato."</string>
+    <string name="dialog_animator_property">Proprietà</string>
+    <string name="dialog_animator_value">Valore</string>
+    <string name="dialog_animator_value_desc">Scegliere quale proprietà desideri impostare in una determinata posizione e a quale valore dovrebbe essere
+             facilita il controllo della transizione rispetto allo stato precedente.</string>
+    <string name="dialog_calendar_all">Tutto</string>
+    <string name="dialog_changelog_desc">Mostrerà la storia completa con i cambiamenti</string>
+    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_color_mode_analogous">Analogi</string>
+    <string name="dialog_color_mode_complementary">Complementari</string>
+    <string name="dialog_color_mode_monochromatic">Monocromatico</string>
+    <string name="dialog_color_mode_recent">Recenti</string>
+    <string name="dialog_expired_desc">"Questa versione di Kustom è troppo vecchia
+             aggiornarla dallo store. L'editor si chiuderà."</string>
+    <string name="dialog_expired_title">Release Scaduta</string>
+    <string name="dialog_fitness_desc">"I dati Fitness hanno bisogno dell'autentificazione per accedere ai dati e alla storia (clicka per risolvere)"</string>
+    <string name="dialog_fitness_title">Accesso Fitness</string>
+    <string name="dialog_globals_none">Nessuna Global di questo tipo è disponibile
+             per favore torna al Root e usa la sezione \"Global\" per crearne una.</string>
+    <string name="dialog_gopro_bought">Grazie per essere diventato PRO! Tutte le funzionalità sono state sbloccate!</string>
+    <string name="dialog_gopro_failed">Sembra che tu abbia istallato il pacchetto PRO ma sembra corrotto
+             per favore reistallalo di nuovo dallo Store</string>
+    <string name="dialog_gopro_inapp_failed">"Acquisto fallito
+             controlla la connettività e riprova più tardi o contatta l'assistenza"</string>
+    <string name="dialog_gopro_no">No grazie :(</string>
+    <string name="dialog_gopro_ok">Diventa PRO!</string>
+    <string name="dialog_gopro_ok_in_app">Diventa Pro (In App)</string>
+    <string name="dialog_gopro_ok_store">Diventa Pro(App diversa)</string>
+    <string name="dialog_gopro_text">"Le impostazioni predefinite di importazione e le impostazioni senza pubblicità sono solo PRO.N
+Supporto il dev e aiuta a rendere Kustom il meglio del meglio!"</string>
+    <string name="dialog_gopro_text_export">"Attenzione! La versione gratuita permette l'espostazione e la condivisione ma per importare di nuovo il tuo preset dovrai essere PRO"</string>
+    <string name="dialog_gopro_text_inapp">" N  nSe hai già acquistato In App e PRO non è stato riconosciuto
+             prego premere nuovamente acquistare In App
+             non ti verrà addebitato nulla"</string>
+    <string name="dialog_gopro_title">Solo vers. Pro</string>
+    <string name="dialog_gopro_version">Il pacchetto PRO istallato è obsoleto
+             per favore aggiornalo dallo Store</string>
+    <string name="dialog_greenify">La lista è vuota e sembra che tu abbia Greenify istallato
+             sfortunatamente le funzioni di ibernazione profonda di Greenify non funzionano bene con gli skin pack di Kustom APK. Per favore controlla che Greenify Deep Hibernation sia disattivata e
+             se vuoi
+             notificalo agli sviluppatori di Greenify. Grazie!</string>
+    <string name="dialog_import_failed">Importazione fallita
+             il file è corrotto o non è un file Kustom</string>
+    <string name="dialog_import_version">Il preset che stai tentando di caricare è stato creato con una versione più recente di Kustom quindi potrebbe crashare o non funzionare con la tua configurazione attuale
+             per favore effettua un upgrade nel caso ci siano problemi.</string>
+    <string name="dialog_imported">"File importato
+             aprilo nell'app e vai nella sezione 'Exported' per caricarlo"</string>
+    <string name="dialog_komponent_first_desc">"Congratulazioni hai appena caricato il tuo primo Komponent! N
+Per impostazione predefinita i componenti sono bloccati
+             è consentito modificare solo le impostazioni globali. N
+Se il componente non è solo lettura
+             puoi passare alla modalità di modifica facendo clic sull'icona \"sblocca\" sulla barra superiore"</string>
+    <string name="dialog_komponent_first_title">Componente</string>
+    <string name="dialog_komponent_readonly_desc">"Questo Komponent è stato protetto dall'autore e non può essere sbloccato."</string>
+    <string name="dialog_komponent_readonly_title">Bloccato</string>
+    <string name="dialog_minminguard">"E' stato rilevato un modulo XPosed di MinMinGuard
+             qualche utente ha riportato dei massicci rallentamenti nell'interfaccia di Kustom usando questo modulo
+             per favore disistallalo o metti Kustom App nella whitelist se hai dei problemi"</string>
+    <string name="dialog_notification_desc">Per attivare le informazioni sulla musica e le notifiche Kustom ha bisogno di accedere alle tue notifiche (clicka qui per risolvere)</string>
+    <string name="dialog_notification_disable_forced">"Forza Disattiva
+             l'applicazione potrebbe non funzionare correttamente"</string>
+    <string name="dialog_notification_title">Acesso notifiche</string>
+    <string name="dialog_optimization_disable_howto">"Apri le impostazioni Batteria
+             premi la freccia vicino 'Senza Ottimizzazione'
+             seleziona 'Tutte le app' cerca Kustom e seleziona 'Non ottimizzare'."</string>
+    <string name="dialog_optimization_enabled_warning">"Per disabilitare le notifiche Kustom l'applicazione deve essere rimossa da Ottimizzazione Batteria di Android."</string>
+    <string name="dialog_replace_recursive">Sostituisci verrà applicato a ogni formula usata nel modulo selezionato e nei gruppi al suo interno. Usala con attenzione!</string>
+    <string name="dialog_requirements_title">Requisiti mancanti</string>
+    <string name="dialog_screeen_count">Numero di schermi</string>
+    <string name="dialog_uninstall_builtin">Spiacenti ma i Builtin Preset non possono essere eliminati</string>
+    <string name="dialog_uninstall_delete">Cancellare il preset %s?</string>
+    <string name="dialog_uninstall_pkg">Questo eliminerà tutti i preset nel pacchetto %s
+             Continuare?</string>
+    <string name="dialog_wallpaper_not_set">Kustom non è al momento impostato come tuo Live Wallpaper
+             vuoi impostarlo ora?</string>
+    <string name="dialog_warning_scroll_desc">"Il tuo sfondo è attualmente impostato con un immagine fissa
+             in alcuni launcher (come Nova) questo impedirà a Kustom di scorrere
+             se hai questo problema per favore vai al tuo launcher
+             imposta un'immagine scorrevole (quindi non ritagliarla) e poi imposta Kustom come sfondo."</string>
+    <string name="dialog_warning_title">Attenzione</string>
+    <string name="dialog_welcome_desc">"Benvenuto su Kustom! Il super fantastico Android Design Creator. N
+Prova la sezione \"Load Preset\" e carica qualcosa dal \"Basepack\" per capire cosa si può fare. N
+Potete utilizzare l'editor avanzato per modificare completamente il predefinito o crearlo da zero. N
+Se hai bisogno di aiuto
+             controlla il sito FAQ o il sito della Knowledge Base nella sezione Feedback con Documentazione
+             Tutorial e molto altro ancora."</string>
+    <string name="dialog_welcome_title">Benvenuto</string>
+    <string name="dialog_widget_bg">Anteprima sfondo</string>
+    <string name="dialog_widget_bg_warning">La posizione del Wallpaper è indovinata quindi potrebbe non essere del tutto corretta
+             al momento questo problema non può essere risolto</string>
+    <string name="editor_action_discard">Scarta</string>
+    <string name="editor_common_action_delay">Ritardo</string>
+    <string name="editor_common_action_duration">Durata</string>
+    <string name="editor_common_animate">Anima</string>
+    <string name="editor_common_animation">Animazione</string>
+    <string name="editor_common_mass_edit">Modifica Batch</string>
+    <string name="editor_common_position">Posizione</string>
+    <string name="editor_common_touch">Tocco</string>
+    <string name="editor_common_transform">Trasforma</string>
+    <string name="editor_dialog_loading">Caricamento…</string>
+    <string name="editor_dialog_restore_auto">Salvataggio automatico</string>
+    <string name="editor_dialog_restore_create">Crea punto di Ripristino</string>
+    <string name="editor_dialog_restore_default">Preset su schermo</string>
+    <string name="editor_dialog_restore_manual">Salvataggio Manuale</string>
+    <string name="editor_dialog_save">Vuoi scartare i cambiamenti?</string>
+    <string name="editor_dialog_saving">Salvataggio…</string>
+    <string name="editor_dialog_title">"Esci dall'editor"</string>
+    <string name="editor_dialog_widget_changed">Il widget che stavi modificando prima è stato cambiato
+             vuoi salvarlo prima di modificare questo?</string>
+    <string name="editor_drawer_close">Chiudi</string>
+    <string name="editor_drawer_open">Apri</string>
+    <string name="editor_preview_toggle_gyro_off">Sensori magnetici fermi</string>
+    <string name="editor_preview_toggle_gyro_on">Sensori magnetici attivati</string>
+    <string name="editor_preview_toggle_hide_off">Tutti i moduli visibili</string>
+    <string name="editor_preview_toggle_hide_on">Moduli non selezionati nascosti</string>
+    <string name="editor_preview_toggle_lock_off">Anteprima di Blocco Disattivata</string>
+    <string name="editor_preview_toggle_lock_on">Anteprima di Blocco Attivata</string>
+    <string name="editor_preview_toggle_ratio">Imposta proporzione a:</string>
+    <string name="editor_preview_toggle_rotate_0">Animazioni orologio attivate</string>
+    <string name="editor_preview_toggle_rotate_1">Animazioni orologio a velocità normale</string>
+    <string name="editor_preview_toggle_zoom_off">Zoom automatico Disattivato</string>
+    <string name="editor_preview_toggle_zoom_on">Zoom automatico Attivato</string>
+    <string name="editor_settings_anchor">Aggancia</string>
+    <string name="editor_settings_animation_action">Azione</string>
+    <string name="editor_settings_animation_amount">Quantità</string>
+    <string name="editor_settings_animation_anchor">Ancora</string>
+    <string name="editor_settings_animation_angle">Angolo</string>
+    <string name="editor_settings_animation_animator">Animatore</string>
+    <string name="editor_settings_animation_axis">Asse</string>
+    <string name="editor_settings_animation_center">Centro</string>
+    <string name="editor_settings_animation_ease">Facilita</string>
+    <string name="editor_settings_animation_filter">Filtro</string>
+    <string name="editor_settings_animation_limit">Limite</string>
+    <string name="editor_settings_animation_mode">Modalità</string>
+    <string name="editor_settings_animation_rule">Regola</string>
+    <string name="editor_settings_animation_speed">Velocità</string>
+    <string name="editor_settings_animation_type">Reagisci A</string>
+    <string name="editor_settings_bmp_alpha">Opacità</string>
+    <string name="editor_settings_bmp_bitmap">Bitmap</string>
+    <string name="editor_settings_bmp_blur">Sfoca</string>
+    <string name="editor_settings_bmp_dim">Diminuisci</string>
+    <string name="editor_settings_bmp_filter">Filtro</string>
+    <string name="editor_settings_bmp_filter_amount">Quantità</string>
+    <string name="editor_settings_bmp_filter_color">Colore</string>
+    <string name="editor_settings_bmp_mode">Modalità</string>
+    <string name="editor_settings_bmp_rotate">Ruota</string>
+    <string name="editor_settings_bmp_svg">SVG</string>
+    <string name="editor_settings_bmp_width">Larghezza</string>
+    <string name="editor_settings_color">Colore</string>
+    <string name="editor_settings_font_align">Allinea</string>
+    <string name="editor_settings_font_filter">Filtro</string>
+    <string name="editor_settings_font_height">Dimensione</string>
+    <string name="editor_settings_font_mode">Modalità</string>
+    <string name="editor_settings_font_size_type">Tipo</string>
+    <string name="editor_settings_font_text_lines">LineeMax</string>
+    <string name="editor_settings_font_text_spacing">Spaziatura</string>
+    <string name="editor_settings_font_text_width">Larghezza</string>
+    <string name="editor_settings_fonticon">Icona</string>
+    <string name="editor_settings_fonticon_formula_tip">"Deve restituire il nome dell'icona del font"</string>
+    <string name="editor_settings_fonticon_icon">Icona</string>
+    <string name="editor_settings_fonticon_set">Imposta</string>
+    <string name="editor_settings_fonticon_size">Dimensione</string>
+    <string name="editor_settings_fx_gradient_bitmap_mode">Modalità</string>
+    <string name="editor_settings_fx_gradient_center_x">CentraX</string>
+    <string name="editor_settings_fx_gradient_center_y">CentraY</string>
+    <string name="editor_settings_fx_gradient_color">Colore</string>
+    <string name="editor_settings_fx_gradient_width">Larghezza</string>
+    <string name="editor_settings_fx_mask">Maschera</string>
+    <string name="editor_settings_fx_shadow">Ombra</string>
+    <string name="editor_settings_fx_shadow_blur">Sfoca</string>
+    <string name="editor_settings_fx_shadow_color">Colore</string>
+    <string name="editor_settings_fx_shadow_direction">Direzione</string>
+    <string name="editor_settings_fx_shadow_distance">Distanza</string>
+    <string name="editor_settings_grow">Cresci</string>
+    <string name="editor_settings_grow_mode">Grow</string>
+    <string name="editor_settings_layer_fx">Effetti</string>
+    <string name="editor_settings_layer_fx_bcolor">Bcolore</string>
+    <string name="editor_settings_layer_fx_fcolor">Fcolore</string>
+    <string name="editor_settings_layer_globals">Var. Globali</string>
+    <string name="editor_settings_layer_gravity">Gravità</string>
+    <string name="editor_settings_layer_items">Oggetti</string>
+    <string name="editor_settings_layer_layer">Livello</string>
+    <string name="editor_settings_layer_location">Posizione</string>
+    <string name="editor_settings_layer_margin">Margine</string>
+    <string name="editor_settings_layer_settings">Impostazioni</string>
+    <string name="editor_settings_layer_stacking">Impilare</string>
+    <string name="editor_settings_layer_timezone">Fuso Orario</string>
+    <string name="editor_settings_layer_visible">Visibile</string>
+    <string name="editor_settings_layer_xcrop">RitaglioX</string>
+    <string name="editor_settings_layer_ycrop">RitaglioY</string>
+    <string name="editor_settings_lock_main">Blocca</string>
+    <string name="editor_settings_notification">Notifiche</string>
+    <string name="editor_settings_notification_bgcolor">Sfondo</string>
+    <string name="editor_settings_notification_font">Font Icona</string>
+    <string name="editor_settings_notification_icon">Icona</string>
+    <string name="editor_settings_notification_line_space">Interlinea</string>
+    <string name="editor_settings_notification_pad">Padding Icona</string>
+    <string name="editor_settings_notification_style">Stile</string>
+    <string name="editor_settings_notification_text">Testo Icona</string>
+    <string name="editor_settings_offset_x">Offset X</string>
+    <string name="editor_settings_offset_y">Offset Y</string>
+    <string name="editor_settings_paint_bgcolor">ColoreBg</string>
+    <string name="editor_settings_paint_color">Colore</string>
+    <string name="editor_settings_paint_fgcolor">ColoreFg</string>
+    <string name="editor_settings_paint_gcolor">ColoreGr</string>
+    <string name="editor_settings_paint_mcolor">Colori</string>
+    <string name="editor_settings_paint_mcolor_tip">"Scrivi un'elenco di colori in formato #RRGGBB separati da virgola"</string>
+    <string name="editor_settings_paint_mode">Filtro</string>
+    <string name="editor_settings_paint_stroke">Contorno</string>
+    <string name="editor_settings_paint_style">Stile</string>
+    <string name="editor_settings_progress">Avanzamento</string>
+    <string name="editor_settings_progress_align">Allinea</string>
+    <string name="editor_settings_progress_count">Sezione</string>
+    <string name="editor_settings_progress_height">Altezza</string>
+    <string name="editor_settings_progress_level">Livello</string>
+    <string name="editor_settings_progress_mode">Modalità</string>
+    <string name="editor_settings_progress_progress">Progresso</string>
+    <string name="editor_settings_progress_shape">Forma</string>
+    <string name="editor_settings_progress_width">Larghezza</string>
+    <string name="editor_settings_rotate">Ruota</string>
+    <string name="editor_settings_rotate_degrees">Gradi</string>
+    <string name="editor_settings_rotate_mode">Rotazione</string>
+    <string name="editor_settings_rotate_radius">Raggio</string>
+    <string name="editor_settings_scale_mode">Ridimensiona</string>
+    <string name="editor_settings_scale_value">Ridimensiona</string>
+    <string name="editor_settings_series">Serie</string>
+    <string name="editor_settings_series_count">Conta</string>
+    <string name="editor_settings_series_current">Attuale</string>
+    <string name="editor_settings_series_current_tip">Deve restituire il numero di elemento corrente della serie (da 0 a max)
+             puoi ottenere un numero negativo per non selezionare nulla</string>
+    <string name="editor_settings_series_formula_tip">"Scrive il testo di una voce
+             l'index costante verrà sostituito con la posizione dell'oggetto (prova a scrivere $index$ per un esempio)"</string>
+    <string name="editor_settings_series_mode">Modalità</string>
+    <string name="editor_settings_series_tsize">MisuraT</string>
+    <string name="editor_settings_shape_angle">Angolo</string>
+    <string name="editor_settings_shape_corners">Angoli</string>
+    <string name="editor_settings_shape_fx">Effetti</string>
+    <string name="editor_settings_shape_height">Altezza</string>
+    <string name="editor_settings_shape_ratio">Proporzione</string>
+    <string name="editor_settings_shape_size">Dimensione</string>
+    <string name="editor_settings_shape_skew">Inclina</string>
+    <string name="editor_settings_shape_type">Forma</string>
+    <string name="editor_settings_shape_width">Larghezza</string>
+    <string name="editor_settings_shortcuts">Collegamenti</string>
+    <string name="editor_settings_size">Dimensione</string>
+    <string name="editor_settings_spacing">Spaziatura</string>
+    <string name="editor_settings_spacing_mode">Modalità</string>
+    <string name="editor_settings_style">Stile</string>
+    <string name="editor_settings_text">Testo</string>
+    <string name="editor_settings_text_paint">Colore</string>
+    <string name="editor_settings_touch_action">Azione</string>
+    <string name="editor_settings_touch_activity">Attività</string>
+    <string name="editor_settings_touch_kustom">Modalità</string>
+    <string name="editor_settings_touch_music">Musica</string>
+    <string name="editor_settings_touch_nindex">Indice</string>
+    <string name="editor_settings_touch_nindex_tip">Inserisci 0
+            1
+            2
+            3 per le notifiche cancellabili (0 è la prima) oppure s0
+             s1
+             s2 per quelle persistenti</string>
+    <string name="editor_settings_touch_scroll_dir">Direzione</string>
+    <string name="editor_settings_touch_text">Testo</string>
+    <string name="editor_settings_touch_type">Scrivi</string>
+    <string name="editor_settings_touch_url">URL</string>
+    <string name="editor_settings_touch_volume_action">Modalità</string>
+    <string name="editor_settings_touch_volume_level">Livello</string>
+    <string name="editor_settings_touch_volume_silent">Silenzioso</string>
+    <string name="editor_settings_touch_volume_stream">Audio</string>
+    <string name="editor_settings_wallpaper_bitmap_edit">Modifica</string>
+    <string name="editor_settings_wallpaper_bitmap_edit_desc">Modifica immagine</string>
+    <string name="editor_settings_wallpaper_bitmap_pick_desc">Scegli immagine</string>
+    <string name="editor_settings_wallpaper_color">Colore</string>
+    <string name="editor_settings_wallpaper_main">Sfondo</string>
+    <string name="editor_settings_wallpaper_scroll">Scorri</string>
+    <string name="editor_settings_wallpaper_type">Tipo</string>
+    <string name="editor_settings_weather_chance_of_rain">Probabilità di Pioggia</string>
+    <string name="editor_settings_weather_days">Giorni</string>
+    <string name="editor_settings_weather_forecast">Previsione</string>
+    <string name="editor_settings_weather_forecast_hourly">Previsioni Orarie</string>
+    <string name="editor_settings_weather_hours">Ore</string>
+    <string name="editor_settings_weather_precipitations">Precipitazioni</string>
+    <string name="editor_text_edit_preview">Anterpima Testo</string>
+    <string name="editor_text_formula_animation_adv">"La scorrimento è in pixel
+             la dissolvenza/scale è da 0 a 1
+             la rotazione è in gradi. È possibile utilizzare i seguenti parametri: 
+x = scroll (0 prima schermata a 1 ultima schermata) 
+w = screen width
+h = screen height
+vx/vy/vz = rotazione giroscopica (da 0 a 360) se disponibile 
+p = Livello (da 0 a 100) se disponibile"</string>
+    <string name="editor_text_formula_animation_switch">"Questa formula verrà usata come switch. Quando da 1 o f l'animazione si muoverà in avanti
+             quando è 0 o b l'animazione tornerà all'inizio
+             quando è impostato su r l'animazione si resetterà"</string>
+    <string name="editor_text_formula_return">Deve tornare a</string>
+    <string name="editor_text_formula_return_bitmap">Puoi usare file:///localpath o http://url</string>
+    <string name="editor_text_formula_return_color">Deve tornare ad un colore valido (sia #RRGGBB o #AARRGGBB)</string>
+    <string name="editor_text_formula_return_enum">Deve tornare uno di</string>
+    <string name="editor_text_formula_return_progress">Deve tornare ad un valore tra</string>
+    <string name="editor_text_formula_return_tz">Deve restituire un ID TimeZone valido (es America / New_York) o un offset in minuti</string>
+    <string name="editor_text_function_arguments">Argomenti</string>
+    <string name="editor_text_function_bbcode">Codice BB</string>
+    <string name="editor_text_function_bbcode_desc">Aggiunge il markup di testo semplice come il colore
+             il grassetto
+             il corsivo e così via</string>
+    <string name="editor_text_function_detail">(clicka per gli esempi)</string>
+    <string name="editor_text_function_detail_result">Ritorna</string>
+    <string name="editor_text_function_examples">(tocca per aggiungere
+             tieni premuto per sostituire)</string>
+    <string name="editor_text_function_examples_title">Esempi</string>
+    <string name="editor_text_function_fave_name">Nomi Preferiti</string>
+    <string name="editor_text_function_faves">Formule preferite</string>
+    <string name="editor_text_function_faves_desc">Formule Preferite
+             elenca o elimina espressioni segnalate</string>
+    <string name="editor_text_function_faves_empty">"Attualmente non hai alcuna espressione segnalata
+             per favore
+             usa il pulsante Star in alto a destra dell'editor per salvare uno"</string>
+    <string name="editor_text_function_reference">Riferimenti</string>
+    <string name="editor_text_functions">Funzioni</string>
+    <string name="editor_widget_resize">"Il preset è stato ridimensionato automaticamente per adattarsi all'area Widget
+             è possibile modificare la scalatura in qualsiasi momento utilizzando l'opzione di scala nella sezione di livello"</string>
+    <string name="error">Errore</string>
+    <string name="error_bitmap_import">Il file Bitmap non può essere caricato!</string>
+    <string name="error_no_network">Nessuna rete disponibile
+             controlla la connessione e riprova</string>
+    <string name="error_no_results">Nessun risultato</string>
+    <string name="error_no_wp_support">Il tuo Dispositivo (o ROM) non ha il Live wallpaper support
+             questa App non può funzionare senza di esso
+             per favore controlla online o nella community come risolvere questo problema o istalla una ROM con delle Live Wallpaper Libraries</string>
+    <string name="error_root_layer_full">Hai raggiunto il numero massimo di livelli nel Root Group
+             per favore usa dei gruppi (stack
+             overlap
+             komponent…)</string>
+    <string name="export_action_save">Salva</string>
+    <string name="export_dialog_exporting">Salvataggio…</string>
+    <string name="export_dialog_saved">Salvato</string>
+    <string name="export_edit_author_email">"Email dell'Autore"</string>
+    <string name="export_edit_author_name">"Nome dell'Autore"</string>
+    <string name="export_edit_author_section">Autore</string>
+    <string name="export_edit_description">Descrizione</string>
+    <string name="export_edit_email_validate_error">Email non valida</string>
+    <string name="export_edit_komponent_section">Opzioni</string>
+    <string name="export_edit_output_section">Uscita</string>
+    <string name="export_edit_readonly">"Sola lettura (disattiva l'esportazione)"</string>
+    <string name="export_edit_readonly_export">"Questo preset è stato bloccato dall'autore e non è consentito esportarlo o copiarlo."</string>
+    <string name="export_edit_readonly_warning">"Assicurati di poter accedere con l'account usato nelle impostazioni dell'app o salva una copia non bloccata
+             altrimenti non potrai cambiarla una volta esportata!"</string>
+    <string name="export_edit_sd_directory">Cartella:</string>
+    <string name="export_edit_sd_filename">Nome del file:</string>
+    <string name="export_edit_title">Titolo</string>
+    <string name="export_edit_title_validate_error">Titolo non valido (Troppo corto)</string>
+    <string name="export_error_empty_title">Titolo Preset non valido</string>
+    <string name="export_hint_optional">opzionale</string>
+    <string name="export_hint_title">opzionale</string>
+    <string name="export_mode_sd">Esporta sulla SD(default)</string>
+    <string name="export_mode_sdapk">Esporta per il Play Store APK (Avanzato!)</string>
+    <string name="fgroup_battery">Batteria</string>
+    <string name="fgroup_battery_desc">Livello attuale
+             percentuale
+             tensione…</string>
+    <string name="fgroup_date">Data e Ora</string>
+    <string name="fgroup_date_desc">Orologio
+             data corrente…</string>
+    <string name="fgroup_location">Posizione</string>
+    <string name="fgroup_location_desc">Indirizzo
+             città
+             latitudine
+             longitudine
+             altitudine…</string>
+    <string name="fgroup_weather">Meteo</string>
+    <string name="fgroup_weather_desc">Meteo attuale e previsioni</string>
+    <string name="font_downloaded">Font Scaricato</string>
+    <string name="function_airquality_arg_param">Tipo di informazione
+             vedi esempi</string>
+    <string name="function_airquality_example_collected">Tempo della misurazione dati in formato hh:mm</string>
+    <string name="function_airquality_example_index">"Indice qualità dell'aria (0 = migliore
+             400 = peggiore)"</string>
+    <string name="function_airquality_example_label">"Etichetta livello qualità dell'aria"</string>
+    <string name="function_airquality_example_level">"Livello qualità dell'aria"</string>
+    <string name="function_airquality_example_no2">NO2 Medio (µg/m³)</string>
+    <string name="function_airquality_example_pm10">PM10 Medio (µg/m³)</string>
+    <string name="function_airquality_example_pm25">PM25 Medio (µg/m³)</string>
+    <string name="function_airquality_example_source">Nome della sorgente dati</string>
+    <string name="function_airquality_example_station">ID Stazione Dati</string>
+    <string name="function_airquality_example_updated">Tempo ultimo aggiornamento dati in formato hh:mm</string>
+    <string name="function_astro_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_astro_example_asunrise">Alba astronomica di oggi in formato hh: mm</string>
+    <string name="function_astro_example_asunset">Tramonto astronomico di oggi in formato hh: mm</string>
+    <string name="function_astro_example_csunrise">Alba civile di oggi in formato hh: mm</string>
+    <string name="function_astro_example_csunset">Tramonto civile di oggi in formato hh: mm</string>
+    <string name="function_astro_example_isday">Ritorna 1 durante il giorno 0 di notte</string>
+    <string name="function_astro_example_moonage">Età lunare corrente</string>
+    <string name="function_astro_example_moonill">Illuminazione attuale della luna (In percentuale)</string>
+    <string name="function_astro_example_moonphase">Nome fase lunare corrente</string>
+    <string name="function_astro_example_moonphasec">Attuale codice fase lunare
+             uno dei</string>
+    <string name="function_astro_example_msunrise">Alba lunare</string>
+    <string name="function_astro_example_msunrise_a1d">Alba lunare di domani</string>
+    <string name="function_astro_example_msunset">Tramonto lunare</string>
+    <string name="function_astro_example_msunset_r2d">Tramonto lunare 2 giorni fa</string>
+    <string name="function_astro_example_nasunrise">Alba nautica di oggi in formato hh: mm</string>
+    <string name="function_astro_example_nasunset">Tramonto nautico di oggi in formato hh: mm</string>
+    <string name="function_astro_example_nsunrise">Tempo rimanente alla prossima alba</string>
+    <string name="function_astro_example_nsunset">Tempo rimanente al prossimo tramonto</string>
+    <string name="function_astro_example_season">Nome stagione attuale</string>
+    <string name="function_astro_example_seasonc">Codice stagione attuale
+             una di</string>
+    <string name="function_astro_example_sunrise">Alba di oggi in formato hh:mm</string>
+    <string name="function_astro_example_sunset">Tramonto di oggi in formato hh:mm</string>
+    <string name="function_astro_example_zodiac">Nome attuale segno zodiacale</string>
+    <string name="function_astro_example_zodiacc">Codice attuale segno zodiacale
+             uno di</string>
+    <string name="function_battery_arg_date">"Data facoltativa per i dati storici fino a 24 ore
+             è possibile utilizzare il formato abituale in modo che da \"r1h\" darà un'ora fa
+             \"r30m\" 30 minuti fa e così via (vedi esempi)"</string>
+    <string name="function_battery_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_battery_example_charging">Restituisce 0 se con batteria
+             1 se in carica</string>
+    <string name="function_battery_example_current">Corrente di carica / scarico in milliampere (solo Android 5.x o superiore)</string>
+    <string name="function_battery_example_fast">Restituisce 1 se in carica veloce
+             altrimenti 0 (Android 5.x o superiori)</string>
+    <string name="function_battery_example_fullempty">Data prossimo collegamento / scollegamento previsto</string>
+    <string name="function_battery_example_fullemptyt">Tempo al prossimo collegamento / scollegamento previsto</string>
+    <string name="function_battery_example_fullemptyt2">Alterna tempo al prossimo evento di carica / scarico previsto con tempo relativo</string>
+    <string name="function_battery_example_level">Livello batteria (in %)</string>
+    <string name="function_battery_example_level_30m">Livello batteria (in %) 30 minuti fa</string>
+    <string name="function_battery_example_plugged">Data ultimo collegamento / scollegamento</string>
+    <string name="function_battery_example_pluggedt">Tempo da ultimo collegamento / scollegamento</string>
+    <string name="function_battery_example_source">Fonte di alimentazione corrente (Batteria
+             AC
+             USB or Wireless)</string>
+    <string name="function_battery_example_source_1h">Fonte batteria 1 ora fa</string>
+    <string name="function_battery_example_temp">Temperatura batteria in unità locali</string>
+    <string name="function_battery_example_temp_2h">Temperatura batteria 2 ore fa</string>
+    <string name="function_battery_example_temp_c">Temperatura batteria in celsius</string>
+    <string name="function_battery_example_volt">Voltaggio batteria in millivolts</string>
+    <string name="function_bitmappalette_arg_bitmap">Cover art
+             globale bitmap
+             risorse http o percorso completo a un file</string>
+    <string name="function_bitmappalette_arg_default">Colore predefinito da utilizzare quando non viene trovato nulla</string>
+    <string name="function_bitmappalette_arg_mode">Colore da estrarre (vedi esempi)</string>
+    <string name="function_bitmappalette_example_dmuted">Estrarre il colore scuro dalla copertina</string>
+    <string name="function_bitmappalette_example_dmutedbc">Estrai il colore scuro del testo della copertina</string>
+    <string name="function_bitmappalette_example_dmutedtc">Estrai colore scuro mutato dal corpo del testo della copertina</string>
+    <string name="function_bitmappalette_example_dominant">"Estrai il colore dominante dall'immagine di copertina"</string>
+    <string name="function_bitmappalette_example_dominantbtc">"Estrai il colore dominante del corpo del testo dall'immagine di copertina"</string>
+    <string name="function_bitmappalette_example_dominanttc">"Estrai il colore dominante del testo del titolo dall'immagine di copertina"</string>
+    <string name="function_bitmappalette_example_dvibrant">Estrarre il colore vivace dalla copertina</string>
+    <string name="function_bitmappalette_example_dvibrantbc">Estraete il colore acceso scuro del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_dvibranttc">Estrai il colore scuro del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_lmuted">Estrai colori mutati chiari da copertina</string>
+    <string name="function_bitmappalette_example_lmutedbc">Estrai colore chiaro mutato dal corpo del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_lmutedtc">Estrai colore chiaro mutato del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_lvibrant">Estrai colore vivido chiaro da copertina</string>
+    <string name="function_bitmappalette_example_lvibrantbc">Estrai colore chiaro del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_lvibranttc">Estrai il colore chiaro del titolo del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_muted">Estrae colore spento dalla copertina</string>
+    <string name="function_bitmappalette_example_mutedbc">Estrae colore spento del corpo del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_mutedtc">Estrai colore mutato dal corpo del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_vibrant">Estrae colore vivace dalla copertina</string>
+    <string name="function_bitmappalette_example_vibrantbc">Estrae colore acceso del corpo del testo dalla copertina</string>
+    <string name="function_bitmappalette_example_vibranttc">Estrai il colore del titolo del testo dalla copertina</string>
+    <string name="function_broadcast_arg_source">Nome della fonte
+             es \"tasker\" o \"zooper\"</string>
+    <string name="function_broadcast_arg_var">Nome della variabile 
+             se la variabile contiene una formula la vormula verrà analizzata</string>
+    <string name="function_broadcast_example_tasker">Restituisce il valore della variabile FOOBAR inviata tramite il plugin Tasker</string>
+    <string name="function_broadcast_example_zooper">Restituisce il valore della variable FOOBAR inviata a Zooper tramite Tasker or altri plugin (equivalente a #TFOOBAR# in Zooper)</string>
+    <string name="function_calendar_arg_action">Azione (vedi gli esempi)</string>
+    <string name="function_calendar_arg_calendar">Sovrascrivi la selezione predefinita del calendario</string>
+    <string name="function_calendar_arg_index">"Indice dei prossimi eventi se non viene fornita alcuna data
+             Indice degli eventi della giornata se viene aggiunta la data. Quando impostato con una \"a\" si mostrerà solo gli eventi di tutti i giorni con \"e\" solo quelli normali. L'indice è a base 0
+             0 è il primo evento
+             1 il secondo E così via
+             a0 è il primo evento di tutti i giorni
+             e0 il primo non di tutti i giorni."</string>
+    <string name="function_calendar_example_acount">Numero di eventi giornalieri di domani</string>
+    <string name="function_calendar_example_allday">Scriverà 1 se il prossimo evento è giornaliero
+             altrimenti 0</string>
+    <string name="function_calendar_example_calendar_color_tomorrow">Calendario Colore del primo evento domani</string>
+    <string name="function_calendar_example_calendar_name_tomorrow">Nome da calendario del primo evento giornaliero di domani</string>
+    <string name="function_calendar_example_color_tomorrow">Colore del secondo evento domani</string>
+    <string name="function_calendar_example_desc">Descrizione del secondo evento imminente o di un evento giornaliero (il primo)</string>
+    <string name="function_calendar_example_desc_today">Descrizione del secondo evento di oggi</string>
+    <string name="function_calendar_example_ecount">Numero di appuntamenti di oggi</string>
+    <string name="function_calendar_example_end_today">Data fine del secondo evento di oggi in formato HH:MM</string>
+    <string name="function_calendar_example_first">Titolo giorno inizio-fine del primo evento imminente</string>
+    <string name="function_calendar_example_loc_today">Luogo del secondo evento di oggi</string>
+    <string name="function_calendar_example_start">Data inizio del prossimo evento nel formato HH:MM</string>
+    <string name="function_calendar_example_title">Titolo del secondo evento imminente</string>
+    <string name="function_calendar_example_title_allday_today">Titolo del primo evento giornaliero di oggi</string>
+    <string name="function_calendar_example_url">URL del primo evento di oggi (da usarsi in Touch
+             aprire azione URL)</string>
+    <string name="function_calendar_example_urld">Apri calendario al primo evento (da usarsi in Touch
+             aprire azione URL)</string>
+    <string name="function_coloreditor_arg_amount">Un valore compreso tra 0 e 100
+             per alpha 0 è completamente trasparente
+             per saturazione 0 significa scala di grigi e per la luminanza 0 è nero</string>
+    <string name="function_coloreditor_arg_color">Una stringa di colore ARGB o RGB valida (es # FF663399)</string>
+    <string name="function_coloreditor_arg_filter">Filtro (opacità \"alpha\"
+             saturazione \"sat\"
+             luminanza \"lum\") o colore di fine gradiente (vedi esempi)</string>
+    <string name="function_coloreditor_example_alpha">Renderà un rosso opaco 50% trasparente</string>
+    <string name="function_coloreditor_example_alum">Aggiungerà 50 alla luminanza del Rosso (0 a 100)</string>
+    <string name="function_coloreditor_example_compl">Restituirà il colore complementare</string>
+    <string name="function_coloreditor_example_contr">Restituirà o bianco o nero secondo il contrasto migliore</string>
+    <string name="function_coloreditor_example_gradient">Mix mezzo rosso e mezzo blu (gradiente 50%)</string>
+    <string name="function_coloreditor_example_invert">Invertirà i colori RGB</string>
+    <string name="function_coloreditor_example_lum">Imposterà la luminanza del Rosso a 50</string>
+    <string name="function_coloreditor_example_ralpha">"Rimuoverà 50 dall'Alpha rosso (0 a 255)"</string>
+    <string name="function_coloreditor_example_sat">"Convertirà il colore rosso nell'equivalente in scala di grigio"</string>
+    <string name="function_colormaker_arg_alpha">Valore trasparenza (opzionale
+             0 è trasparente
+             255 completamente opaco
+             default 255)</string>
+    <string name="function_colormaker_arg_bv">Blu (0-255) / Luminosità (0-100)</string>
+    <string name="function_colormaker_arg_gs">Verde (0-255) / Saturazione (0-100)</string>
+    <string name="function_colormaker_arg_mode">Metodo colore (\"r\" per ARGB
+             \"h\" per AHSV
+             opzionale
+             default ARGB)</string>
+    <string name="function_colormaker_arg_rh">Rosso (0-255) / Tonalità (0-360)</string>
+    <string name="function_colormaker_example_red">Genera un rosso 50% trasparente</string>
+    <string name="function_colormaker_example_seconds">Sfuma da blu a verde basato sui secondi</string>
+    <string name="function_dateformat_arg_date">"Data da utilizzare. La data può essere restituita da alcuni Un'altra funzione o è possibile utilizzare il testo. Per le date di testo è possibile impostarlo staticamente utilizzando il comando format'1955y11M12d22h04m00s ' per esprimere l'anno 1955
+             mese 11
+             giorno 12 alle 22:04:00 (tutti I campi sono facoltativi) o utilizzare gli operatori  'a / r  (aggiungi / rimuovi)
+             per esempio ' a12m3s  ' Aggiungere 12 minuti e 3 secs alla data corrente."</string>
+    <string name="function_dateformat_arg_day">Un giorno
+             ad esempio r1d per ieri
+             r1w per una settimana fa
+             1w per il primo giorno di questa settimana e così via</string>
+    <string name="function_dateformat_arg_format">Formato da usare per la data
+             vedi esempi</string>
+    <string name="function_dateformat_example_d">"Giorno dell'anno (numero)"</string>
+    <string name="function_dateformat_example_dd">Giorno del mese con il Padding Zero</string>
+    <string name="function_dateformat_example_ddmmyyyy">Numeri giorno / mese / anno</string>
+    <string name="function_dateformat_example_dmmmyyyy">Numero del giorno
+             mese abbreviato e anno completo</string>
+    <string name="function_dateformat_example_e">Giorno attuale della settimana (Numero
+             come da imposttazioni App)</string>
+    <string name="function_dateformat_example_eeee">Nome del giorno</string>
+    <string name="function_dateformat_example_f">Giorno ISO della settimana (numero
+             1=Lunedì)</string>
+    <string name="function_dateformat_example_hh">Ore con il Padding Zero</string>
+    <string name="function_dateformat_example_hhmma">Ore con zero iniziale
+             minuti e marcatore AM / PM (se il formato 12h è in uso)</string>
+    <string name="function_dateformat_example_hhmmssa">Ore con zero iniziale
+             minuti
+             secondi e marcatore AM / PM (se il formato 12h è in uso)</string>
+    <string name="function_dateformat_example_hmmm">Ore e minuti con zero</string>
+    <string name="function_dateformat_example_mm">Minuti con il Padding Zero</string>
+    <string name="function_dateformat_example_mmmm">Nome del mese attuale</string>
+    <string name="function_dateformat_example_ss">Secondi con il Padding Zero</string>
+    <string name="function_dateformat_example_teee">Giorno di domani abbreviato</string>
+    <string name="function_dateformat_example_w">"Settimana dell'anno"</string>
+    <string name="function_dateparser_example_midnight">Mezzanotte di oggi</string>
+    <string name="function_dateparser_example_newyear">Capodanno</string>
+    <string name="function_fitness_arg_activity">Tipo di attività
+             es corsa
+             camminata ecc (Sono accettati i Regexp)
+             è possibile mettere un segmento opzionale qui</string>
+    <string name="function_fitness_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_fitness_arg_segment">"Segmento durante il filtraggio per attività (0 è il primo segmento dell'intervallo
+             -1 l'ultimo)"</string>
+    <string name="function_fitness_example_atime">Tempo attivo di oggi</string>
+    <string name="function_fitness_example_atime2">Tempo attivo in ore e minuti</string>
+    <string name="function_fitness_example_ctoday">Calorie attive di oggi</string>
+    <string name="function_fitness_example_ctodayi">Calorie inattive di oggi</string>
+    <string name="function_fitness_example_dtoday">Distanza di oggi (in unità locali)</string>
+    <string name="function_fitness_example_dtodaym">Distanza di oggi (in metri)</string>
+    <string name="function_fitness_example_segcount">Numero di segmenti attivi oggi</string>
+    <string name="function_fitness_example_seglast">Ultimo segmento attivo degli ultimi 2 giorni</string>
+    <string name="function_fitness_example_stoday">Passi di Oggi</string>
+    <string name="function_fitness_example_sweek">Numero medio di passi questa settimana</string>
+    <string name="function_fitness_example_syesterday">Passi ieri</string>
+    <string name="function_fitness_example_vtime">Tempo passato in un veicolo ieri</string>
+    <string name="function_fitness_example_wcals">Calorie camminate oggi</string>
+    <string name="function_fitness_example_wtime">Tempo di camminata di oggi</string>
+    <string name="function_fl_arg_incr">Formula di incremento
+             es \"i + 1\"</string>
+    <string name="function_fl_arg_init">Primo valore della variabile \"i\"</string>
+    <string name="function_fl_arg_loop">Ripeti formula o valore
+             \"i\" sarà sostituita con la variabile</string>
+    <string name="function_fl_arg_sep">Separatore opzionale tra più elementi</string>
+    <string name="function_fl_arg_stop">Valore da raggiungere per lo stop
+             es 10</string>
+    <string name="function_fl_example_count">Scrivi numeri da 5 a 20 spaziati</string>
+    <string name="function_fl_example_days">Scrivi nomi brevi dei prossimi 7 giorni</string>
+    <string name="function_fl_example_delay">Mostra da 1 a 10 simboli #
+             aggiungendone uno ogni minuto</string>
+    <string name="function_forecast_arg_hours">Compensazione ore di previsione (per il meteo orario
+             3 signifca 3 ore da ora più i giorni * 24)</string>
+    <string name="function_forecast_arg_index">Indice del giorno di previsione (0 è oggi)</string>
+    <string name="function_forecast_example_chance">Percentuale di probabilità di pioggia di oggi (se disponibile)</string>
+    <string name="function_forecast_example_code">Codice previsione di oggi
+             una di</string>
+    <string name="function_forecast_example_cond">Condizioni previste per oggi</string>
+    <string name="function_forecast_example_icon">Icona previsioni di oggi
+             una delle</string>
+    <string name="function_forecast_example_rain">Precipitazioni di oggi in mm (se disponibile)</string>
+    <string name="function_forecast_example_temp_max">Temperatura massima di oggi in unità locali</string>
+    <string name="function_forecast_example_temp_maxc">Temperatura massima di oggi in gradi Centigradi</string>
+    <string name="function_forecast_example_temp_min">Temperatura minima di oggi in unità locali</string>
+    <string name="function_forecast_example_temp_minc">Temperatura minima di oggi in gradi Centigradi</string>
+    <string name="function_forecast_hourly_example_chance">Probabilità nelle prossime 12 ore da ora in percentuale (se disponibile)</string>
+    <string name="function_forecast_hourly_example_cond">Condizioni meteo a 3 ore da ora (se disponibile)</string>
+    <string name="function_forecast_hourly_example_temp">Temperatura per la prossima ora in unità locali (se disponibile)</string>
+    <string name="function_forecast_hourly_example_valid">Inizio-Fine della validità del meteo orario a 4 ore da ora (se disponibile)</string>
+    <string name="function_globalvar_arg_default">Un valore predefinito facoltativo a cui ritornare se il global non si trova</string>
+    <string name="function_globalvar_arg_index">Un valore predefinito facoltativo a cui ritornarese il global non si trova</string>
+    <string name="function_globalvar_arg_varname">Chiave della variabile globale da richiamare</string>
+    <string name="function_globalvar_example_color">Ritorna il valore della variabile \"fgcolor\" o il colore rosso se non trovata</string>
+    <string name="function_if_arg_condition">Una condizione puo avere qualunque paragone come \"=\" (Uguale) 
+            \">\" (Maggiore)
+             \">=\" (Maggiore o uguale)
+             \"&lt;\" (Minore)
+             \"&lt;=\" (Minore o uguale) combinato con gli operatori booleani \"&amp;\" (E) oppure \"|\" (O) e con le parentesi</string>
+    <string name="function_if_arg_else">Testo o funzione opzionale che verrà richiamato se la condizione è falsa ( quindi se il valore ricevuto è vuoto o \"0\")</string>
+    <string name="function_if_arg_then">Testo o funzione da usare se la condizione è vera ( quindi se il valore ricevuto non è vuoto e non è \"0\")</string>
+    <string name="function_if_example_differs">Mostrerà non soleggiato se il cielo non è sereno
+             niente altrimenti</string>
+    <string name="function_if_example_ischarging">Mostra lo stato della batteria 
+             mostrando \"Completamente carico\" quando carico 
+             \"Critico\" se minore di 15 
+             se no mostrerà il livello normale
+            </string>
+    <string name="function_if_example_isweekend">Mostrerà \"Fine Settimana!\" durante un fine settimana o \"Giorno Lavorativo :(\" durante i giorni lavorativi</string>
+    <string name="function_if_example_regexp">Mostrerà \"Contiene una A\" se questo mese contiene una A (Il regexp è consentito)
+             niente altrimenti</string>
+    <string name="function_location_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_location_example_a">Indirizzo attuale (se disponibile)</string>
+    <string name="function_location_example_aa">Area amministrativa corrente (es CA
+             se disponibile)</string>
+    <string name="function_location_example_alt">"Altitudine nell'unità di misura locale (metri/piedi solo con GPS attivo
+             altrimenti 0)"</string>
+    <string name="function_location_example_altm">Altitudine in metri (solo con GPS attivo
+             altrimenti 0)</string>
+    <string name="function_location_example_c">Nome paese attuale (ex \"iceland\"
+             se disponibile)</string>
+    <string name="function_location_example_cc">Codice paese attuale (ex \"US\"
+             se disponibile)</string>
+    <string name="function_location_example_l">Località attuale (es \"Hill Valley\"
+             se disponibile)</string>
+    <string name="function_location_example_lat">Latitudine</string>
+    <string name="function_location_example_lat_lp">Latitudine (precisione scarsa ~50m)</string>
+    <string name="function_location_example_lon">Longitudine</string>
+    <string name="function_location_example_lon_lp">Longitudine (precisione scarsa ~50m)</string>
+    <string name="function_location_example_pc">Codice postale attuale (se disponibile)</string>
+    <string name="function_location_example_spd">"Velocità attuale nell'unità di misura locale (kmh/mph se disponibile
+             altrimenti 0)"</string>
+    <string name="function_location_example_spdm">Velocità attuale in metri al secondo (se disponibile
+             altrimenti 0)</string>
+    <string name="function_location_example_spdu">Unità di velocità attuale (kmh / mph)</string>
+    <string name="function_math_arg_example_abs">Restituirà il valore assoluto di -1</string>
+    <string name="function_math_arg_example_acos">Coseno inverso di 90 gradi</string>
+    <string name="function_math_arg_example_asin">Seno inverso di 90 gradi</string>
+    <string name="function_math_arg_example_atan">Tangente inversa di 45 gradi</string>
+    <string name="function_math_arg_example_ceil">Arrotonda per eccesso 3.14</string>
+    <string name="function_math_arg_example_cos">Coseno di 90 gradi</string>
+    <string name="function_math_arg_example_floor">Arrotonda per difetto 3.80</string>
+    <string name="function_math_arg_example_ln">Logaritmo naturale di 5</string>
+    <string name="function_math_arg_example_log">Logaritmo di 5</string>
+    <string name="function_math_arg_example_max">Restituirà il massimo tra 1 e 3</string>
+    <string name="function_math_arg_example_min">Restituirà il minimo tra 1 e 3</string>
+    <string name="function_math_arg_example_pow">2 alzato al valore 3</string>
+    <string name="function_math_arg_example_rnd">Numero casuale tra 10 e 100</string>
+    <string name="function_math_arg_example_round">"Verrà arrotondato 2.80 all'intero più vicino"</string>
+    <string name="function_math_arg_example_round2">Arrotonderà il numero a 2 decimali</string>
+    <string name="function_math_arg_example_sin">Seno di 90 gradi</string>
+    <string name="function_math_arg_example_sqrt">Restituirà radice quadrata di 2</string>
+    <string name="function_math_arg_example_tan">Tangente di 45 gradi</string>
+    <string name="function_math_arg_mode">Funzioni (one of ceil
+             floor or sqrt)</string>
+    <string name="function_math_arg_values">Uno o più valori dipendenti dalla funzione</string>
+    <string name="function_music_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_music_example_album">Album corrente (se impostato)</string>
+    <string name="function_music_example_artist">Artista corrente (se impostato)</string>
+    <string name="function_music_example_covertart">Copertina corrente (da usarsi modulo immagine o sfondo come formula)</string>
+    <string name="function_music_example_len">Durata traccia corrente (in secondi)</string>
+    <string name="function_music_example_len_mmss">Durata Traccia corrente (se impostato)</string>
+    <string name="function_music_example_percent">Posizione traccia attuale (in percentuale)</string>
+    <string name="function_music_example_pkg">Nome del pacchetto attuale del player</string>
+    <string name="function_music_example_pkg_icon">Icona applicazione attuale del player (da utilizzare in modulo immagine o sfondo come formula)</string>
+    <string name="function_music_example_pos">Posizione traccia corrente (in secondi)</string>
+    <string name="function_music_example_pos_mmss">Posizione traccia corrente (Nel formato MM:SS)</string>
+    <string name="function_music_example_state">Stato corrente del Player
+             uno tra:</string>
+    <string name="function_music_example_title">Titolo Traccia corrente (se impostato)</string>
+    <string name="function_music_example_track">Traccia corrente nella playlist (se disponibile
+             da usare con mq)</string>
+    <string name="function_music_example_vol">Volume musica corrente (0 - 100)</string>
+    <string name="function_music_queue_arg_index">Indice Traccia (len per lunghezza playlist)</string>
+    <string name="function_music_queue_arg_param">Tipo informazione
+             vedi esempi</string>
+    <string name="function_music_queue_example_icon">Icona prossima traccia (da utilizzare in modulo immagine o sfondo come formula)</string>
+    <string name="function_music_queue_example_len">Lunghezza Playlist</string>
+    <string name="function_music_queue_example_sub">Sottotitolo traccia precedente (se disponibile)</string>
+    <string name="function_music_queue_example_title">Titolo prossima traccia (se disponibile)</string>
+    <string name="function_network_arg_type">Tipo di info
+             vedi esempi</string>
+    <string name="function_network_example_airplane">Modalità aereo
+             0 se disattivato
+             1 se abilitato</string>
+    <string name="function_network_example_audiodev_count">Ritorna il numero di accessori audio connessi</string>
+    <string name="function_network_example_audiodev_name">Il nome del primo accessorio audio</string>
+    <string name="function_network_example_bt">Stato BlueTooth
+             0 disattivato
+             1 attivo
+             2 connesso</string>
+    <string name="function_network_example_cell">Stato cellulare corrente
+             uno tra:</string>
+    <string name="function_network_example_cid">"ID della cella (CID) dall'operatore mobile"</string>
+    <string name="function_network_example_csig">Segnale telefonico da 0 a 4</string>
+    <string name="function_network_example_csig_dual">Segnale della seconda SIM</string>
+    <string name="function_network_example_csiga">Livello segnale cellulare in unitù ASU (da 0 a 31
+             o 99 se sconosciuto)</string>
+    <string name="function_network_example_csigd">Livello segnale in DBM</string>
+    <string name="function_network_example_dtype">Attuale connessione dati (LTE
+             EDGE…)</string>
+    <string name="function_network_example_dtypes">Attuale connessione dati versione breve (4G
+             3G….)</string>
+    <string name="function_network_example_if_ip">Restituisce IPv4 della prima interfaccia non di loopback</string>
+    <string name="function_network_example_if_ip_1">Restituisce IPv4 della seconda interfaccia non di loopback (se presente)</string>
+    <string name="function_network_example_if_name">Restituisce il nome della prima interfaccia non di loopback</string>
+    <string name="function_network_example_lac">"Codice di Localizzazione (LAC) dall'operatore di rete"</string>
+    <string name="function_network_example_operator">Operatore telefonico corrente</string>
+    <string name="function_network_example_operator_dual">Operatore di rete della seconda SIM</string>
+    <string name="function_network_example_sim_carrier">Operatore della prima SIM</string>
+    <string name="function_network_example_sim_count">Numero di SIM attive sul telefono</string>
+    <string name="function_network_example_sim_data_default">Operatore predefinito per il traffico dati</string>
+    <string name="function_network_example_sim_voice_default">Operatore predefinito per il traffico voce</string>
+    <string name="function_network_example_ssid">Nome della rete WiFI (se connesso)</string>
+    <string name="function_network_example_wifi">Stato della connessione WiFi
+             uno tra:</string>
+    <string name="function_network_example_wrssi">Segnale WiFi non normalizzato (RSSI)</string>
+    <string name="function_network_example_wsig">Segnale Wifi da 0 a 9</string>
+    <string name="function_network_example_wspeed">Velocità connessione WiFi in Megabit</string>
+    <string name="function_notifications_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_notifications_example_app">Nome app della prima notifica cancellabile</string>
+    <string name="function_notifications_example_bicon">Icona grande della prima notifica cancellabile (da usarsi come Formula Bitmap)</string>
+    <string name="function_notifications_example_bypkg">"Testo della prima notifica Gmail (se c'è)"</string>
+    <string name="function_notifications_example_ccount">Conteggio notifiche cancellabili</string>
+    <string name="function_notifications_example_count">Conteggio righe della prima notifica cancellabile</string>
+    <string name="function_notifications_example_desc">Testo lungo per la prima notifica cancellabile</string>
+    <string name="function_notifications_example_fcount">Conteggio notifiche Facebook Messenger</string>
+    <string name="function_notifications_example_gcount">Conteggio Notifiche Gmail</string>
+    <string name="function_notifications_example_icon">Icona della prima notifica cancellabile (da usarsi come Formula Bitmap)</string>
+    <string name="function_notifications_example_pkg">Package della prima notifica cancellabile</string>
+    <string name="function_notifications_example_scount">Conteggio notifiche persistenti</string>
+    <string name="function_notifications_example_stext">Testo breve per la prima notifica persistente</string>
+    <string name="function_notifications_example_text">Testo breve per la prima notifica cancellabile</string>
+    <string name="function_notifications_example_time">Tempo dalla prima notifica cancellabile</string>
+    <string name="function_notifications_example_title">Titolo della prima notifica cancellabile</string>
+    <string name="function_notifications_example_wcount">Conteggio notifiche whatsapp</string>
+    <string name="function_res_arg_fs">FS per ottenere statistiche
+             utilizzare \"int\" per interno
+             \"ext\" per SD (predefinito) oppure specificare percorso assoluto personalizzato</string>
+    <string name="function_res_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_res_example_cidle">CPU inattiva al momento in %</string>
+    <string name="function_res_example_csys">CPU corrente del sistema in%</string>
+    <string name="function_res_example_cused">CPU corrente utilizzata (sys + usr) in%</string>
+    <string name="function_res_example_cusr">"CPU dell'utente corrente in%"</string>
+    <string name="function_res_example_fcur">Frequenza attuale CPU in Mhz</string>
+    <string name="function_res_example_fmax">Frequenza massima CPU in Mhz</string>
+    <string name="function_res_example_fmin">Frequenza minima CPU in Mhz</string>
+    <string name="function_res_example_fsfree">Spazio SD FS libero in MB</string>
+    <string name="function_res_example_fsfree_extsd">Spazio libero di FS montati in /sdcard/external_sd in MB</string>
+    <string name="function_res_example_fsfree_int">Spazio libero interno FS in MB</string>
+    <string name="function_res_example_fstot">Spazio SD FS totale in MB</string>
+    <string name="function_res_example_fstot_int">Spazio totale interno FS in MB</string>
+    <string name="function_res_example_fsused">Spazio SD FS usato in MB</string>
+    <string name="function_res_example_mfree">Memoria libera in MB</string>
+    <string name="function_res_example_mtot">Memoria totale in MB</string>
+    <string name="function_res_example_mused">Memoria utilizzata in MB</string>
+    <string name="function_shell_arg_cmd">Comando per eseguire</string>
+    <string name="function_shell_arg_lines">"Righe massime dell'output (5 di default)"</string>
+    <string name="function_shell_arg_timeout">Aggiorna il timeout in minuti o frazioni (default di 1 minuto)</string>
+    <string name="function_shell_example_cpu">Tecnologia CPU corrente</string>
+    <string name="function_shell_example_proc">Numori di processi utente</string>
+    <string name="function_system_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_system_example_alarmd">Formattazione della data della prossima sveglia (se impostata)</string>
+    <string name="function_system_example_alarmdt">Tempo rimanente alla prossima sveglia (se impostata)</string>
+    <string name="function_system_example_alarmon">Interruttore sveglia
+             restituisce 1 se la sveglia è impostata
+             altrimenti 0</string>
+    <string name="function_system_example_alarmt">Prossima sveglia come testo originale</string>
+    <string name="function_system_example_aver">Numero versione di Android</string>
+    <string name="function_system_example_build">Nome ROM</string>
+    <string name="function_system_example_dark_theme">Ritorna 1 se il telefono ha un tema scuro</string>
+    <string name="function_system_example_landscape">Orientamento schermo (restituisce 0 in verticale
+             1 in orizzontale)</string>
+    <string name="function_system_example_lmode">Modalità di localizzazione
+             una tra</string>
+    <string name="function_system_example_lnchname">Nome del Launcher attualmente impostato</string>
+    <string name="function_system_example_lnchpkg">Package del Launcher attualmente impostato</string>
+    <string name="function_system_example_locked">Blocco device (da 1 se bloccato
+             altrimenti 0)</string>
+    <string name="function_system_example_manufacturer">Produttore telefono</string>
+    <string name="function_system_example_mcount">Numero di moduli nel gruppo attuale</string>
+    <string name="function_system_example_mindex">Indice del modulo nel genitore</string>
+    <string name="function_system_example_mindex2">Indice del modulo nel genitore del genitore</string>
+    <string name="function_system_example_model">Modello del telefono</string>
+    <string name="function_system_example_pkgname">"Restituisce il nome dell'app dal nome del package"</string>
+    <string name="function_system_example_pkgver">Restituisce il nome della versione del package specificato
+             di Kustom se non specificato</string>
+    <string name="function_system_example_pkgvern">Restituisce il numero di versione del package specificato
+             di Kustom se non specificato</string>
+    <string name="function_system_example_rheight">Altezza contenitore Root (in punti Kustom)</string>
+    <string name="function_system_example_ringer">Modalità Suoneria</string>
+    <string name="function_system_example_rratio">Proporzioni aspetto del contenitore Root (in punti Kustom)</string>
+    <string name="function_system_example_rwidth">Larghezza contenitore Root (in punti Kustom)</string>
+    <string name="function_system_example_sbright">Luminosità schermo attuale</string>
+    <string name="function_system_example_screen">Schermata desktop corrente (se supportata)</string>
+    <string name="function_system_example_screenc">Conteggio schermata desktop corrente (se supportata)</string>
+    <string name="function_system_example_sdensity">Densità (Pixels per DPI)</string>
+    <string name="function_system_example_sheight">Altezza schermo in DPI</string>
+    <string name="function_system_example_skpi">KPI (Pixels per Punto Kustom)</string>
+    <string name="function_system_example_swidth">Larghezza schermo in DPI</string>
+    <string name="function_system_example_uptime">"Tempo dall'avvio (attivitá)"</string>
+    <string name="function_system_example_vola">Volume allarme (0 a 100)</string>
+    <string name="function_system_example_volr">Volume Suoneria (0 - 100)</string>
+    <string name="function_system_example_wallpaper_color_1">Colore primario dello sfondo del telefono o 0 se non disponibile</string>
+    <string name="function_system_example_wallpaper_color_2">Colore secondario dello sfondo del telefono o 0 se non disponibile</string>
+    <string name="function_text_arg_mode">Metodo di conversione
+             \"I\" per minuscolo
+             \"u\" per maiuscolo
+             \"c\" per maiuscoletto</string>
+    <string name="function_text_arg_text">Testo da convertire</string>
+    <string name="function_text_example_cap">Scrivere con la prima lettera maiuscola le parole nel testo</string>
+    <string name="function_text_example_cut1">Stamperà solo i primi 4 caratteri</string>
+    <string name="function_text_example_cut2">Stampa 5 caratteri a partire dal secondo</string>
+    <string name="function_text_example_cut3">Stampa gli ultimi due caratteri</string>
+    <string name="function_text_example_ell">Taglia e aggiunge tre punti se il testo è più lungo di 4 caratteri</string>
+    <string name="function_text_example_html">Converte testo HTML in testo normale</string>
+    <string name="function_text_example_len">Ritorna la lunghezza del testo</string>
+    <string name="function_text_example_lines">Ritorna il numero di linee nel testo</string>
+    <string name="function_text_example_low">Converti testo in minuscolo</string>
+    <string name="function_text_example_lpad">"Aggiunge 'n' caratteri a sinistra della stringa usando la stringa fornita (o 0 di default)"</string>
+    <string name="function_text_example_n2w">Converte numeri in parole</string>
+    <string name="function_text_example_nfmt">Converte i numeri nel formato locale corretto</string>
+    <string name="function_text_example_ord">Mostra il suffisso ordinale per il numero 1 (mo)</string>
+    <string name="function_text_example_reg">Sostituisce le occorrenze di \"o+\" con una X maiuscola</string>
+    <string name="function_text_example_roman">Converte 476 nel numero romano CDLXXVI</string>
+    <string name="function_text_example_rpad">"Aggiunge 'n' caratteri a destra della stringa usando la stringa fornita (o 0 di default)"</string>
+    <string name="function_text_example_split">Dividi la stringa in X caratteri e stampa la seconda parte</string>
+    <string name="function_text_example_up">Converti il testo in maiuscolo</string>
+    <string name="function_text_example_utf">Genera il carattere associato al codice UTF 0x201 (avanzato
+             per font a icone)</string>
+    <string name="function_timeformat_arg_format">Formato opzionale da utilizzare per il tempo
+             vedere esempi</string>
+    <string name="function_timeformat_example_battery">Tempo da ultimo collegamento / scollegamento</string>
+    <string name="function_timeformat_example_darklength">Durata buio
+             formattazione manuale</string>
+    <string name="function_timeformat_example_daylength">Durata attuale della luce del giorno
+             formattazione automatica</string>
+    <string name="function_timeformat_example_midnight">Tempo rimanente a mezzanotte (Abbiamo inizialmente impostato il tempo a 0 ore
+             0 minuti e 0 sec poi aggiungiamo un giorno alla fine)</string>
+    <string name="function_timeformat_example_midnightc">Conto alla rovescia alla mezzanotte (come prima ma usando un formato custom)</string>
+    <string name="function_timeformat_example_msunrise">Minuti alla prossima alba</string>
+    <string name="function_timer_arg_mode">Modalità (vedi esempi)</string>
+    <string name="function_timer_arg_time">Timer (in minuti
+             può essere una frazione come 0.1)</string>
+    <string name="function_timer_example_file">Scegli un file a caso dalla directory ogni 15 minuti</string>
+    <string name="function_timer_example_file_reg">Scegli un file a caso coerente con il pattern ogni 5 minuti</string>
+    <string name="function_timer_example_img">"Scegli un'immagine a caso dalla directory ogni 15 minuti"</string>
+    <string name="function_timer_example_img_reg">Scegli un immagine a caso coerente con il pattern ogni 5 minuti</string>
+    <string name="function_timer_example_rnd">Ritorna un numero casuale tra 10 e 20 ogni minuto</string>
+    <string name="function_timer_example_seq">Va da 1 a 100 (inclusi) cambiando ogni 15 secondi</string>
+    <string name="function_traffic_arg_end">Data fine statistiche traffico</string>
+    <string name="function_traffic_arg_start">Data inizio statistiche traffico</string>
+    <string name="function_traffic_arg_type">Tipo (usa \"trx\" per il totale in download
+             \"ttx\" per il totale in upload
+             \"tt\" per il totale in entrambe le direzioni
+             mrx/mtx/mt per le statistiche su rete mobile e wrx/wtx/wt per il traffico WiFi)</string>
+    <string name="function_traffic_arg_unit">"Unità
+             \"a\" per automatica (con aggiunta dell'unità di misura)
+             \"b\" per bytes
+             \"k\" per kilobytes e \"m\" per megabytes (senza unità)"</string>
+    <string name="function_traffic_example_mt">Totale dati su rete mobile di oggi</string>
+    <string name="function_traffic_example_mtm">Totale traffico su rete mobile dal due di questo mese</string>
+    <string name="function_traffic_example_mtm2">Totale traffico su rete mobile il mese scorso partendo dal primo del mese</string>
+    <string name="function_traffic_example_mtw">Totale traffico su rete mobile negli ultimi 7 giorni</string>
+    <string name="function_traffic_example_mty">Totale dati su rete mobile di ieri</string>
+    <string name="function_traffic_example_trx">Attuale velocità di download (unità di misura automatica)</string>
+    <string name="function_traffic_example_ttx">Attuale velocità di upload (unità di misura automatica)</string>
+    <string name="function_unread_arg_account">Account (indice o modello
+             se disponibile)</string>
+    <string name="function_unread_arg_mode">Modalità (vedi esempi)</string>
+    <string name="function_unread_arg_param">Parametri (Vedi esempi)</string>
+    <string name="function_unread_example_calls_count">Conteggio chiamate perse</string>
+    <string name="function_unread_example_calls_date">Tempo passato da ultima chiamata persa</string>
+    <string name="function_unread_example_calls_name">"Il nome dell'ultima chiamata persa (se disponibile
+             altrimenti il numero)"</string>
+    <string name="function_unread_example_calls_number">Numero ultima chiamata persa</string>
+    <string name="function_unread_example_gmail_count">Contatore per non letti inbox Gmail</string>
+    <string name="function_unread_example_gmail_forums">Conteggio non letto Gmail per etichetta Forum</string>
+    <string name="function_unread_example_gmail_promo_color">Etichette colore per promozioni Gmail</string>
+    <string name="function_unread_example_gmail_social_1">Messaggi non letti con etichetta Social nel secondo account</string>
+    <string name="function_unread_example_gmail_updates_foo">"Messaggi totali di Gmail sull'etichetta Updates nell'account foo"</string>
+    <string name="function_unread_example_sms_count">Contatore SMS non letti</string>
+    <string name="function_unread_example_sms_date">Data ricezione secondo SMS non letto</string>
+    <string name="function_unread_example_sms_sender">Numero mittente terzo SMS non letto</string>
+    <string name="function_unread_example_sms_text">Primo SMS non letto</string>
+    <string name="function_unread_example_whatsapp">Conversazioni WhatsApp non lette</string>
+    <string name="function_unread_example_whatsapp_date">Data ricezione secondo WhatsApp non letto</string>
+    <string name="function_unread_example_whatsapp_sender">Mittente terzo WhatsApp non letto</string>
+    <string name="function_weather_arg_param">Tipo di info
+             vedi esempi</string>
+    <string name="function_weather_example_code">Attuale codice meteo
+             uno di</string>
+    <string name="function_weather_example_cond">Condizioni meteo attuali</string>
+    <string name="function_weather_example_flik">Temperatura percepita (indice calore) in unità locali</string>
+    <string name="function_weather_example_hum">Umidità attuale in percentuale</string>
+    <string name="function_weather_example_icon">Attuale icona meteo
+             uno di</string>
+    <string name="function_weather_example_lid">ID stazione meteo (se disponibile)</string>
+    <string name="function_weather_example_lu">Tempo ultimo aggiornamento meteo in formato HH:MM</string>
+    <string name="function_weather_example_press">Pressione attuale in Millibar</string>
+    <string name="function_weather_example_provider">Provider meteo usato per acquisire i dati</string>
+    <string name="function_weather_example_provider_days">Numero di giorni di previsione</string>
+    <string name="function_weather_example_provider_hours">Numero di ore nella previsione oraria
+             se disponibile</string>
+    <string name="function_weather_example_provider_hstep">Durata del fornitore delle previsioni di previsione orarie
+             in ore
+             di solito 1</string>
+    <string name="function_weather_example_provider_rain">Supporto fonte dati sulle precipitazioni
+             1 se disponibile 0 se no</string>
+    <string name="function_weather_example_provider_rainc">Supporto fonte dati Probabilità di pioggia
+             1 se disponibile 0 se no</string>
+    <string name="function_weather_example_temp">Temperatura in unità locali</string>
+    <string name="function_weather_example_tempc">Temperatura in gradi Centigradi</string>
+    <string name="function_weather_example_wchill">Wind Chill in unità locali</string>
+    <string name="function_weather_example_wdeg">Direzione del vento in gradi</string>
+    <string name="function_weather_example_wspeed">Velocità del vento in unità locali (Kmh/mph)</string>
+    <string name="function_weather_example_wspeedm">Velocità del vento in metri al secondo</string>
+    <string name="function_webget_arg_filter">Filtro da utilizzare (RSS
+             TXT
+             XML
+             URL
+             ecc …)</string>
+    <string name="function_webget_arg_params">Parametri filtro (vedi esempi)</string>
+    <string name="function_webget_arg_url">HTTP URL per il contenuto</string>
+    <string name="function_webget_example_json">Attuale IP tramite un web service (analizzando un espressione JSON Path)</string>
+    <string name="function_webget_example_raw">Scarica il contenuto di un file di testo nella SD senza analizzarlo</string>
+    <string name="function_webget_example_reg">"Cerca e sostituisci nell'URL usando un Espressione Regolare"</string>
+    <string name="function_webget_example_rss_0_date">Ricevi la data del feed RSS per la voce 0</string>
+    <string name="function_webget_example_rss_0_desc">Ottieni titolo del feed RSS per la voce 0</string>
+    <string name="function_webget_example_rss_0_link">Ottieni il link di feed RSS per la voce 0</string>
+    <string name="function_webget_example_rss_0_thumb">"Ottieni l'anteprima dell'immagine RSS per la voce 0"</string>
+    <string name="function_webget_example_rss_0_title">Ottieni titolo del feed RSS per la voce 0</string>
+    <string name="function_webget_example_rss_count">Ottieni il numero di entrata del feed RSS</string>
+    <string name="function_webget_example_rss_date">Ricevi la data di pubblicazione del feed RSS</string>
+    <string name="function_webget_example_rss_desc">Ottieni la descrizione del feed RSS</string>
+    <string name="function_webget_example_rss_title">Ottieni titolo del feed RSS</string>
+    <string name="function_webget_example_txt1">"Converte testo HTML all'URL specificato in testo normale"</string>
+    <string name="function_webget_example_url">Estrai il primo URL corrispondente al modello</string>
+    <string name="function_webget_example_url_3">"Estrae il terzo URL corrispondente all'espressione"</string>
+    <string name="function_webget_example_url_count">"Estrae il primo URL che corrisponde all'espressione"</string>
+    <string name="function_webget_example_xml1">"Citazione del giorno (Analizzare l'espressione XPath per il contenuto XML in URL)"</string>
+    <string name="function_webget_example_xml2">"Citazione del giorno autore (Analizzare l'espressione XPath per il contenuto XML in URL)"</string>
+    <string name="global_add_auto_manual">Manuale</string>
+    <string name="global_add_auto_mformula">Manuale e Formula</string>
+    <string name="global_add_auto_mtimer">Manuale e Timer</string>
+    <string name="global_add_description_hint">Descrizione (opzionale)</string>
+    <string name="global_add_dialog_title">Aggiungi globale</string>
+    <string name="global_add_key">Chiave</string>
+    <string name="global_add_min">Min</string>
+    <string name="global_add_options">Elenco delle opzioni
+             separate da virgole
+             è possibile suddividere valori e descrizioni utilizzando \"#\"
+             es $wf(icon
+             1)$#Tomorrow Weather</string>
+    <string name="global_add_title">Titolo</string>
+    <string name="global_add_type">Tipo</string>
+    <string name="intro_emergency_unlock">Sblocco di emergenza</string>
+    <string name="intro_emergency_unlock_desc">"Ricorda! Se sei bloccato
+             puoi sempre sbloccare premendo a lungo sull'angolo inferiore sinistro fino a quando compare il pulsante di sblocco
+             quindi fai clic su di esso"</string>
+    <string name="intro_end">Goditi Kustom</string>
+    <string name="intro_end_desc">Hai finito
+             controlla il menu Carica Preset per iniziare con qualche preset e guarda anche nella scheda Featured per trovare altre cose incredibili gratuite!</string>
+    <string name="intro_first_widget_video">"Guarda un video d'introduzione su come KWGT funziona e come aggiungerlo per la prima volta"</string>
+    <string name="intro_go">VAI!</string>
+    <string name="intro_location_manual">Manuale</string>
+    <string name="intro_no_fingerprint">Più Tardi</string>
+    <string name="intro_support">Supporto</string>
+    <string name="intro_support_desc">"Prima di iniziare voglio farti sapere che siamo qui per aiutarti se necessario. All'interno dell'applicazione usa il menu sinistro per aiuto
+             tutorial
+             comunità o per contattarci
+             rispondiamo sempre!"</string>
+    <string name="intro_swipe">Scorri da sinistra a destra per iniziare!</string>
+    <string name="intro_welcome">Benvenuto su Kustom! Il tuo super fantastico design creator
+            </string>
+    <string name="item_installed">%d installati</string>
+    <string name="item_total">%d installati</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string name="joda_time_android_preposition_for_date">in data %s</string>
+    <string name="joda_time_android_preposition_for_time">alle ore %s</string>
+    <string name="joda_time_android_relative_time">%1$s
+             %2$s</string>
+    <string name="kustom_pack_description">Un set completo di preset per mostrare le funzionalità infinite del motore Kustom!</string>
+    <string name="kustom_pack_sd_description">Preset esportati manualmente o scaricati da internet</string>
+    <string name="kustom_pack_sd_title">Scheda SD</string>
+    <string name="kustom_pack_title">Pacchetto Base</string>
+    <string name="list_empty_hint_aminations">"Le animazioni permettono ai moduli di reagire alle azioni come lo scroll. Per aggiungere le animazioni premere il tasto più (+) in alto a destra dello schermo
+             se si aggiunge più di un'animazione saranno combinate. L'ordine non è importante."</string>
+    <string name="list_empty_hint_generic">Questo contenitore è vuoto
+             puo aggiungerci un nuovo oggetto usando il più (+) in alto a destra sullo schermo</string>
+    <string name="list_empty_hint_globals">"Le Globals sono preferenze dinamiche che possono essere utilizzate per modificare le impostazioni su più di una voce contemporaneamente. Per aggiungere un nuovo pulsante premere il pulsante più (+) situato in alto a destra dello schermo
+             quindi puoi cambiare una preferenza di modulo su una Global selezionando la preferenza e premendo l'icona \"Global\" (non tutte le preferenze supportano i Global)."</string>
+    <string name="list_empty_hint_shortcuts">"Non ci sono scorciatoie per le App in questa impostazione predefinita
+             quando si crea un'azione touch per avviare un'applicazione è possibile modificarla Rapidamente da qui"</string>
+    <string name="list_empty_hint_touch">Non ci sono azioni Touch su questo modulo
+             è possibile creare uno utilizzando il pulsante più (+) in alto a destra dello schermo.</string>
+    <string name="load_komponent_loaded">Komponente caricato</string>
+    <string name="load_preset_autosaved">Backup</string>
+    <string name="load_preset_autosaved_empty">Non hai ancora nessun Backup. I Backup sono creati automaticamente da Kustom quando salvi un preset
+             così puoi tornare indietro se lo elimini per sbaglio.</string>
+    <string name="load_preset_created">Preset Creato</string>
+    <string name="load_preset_deleted">Preset Cancellato</string>
+    <string name="load_preset_exported">Esportato</string>
+    <string name="load_preset_exported_empty">Non hai ancora preset esportati. Torna indietro e seleziona Esportazione predefinita dal menu principale per esportare la prima creazione o utilizzare il pulsante Importa sopra per aggiungere qualcosa dalla memoria del dispositivo.</string>
+    <string name="load_preset_featured">In primo piano</string>
+    <string name="load_preset_featured_empty">Nessuna connessione disponibile
+             per favore controlla la connessione e riprova</string>
+    <string name="load_preset_installed">Installato</string>
+    <string name="load_preset_items">oggetti</string>
+    <string name="load_preset_loaded">Preset Caricato</string>
+    <string name="load_preset_restored">Preset Restaurato</string>
+    <string name="load_preset_restored_failed">Non è possibile restaurare il precedente</string>
+    <string name="load_preset_save_reminder">"Il tuo preset è stato caricato
+             quando hai finito di personalizzarlo
+             non dimenticarti di salvarlo usando l'icona Salva in alto per impostarlo!"</string>
+    <string name="load_preset_search_empty">Nessun risultato</string>
+    <string name="loader_action_close">Chiudi</string>
+    <string name="loader_action_create">Crea</string>
+    <string name="loader_action_import">Importa</string>
+    <string name="loader_action_pack_rate">Valuta</string>
+    <string name="loader_action_pack_uninstall">Disinstalla pacchetto</string>
+    <string name="loader_action_preset_delete">Cancella preset</string>
+    <string name="loader_action_search">Cerca</string>
+    <string name="loader_item_free">Gratis</string>
+    <string name="loader_item_pro">Pro</string>
+    <string name="loader_preset_search">Ricerca</string>
+    <string name="loader_menu_explore">Esplora</string>
+    <string name="loader_menu_library">Raccolte</string>
+    <string name="loader_title_new_preset">Nuovo preset</string>
+    <string name="loader_title_new_widget">Nuovo widget</string>
+    <string name="message_option_api">"Il provider permette l'uso della tua chiave API o
+             se si preferisce
+             si può sottoscrivere un abbonamento per il servizio completo e abilitare tutte le fonti"</string>
+    <string name="message_option_subscribe">"Il provider non permette l'uso della tua chiave API (è proibito dai loro termini di servizio)
+             un abbonamento è necessario per abilitare questa e altre fonti"</string>
+    <string name="message_subscribe">"Il prezzo dell'abbonamento è basato sul costo del servizio API
+             ho cercato di tenerlo il più basso possibile
+             altri providers potrebbero essere aggiunti in futuro
+             il primo periodo è gratuito e poi il pagamento è ogni 3 mesi"</string>
+    <string name="message_subscribe_success">Acquisto completato con successo! Puoi ora selezionare qualunque provider meteo</string>
+    <string name="message_subscribed">"Attualmente sei abbonato al servizio completo! Puoi gestirne il rinnovo dall'app Play Store"</string>
+    <string name="module_bitmap_description">Un oggetto semplice con foto statica</string>
+    <string name="module_bitmap_title">Immagine</string>
+    <string name="module_curved_text_description">Testo singola linea con supporto per vari tipi di transformazioni come curvatura e flip</string>
+    <string name="module_curved_text_title">Testo Curvo</string>
+    <string name="module_fonticon_description">Icone vettoriali scalabili da diversi pacchetti</string>
+    <string name="module_fonticon_title">Icona</string>
+    <string name="module_komponent_description">Aggiungere un modello riutilizzabile (indicatore di segnale
+             icona della batteria…) o creane uno tu stesso.</string>
+    <string name="module_komponent_title">Komponente</string>
+    <string name="module_movie_description">Un semplice oggetto con immagine animata (es. GIF)</string>
+    <string name="module_movie_title">Immagine Animata</string>
+    <string name="module_overlap_layer_description">Un contenitore per altri oggetti che supporta le trasformazioni e permette elemento raggruppamento e supporta gravità.</string>
+    <string name="module_overlap_layer_title">Gruppo sovrapposto</string>
+    <string name="module_progress_description">Crea barre di avanzamento con diversi stili
+             forme e colori</string>
+    <string name="module_progress_title">Avanzamento</string>
+    <string name="module_series_description">Serie personalizzabili per date
+             orario
+             batteria e altro con i modelli di configurazione multipli</string>
+    <string name="module_series_title">Serie</string>
+    <string name="module_shape_description">Crea un rettangolo
+             un cerchio ecc. riempiendoli con i colori
+             sfumature e altro</string>
+    <string name="module_shape_title">Forma</string>
+    <string name="module_stack_layer_description">Un contenitore per altri oggetti che consente di impilare oggetti orizzontalmente e verticalmente.</string>
+    <string name="module_stack_layer_title">Gruppo a Pila</string>
+    <string name="module_text_description">Questa voce permette di inserire qualsiasi testo
+             è possibile scegliere da un elenco di esempi o creare la propria stringa utilizzando tante funzioni disponibili</string>
+    <string name="module_text_title">Testo</string>
+    <string name="module_unknown_description">Questo modulo non è supportato o sono stati rimossi da questa release.</string>
+    <string name="module_unknown_title">Sconosciuto</string>
+    <string name="notification_channel_description">Mostra una notifica persistente personalizzata per mantenere il servizio attivo</string>
+    <string name="notification_channel_name">Notifiche Kustom</string>
+    <string name="notification_courtesy_description">"Tocca la notifica per personalizzarla
+             per rimuoverla apri le impostazioni dell'app oppure premi a lungo
+             seleziona l'icona \"Info\" e poi \"Notifiche\" per disabilitarla"</string>
+    <string name="notification_courtesy_title">Servizio in esecuzione</string>
+    <string name="notification_disable_optimization">"Seleziona 'Tutte le Applicazioni'
+             scorri per trovare Kustom
+             disabilita Ottimizzazione Batteria"</string>
+    <string name="open_battery_optimization_settings">Apri Impostazioni Batteria</string>
+    <string name="option_anchormode_bottom">Fondo</string>
+    <string name="option_anchormode_bottomleft">Fondo sinistra</string>
+    <string name="option_anchormode_bottomright">Fondo destra</string>
+    <string name="option_anchormode_center">Centro</string>
+    <string name="option_anchormode_centerleft">Centro sinistra</string>
+    <string name="option_anchormode_centerright">Centro destra</string>
+    <string name="option_anchormode_top">Alto</string>
+    <string name="option_anchormode_topleft">Alto Sinistra</string>
+    <string name="option_anchormode_topright">Alto Destra</string>
+    <string name="option_animationaction_advanced">Animazione Complessa</string>
+    <string name="option_animationaction_color">Filtro colore Out</string>
+    <string name="option_animationaction_color_inverted">Filtro Colore In</string>
+    <string name="option_animationaction_fade">Ridimensiona Out</string>
+    <string name="option_animationaction_fade_inverted">Dissolvenza</string>
+    <string name="option_animationaction_flip_horizontal">Capovolgi Orizzontale</string>
+    <string name="option_animationaction_flip_vertical">Capovolgi Verticale</string>
+    <string name="option_animationaction_rotate">Ruota</string>
+    <string name="option_animationaction_rotate_inverted">Ruota invertito</string>
+    <string name="option_animationaction_scale">Ridimensiona Fuori</string>
+    <string name="option_animationaction_scale_inverted">Ridimensiona In</string>
+    <string name="option_animationaction_scale_x">Ridimensiona Fuori Orizzontale</string>
+    <string name="option_animationaction_scale_y">Ridimensiona Fuori Verticale</string>
+    <string name="option_animationaction_scroll_inverted">Scroll invertito</string>
+    <string name="option_animationanchor_module_bottom">Modulo in basso</string>
+    <string name="option_animationanchor_module_bottom_left">Modulo in basso a sinistra</string>
+    <string name="option_animationanchor_module_bottom_right">Modulo in basso a destra</string>
+    <string name="option_animationanchor_module_center">Modulo al centro</string>
+    <string name="option_animationanchor_module_left">Modulo a Sinistra</string>
+    <string name="option_animationanchor_module_right">Modulo a Destra</string>
+    <string name="option_animationanchor_module_top">Modulo in Alto</string>
+    <string name="option_animationanchor_module_top_left">Modulo in alto a sinistra</string>
+    <string name="option_animationanchor_module_top_right">Modulo in alto a destra</string>
+    <string name="option_animationanchor_screen_bottom">Schermo in fondo</string>
+    <string name="option_animationanchor_screen_bottom_left">Schermo in basso a sinistra</string>
+    <string name="option_animationanchor_screen_bottom_right">Schermo in basso a destra</string>
+    <string name="option_animationanchor_screen_center">Schermo al centro</string>
+    <string name="option_animationanchor_screen_left">Schermo a sinistra</string>
+    <string name="option_animationanchor_screen_right">Schermo a destra</string>
+    <string name="option_animationanchor_screen_top">Schermo in alto</string>
+    <string name="option_animationanchor_screen_top_left">Schermo in alto a sinistra</string>
+    <string name="option_animationanchor_screen_top_right">Schermo in alto a destra</string>
+    <string name="option_animationcenter_center">Centra Schermo</string>
+    <string name="option_animationcenter_center_minus">Centro meno %d</string>
+    <string name="option_animationcenter_center_plus">Centro più %d</string>
+    <string name="option_animationcenter_first">Primo schermo</string>
+    <string name="option_animationcenter_last">Ultim Schermo</string>
+    <string name="option_animationcenter_screen">Schermo %d</string>
+    <string name="option_animationease_bounce">Rimbalza</string>
+    <string name="option_animationease_inverted">Invertito</string>
+    <string name="option_animationease_normal">Normale</string>
+    <string name="option_animationease_normal_2w">Normale con Ritorno</string>
+    <string name="option_animationease_straight">Raddrizza</string>
+    <string name="option_animationease_straight_2w">Raddrizza con ritorno</string>
+    <string name="option_animationfilter_brighten">Illumina</string>
+    <string name="option_animationfilter_contrast">Contrasto</string>
+    <string name="option_animationfilter_darken">Scurisci</string>
+    <string name="option_animationfilter_desaturate">Desatura</string>
+    <string name="option_animationmode_backward">Solo Indietro</string>
+    <string name="option_animationmode_forward">Solo Avanti</string>
+    <string name="option_animationmode_inverted">Invertito</string>
+    <string name="option_animationmode_normal">Normale</string>
+    <string name="option_animationrule_after_center">Centra Dopo</string>
+    <string name="option_animationrule_before_center">Centra Prima</string>
+    <string name="option_animationrule_center">Centra</string>
+    <string name="option_animationrule_from_center">Dal Centro (includi)</string>
+    <string name="option_animationrule_up_to_center">Alza al centro (incluso)</string>
+    <string name="option_animationtype_disabled">Disabilitato</string>
+    <string name="option_animationtype_gyro">Giroscopio</string>
+    <string name="option_animationtype_loop_2w">Loop con ritorno</string>
+    <string name="option_animationtype_scroll_y">Bg Scroll (Verticale)</string>
+    <string name="option_animationtype_switch">Interruttore Global</string>
+    <string name="option_animationtype_unlock">Sblocca</string>
+    <string name="option_animationtype_visibility">Visibilità</string>
+    <string name="option_animatorproperty_desaturate">Desatura (0 - 100)</string>
+    <string name="option_animatorproperty_opacity">Trasparenza (0 - 100)</string>
+    <string name="option_animatorproperty_rotate">Ruota</string>
+    <string name="option_animatorproperty_rotate_x_center">Ruota X Centro</string>
+    <string name="option_animatorproperty_rotate_y_center">Ruota Y Centro</string>
+    <string name="option_animatorproperty_scale_x">Ridimensiona X</string>
+    <string name="option_animatorproperty_scale_x_center">Ridimensiona X Centro</string>
+    <string name="option_animatorproperty_scale_xy">Ridimensiona XY</string>
+    <string name="option_animatorproperty_scale_y">Ridimensiona Y</string>
+    <string name="option_animatorproperty_scale_y_center">Ridimensiona Y Centro</string>
+    <string name="option_animatorproperty_x_offset">X Offeset</string>
+    <string name="option_animatorproperty_y_offset">Offset Y</string>
+    <string name="option_aqlevel_good">Buono</string>
+    <string name="option_aqlevel_hazardous">Pericolosa</string>
+    <string name="option_aqlevel_moderate">Moderato</string>
+    <string name="option_aqlevel_na">Non disponibile</string>
+    <string name="option_aqlevel_unhealthy">Non salutare</string>
+    <string name="option_aqlevel_unhealthy_for_sensitive">Non salutare per sensibili</string>
+    <string name="option_aqlevel_very_unhealthy">Altamente non salutare</string>
+    <string name="option_backgroundscroll_inverted">Invertito</string>
+    <string name="option_backgroundscroll_none">Nessuno</string>
+    <string name="option_backgroundscroll_normal">Normale</string>
+    <string name="option_backgroundtype_image">Immagine</string>
+    <string name="option_backgroundtype_solid">Pieno</string>
+    <string name="option_bitmapcolorfilter_bw">Bianco e Nero</string>
+    <string name="option_bitmapcolorfilter_colorize">Colora</string>
+    <string name="option_bitmapcolorfilter_desaturate">Desatura</string>
+    <string name="option_bitmapcolorfilter_hue">Colore</string>
+    <string name="option_bitmapcolorfilter_invert">Inverti</string>
+    <string name="option_bitmapcolorfilter_none">Nessuno</string>
+    <string name="option_bitmapmode_vector">Vettore (SVG)</string>
+    <string name="option_bitmaptilemode_fit_center">Adatta al Centro</string>
+    <string name="option_bitmaptilemode_mirror">Specchia</string>
+    <string name="option_bitmaptilemode_repeat">Ripeti</string>
+    <string name="option_clockmode_auto">Automatico</string>
+    <string name="option_clockmode_h12">12 Ore</string>
+    <string name="option_clockmode_h24">24 Ore</string>
+    <string name="option_colorfilter_brighten">Schiarisci</string>
+    <string name="option_colorfilter_contrast">Contrasto</string>
+    <string name="option_colorfilter_darken">Scurisci</string>
+    <string name="option_colorfilter_invert">Inverti</string>
+    <string name="option_colorfilter_saturation">Saturazione</string>
+    <string name="option_curvedtextmode_auto">Auto</string>
+    <string name="option_curvedtextmode_justify">Giustifica</string>
+    <string name="option_fontsize_fixed_width">Larghezza Fissa</string>
+    <string name="option_fontsize_single_fixed_width">Adatta Larghezza</string>
+    <string name="option_fontsize_single_font_height">Altezza font Fissa</string>
+    <string name="option_globaltype_anchormode">Modalità ancora</string>
+    <string name="option_globaltype_color">Colore</string>
+    <string name="option_globaltype_list">Lista</string>
+    <string name="option_globaltype_number">Numero</string>
+    <string name="option_globaltype_switch">Tasto On/Off</string>
+    <string name="option_globaltype_text">Testo</string>
+    <string name="option_gradient_horizontal">Gradiente Orizzontale</string>
+    <string name="option_gradient_none">Nessuno</string>
+    <string name="option_gradient_radial">Gradiente Radiale</string>
+    <string name="option_gradient_sweep">Gradiente a Trascinamento</string>
+    <string name="option_gradient_vertical">Gradiente Verticale</string>
+    <string name="option_growmode_current">Attuale</string>
+    <string name="option_growmode_progressive">Progressivo</string>
+    <string name="option_kustomaction_advanced_editor">Editor Avanzato</string>
+    <string name="option_kustomaction_bitmap_update">Forza aggiornamento immagini scaricate</string>
+    <string name="option_kustomaction_notif_close">Ignora Notifiche</string>
+    <string name="option_kustomaction_notif_close_all">Ignora Tutte Le Notifiche</string>
+    <string name="option_kustomaction_notif_open">Apri Notifiche</string>
+    <string name="option_kustomaction_text_update">Forza aggiornamento RSS/Text/XML</string>
+    <string name="option_kustomaction_toggle_bt">Attiva Bluetooth</string>
+    <string name="option_kustomaction_toggle_wifi">Attiva WiFi</string>
+    <string name="option_kustomaction_unlock">Sblocca schermo</string>
+    <string name="option_kustomaction_weather_update">Forza aggiornamento meteo</string>
+    <string name="option_layerfx_drop_shadow">Getta Ombra</string>
+    <string name="option_layerfx_inner_shadow">Ombra Interna</string>
+    <string name="option_layerfx_long_shadow_bl">Ombra lunga in basso a Sinistra</string>
+    <string name="option_layerfx_long_shadow_br">Ombra lunga in basso a destra</string>
+    <string name="option_layerfx_long_shadow_tl">Ombra lunga in Alto a Sinistra</string>
+    <string name="option_layerfx_long_shadow_tr">Ombra lunga in Alto a destra</string>
+    <string name="option_layerfx_none">Niente</string>
+    <string name="option_layerstacking_horizontal_bottom">Orizzontale Fondo</string>
+    <string name="option_layerstacking_horizontal_center">Orizzontale Centro</string>
+    <string name="option_layerstacking_horizontal_top">Orizzontale Cima</string>
+    <string name="option_layerstacking_vertical_center">Verticale centro</string>
+    <string name="option_layerstacking_vertical_left">Verticale sinistra</string>
+    <string name="option_layerstacking_vertical_right">Verticale Destra</string>
+    <string name="option_layertilemode_mirror">Specchia</string>
+    <string name="option_layertilemode_mirror_horizontal">Specchia orizzontale</string>
+    <string name="option_layertilemode_mirror_left">Specchia a Sinistra</string>
+    <string name="option_layertilemode_mirror_right">Specchia a Destra</string>
+    <string name="option_layertilemode_mirror_vertical">Specchia Verticale</string>
+    <string name="option_layertilemode_normal">Normale</string>
+    <string name="option_layertilemode_repeat">Ripeti</string>
+    <string name="option_layertilemode_repeat_horizontal">Ripeti Orizzontale</string>
+    <string name="option_layertilemode_repeat_left">Ripeti a Destra</string>
+    <string name="option_layertilemode_repeat_right">Ripeti a Destra</string>
+    <string name="option_layertilemode_repeat_vertical">Ripeti Verticale</string>
+    <string name="option_layoutscalemode_none">Nessuno</string>
+    <string name="option_layoutscalemode_proportional">Proporzionato</string>
+    <string name="option_location_alt1">Posizione alternativa 1</string>
+    <string name="option_location_alt2">Posizione alternativa 2</string>
+    <string name="option_location_alt3">Posizione alternativa 3</string>
+    <string name="option_location_default">Predefinito</string>
+    <string name="option_location_primary">Posizione Primaria</string>
+    <string name="option_locationmode_high_accuracy">Precisione Alta (min 1 sec
+             max 10 sec
+             utilizzo intenso batteria)</string>
+    <string name="option_locationmode_low_power">Batteria Poco Carica (min 1 ora
+             max 10 minuti)</string>
+    <string name="option_locationmode_mid_power">Batteria Mezza carica (min 10 sec
+             max 1 minuto)</string>
+    <string name="option_locationmode_no_power">Batteria Scarica (Min 1 ora
+             Max 6 ore)</string>
+    <string name="option_maskfilter_background">Sfondo</string>
+    <string name="option_maskfilter_blurred">Sfondo Sfocato</string>
+    <string name="option_maskfilter_clip_all">Blocca Tutti</string>
+    <string name="option_maskfilter_clip_next">Blocca Prossimo Modulo</string>
+    <string name="option_maskfilter_none">Niente</string>
+    <string name="option_measureunit_auto">Automatico</string>
+    <string name="option_measureunit_imperial">Imperiale (Fahrenheit / Miglia)</string>
+    <string name="option_measureunit_metric">Metrico (Celsius / Metri)</string>
+    <string name="option_moonphasename_first_quarter">Primo quarto</string>
+    <string name="option_moonphasename_full">Piena</string>
+    <string name="option_moonphasename_new">Nuova</string>
+    <string name="option_moonphasename_third_quarter">Terzo quarto</string>
+    <string name="option_moonphasename_waning_crescent">Calante</string>
+    <string name="option_moonphasename_waning_gibbous">Gibbosa Calante</string>
+    <string name="option_moonphasename_waxing_crescent">Crescente</string>
+    <string name="option_moonphasename_waxing_gibbous">Gibbosa Crescente</string>
+    <string name="option_moviemode_stop">Pausa</string>
+    <string name="option_musicaction_next">Prossimo</string>
+    <string name="option_musicaction_open_app">Apri Player</string>
+    <string name="option_musicaction_play_pause">Play/Pausa</string>
+    <string name="option_musicaction_previous">Precedente</string>
+    <string name="option_musicaction_volume_down">Volume -</string>
+    <string name="option_musicaction_volume_up">Volume +</string>
+    <string name="option_notifyicon_custom_text">Testo Personalizzato</string>
+    <string name="option_notifyicon_date">Data</string>
+    <string name="option_notifyicon_kustom_icon">Logo Kustom</string>
+    <string name="option_notifyicon_temperature">Temperatura</string>
+    <string name="option_notifymode_always">Forza: mostra sempre una notifica personalizzabile</string>
+    <string name="option_notifymode_auto">"Automatico: usa una notifica personalizzabile quando la batteria è ottimizzata per mantenere l'applicazione attiva."</string>
+    <string name="option_notifymode_disabled">Disabilitata: non usare una notifica personalizzabile</string>
+    <string name="option_notifystyle_full_normal">Normale</string>
+    <string name="option_notifystyle_full_small">Piccola</string>
+    <string name="option_notifyvisibility_always_show">Mostra Sempre</string>
+    <string name="option_notifyvisibility_hide_on_lock_screen">Nascondi nel Lock Screen</string>
+    <string name="option_paintstyle_fill">Riempi</string>
+    <string name="option_paintstyle_horizontal_gradient">Gradiente Orizzontale</string>
+    <string name="option_paintstyle_stroke">Contorno</string>
+    <string name="option_paintstyle_vertical_gradient">Gradiente Verticale</string>
+    <string name="option_presetfeatureenum_feature_air_quality">Qualità dell\'Aria</string>
+    <string name="option_presetfeatureenum_feature_analog_clock">Orologio Analogico</string>
+    <string name="option_presetfeatureenum_feature_calendar">Calendario</string>
+    <string name="option_presetfeatureenum_feature_call">Chiamate</string>
+    <string name="option_presetfeatureenum_feature_download">Download Dati</string>
+    <string name="option_presetfeatureenum_feature_fitness">Fitness</string>
+    <string name="option_presetfeatureenum_feature_forecast">Previsione</string>
+    <string name="option_presetfeatureenum_feature_gyro">Giroscopio</string>
+    <string name="option_presetfeatureenum_feature_location">Posizione</string>
+    <string name="option_presetfeatureenum_feature_music">Musica</string>
+    <string name="option_presetfeatureenum_feature_notifications">Notifiche</string>
+    <string name="option_presetfeatureenum_feature_shell">Shell</string>
+    <string name="option_presetfeatureenum_feature_signal">Segnale</string>
+    <string name="option_presetfeatureenum_feature_traffic">Traffico dati</string>
+    <string name="option_presetfeatureenum_feature_unread">Non letto</string>
+    <string name="option_presetfeatureenum_feature_weather">Meteo</string>
+    <string name="option_previewbg_dk_gray">Grigio Scuro</string>
+    <string name="option_previewbg_lt_gray">Grigio Chiaro</string>
+    <string name="option_previewbg_white">Bianco</string>
+    <string name="option_previewbg_wp">Wallpaper Attuale</string>
+    <string name="option_previewratio_default">Predefinito</string>
+    <string name="option_progress_battery">Batteria</string>
+    <string name="option_progress_custom">Personalizza</string>
+    <string name="option_progress_h12">Ore</string>
+    <string name="option_progress_h24">Ore (0 - 24)</string>
+    <string name="option_progress_mins">Minuti</string>
+    <string name="option_progress_mins_5">Minuti (Step da 5 Min)</string>
+    <string name="option_progress_music">Tempo di riproduzione musicale</string>
+    <string name="option_progress_music_volume">Volume Musica</string>
+    <string name="option_progress_secs">Secondi</string>
+    <string name="option_progressalign_bottom">Basso</string>
+    <string name="option_progressalign_center">Centro</string>
+    <string name="option_progressalign_top">Alto</string>
+    <string name="option_progresscolormode_current">Corrente</string>
+    <string name="option_progresscolormode_flat">Piatto</string>
+    <string name="option_progresscolormode_gradient">Gradiente</string>
+    <string name="option_progresscolormode_multi_color">Multi Colore</string>
+    <string name="option_progressmode_flat">Progresso piatto</string>
+    <string name="option_progressmode_shapes">Ripeti Forme</string>
+    <string name="option_progressmode_split">Dividi Progresso</string>
+    <string name="option_progressmode_text">Ripeti Testo</string>
+    <string name="option_progressshape_circle">Cerhio</string>
+    <string name="option_progressshape_rect">Retta</string>
+    <string name="option_progressshape_square">Quadrato</string>
+    <string name="option_progressshape_triangle">Triangolo</string>
+    <string name="option_progressstyle_circle">Circolare</string>
+    <string name="option_progressstyle_linear">Lineare</string>
+    <string name="option_refreshrate_default">Predefinito</string>
+    <string name="option_refreshrate_fast">Più veloce</string>
+    <string name="option_refreshrate_slow">Più lento</string>
+    <string name="option_rotate_clock_hour">Lancetta delle Ore (esatta)</string>
+    <string name="option_rotate_clock_hour_smooth">Lancetta delle ore (continua)</string>
+    <string name="option_rotate_clock_minute">Lancetta dei Minuti (esatta)</string>
+    <string name="option_rotate_clock_minute_smooth">Lancetta dei minuti (continua)</string>
+    <string name="option_rotate_clock_second">Lancetta dei Secondi</string>
+    <string name="option_rotate_clock_second_smooth">Lancetta dei secondi (Continua)</string>
+    <string name="option_rotate_deg180">180</string>
+    <string name="option_rotate_deg270">270</string>
+    <string name="option_rotate_deg90">90</string>
+    <string name="option_rotate_manual">Manuale</string>
+    <string name="option_rotate_none">Niente</string>
+    <string name="option_scrolldirection_bottom">In fondo</string>
+    <string name="option_scrolldirection_left">Sinistra</string>
+    <string name="option_scrolldirection_right">Destra</string>
+    <string name="option_seasonname_autumn">Autunno</string>
+    <string name="option_seasonname_spring">Primavera</string>
+    <string name="option_seasonname_summer">Estate</string>
+    <string name="option_seasonname_winter">Inverno</string>
+    <string name="option_seriesmode_battery">Batteria</string>
+    <string name="option_seriesmode_battery_10">Batteria (Da 0 a 9)</string>
+    <string name="option_seriesmode_custom">Personalizza</string>
+    <string name="option_seriesmode_day_of_month">Giorno del mese</string>
+    <string name="option_seriesmode_day_of_month_num">Giorno del mese Numero</string>
+    <string name="option_seriesmode_day_of_month_short">Giorno del mese Breve</string>
+    <string name="option_seriesmode_day_of_week">Giorno della settimana</string>
+    <string name="option_seriesmode_day_of_week_num">Giorno della settimana Numero</string>
+    <string name="option_seriesmode_day_of_week_short">Giorno della settimana Breve</string>
+    <string name="option_seriesmode_h12">Ore (12h)</string>
+    <string name="option_seriesmode_h24">Ore (24h)</string>
+    <string name="option_seriesmode_mins">Minuti</string>
+    <string name="option_seriesmode_mins_5">Minuti (Step da 5 Min)</string>
+    <string name="option_seriesmode_month">Mese</string>
+    <string name="option_seriesmode_month_short">Mese Corto</string>
+    <string name="option_seriesmode_secs">Secondi</string>
+    <string name="option_seriesspacingmode_fixed_size">Dimensione Fissa</string>
+    <string name="option_seriesspacingmode_fixed_spacing">Spazio Fisso</string>
+    <string name="option_shadow_none">Nessuno</string>
+    <string name="option_shadow_outer">Esterno</string>
+    <string name="option_shape_arc">Arco</string>
+    <string name="option_shape_circle">Cerchio</string>
+    <string name="option_shape_exagon">Esagono</string>
+    <string name="option_shape_oval">Ovale</string>
+    <string name="option_shape_rect">Rettangolo</string>
+    <string name="option_shape_slice">Spicchio di cerchio</string>
+    <string name="option_shape_square">Quadrato</string>
+    <string name="option_shape_triangle">Triangolo</string>
+    <string name="option_tapfeedback_none">Nessuno</string>
+    <string name="option_tapfeedback_vibrate">Vibra</string>
+    <string name="option_tapfeedback_vibrate_light">Luce Vibrata</string>
+    <string name="option_textalign_center">Centro</string>
+    <string name="option_textalign_left">Sinistra</string>
+    <string name="option_textalign_right">Destra</string>
+    <string name="option_textfilter_cap">Capitalizzare</string>
+    <string name="option_textfilter_lo">Tutto Minuscolo</string>
+    <string name="option_textfilter_n2w">Numeri in Parole</string>
+    <string name="option_textfilter_nf">Localizza Numeri</string>
+    <string name="option_textfilter_ns">Rimuovi Spazi</string>
+    <string name="option_textfilter_rev">Inverti</string>
+    <string name="option_textfilter_roman">Numero in numero romano</string>
+    <string name="option_textfilter_up">Tutto Maiuscolo</string>
+    <string name="option_theme_dark">Scuro</string>
+    <string name="option_theme_default">Predefinito</string>
+    <string name="option_theme_light">Chiaro</string>
+    <string name="option_theme_system">Usa Impostazioni Sistema</string>
+    <string name="option_timezone_default">Posizione Predefinita</string>
+    <string name="option_touchaction_app_and_switch">Attiva App e Toggle</string>
+    <string name="option_touchaction_change_volume">Cambia Volume</string>
+    <string name="option_touchaction_disabled">Disattivato (Blocco Touch)</string>
+    <string name="option_touchaction_kustom_action">Azione Kustom</string>
+    <string name="option_touchaction_kustom_action_and_switch">Azione Kustom e Interruttore Toggle</string>
+    <string name="option_touchaction_launch_activity">Avvia Attività</string>
+    <string name="option_touchaction_launch_app">Avvia App</string>
+    <string name="option_touchaction_launch_shortcut">Avvia Shortcut</string>
+    <string name="option_touchaction_music">Controlli Musica</string>
+    <string name="option_touchaction_music_and_switch">Musica e Toggle</string>
+    <string name="option_touchaction_none">Niente</string>
+    <string name="option_touchaction_open_link">Apri Link</string>
+    <string name="option_touchaction_shortcut_and_switch">Shortcut e Toggle</string>
+    <string name="option_touchaction_switch_global">Attiva interruttore Global</string>
+    <string name="option_touchaction_switch_list_next">Prossimo Valore</string>
+    <string name="option_touchaction_switch_list_prev">Valore Precedente</string>
+    <string name="option_touchtype_double_tap">Tocco doppio</string>
+    <string name="option_touchtype_long_press">Tieni premuto</string>
+    <string name="option_touchtype_scroll_end">Scorri alla fine</string>
+    <string name="option_touchtype_single_tap">Tocco singolo</string>
+    <string name="option_touchtype_touch_down">Tocco in giù</string>
+    <string name="option_touchtype_touch_up">Tocco in su</string>
+    <string name="option_visiblemode_always">Sempre</string>
+    <string name="option_visiblemode_if_landscape">Se Landscape</string>
+    <string name="option_visiblemode_if_locked">Se Bloccato</string>
+    <string name="option_visiblemode_if_not_locked">Se non è Bloccato</string>
+    <string name="option_visiblemode_if_portrait">Se Portrait</string>
+    <string name="option_visiblemode_never">Mai</string>
+    <string name="option_visiblemode_remove">Rimuovi</string>
+    <string name="option_volumeaction_lower">Abbassa</string>
+    <string name="option_volumeaction_mute">Muto</string>
+    <string name="option_volumeaction_raise">Aumenta</string>
+    <string name="option_volumeaction_set">Imposta</string>
+    <string name="option_volumeaction_toggle_mute">Alterna Muto</string>
+    <string name="option_volumeaction_unmute">Togli Muto</string>
+    <string name="option_volumestream_alarm">Sveglia</string>
+    <string name="option_volumestream_all">Tutto</string>
+    <string name="option_volumestream_ringer">Suoneria</string>
+    <string name="option_widgetorientation_auto">Ruota automaticamente (da usare se il launcher ruota)</string>
+    <string name="option_widgetorientation_default">Predefinito</string>
+    <string name="option_widgetorientation_landscape">Orizzontale</string>
+    <string name="option_widgetorientation_portrait">Verticale</string>
+    <string name="option_widgetsizemode_auto">Auto (ridimensionamento automatico)</string>
+    <string name="option_widgetsizemode_lock">Bloccato (Clicka sul widget dopo il ridimensionamento)</string>
+    <string name="option_widgetupdatemode_default">Predefinito (si aggiorna al cambio di località
+             ogni minuto o ogni 5 secondi se viene riprodotta musica
+             più lentamente in modalità risparmio energetico)</string>
+    <string name="option_widgetupdatemode_fast">Veloce (si aggiorna ogni secondo. ATTENZIONE: questa modalità consuma MOLTA batteria! Non usarla su base giornaliera.</string>
+    <string name="option_widgetupdatemode_slow">Conservativa (si aggiorna ogni minuto
+             ignora i progressi della musica e rallenterà altre modifiche)</string>
+    <string name="option_widgetupdatemode_smart">Intelligente ( si aggiorna ogni secondo se in carica
+             normalmente se non lo è
+             lentamente se con batteria scarica o in risparmio energetico)</string>
+    <string name="option_zodiacsign_aquarius">Acquario</string>
+    <string name="option_zodiacsign_aries">Ariete</string>
+    <string name="option_zodiacsign_cancer">Cancro</string>
+    <string name="option_zodiacsign_capricorn">Capricorno</string>
+    <string name="option_zodiacsign_gemini">Gemelli</string>
+    <string name="option_zodiacsign_leo">Leone</string>
+    <string name="option_zodiacsign_libra">Bilancia</string>
+    <string name="option_zodiacsign_pisces">Pesci</string>
+    <string name="option_zodiacsign_sagittarius">Sagittario</string>
+    <string name="option_zodiacsign_scorpio">Scorpione</string>
+    <string name="option_zodiacsign_taurus">Toro</string>
+    <string name="option_zodiacsign_virgo">Vergine</string>
+    <string name="permission_authorize">Autorizza</string>
+    <string name="permission_calendar">Calendario</string>
+    <string name="permission_calendar_rationale">"leggere gli eventi del Calendario per mostrarli all'interno della app"</string>
+    <string name="permission_call">Chiamata diretta</string>
+    <string name="permission_call_rationale">chiama i numeri direttamente dato che alcuni tasti di scelta rapida sono configurati per farlo</string>
+    <string name="permission_external_storage">Memoria SD</string>
+    <string name="permission_external_storage_rationale">scrivere nella Memoria Esterna per salvare i preset
+             i font e le immagini sulla scheda SD</string>
+    <string name="permission_fingerprint">Impronta Digitale</string>
+    <string name="permission_fingerprint_desc">Attiva il sensore di impronte
+             puoi cambiare questo nelle impostazioni</string>
+    <string name="permission_grant">Permetti</string>
+    <string name="permission_location">Posizione</string>
+    <string name="permission_location_rationale">accedere alla Posizione per aggiornare il meteo e calcolare alba/tramonto
+             non è richiesto se la posizione è impostata manualmente</string>
+    <string name="permission_manage">Gestire le autorizzazioni</string>
+    <string name="permission_phone_state">Stato del telefono</string>
+    <string name="permission_phone_state_rationale">otteni la potenza del segnale corrente e lo stato della connettività</string>
+    <string name="permission_request">Kustom necessita di</string>
+    <string name="permission_required">Autorizzazione richiesta</string>
+    <string name="permission_unread_rationale">accedere a Contatti
+             Account
+             Registro Chiamate
+             SMS ed e-mail per ricevere correttamente chiamate
+             messaggi ed e-mail perse</string>
+    <string name="permission_unread_state">Contatori non letti</string>
+    <string name="permission_usagestats">Statistiche di utilizzo</string>
+    <string name="permission_usagestats_desc">Accede ai dati di utilizzo per conoscere quale applicazione é in foreground per una migliore esperienza</string>
+    <string name="pick_image_intent_chooser_title">Seleziona origine</string>
+    <string name="preset_variant_komponent_name">Komponente</string>
+    <string name="preset_variant_komponent_name_plural">Komponenti</string>
+    <string name="preset_variant_notification_name">Notifica</string>
+    <string name="preset_variant_wallpaper_name">Sfondo</string>
+    <string name="preset_variant_wallpaper_name_plural">Sfondo</string>
+    <string name="preset_variant_widget_name">Widget</string>
+    <string name="pro_ok">"Grazie per l'acquisto!
+
+Tutte le funzioni sono state sbloccate.
+
+L'icona dell'app verrà nascosta al prossimo riavvio del launcher.
+
+Buon divertimento!"</string>
+    <string name="pro_only">Questa funzione richiede la versione PRO</string>
+    <string name="required_plugin_desc">Non è più consentito alle applicazioni accedere a Chiamate e SMS. Kustom conterà soltanto il numero di notifiche. Installa un plugin per avere questa funzionalità
+             clicca di seguito per maggiori informazioni.</string>
+    <string name="requires_api_or_subscription">Richiede chiave API o abbonamento</string>
+    <string name="requires_subscription">Richiede abbonamento</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="settings_advanced">Opzioni avanzate</string>
+    <string name="settings_app">Impostazioni App</string>
+    <string name="settings_calendars">Calendario da mostrare</string>
+    <string name="settings_category_main">Editor</string>
+    <string name="settings_category_notification">Editor Notifiche</string>
+    <string name="settings_category_settings">Impostazioni</string>
+    <string name="settings_clockmode">Modalità Orologio (auto
+             24h o 12h)</string>
+    <string name="settings_device_admin">Admin Device</string>
+    <string name="settings_device_admin_lockscreen">Kustom ha Kustom ha bisogno di questo per gestire la politica di timeout dello schermo e la schermata di blocco / sblocco</string>
+    <string name="settings_draw_overlay">Disegno Sovrapposto</string>
+    <string name="settings_draw_overlay_desc">Kustom ha bisogno di scrivere sopra ad altre App per essere visto nella schermata di blocco</string>
+    <string name="settings_dump_desc">Scrivi le informazioni di debug in un file
+             da usare solo se richiesto da un developer</string>
+    <string name="settings_editor_advanced">Editor Avanzato</string>
+    <string name="settings_faq">FAQ</string>
+    <string name="settings_first_weekday">Primo giorno della settimana</string>
+    <string name="settings_formula_hide_toolbar">Nascondi Toolba</string>
+    <string name="settings_formula_monospace">Font Monospaziato</string>
+    <string name="settings_formula_small_font">Font Piccolo</string>
+    <string name="settings_general">Impostazioni Generali</string>
+    <string name="settings_gopro">Diventa PRO!</string>
+    <string name="settings_gopro_desc">"Nascondi la pubblicità e attiva tutte le componenti
+             come l'esportazione
+             la condivisione e i preset esterni"</string>
+    <string name="settings_hide5secs">Nascondi avviso 5 secondi</string>
+    <string name="settings_hide5secs_desc">Per favore nascondi quel Toast
+             ho letto nelle FAQ e ho notificato il problema ai developer del launcher</string>
+    <string name="settings_ideas">Idee</string>
+    <string name="settings_kb">Supporto</string>
+    <string name="settings_locale">"Linguaggio dell'app"</string>
+    <string name="settings_location">Posizione</string>
+    <string name="settings_location_automatic">Auto (GPS)</string>
+    <string name="settings_location_history">Posizioni recenti</string>
+    <string name="settings_locationmode">Precisione Localizzazione (se visibile)</string>
+    <string name="settings_locationmode_desc">"Tempo minimo e massimo tra l'aggiornamento della localizzazione quando visibile
+             attuale:"</string>
+    <string name="settings_lockscreen_enable">Blocca schermo attivato</string>
+    <string name="settings_login">Login Utente</string>
+    <string name="settings_login_not_logged_in">Effettua il login con il tuo account Google per abilitare le informazioni del profilo e sbloccare le esportazioni</string>
+    <string name="settings_logout">Vuoi effettuare il Logout?</string>
+    <string name="settings_main">Impostazioni Generali</string>
+    <string name="settings_noautoscale">Disabilita Auto Scaling</string>
+    <string name="settings_noautoscale_desc">Il Widget non ridurrà automaticamente il suo contenuto quando viene ridimensionato</string>
+    <string name="settings_noparallelrender">Disabilita Rendering Parallelo</string>
+    <string name="settings_noparallelrender_desc">"Se si hanno glitch visivi o crash dell'immagine di sfondo puoi selezionare questa opzioni. La visualizzazione sará meno morbida
+             riapplica lo sfondo dopo il cambiamento."</string>
+    <string name="settings_notification">Impostazioni Notifica</string>
+    <string name="settings_notifymode">Modalità Notifica</string>
+    <string name="settings_notifyvisibility">Visibilità Notifica</string>
+    <string name="settings_nowakeonnotification">Disabilita accendi schermo alla notifica</string>
+    <string name="settings_nowakeonnotification_desc">Non accendere automaticamente lo schermo se il preset usa notifiche e una nuova notifica viene ricevuta</string>
+    <string name="settings_onstartprefereditor">Preferisci editor all\'avvio</string>
+    <string name="settings_onstartprefereditor_desc">Vai direttamente all\'editor e salta la finestra di caricamento preimpostato all\'apertura dell\'app</string>
+    <string name="settings_player">Music Player Preferito</string>
+    <string name="settings_player_automatic">Automatico</string>
+    <string name="settings_preset_export">Esporta Preset</string>
+    <string name="settings_preset_load">Carica Preset</string>
+    <string name="settings_preset_load_desc">Seleziona un impostazione Wallpaper diversa dai Builtin
+             dalla scheda SD o dalle skin istallate</string>
+    <string name="settings_problems">Problemi</string>
+    <string name="settings_questions">Domande</string>
+    <string name="settings_rate">Vota Kustom
+             è una figata!</string>
+    <string name="settings_reddit">Reddit</string>
+    <string name="settings_refresh_rate">Frequenza di aggiornamento</string>
+    <string name="settings_screen_count">Immetti quantità di schermi orizzontali (X) e verticali (Y) nel tuo launcher (molti launcher supportano solo lo scrolling orizzontale)</string>
+    <string name="settings_tapfeedback">Feedback al tocco</string>
+    <string name="settings_theme">"Tema dell'app (scuro/chiaro)"</string>
+    <string name="settings_translations">Traduzioni</string>
+    <string name="settings_tutorial">Tutorial Online</string>
+    <string name="settings_unit">Unità di misura</string>
+    <string name="settings_updatemode">Modalità Aggiornamento</string>
+    <string name="settings_updatemode_desc">Controlla quanto spesso il widget viene aggiornato. Questa impostazione ha impatto sulla batteria
+             valore attuale:</string>
+    <string name="settings_updatewhenoff">Aggiorna quando lo schermo è spento</string>
+    <string name="settings_updatewhenoff_desc">Il widget verrà riformattato anche se lo schermo è spento
+             AVVERTENZA questo non è normalmente necessario e potrebbe avere un impatto sulla batteria!</string>
+    <string name="settings_wallpaper_picker">Imposta come Wallpaper</string>
+    <string name="settings_wallpaper_picker_desc">"Per impostare questo Live Wallpaper come sfondo apri l'anteprima con i tuo Android Walpaper Picker"</string>
+    <string name="settings_weather">Meteo</string>
+    <string name="settings_weather_chance_of_rain">Probabilità di pioggia</string>
+    <string name="settings_weather_days">Giorni</string>
+    <string name="settings_weather_forecast">Previsioni</string>
+    <string name="settings_weather_forecast_hourly">Previsioni orarie</string>
+    <string name="settings_weather_hours">ore</string>
+    <string name="settings_weather_plugin_invalid">Plugin non valido</string>
+    <string name="settings_weather_plugin_invalid_desc">Il plugin per il meteo è installato ma non è valido
+             clicca per reinstallarlo dallo store</string>
+    <string name="settings_weather_precipitations">Precipitazioni</string>
+    <string name="settings_weather_premium">Premium (richiede sottoscrizione)</string>
+    <string name="settings_weather_provider">Sorgente Meteo</string>
+    <string name="settings_weather_provider_desc">Seleziona sorgente dei dati meteo
+             attualmente:</string>
+    <string name="settings_weather_refresh">Aggiornamento Network</string>
+    <string name="settings_weather_refresh_desc">Seleziona la frequenza di aggiornamento dei dati di rete come Meteo e feed RSS
+             attualmente impostati su:</string>
+    <string name="settings_weather_update">Forza Aggiornamento</string>
+    <string name="settings_weather_update_desc">Aggiorna meteo immediatamente in tutti i luoghi
+             ultimo update:</string>
+    <string name="settings_widget">Impostazioni Widget</string>
+    <string name="settings_widgetorientation">Orientamento Widget</string>
+    <string name="settings_widgetorientation_desc">Orientamento preferito del Launcher
+             influisce sul touch e sul posizionamento degli oggetti
+             attualmente impostato su:</string>
+    <string name="settings_widgetsize">Dimensioni Widget</string>
+    <string name="settings_widgetsize_desc">Modalità di individuazione dimensioni
+             cambialo se hai problemi di padding o di risoluzione
+             attuale:</string>
+    <string name="settings_wp_use_direct_touch">Usa il tocco diretto</string>
+    <string name="settings_wp_use_direct_touch_desc">Usalo solo se il tuo programma di avvio non invia correttamente eventi touch a Kustom. Attenzione: questo potrebbe interferire o sovrapporsi con i gesti di avvio!</string>
+    <string name="shortcut_action">Azione</string>
+    <string name="shortcut_action_load_preset">Carica Preset</string>
+    <string name="shortcut_action_switch_global">Cambia Global</string>
+    <string name="shortcut_edit_name">Nome Global</string>
+    <string name="shortcut_edit_value">Valore Global</string>
+    <string name="shortcut_pick">Seleziona</string>
+    <string name="shortcut_warning_preset">Per favore seleziona un preset da caricare</string>
+    <string name="shortcut_warning_widget">Per favore seleziona un Widget che vuoi applicare al preset</string>
+    <string name="shortcut_widget">Widget</string>
+    <string name="sort_added">Ultimo Aggiunto/Usato</string>
+    <string name="sort_alpha">Alfabetico</string>
+    <string name="sort_alphar">Inverso</string>
+    <string name="sort_default">Predefinito</string>
+    <string name="sort_modified">Ultima Modifica</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="support">Supporto</string>
+    <string name="support_kustom_faq_extended">FAQ</string>
+    <string name="support_kustom_kb_desc">Aggiornamenti
+             tutorial e conoscenza di base</string>
+    <string name="support_kustom_kb_title">Sito internet Kustom</string>
+    <string name="support_onboarding_next">Prossimo</string>
+    <string name="support_onboarding_permissions_title">Autorizzazioni</string>
+    <string name="support_onboarding_welcome_letsgo">Andiamo!</string>
+    <string name="support_reddit_title">Comunità Reddit</string>
+    <string name="tasker_var_help">Specificare il comando Tasker (es. \"battery level is %BATT\") e quindi il nome della variabile Kustom (es. \"batteria\"). Questo mapperà il valore della formula Kustom $(tasker
+             battery)$</string>
+    <string name="tasker_var_name">Variabile Kustom</string>
+    <string name="tasker_var_value">Comando Tasker</string>
+    <string name="touch_start_delay">5 secondi di ritardo… vedi FAQ</string>
+    <string name="twofortyfouram_locale_breadcrumb_format">%1$s%2$s%3$s</string>
+    <string name="twofortyfouram_locale_breadcrumb_separator">" > "</string>
+    <string name="twofortyfouram_locale_menu_dontsave">Annulla</string>
+    <string name="twofortyfouram_locale_menu_help">Aiuto</string>
+    <string name="twofortyfouram_locale_menu_save">Fine</string>
+    <string name="warning_kustom_not_installed">Kustom non è stato trovato sul dispositivo. Per favore installa una app Kustom per usare questo plugin</string>
+    <string name="warning_kustom_version">Questo plugin richiede la versione di Kustom 3.26 o superiore per funzionare. Aggiorna la tua app Kustom</string>
+    <string name="warning_m_api">Il plugin non è necessario per Android 6.0 o successivo
+             puoi disinstallarlo in sicurezza</string>
+    <string name="warning_permissions">Il plugin richiede alcune autorizzazioni per poter funzionare
+             ti chiediamo di accettarle (puoi anche negarne alcune
+             ma il componente non funzionerà)</string>
+    <string name="warning_start">"Plugin installato con succceso
+             seleziona il provider nelle impostazioni principali dell'app Kustom"</string>
+    <string name="warning_weather_start">Plugin installato con successo
+             puoi ora selezionare una sorgente meteo dalla app Kustom</string>
+    <string name="weather_code_blowing_snow">Neve</string>
+    <string name="weather_code_blustery">Ventoso</string>
+    <string name="weather_code_clear">Sereno</string>
+    <string name="weather_code_cloudy">Nuvoloso</string>
+    <string name="weather_code_drizzle">Pioggerellina</string>
+    <string name="weather_code_dust">Polvere</string>
+    <string name="weather_code_fair">Sereno</string>
+    <string name="weather_code_foggy">Nebbia</string>
+    <string name="weather_code_freezing_drizzle">Pioggerellina Ghiacciata</string>
+    <string name="weather_code_freezing_rain">Pioggia Ghiacciata</string>
+    <string name="weather_code_hail">Grandine</string>
+    <string name="weather_code_haze">Foschia</string>
+    <string name="weather_code_heavy_showers">Acquazzoni</string>
+    <string name="weather_code_heavy_snow">Forti Nevicate</string>
+    <string name="weather_code_hurricane">Uragano</string>
+    <string name="weather_code_isolated_thudershowers">Temporali Isolati</string>
+    <string name="weather_code_isolated_thunderstorms">Temporali Isolati</string>
+    <string name="weather_code_light_snow_showers">Leggere Nevicate</string>
+    <string name="weather_code_mixed_rain_and_hail">Grandine mista Pioggia</string>
+    <string name="weather_code_mixed_rain_sleet">Pioggia mista Nevischio</string>
+    <string name="weather_code_mixed_rain_snow">Pioggia mista Neve</string>
+    <string name="weather_code_mixed_snow_sleet">Neve mista Nevischio</string>
+    <string name="weather_code_mostly_cloudy">Molto Nuvoloso</string>
+    <string name="weather_code_not_available">Sconosciuto</string>
+    <string name="weather_code_partly_cloudy">Parzialmente Nuvoloso</string>
+    <string name="weather_code_scattered_showers">Occasionali Acquazzoni</string>
+    <string name="weather_code_scattered_snow_showers">Nevicate e Acquazzoni Sparsi</string>
+    <string name="weather_code_severe_thunderstorms">Temporali Violenti</string>
+    <string name="weather_code_showers">Acquazzoni</string>
+    <string name="weather_code_sleet">Nevischio</string>
+    <string name="weather_code_smoky">Fumoso</string>
+    <string name="weather_code_snow">Neve</string>
+    <string name="weather_code_snow_flurries">Raffiche di Neve</string>
+    <string name="weather_code_snow_showers">Forti Nevicate</string>
+    <string name="weather_code_thundershowers">Temporale</string>
+    <string name="weather_code_thunderstorms">Temporali</string>
+    <string name="weather_code_tornado">Tornado</string>
+    <string name="weather_code_tropical_storm">Tempesta Tropicale</string>
+    <string name="weather_code_windy">Ventoso</string>
+    <string name="widget_add_first">"Non hai attualmente alcun widget Kustom sullo schermo. Si prega di aggiungerne uno prima premendo a lungo un'area vuota nella schermata iniziale e seleziona Aggiungi widget e scegli KWGT dall'elenco. N
+ Se il lanciatore non elenca alcun widget
+             riavviare una volta."</string>
+    <string name="widget_pro_only">Solo PRO!</string>
+    <string name="widget_unconfigured">Click per istallare o tieni premuto per ridimensionare</string>
+</resources>

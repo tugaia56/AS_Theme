@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="button_blue">@*android:color/accent_material_dark</item>
+    <item type="drawable" name="button_blue_disabled">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="button_blue_pressed">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="drawable_orange">@*android:color/accent_material_dark</item>
+    <item type="drawable" name="drawable_orange_disabled">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="drawable_orange_pressed">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="splash_bg">@*android:color/background_dark</item>
+    <item type="drawable" name="transparent">#00ffffff</item>
+</resources>

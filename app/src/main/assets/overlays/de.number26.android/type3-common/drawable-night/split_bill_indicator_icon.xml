@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="18.0dip" android:width="18.0dip" android:viewportWidth="18.0" android:viewportHeight="18.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/holo_primary" android:pathData="M9
+            17C13.4183
+            17 17
+            13.4183 17
+            9C17
+            4.5817 13.4183
+            1 9
+            1C4.5817
+            1 1
+            4.5817 1
+            9C1
+            13.4183 4.5817
+            17 9
+            17Z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="2.0" />
+    <path android:fillColor="#ffffffff" android:pathData="M5.7917
+            5.5C5.7143
+            5.5 5.6401
+            5.5307 5.5854
+            5.5854C5.5307
+            5.6401 5.5
+            5.7143 5.5
+            5.7917V8.0278H6.0833V6.4958L8.7083
+            9.1208V12.5H9.2917V9C9.2917
+            8.9227 9.2609
+            8.8485 9.2062
+            8.7938L6.4958
+            6.0833H8.0278V5.5H5.7917Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M9.9722
+            6.0833H11.5042L9.5715
+            8.016L9.984
+            8.4285L11.9167
+            6.4958V8.0278H12.5V5.7917C12.5
+            5.7143 12.4693
+            5.6401 12.4146
+            5.5854C12.3599
+            5.5307 12.2857
+            5.5 12.2083
+            5.5H9.9722V6.0833Z" />
+    <path android:fillColor="#00000000" android:pathData="M5.7917
+            5.5C5.7143
+            5.5 5.6401
+            5.5307 5.5854
+            5.5854C5.5307
+            5.6401 5.5
+            5.7143 5.5
+            5.7917V8.0278H6.0833V6.4958L8.7083
+            9.1208V12.5H9.2917V9C9.2917
+            8.9227 9.2609
+            8.8485 9.2062
+            8.7938L6.4958
+            6.0833H8.0278V5.5H5.7917Z" android:strokeColor="#ffffffff" android:strokeWidth="0.25" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M9.9722
+            6.0833H11.5042L9.5715
+            8.016L9.984
+            8.4285L11.9167
+            6.4958V8.0278H12.5V5.7917C12.5
+            5.7143 12.4693
+            5.6401 12.4146
+            5.5854C12.3599
+            5.5307 12.2857
+            5.5 12.2083
+            5.5H9.9722V6.0833Z" android:strokeColor="#ffffffff" android:strokeWidth="0.25" android:strokeLineJoin="round" />
+</vector>

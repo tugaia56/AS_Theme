@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent_primary_variant">@*android:color/accent_material_dark</color>
+    <color name="settingslib_accent_primary_variant">@*android:color/accent_material_dark</color>
+    <color name="settingslib_colorSurfaceHeader">@*android:color/background_dark</color>
+    <color name="settingslib_colorSurfaceVariant">@*android:color/background_dark</color>
+    <color name="settingslib_dialog_accent">@*android:color/accent_material_dark</color>
+    <color name="settingslib_dialog_colorError">@*android:color/accent_material_dark</color>
+    <color name="settingslib_state_off_color">@*android:color/button_material_dark</color>
+    <color name="settingslib_state_on_color">@*android:color/button_material_dark</color>
+    <color name="settingslib_text_color_preference_category_title">@*android:color/accent_material_dark</color>
+    <color name="settingslib_text_color_primary_device_default">@*android:color/white</color>
+    <color name="settingslib_text_color_secondary_device_default">@*android:color/system_neutral2_200</color>
+    <color name="settingslib_thumb_off_color">@*android:color/white</color>
+    <color name="settingslib_thumb_on_color">@*android:color/white</color>
+    <color name="settingslib_track_off_color">@*android:color/background_dark</color>
+    <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
+    <color name="system_on_primary">@*android:color/background_dark</color>
+    <color name="system_on_secondary">@*android:color/button_material_dark</color>
+    <color name="system_on_surface">@*android:color/system_on_surface_dark</color>
+    <color name="system_on_surface_variant">@*android:color/system_on_surface_variant_dark</color>
+    <color name="system_outline">@*android:color/accent_material_dark</color>
+    <color name="system_outline_variant">@*android:color/system_outline_variant_dark</color>
+    <color name="system_primary">@*android:color/system_primary_dark</color>
+    <color name="system_primary_container">@*android:color/system_primary_container_dark</color>
+    <color name="system_secondary">@*android:color/accent_material_dark</color>
+    <color name="system_surface_bright">@*android:color/background_leanback_dark</color>
+    <color name="system_surface_container">@*android:color/background_dark</color>
+    <color name="system_surface_container_high">@*android:color/holo_light_primary_dark</color>
+    <color name="system_surface_container_highest">@*android:color/button_material_dark</color>
+    <color name="system_tertiary">@*android:color/system_tertiary_dark</color>
+    <color name="tile_enabled_icon_color">@*android:color/background_dark</color>
+    <color name="settingslib_surface_dark">@*android:color/background_dark</color>
+</resources>

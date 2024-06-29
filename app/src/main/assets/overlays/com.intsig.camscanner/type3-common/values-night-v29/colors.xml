@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cs_color_bg_0">@*android:color/background_dark</color>
+    <color name="cs_color_bg_1">@*android:color/background_dark</color>
+    <color name="cs_color_bg_2">#ff3a3a3c</color>
+    <color name="cs_color_bg_3">#ff48484a</color>
+    <color name="cs_color_border_0">@*android:color/button_material_dark</color>
+    <color name="cs_color_border_1">#ff3a3a3c</color>
+    <color name="cs_color_border_2">#ff48484a</color>
+    <color name="cs_color_brand_disabled">#ff3a3a3c</color>
+    <color name="cs_color_disabled_bg">#ff3a3a3c</color>
+    <color name="cs_color_disabled_text">#ff48484a</color>
+    <color name="cs_color_secondary_disabled">#ff3a3a3c</color>
+    <color name="cs_color_tertiary">#ffcecece</color>
+    <color name="cs_color_tertiary_active">#ffa19e9e</color>
+    <color name="cs_color_text_1">#ff48484a</color>
+    <color name="cs_color_text_2">#ff8e8e93</color>
+    <color name="cs_color_text_3">#ffcecece</color>
+    <color name="cs_color_text_4">#fff4f4f4</color>
+    <color name="cs_color_text_5">@*android:color/button_material_dark</color>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="114.0dip" android:width="163.0dip" android:viewportWidth="163.0" android:viewportHeight="114.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffbfc8ce" android:pathData="M0
+            29.819v78.613a5.438
+            5.438 0
+            0 0
+            5.422 5.422h151.804a5.422
+            5.422 0
+            0 0
+            5.422 -5.422V29.819H0z" android:fillType="nonZero" />
+    <path android:fillColor="#ffd9dfe2" android:pathData="M162.648
+            10.843a5.435
+            5.435 0
+            0 0
+            -5.422 -5.421H54.216a5.438
+            5.438 0
+            0 0
+            -5.422 5.421
+            5.435 5.435
+            0 0
+            1 -5.421
+            5.422H5.422A5.438
+            5.438 0
+            0 0
+            0 21.686v8.133h162.648V10.843z" android:fillType="nonZero" />
+    <path android:fillColor="#ffd9dfe2" android:pathData="M81.324
+            70.459m-32.53
+            0a32.53
+            32.53 0
+            1 1
+            65.06 0a32.53
+            32.53 0
+            1 1
+            -65.06 0" android:fillType="nonZero" />
+    <path android:fillColor="#ffa7b4b9" android:pathData="M81.324
+            70.459m-13.554
+            0a13.554
+            13.554 0
+            1 1
+            27.108 0a13.554
+            13.554 0
+            1 1
+            -27.108 0" android:fillType="evenOdd" />
+    <path android:fillColor="#ffa7b4b9" android:pathData="M143.672
+            54.216a5.422
+            5.422 0
+            0 1
+            -5.421 5.422h-5.422a5.422
+            5.422 0
+            1 1
+            0 -10.844h5.422a5.422
+            5.422 0
+            0 1
+            5.421 5.422z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffbfc8ce" android:pathData="M35.24
+            16.265V5.422A5.44
+            5.44 0
+            0 0
+            29.82 0H13.554a5.44
+            5.44 0
+            0 0
+            -5.422 5.422v10.843H35.24z" android:fillType="nonZero" />
+</vector>

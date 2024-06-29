@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="disabled_user">@*android:color/ripple_material_dark</color>
+    <color name="red">@*android:color/accent_material_dark</color>
+    <color name="semi_transparent">#10ffffff</color>
+    <color name="sixty_percent_black">#9affffff</color>
+    <color name="ten_percent_black">#1affffff</color>
+    <color name="textColorPrimary">@*android:color/white</color>
+    <color name="textColorSecondary">#ffbebebe</color>
+    <color name="tracker">@*android:color/ripple_material_dark</color>
+</resources>

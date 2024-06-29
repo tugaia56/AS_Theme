@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:autoMirrored="true" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M17
+            7.546L17
+            3.046L12.5
+            3.046C12.24
+            3.03 12.016
+            3.256 12
+            3.517L12
+            17.546C11.984
+            17.806 12.24
+            18.03 12.5
+            18.046L21.5
+            18.046C21.76
+            18.062 21.984
+            17.807 22
+            17.546L22
+            8.046L17.5
+            8.046C17.24
+            8.062 17.016
+            7.807 17
+            7.546Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.5
+            3.046C18.7
+            3.046 18.8
+            3.046 18.9
+            3.145L21.913
+            6.131C22.013
+            6.232 22.013
+            6.332 22.013
+            6.532L18.513
+            6.532L18.5
+            3.046Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M10.714
+            6.748L7.301
+            3.357C7.113
+            3.17 6.86
+            3.066 6.595
+            3.066L0.5
+            3.046C0.224
+            3.046 0
+            3.27 0
+            3.546L0
+            17.546C0
+            17.822 0.224
+            18.046 0.5
+            18.046L10.5
+            18.046C10.775
+            18.046 11
+            17.822 11
+            17.546L11
+            7.546C11
+            7.279 10.902
+            6.936 10.714
+            6.748ZM7
+            5.046L9
+            7.046L7
+            7.046L7
+            5.046ZM9.5
+            16.546L1.5
+            16.546L1.5
+            4.546L5.5
+            4.546L5.5
+            8.046C5.5
+            8.322 5.724
+            8.546 6
+            8.546L9.5
+            8.546L9.5
+            16.546Z" android:fillType="nonZero" />
+</vector>

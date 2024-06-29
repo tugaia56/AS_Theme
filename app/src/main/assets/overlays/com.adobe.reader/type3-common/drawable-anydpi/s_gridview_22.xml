@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="22.0dip" android:width="22.0dip" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M7 7H3V3.5C3 3.225 3.225 3 3.5 3H7Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M9 7h4V3H9Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M19 7H15V3h3.5C18.775 3 19 3.225 19 3.5Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M3 13H7V9H3Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M9 13h4V9H9Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M15 13h4V9h-4z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M7 19H3.5C3.225 19 3 18.775 3 18.5V15h4z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M9 19h4V15H9Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.5 19H15v-4h4v3.5c0 0.275 -0.225 0.5 -0.5 0.5" />
+</vector>

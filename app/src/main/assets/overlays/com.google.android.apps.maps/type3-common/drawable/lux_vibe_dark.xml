@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dip" android:width="32.0dip" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffea4335" android:pathData="M7.99
+            5l4.01
+            8l-8
+            0l3.99
+            -8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M12
+            13l-4
+            -8l8
+            0l-4
+            8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M20
+            13l-4
+            -8l8
+            0l-4
+            8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M16
+            5l4
+            8l-8
+            0l4
+            -8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M23.98
+            5l4.02
+            8l-8
+            0l3.98
+            -8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M12
+            13l4
+            15l-12
+            -15l8
+            0z" />
+    <path android:fillColor="#ffea4335" android:pathData="M28
+            13l-12
+            15l4
+            -15l8
+            0z" />
+    <path android:fillColor="#ffea4335" android:pathData="M12
+            13l4
+            15l4
+            -15l-8
+            0z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M7.99
+            5l4.01
+            8l-8
+            0l3.99
+            -8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M12
+            13l-4
+            -8l8
+            0l-4
+            8z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M20
+            13l-4
+            -8l8
+            0l-4
+            8z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M16
+            5l4
+            8l-8
+            0l4
+            -8z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M23.98
+            5l4.02
+            8l-8
+            0l3.98
+            -8z" />
+    <path android:fillColor="#ffea4335" android:pathData="M12
+            13l4
+            15l-12
+            -15l8
+            0z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M28
+            13l-12
+            15l4
+            -15l8
+            0z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M12
+            13l4
+            15l4
+            -15l-8
+            0z" />
+</vector>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="activate_bg">@*android:color/accent_material_dark</item>
+    <item type="drawable" name="component_normal_background">#33929496</item>
+    <item type="drawable" name="history_bg">@*android:color/background_dark</item>
+    <item type="drawable" name="list_click">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="share_bg">@*android:color/accent_material_dark</item>
+    <item type="drawable" name="share_press_bg">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="white">@*android:color/background_dark</item>
+</resources>

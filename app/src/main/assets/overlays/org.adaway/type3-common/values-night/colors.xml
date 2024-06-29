@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="allowed">@*android:color/accent_material_dark</color>
+    <color name="blocked">@*android:color/accent_material_dark</color>
+    <color name="onPrimary">#ffffffff</color>
+    <color name="primary">@*android:color/accent_material_dark</color>
+    <color name="redirected">@*android:color/accent_material_dark</color>
+</resources>

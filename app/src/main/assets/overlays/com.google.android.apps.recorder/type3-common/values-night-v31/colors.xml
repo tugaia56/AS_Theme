@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@*android:color/background_dark</color>
+    <color name="error">@*android:color/accent_material_dark</color>
+    <color name="on_background">@*android:color/white</color>
+    <color name="on_error">#ffffffff</color>
+    <color name="on_primary">@*android:color/white</color>
+    <color name="on_surface">@*android:color/accent_material_dark</color>
+    <color name="on_surface_variant">#ffbdbdbd</color>
+    <color name="primary">@*android:color/accent_material_dark</color>
+    <color name="secondary">@*android:color/accent_material_dark</color>
+    <color name="surface_variant">@*android:color/background_leanback_dark</color>
+    <color name="tertiary_container">@*android:color/accent_material_dark</color>
+</resources>

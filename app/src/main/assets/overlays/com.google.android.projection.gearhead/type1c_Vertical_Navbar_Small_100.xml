@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- NavBar 2.0 -->
+
+    <dimen name="coolwalk_vertical_rail_width">100.0dip</dimen>					<!-- 80.0dip altezza barra verticale -->
+	
+</resources>

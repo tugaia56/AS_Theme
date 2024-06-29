@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="28.0dip" android:width="28.0dip" android:viewportWidth="256.0" android:viewportHeight="256.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M42,96L42,96A10,10 0,0 1,52 106L52,226A10,10 0,0 1,42 236L42,236A10,10 0,0 1,32 226L32,106A10,10 0,0 1,42 96z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M85,128L85,128A10,10 0,0 1,95 138L95,226A10,10 0,0 1,85 236L85,236A10,10 0,0 1,75 226L75,138A10,10 0,0 1,85 128z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M128,20L128,20A10,10 0,0 1,138 30L138,226A10,10 0,0 1,128 236L128,236A10,10 0,0 1,118 226L118,30A10,10 0,0 1,128 20z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M171,84L171,84A10,10 0,0 1,181 94L181,226A10,10 0,0 1,171 236L171,236A10,10 0,0 1,161 226L161,94A10,10 0,0 1,171 84z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M214,128L214,128A10,10 0,0 1,224 138L224,226A10,10 0,0 1,214 236L214,236A10,10 0,0 1,204 226L204,138A10,10 0,0 1,214 128z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+</vector>

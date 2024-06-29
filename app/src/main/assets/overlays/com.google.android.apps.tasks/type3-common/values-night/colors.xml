@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_status_bar_background_color">#f5202124</color>
+    <color name="alert_dialog_background_color">#ff35373a</color>
+    <color name="attachment_selected_m2">#3d8ab4f8</color>
+    <color name="bugle_color_selection_surface">#ff30343a</color>
+    <color name="go_to_top_button_background">@*android:color/ripple_material_dark</color>
+    <color name="go_to_top_button_tint">#ffffffff</color>
+    <color name="material_google_red_500">#ffee675c</color>
+    <color name="material_grey_white_1000">@*android:color/background_dark</color>
+    <color name="message_video_selected_tint">#b3d2e3fc</color>
+    <color name="oneplus_unknown_sender_background">@*android:color/accent_material_dark</color>
+    <color name="play_protect_auth_accent_color">@*android:color/accent_material_dark</color>
+    <color name="reactions_selection_bar_background">#ff303134</color>
+    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+    <color name="switcher_option_background_color">#3d8ab4f8</color>
+    <color name="tooltip_shadow_color">#a4000000</color>
+</resources>

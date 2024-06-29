@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMainBackground">@*android:color/background_dark</color>
+    <color name="colorTitleBar">@*android:color/background_dark</color>
+    <color name="colorControlPanelBackground">@*android:color/background_dark</color>
+    <color name="colorPowerOffProfilePanelBackground">@*android:color/background_dark</color>
+    <color name="colorPowerOffTitleBarBackground">@*android:color/background_dark</color>
+    <color name="colorProfilePanelBackground">@*android:color/background_dark</color>
+</resources>

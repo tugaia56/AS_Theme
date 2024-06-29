@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="18.0dip" android:width="18.0dip" android:viewportWidth="18.0" android:viewportHeight="18.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M9
+            0C4.032
+            0 0
+            4.032 0
+            9C0
+            13.968 4.032
+            18 9
+            18C13.968
+            18 18
+            13.968 18
+            9C18
+            4.032 13.968
+            0 9
+            0ZM9
+            17C4.58
+            17 1
+            13.42 1
+            9C1
+            4.58 4.58
+            1 9
+            1C13.42
+            1 17
+            4.58 17
+            9C17
+            13.42 13.42
+            17 9
+            17ZM9
+            15C12.3137
+            15 15
+            12.3137 15
+            9C15
+            5.6863 12.3137
+            3 9
+            3C5.6863
+            3 3
+            5.6863 3
+            9C3
+            12.3137 5.6863
+            15 9
+            15Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+</vector>

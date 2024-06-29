@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chip_selectColor">@*android:color/transparent</color>
+    <color name="chip_unselectColor">@*android:color/transparent</color>
+    <color name="conversation_mode_layout_bg_color">?android:colorBackground</color>
+    <color name="l2l_enrolled_pin_icon_color">@*android:color/accent_material_dark</color>
+    <color name="navigationBarColor">@*android:color/background_dark</color>
+    <color name="popup_window_visuals_panel_bg_color">?android:colorBackground</color>
+    <color name="seekbar_bg_color">#ff444e5f</color>
+    <color name="visuals_panel_bg_color">@*android:color/transparent</color>
+</resources>

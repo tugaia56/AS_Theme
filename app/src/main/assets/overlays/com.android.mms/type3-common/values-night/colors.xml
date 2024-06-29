@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_activate_guide_info">#8cffffff</color>
+    <color name="color_top_tips_background_color">@*android:color/background_dark</color>
+    <color name="color_top_tips_stroke">#1affffff</color>
+    <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
+    <color name="couiGreenTintControlPressed">@*android:color/accent_material_dark</color>
+    <color name="couiGreenTintLightNormal">#264f67d2</color>
+    <color name="couiGreenTintLightPressed">#264f67d2</color>
+    <color name="couiTextGreenHighlight">#4c4f67d2</color>
+    <color name="icon_stroke_light">@*android:color/background_dark</color>
+    <color name="localColorTabTextColorNormal">#8affffff</color>
+    <color name="localColorTabTextColorPressed">#d9ffffff</color>
+    <color name="media_picker_container_bg_color">@*android:color/background_dark</color>
+    <color name="mms_bg_bottom_menu_color">#26ffffff</color>
+    <color name="mms_bg_chip_color">#1fffffff</color>
+    <color name="mms_bg_divider_line">@*android:color/background_dark</color>
+    <color name="mms_color_async_image_view_placeholder">@*android:color/background_dark</color>
+    <color name="mms_color_audio_progress_incoming_background">#33ffffff</color>
+    <color name="mms_color_audio_progress_incoming_foreground">#b2ffffff</color>
+    <color name="mms_color_audio_record_control_bg">@*android:color/background_dark</color>
+    <color name="mms_color_audio_record_sound_level">#33222222</color>
+    <color name="mms_color_bg_attachment">#1affffff</color>
+    <color name="mms_color_bg_markAsTop_over_S">#ffffffff</color>
+    <color name="mms_color_gallery_image_default_bg">@*android:color/background_dark</color>
+    <color name="mms_flipper_bg_color">#26ffffff</color>
+    <color name="mms_service_card_divider">#33ffffff</color>
+    <color name="mms_service_card_line_light">#1affffff</color>
+    <color name="switchCheckedGreenBarDisabledColor">#264f67d2</color>
+</resources>

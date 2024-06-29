@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="display_background_color">@*android:color/background_dark</color>
+    <color name="display_formula_text_color">@*android:color/white</color>
+    <color name="display_result_exponent_text_color">@*android:color/white</color>
+    <color name="display_result_text_color">@*android:color/white</color>
+</resources>

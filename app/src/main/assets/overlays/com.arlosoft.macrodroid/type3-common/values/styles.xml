@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SwitchOffDarkerStyle">
+        <item name="colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="colorSwitchThumbNormal">#ffaaaaaa</item>
+    </style>
+</resources>

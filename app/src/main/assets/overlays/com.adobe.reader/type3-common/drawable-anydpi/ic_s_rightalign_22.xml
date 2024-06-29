@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M2.5
+            3L18.5
+            3C18.777
+            3 19
+            3.224 19
+            3.5L19
+            4.5C19
+            4.776 18.777
+            5 18.5
+            5L2.5
+            5C2.223
+            5 2
+            4.776 2
+            4.5L2
+            3.5C2
+            3.224 2.223
+            3 2.5
+            3Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M6.5
+            7.5L18.5
+            7.5C18.777
+            7.5 19
+            7.724 19
+            8L19
+            9C19
+            9.276 18.777
+            9.5 18.5
+            9.5L6.5
+            9.5C6.223
+            9.5 6
+            9.276 6
+            9L6
+            8C6
+            7.724 6.223
+            7.5 6.5
+            7.5Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M6.5
+            16.5L18.5
+            16.5C18.777
+            16.5 19
+            16.724 19
+            17L19
+            18C19
+            18.276 18.777
+            18.5 18.5
+            18.5L6.5
+            18.5C6.223
+            18.5 6
+            18.276 6
+            18L6
+            17C6
+            16.724 6.223
+            16.5 6.5
+            16.5Z" android:fillType="nonZero" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M2.5
+            12L18.5
+            12C18.777
+            12 19
+            12.224 19
+            12.5L19
+            13.5C19
+            13.776 18.777
+            14 18.5
+            14L2.5
+            14C2.223
+            14 2
+            13.776 2
+            13.5L2
+            12.5C2
+            12.224 2.223
+            12 2.5
+            12Z" android:fillType="nonZero" />
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="mj_color_black_00_transparent">#00ffffff</item>
+    <item type="drawable" name="mj_color_gray_lighter">#ffbdbdbd</item>
+    <item type="drawable" name="mj_color_green_50_percent">@*android:color/ripple_material_dark</item>
+    <item type="drawable" name="mj_color_green_normal">@*android:color/accent_material_dark</item>
+    <item type="drawable" name="mj_color_white">@*android:color/background_dark</item>
+    <item type="drawable" name="mj_color_white_00_transparent">#00000000</item>
+</resources>

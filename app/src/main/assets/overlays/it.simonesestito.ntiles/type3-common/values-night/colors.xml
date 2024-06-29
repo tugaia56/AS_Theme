@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activity_background_color">@*android:color/background_dark</color>
+    <color name="bottom_app_bar_color">@*android:color/accent_material_dark</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorPrimary">@*android:color/accent_material_dark</color>
+    <color name="colorPrimaryDark">@*android:color/background_dark</color>
+    <color name="main_text_color">#ffffffff</color>
+    <color name="navigation_bar_color">@*android:color/background_dark</color>
+    <color name="splash_activity_bg">@*android:color/background_dark</color>
+    <color name="tile_descriptor_background_state_unavailable">@*android:color/background_dark</color>
+    <color name="tile_descriptor_icon_state_disabled">@*android:color/white</color>
+    <color name="tile_descriptor_icon_state_unavailable">#ffbdbdbd</color>
+    <color name="tile_descriptor_summary_state_unavailable">#ffbdbdbd</color>
+    <color name="tile_descriptor_title_state_unavailable">#ffbdbdbd</color>
+</resources>

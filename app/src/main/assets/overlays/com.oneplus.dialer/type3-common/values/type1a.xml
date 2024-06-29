@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_search_url_text_pressed">@*android:color/accent_material_dark</color>
+    <color name="abc_search_url_text_selected">@*android:color/accent_material_dark</color>
+    <dimen name="op_ic_sim_height">48.0px</dimen>
+    <dimen name="op_ic_sim_width">72.0px</dimen>
+</resources>

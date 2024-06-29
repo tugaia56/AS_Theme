@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M10.001
+            12.997a0.541
+            0.541 0
+            0 0
+            0.167 0.357l2.586
+            2.351a0.533
+            0.533 0
+            0 0
+            0.778 -0.15l0.6
+            -0.616a0.642
+            0.642 0
+            0 0
+            -0.162 -0.84l-1.968
+            -1.661L12.009
+            7.914a0.627
+            0.627 0
+            0 0
+            -0.6 -0.619l-0.79
+            -0.008a0.633
+            0.633 0
+            0 0
+            -0.6 0.619Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M0.668
+            5.081a0.547
+            0.547 0
+            0 0
+            0 0.779l0.786
+            0.78a0.556
+            0.556 0
+            0 0
+            0.784 0l3.942
+            -3.937a0.549
+            0.549 0
+            0 0
+            0 -0.78L5.409
+            1.165a0.56
+            0.56 0
+            0 0
+            -0.787 0Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M19.767
+            6.634a0.557
+            0.557 0
+            0 0
+            0.785 0l0.785
+            -0.78a0.547
+            0.547 0
+            0 0
+            0 -0.779L17.373
+            1.161a0.559
+            0.559 0
+            0 0
+            -0.786 0l-0.764
+            0.759a0.55
+            0.55 0
+            0 0
+            0 0.781Z" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M18.554
+            11.904A7.477
+            7.477 0
+            1 1
+            11.07 4.483
+            7.46 7.46
+            0 0
+            1 18.554
+            11.904ZM20.236
+            11.904a9.159
+            9.159 0
+            1 0
+            -9.168 9.1A9.138
+            9.138 0
+            0 0
+            20.236 11.904Z" />
+</vector>

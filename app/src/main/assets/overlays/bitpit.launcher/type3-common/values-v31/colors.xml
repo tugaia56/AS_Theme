@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark_material_you">@*android:color/background_dark</color>
+    <color name="background_secondary_black_material_you">@*android:color/background_dark</color>
+    <color name="background_secondary_dark_material_you">@*android:color/background_dark</color>
+</resources>

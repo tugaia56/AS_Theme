@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="safety_center_info">@*android:color/accent_material_dark</color>
+    <color name="safety_center_recommend">#ff00ff</color>
+    <color name="safety_center_status_unfilled_wedge">#fff000</color>
+    <color name="safety_center_warn">@*android:color/accent_material_dark</color>
+    <color name="settingslib_accent_primary_variant">@*android:color/accent_material_dark</color>
+    <color name="settingslib_colorSurfaceHeader">@*android:color/background_dark</color>
+    <color name="settingslib_colorSurfaceVariant">@*android:color/background_dark</color>
+    <color name="settingslib_dialog_accent">@*android:color/accent_material_dark</color>
+    <color name="settingslib_dialog_colorError">@*android:color/accent_material_dark</color>
+    <color name="settingslib_text_color_preference_category_title">#ff0000</color>
+    <color name="settingslib_text_color_primary_device_default">#ffffffff</color>
+    <color name="settingslib_thumb_disabled_color">#ffffffff</color>
+    <color name="settingslib_thumb_off_color">#ffffffff</color>
+    <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>
+    <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
+    <color name="warning_onsurface">#fffdd663</color>
+    <color name="warning_surface">@*android:color/background_dark</color>
+    <color name="settingslib_surface_dark">@*android:color/background_dark</color>
+</resources>

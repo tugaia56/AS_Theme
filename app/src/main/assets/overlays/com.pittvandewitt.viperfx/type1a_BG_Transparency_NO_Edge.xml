@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardview_light_background">@*android:color/group_button_dialog_pressed_holo_light</color>						<!-- Background -->
+    <color name="button_material_light">@*android:color/group_button_dialog_pressed_holo_light</color>					<!-- Edge -->
+		
+</resources>

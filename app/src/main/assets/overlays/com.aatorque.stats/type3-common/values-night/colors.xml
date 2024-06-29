@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">@*android:color/background_dark</color>
+    <color name="car_list_divider">#1fffffff</color>
+    <color name="secondaryColor">@*android:color/accent_material_dark</color>
+    <color name="secondaryTextColor">#ffffffff</color>
+    <color name="snackbarBtnText">@*android:color/accent_material_dark</color>
+    <color name="tintColor">@*android:color/accent_material_dark</color>
+</resources>

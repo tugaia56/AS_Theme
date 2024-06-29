@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardview_color">@*android:color/background_dark</color>
+    <color name="divider_color">@*android:color/background_dark</color>
+    <color name="fkColorAccent">@*android:color/accent_material_dark</color>
+    <color name="fkColorAccentAlpha">@*android:color/accent_material_dark</color>
+    <color name="itemsSummaryColor">#ffdddddd</color>
+    <color name="nav_drawer_color">@*android:color/background_floating_material_dark</color>
+    <color name="nav_drawer_item_color">@*android:color/white</color>
+    <color name="navbar_color">@*android:color/background_dark</color>
+    <color name="statusbar_color">@*android:color/background_dark</color>
+    <color name="xda_yellow">#ffffd200</color>
+</resources>

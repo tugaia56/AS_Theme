@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_phone_notification_time_until_battery_charged_is_exact_time">
+        <item quantity="other">Ricarica completa alle %1$s circa</item>
+        <item quantity="one">Ricarica completa alle %1$s circa</item>
+    </plurals>
+    <plurals name="battery_phone_notification_time_until_battery_charged_isnt_exact_time">
+        <item quantity="other">Oltre %1$s alla ricarica</item>
+        <item quantity="one">Oltre %1$s alla ricarica</item>
+    </plurals>
+    <plurals name="battery_phone_notification_time_until_battery_discharged_is_exact_time">
+        <item quantity="other">Batteria scarica alle %1$s circa</item>
+        <item quantity="one">Batteria scarica alle %1$s circa</item>
+    </plurals>
+    <plurals name="battery_phone_notification_time_until_battery_discharged_isnt_exact_time">
+        <item quantity="other">Oltre %1$s di batteria</item>
+        <item quantity="one">Oltre %1$s di batteria</item>
+    </plurals>
+    <plurals name="days_value">
+        <item quantity="other">%1$d giorni</item>
+        <item quantity="zero">0 giorni</item>
+        <item quantity="one">1 giorno</item>
+    </plurals>
+    <plurals name="hours_value">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="zero">0 ore</item>
+        <item quantity="one">1 ora</item>
+    </plurals>
+    <plurals name="minutes_value">
+        <item quantity="other">%1$d minuti</item>
+        <item quantity="zero">0 minuti</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="repeat_each_minutes">
+        <item quantity="other">Notifica ogni %1$d minuti</item>
+        <item quantity="one">Notifica ogni minuto</item>
+    </plurals>
+</resources>

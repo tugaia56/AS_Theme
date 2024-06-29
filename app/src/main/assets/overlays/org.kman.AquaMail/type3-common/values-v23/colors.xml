@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="doze_background_color_dark">@*android:color/background_dark</color>
+    <color name="doze_background_color_light">#ffffffff</color>
+    <color name="doze_button_background_color">@*android:color/accent_material_dark</color>
+    <color name="doze_button_text_color_dark">#ffffffff</color>
+    <color name="doze_button_text_color_light">@*android:color/accent_material_dark</color>
+    <color name="doze_text_color_dark">#ffffffff</color>
+    <color name="doze_text_color_light">@*android:color/background_dark</color>
+</resources>

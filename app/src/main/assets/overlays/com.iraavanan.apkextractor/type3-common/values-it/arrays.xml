@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_entries">
+        <item>Nome App</item>
+        <item>Nome Package</item>
+        <item>Numero Versione</item>
+        <item>Codice Versione</item>
+    </string-array>
+</resources>

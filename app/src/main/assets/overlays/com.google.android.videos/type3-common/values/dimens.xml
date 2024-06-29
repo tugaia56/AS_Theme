@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="google_opensearchbar_radius">24.0dip</dimen>
+
+    <item type="dimen" name="cardview_default_radius">14.0dip</item>
+    <item type="dimen" name="lb_action_button_corner_radius">14.0dip</item>
+    <item type="dimen" name="lb_rounded_rect_corner_radius">14.0dip</item>
+    <item type="dimen" name="play_card_default_radius">14.0dip</item>
+    <item type="dimen" name="tag_shadow_radius">14.0dip</item>
+    <item type="dimen" name="play_action_button_corner">14.0dip</item>
+    <item type="dimen" name="pano_overlay_playback_controls_corner">14.0dip</item>
+</resources>

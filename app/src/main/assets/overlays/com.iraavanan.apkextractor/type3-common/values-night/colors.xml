@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="design_dark_default_color_on_primary">@*android:color/accent_material_dark</color>
+    <color name="colorBlack">#ffffffff</color>
+    <color name="colorPrimary">@*android:color/background_dark</color>
+    <color name="colorPrimaryDark">@*android:color/background_dark</color>
+    <color name="colorUnselect">#ffffffff</color>
+    <color name="colorWhite">@*android:color/background_dark</color>
+    <color name="transparent_bg">#80dadada</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@*android:color/background_dark</color>
+    <color name="error">@*android:color/accent_material_dark</color>
+    <color name="on_background">#ffe3e3e3</color>
+    <color name="on_error">@*android:color/button_material_dark</color>
+    <color name="on_primary">@*android:color/accent_material_dark</color>
+    <color name="on_secondary">#ff00ff</color>
+    <color name="on_surface">#ffe3e3e3</color>
+    <color name="on_surface_variant">#ffc4c7c5</color>
+    <color name="on_tertiary_container">#fff000</color>
+    <color name="people_chip_selected_state_background_color">#1eeeeaed</color>
+    <color name="primary">@*android:color/accent_material_dark</color>
+    <color name="recorder_red">@*android:color/accent_material_dark</color>
+    <color name="secondary">@*android:color/accent_material_dark</color>
+    <color name="surface_variant">#ff0000</color>
+    <color name="tertiary_container">#00ffff</color>
+</resources>
