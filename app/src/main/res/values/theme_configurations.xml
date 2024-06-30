@@ -20,12 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 4.6.1</item>
+        <item>Version 4.6.2</item>
         <item>ADDED:</item>
         <item>---</item>
         <item>UPDATED:</item>
-        <item>OnePlus Clock</item>
-        <item>Smart Sidebar BUG FIX</item>
+        <item>Google Find My Device v3.1.090</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

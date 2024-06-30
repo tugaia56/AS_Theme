@@ -1,11 +1,11 @@
 <resources>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 4.6.0</item>
+        <item>Versione 4.6.1</item>
         <item>AGGIUNTO:</item>
-        <item>- - -</item>
+        <item>---</item>
         <item>AGGIORNATO:</item>
-        <item>OnePlus Orologio</item>
-        <item>Barra laterale intelligente BUG FIX</item>
+        <item>Google Trova il mio dispositivo v3.1.090</item>
     </string-array>
+    <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
