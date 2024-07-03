@@ -117,10 +117,14 @@
     <color name="cast_seekbar_secondary_progress_color">#a6ffffff</color>
     <color name="cast_seekbar_tooltip_background_color">#e6616161</color>
     <color name="cast_seekbar_unseekable_progress_color">#4dffffff</color>
+    <color name="circle_button_color">@*android:color/accent_material_dark</color>
+    <color name="circle_button_color_disabled">@*android:color/ripple_material_dark</color>
+    <color name="circle_button_color_pressed">@*android:color/ripple_material_dark</color>
+    <color name="circle_button_icon_color">#ffffffff</color>
     <color name="close_rewarded_button_background_color">#00000000</color>
     <color name="close_rewarded_button_color">#ff00d691</color>
     <color name="close_rewarded_dialog_background">#ffffffff</color>
-    <color name="close_rewarded_sub_title_color">#ff222222</color>
+    <color name="close_rewarded_sub_title_color">@*android:color/background_dark</color>
     <color name="close_rewarded_title_color">@*android:color/background_dark</color>
     <color name="color1">@*android:color/background_dark</color>
     <color name="color10">#ffcbccd2</color>
@@ -167,8 +171,8 @@
     <color name="com_braze_inappmessage_header_text">@*android:color/holo_primary</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
-    <color name="com_braze_inappmessage_text_slideup">@*android:color/button_material_dark</color>
+    <color name="com_braze_inappmessage_text">#ff555555</color>
+    <color name="com_braze_inappmessage_text_slideup">#ff555555</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_1">#fff33e3e</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_2">#ff1bbdf2</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_3">#ff2f3436</color>
@@ -358,7 +362,7 @@
     <color name="lb_search_bar_text_speech_mode">#ff444444</color>
     <color name="lb_search_plate_hint_text_color">#ffcccccc</color>
     <color name="lb_speech_orb_not_recording">#ffcccccc</color>
-    <color name="lb_speech_orb_not_recording_icon">@*android:color/button_material_dark</color>
+    <color name="lb_speech_orb_not_recording_icon">#ff555555</color>
     <color name="lb_speech_orb_not_recording_pulsed">#ffeeeeee</color>
     <color name="lb_speech_orb_recording">#ffff4343</color>
     <color name="lb_tv_white">#ffcccccc</color>
@@ -617,7 +621,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="semi_transparent_white_10">#1affffff</color>
     <color name="semi_transparent_white_15">#26ffffff</color>
-    <color name="side_drawer_background_color">@*android:color/background_dark</color>
+    <color name="side_drawer_background_color">#ff202020</color>
     <color name="side_drawer_text_body_color">#ffe8eaed</color>
     <color name="side_drawer_text_title_color">#ffe8eaed</color>
     <color name="sky">@*android:color/button_material_dark</color>
