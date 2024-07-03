@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="ad_banner_background_color">#b31c203c</color>
+    <color name="carColorBlue">#ff3674e0</color>
+    <color name="carColorGreen">#ff448b47</color>
+    <color name="carColorRed">#ffc5221f</color>
+    <color name="carColorYellow">#ffd5792d</color>
     <color name="com_braze_content_card_background">@*android:color/button_material_dark</color>
     <color name="com_braze_content_card_background_border">@*android:color/button_material_dark</color>
     <color name="com_braze_content_card_background_shadow">@*android:color/button_material_dark</color>
@@ -9,4 +14,9 @@
     <color name="com_braze_content_cards_display_background_color">@*android:color/background_dark</color>
     <color name="com_braze_content_cards_title">@*android:color/white</color>
     <color name="com_braze_content_cards_unread_bar_color">@*android:color/accent_material_dark</color>
+    <color name="tab_item_background">@*android:color/ripple_material_dark</color>
+    <color name="tab_item_background_selected">@*android:color/accent_material_dark</color>
+    <color name="tab_item_text">@*android:color/white</color>
+    <color name="tab_item_text_selected">@*android:color/white</color>
+    <color name="tooltip_overlay">#68dedfe2</color>
 </resources>

@@ -245,10 +245,10 @@
     <color name="md_theme_onError_highContrast">#ffffffff</color>
     <color name="md_theme_onError_mediumContrast">#ffffffff</color>
     <color name="md_theme_onPrimary">#ffffffff</color>
-    <color name="md_theme_onPrimaryContainer">#ff001a41</color>
+    <color name="md_theme_onPrimaryContainer">@*android:color/background_dark</color>
     <color name="md_theme_onPrimaryContainer_highContrast">#ffffffff</color>
     <color name="md_theme_onPrimaryContainer_mediumContrast">#ffffffff</color>
-    <color name="md_theme_onPrimaryFixed">#ff001a41</color>
+    <color name="md_theme_onPrimaryFixed">@*android:color/background_dark</color>
     <color name="md_theme_onPrimaryFixedVariant">#ff2a4678</color>
     <color name="md_theme_onPrimaryFixedVariant_highContrast">#ffffffff</color>
     <color name="md_theme_onPrimaryFixedVariant_mediumContrast">#ffffffff</color>
