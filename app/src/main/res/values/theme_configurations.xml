@@ -25,6 +25,8 @@
         <item>---</item>
         <item>UPDATED:</item>
         <item>Google Find My Device v3.1.090</item>
+        <item>TuneIn Radio Pro v34.4.1</item>
+        <item>TuneIn Radio Pro v34.4</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

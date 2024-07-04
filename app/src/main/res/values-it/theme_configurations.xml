@@ -1,7 +1,7 @@
 <resources>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 4.6.1</item>
+        <item>Versione 4.6.2</item>
         <item>AGGIUNTO:</item>
         <item>---</item>
         <item>AGGIORNATO:</item>
