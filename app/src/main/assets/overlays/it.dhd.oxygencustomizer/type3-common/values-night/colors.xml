@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="changelog_bg">@*android:color/background_dark</color>
+    <color name="colorAppbarOverlay">@*android:color/background_dark</color>
     <color name="colorBackground">@*android:color/background_dark</color>
     <color name="colorContainer">@*android:color/background_dark</color>
     <color name="neumorph_outline_end">#ff0f0f0f</color>

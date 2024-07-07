@@ -83,8 +83,8 @@
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gentle_red">#ffff6961</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="ic_launcher_background">@*android:color/background_dark</color>
     <color name="ic_splash_background">@*android:color/accent_material_dark</color>
     <color name="inner_bg_color_bw">#ffffffff</color>

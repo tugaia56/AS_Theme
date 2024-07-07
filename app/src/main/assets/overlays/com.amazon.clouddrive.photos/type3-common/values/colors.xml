@@ -147,8 +147,8 @@
     <color name="ghost_button_rectangle_color">#66000000</color>
     <color name="groupLikeColor">#ffff674d</color>
     <color name="groupsTitleDivider">#1a000000</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="imgly_actionBar_background_color">#ff222222</color>
     <color name="imgly_audio_selection_background_color">#d9000000</color>
     <color name="imgly_background_color">@*android:color/background_dark</color>

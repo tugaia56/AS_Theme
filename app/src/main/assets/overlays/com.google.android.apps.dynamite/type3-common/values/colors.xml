@@ -229,8 +229,8 @@
     <color name="header_icon_default">#ff999999</color>
     <color name="header_icon_selected">#ff00ffff</color>
     <color name="header_text_color_night_mode">#99ffffff</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="hub_search_chip_surface_color">#00ffffff</color>
     <color name="key_pressed_material_dark_theme">#1affffff</color>
     <color name="libraries_material_featurehighlight_text_body_color">#ffffffff</color>

@@ -445,8 +445,8 @@
     <color name="group_orchid">#ffd88deb</color>
     <color name="group_ruddy">#ffef4b4f</color>
     <color name="group_vermilion">#ffe542a3</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="holo_blue_dark">#ff0099cc</color>
     <color name="holo_blue_light">#ff33b5e5</color>
     <color name="hyper_link_color">#ff2394d4</color>
@@ -641,8 +641,8 @@
     <color name="color0734">#ffeefefa</color>
     <color name="color0735">#ff00897b</color>
     <color name="color0736">#ff316474</color>
-    <color name="color0738">#6680cbc4</color>
-    <color name="color0739">#66009688</color>
+    <color name="color0738">@*android:color/ripple_material_dark</color>
+    <color name="color0739">@*android:color/ripple_material_dark</color>
     <color name="color073b">#ff73f793</color>
     <color name="color073c">#ff316474</color>
     <color name="color074a">#33ffffff</color>
