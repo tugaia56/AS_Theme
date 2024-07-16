@@ -104,7 +104,7 @@
     <color name="ms_pdf_viewer_annotation_color_signature_insert_button">#ffffffff</color>
     <color name="ms_pdf_viewer_annotation_color_signature_panel_background">@*android:color/background_dark</color>
     <color name="ms_pdf_viewer_annotation_color_signature_switch_thumb_unchecked">#ff6e6e6e</color>
-    <color name="ms_pdf_viewer_annotation_color_signature_switch_track_checked">#800086f0</color>
+    <color name="ms_pdf_viewer_annotation_color_signature_switch_track_checked">@*android:color/ripple_material_dark</color>
     <color name="ms_pdf_viewer_annotation_color_signature_switch_track_unchecked">@*android:color/background_holo_dark</color>
     <color name="ms_pdf_viewer_annotation_color_signature_text">#ffe1e1e1</color>
     <color name="ms_pdf_viewer_annotation_color_signature_toolbar_cancel">#ffffffff</color>

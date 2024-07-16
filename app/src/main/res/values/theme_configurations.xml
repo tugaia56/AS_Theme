@@ -20,9 +20,10 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 4.6.2</item>
+        <item>Version 4.7.0</item>
         <item>ADDED:</item>
         <item>ViperFX v6.4 by WSTXDA</item>
+        <item>Droid-ify v0.6.3</item>
         <item>UPDATED:</item>
         <item>Google Find My Device v3.1.090</item>
         <item>TuneIn Radio Pro v34.4.1</item>
