@@ -448,7 +448,7 @@
     <color name="fluentui_white">#ffffffff</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
-    <color name="gm3_baseline_surface_tint_dark">#ffd1e1ff</color>
+    <color name="gm3_baseline_surface_tint_dark">@*android:color/accent_material_dark</color>
     <color name="gm3_baseline_surface_tint_light">#ff6991d6</color>
     <color name="google_blue_50">#ffe3f2fd</color>
     <color name="google_blue_grey_500">#ff607d8b</color>

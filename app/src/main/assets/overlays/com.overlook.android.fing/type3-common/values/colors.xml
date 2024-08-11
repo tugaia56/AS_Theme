@@ -7,7 +7,7 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="accent10">#ffebf2ff</color>
     <color name="accent100">@*android:color/accent_material_dark</color>
-    <color name="accent20">#ffd1e1ff</color>
+    <color name="accent20">@*android:color/accent_material_dark</color>
     <color name="accent50">#ff8db5ff</color>
     <color name="accent80">#ff4888ff</color>
     <color name="alert100">#fff6f6f6</color>

@@ -50,7 +50,7 @@
     <color name="blockquoteBlock_dark">#ffa9abb6</color>
     <color name="blue_000">#fff1f8ff</color>
     <color name="blue_100">#ffdbedff</color>
-    <color name="blue_200">#ffc8e1ff</color>
+    <color name="blue_200">@*android:color/accent_material_dark</color>
     <color name="blue_300">#ff79b8ff</color>
     <color name="blue_400">#ff2188ff</color>
     <color name="blue_500">#ff0366d6</color>
@@ -74,7 +74,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="c">#ff6a737d</color>
     <color name="c1">#ff0086b3</color>
-    <color name="c1_dark">#ffc8e1ff</color>
+    <color name="c1_dark">@*android:color/accent_material_dark</color>
     <color name="c2">#fffafbfc</color>
     <color name="c2_background">#ffd73a49</color>
     <color name="c2_background_dark">#ffd73a49</color>

@@ -154,7 +154,7 @@
     <color name="cyan_800">#ff1e788b</color>
     <color name="cyan_900">#ff0f6172</color>
     <color name="cyan_a100">#ff86ebff</color>
-    <color name="cyan_a200">#ff4de1ff</color>
+    <color name="cyan_a200">@*android:color/accent_material_dark</color>
     <color name="cyan_a400">#ff27cef0</color>
     <color name="cyan_a700">#ff1fc4e4</color>
     <color name="datepicker_default_disabled_text_color_material_dark">#80999999</color>

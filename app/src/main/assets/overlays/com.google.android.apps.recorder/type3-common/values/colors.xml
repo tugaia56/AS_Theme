@@ -106,7 +106,7 @@
     <color name="gm3_ref_palette_tertiary90">#ffc4eed0</color>
     <color name="gm3_ref_palette_white">#ffffffff</color>
     <color name="gm3_ref_palette_yellow70">#fff09d00</color>
-    <color name="gm3_sys_color_dark_surface_tint">#ffd1e1ff</color>
+    <color name="gm3_sys_color_dark_surface_tint">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_light_surface_tint">#ff6991d6</color>
     <color name="gm_ref_palette_black">@*android:color/background_dark</color>
     <color name="gm_ref_palette_blue100">@*android:color/accent_material_dark</color>

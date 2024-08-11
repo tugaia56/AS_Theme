@@ -20,14 +20,16 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 4.7.0</item>
+        <item>Version 4.7.1</item>
         <item>ADDED:</item>
-        <item>ViperFX v6.4 by WSTXDA</item>
-        <item>Droid-ify v0.6.3</item>
+        <item>- - -</item>
         <item>UPDATED:</item>
-        <item>Google Find My Device v3.1.090</item>
-        <item>TuneIn Radio Pro v34.4.1</item>
-        <item>TuneIn Radio Pro v34.4</item>
+        <item>DriveSync v7.0.4</item>
+        <item>DropSync v7.0.4</item>
+        <item>BoxSync v7.0.4</item>
+        <item>MegaSync v7.0.4</item>
+        <item>OneSync v7.0.4</item>
+        <item>ViperFX v6.7 by wstxda</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

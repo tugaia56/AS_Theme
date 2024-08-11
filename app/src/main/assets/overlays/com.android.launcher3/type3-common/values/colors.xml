@@ -418,7 +418,7 @@
     <color name="widget_picker_suggestions_icon_background_color_light">@*android:color/system_accent1_0</color>
     <color name="widget_picker_suggestions_icon_color_dark">#ff062e6f</color>
     <color name="widget_picker_suggestions_icon_color_light">@*android:color/system_accent1_600</color>
-    <color name="widget_picker_tab_background_selected_dark">#ffa8c7fa</color>
+    <color name="widget_picker_tab_background_selected_dark">#ffffffff</color>
     <color name="widget_picker_tab_background_selected_light">@*android:color/system_accent1_600</color>
     <color name="widget_picker_tab_background_unselected_dark">#ff343535</color>
     <color name="widget_picker_tab_background_unselected_light">@*android:color/system_neutral1_100</color>

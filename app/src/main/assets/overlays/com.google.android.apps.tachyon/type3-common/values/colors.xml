@@ -152,7 +152,7 @@
     <color name="gm3_ref_palette_primary50">#ff1b6ef3</color>
     <color name="gm3_ref_palette_primary60">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary70">#ff7cacf8</color>
-    <color name="gm3_ref_palette_primary80">#ffa8c7fa</color>
+    <color name="gm3_ref_palette_primary80">#ffffffff</color>
     <color name="gm3_ref_palette_primary90">#ffd3e3fd</color>
     <color name="gm3_ref_palette_primary95">#ffecf3fe</color>
     <color name="gm3_ref_palette_secondary10">#ff001d35</color>
@@ -180,7 +180,7 @@
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_tint">#ffd1e1ff</color>
+    <color name="gm3_sys_color_dark_surface_tint">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_light_surface_container">#fff0f4f9</color>
     <color name="gm3_sys_color_light_surface_container_high">#ffe9eef6</color>
     <color name="gm3_sys_color_light_surface_container_highest">#ffdde3ea</color>

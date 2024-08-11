@@ -156,7 +156,7 @@
     <color name="glance_colorTertiaryContainer">#ff633b48</color>
     <color name="glance_colorWidgetBackground">#ff20333d</color>
     <color name="googleapp_contentcreator_color_brand_surface_container_highest_0">#003a3f50</color>
-    <color name="googleapp_contentcreator_color_on_primary_container">#ffa8c7fa</color>
+    <color name="googleapp_contentcreator_color_on_primary_container">#ffffffff</color>
     <color name="googleapp_contentcreator_color_primary_container">#ff0842a0</color>
     <color name="googleapp_contentcreator_creator_compose_toolbar_button_background_secondary">#b3000000</color>
     <color name="googleapp_contentcreator_creator_compose_toolbar_button_on_background_secondary">#ccffffff</color>
