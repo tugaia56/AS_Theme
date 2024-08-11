@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>						<!-- bg app -->
-    <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#4e342e</color>
+    <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#5d4037</color>
-    <color name="m3_sys_color_dynamic_dark_inverse_surface">#6d4c41</color>
+    <color name="m3_sys_color_dynamic_dark_inverse_surface">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_background">#ffffffff</color>											<!-- testo search -->
     <color name="m3_sys_color_dynamic_dark_on_primary">#ffffffff</color>											<!-- pallino switch -->
     <color name="m3_sys_color_dynamic_dark_on_primary_container">@*android:color/accent_material_dark</color>		<!-- testo scelta orologio -->
     <color name="m3_sys_color_dynamic_dark_on_secondary">#ff9e80</color>
     <color name="m3_sys_color_dynamic_dark_on_secondary_container">#bf360c</color>
-    <color name="m3_sys_color_dynamic_dark_on_surface">@*android:color/white</color>
+    <color name="m3_sys_color_dynamic_dark_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#ffbdbdbd</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#ffab40</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#ffd180</color>
