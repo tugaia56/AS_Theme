@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorOnSurface">#fd111111</color>
+    <color name="colorPrimary">@*android:color/accent_material_dark</color>
+    <color name="viper_dialog_color">@*android:color/background_dark</color>
+</resources>
