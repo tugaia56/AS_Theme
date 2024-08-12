@@ -18,7 +18,7 @@
     <color name="md_theme_onTertiary">#ff01363f</color>
     <color name="md_theme_onTertiaryContainer">#ffbeeaf5</color>
     <color name="md_theme_outline">@*android:color/accent_material_dark</color>
-    <color name="md_theme_outlineVariant">#ff414941</color>
+    <color name="md_theme_outlineVariant">#ffffffff</color>
     <color name="md_theme_primary">@*android:color/accent_material_dark</color>
     <color name="md_theme_primaryContainer">@*android:color/accent_material_dark</color>
     <color name="md_theme_secondary">#ffffffff</color>
@@ -26,12 +26,12 @@
     <color name="md_theme_surface">@*android:color/background_dark</color>
     <color name="md_theme_surfaceBright">#ff353a35</color>
     <color name="md_theme_surfaceContainer">#ff1c211c</color>
-    <color name="md_theme_surfaceContainerHigh">#ff262b26</color>
+    <color name="md_theme_surfaceContainerHigh">@*android:color/button_material_dark</color>
     <color name="md_theme_surfaceContainerHighest">@*android:color/background_dark</color>
     <color name="md_theme_surfaceContainerLow">@*android:color/button_material_dark</color>
     <color name="md_theme_surfaceContainerLowest">#ff0a0f0b</color>
     <color name="md_theme_surfaceDim">@*android:color/background_dark</color>
-    <color name="md_theme_surfaceVariant">#ff414941</color>
+    <color name="md_theme_surfaceVariant">#ffffffff</color>
     <color name="md_theme_tertiary">#ffa2ced9</color>
     <color name="md_theme_tertiaryContainer">#ff204d56</color>
 </resources>
