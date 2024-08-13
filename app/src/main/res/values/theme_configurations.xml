@@ -30,6 +30,7 @@
         <item>MegaSync v7.0.4</item>
         <item>OneSync v7.0.4</item>
         <item>ViperFX v6.7 by wstxda</item>
+        <item>Keyboard Microsoft Swiftkey v9.10.42.24</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
