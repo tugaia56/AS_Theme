@@ -45,9 +45,9 @@
     <color name="applovin_sdk_starColor">#ffffc922</color>
     <color name="applovin_sdk_switchThumbColor">#fffffefe</color>
     <color name="applovin_sdk_switchTrackDisabledColor">#ffcbcccc</color>
-    <color name="applovin_sdk_textColorPrimary">@android:color/white</color>
-    <color name="applovin_sdk_textColorPrimaryDark">@android:color/black</color>
-    <color name="applovin_sdk_textColorSecondaryDark">@android:color/darker_gray</color>
+    <color name="applovin_sdk_textColorPrimary">@*android:color/white</color>
+    <color name="applovin_sdk_textColorPrimaryDark">@*android:color/black</color>
+    <color name="applovin_sdk_textColorSecondaryDark">@*android:color/darker_gray</color>
     <color name="applovin_sdk_warningColor">#ffffcc00</color>
     <color name="applovin_sdk_xmarkColor">#ffff3b30</color>
     <color name="artwork_border">#ffdedfe6</color>
@@ -141,7 +141,7 @@
     <color name="colorAccentOTUI">#ff3d4644</color>
     <color name="colorPrimaryDarkOT">#ff3c881d</color>
     <color name="colorPrimaryOT">#ff67b54b</color>
-    <color name="com_braze_card_background">@android:color/white</color>
+    <color name="com_braze_card_background">@*android:color/white</color>
     <color name="com_braze_card_background_border">#50cccccc</color>
     <color name="com_braze_card_background_shadow">#30cccccc</color>
     <color name="com_braze_card_title_container">#fff5f5f5</color>
@@ -189,10 +189,10 @@
     <color name="com_facebook_primary_button_pressed_text_color">#ffdadde2</color>
     <color name="com_facebook_primary_button_text_color">#ffffffff</color>
     <color name="com_smart_login_code">#ff3c6499</color>
-    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_default">@*android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
-    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
-    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_focused">@*android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@*android:color/white</color>
     <color name="common_google_signin_btn_text_light_default">#90000000</color>
     <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
@@ -262,8 +262,8 @@
     <color name="filter_divider_background">#ffc6c8d3</color>
     <color name="filter_text_active">#ff1c1f3a</color>
     <color name="filter_text_normal">#fff1f2f3</color>
-    <color name="foreground_material_dark">@android:color/white</color>
-    <color name="foreground_material_light">@android:color/black</color>
+    <color name="foreground_material_dark">@*android:color/white</color>
+    <color name="foreground_material_light">@*android:color/black</color>
     <color name="form_input_text_background">#ffe8ebeb</color>
     <color name="fyber_accent">#ff00d691</color>
     <color name="fyber_identifier_bg_color">#88333333</color>
@@ -299,7 +299,7 @@
     <color name="ia_video_progressbar_green">#ff00d691</color>
     <color name="ia_video_transparent_overlay">#88333333</color>
     <color name="ic_launcher_background">@*android:color/accent_material_dark</color>
-    <color name="image_background_color">@android:color/white</color>
+    <color name="image_background_color">@*android:color/white</color>
     <color name="info_message_screen">#6d0b0e24</color>
     <color name="ink">@*android:color/background_dark</color>
     <color name="ink_10_brand">@*android:color/background_dark</color>

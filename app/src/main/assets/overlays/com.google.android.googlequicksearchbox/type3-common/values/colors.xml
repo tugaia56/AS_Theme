@@ -436,7 +436,7 @@
     <color name="fa_tng_conversational_care_no_issues_outline">#ff4d654d</color>
     <color name="fa_tng_conversational_care_no_issues_primary">#ff6edd82</color>
     <color name="fa_tng_conversational_care_no_issues_surface_bright">#ff313630</color>
-    <color name="fa_tng_conversational_care_no_issues_surface_container_high">#ff1c211c</color>
+    <color name="fa_tng_conversational_care_no_issues_surface_container_high">@*android:color/background_dark</color>
     <color name="fa_tng_conversational_care_warning_outline">#ff6f5c37</color>
     <color name="fa_tng_conversational_care_warning_primary">#fffcbc03</color>
     <color name="fa_tng_conversational_care_warning_surface_bright">#ff3a342b</color>
