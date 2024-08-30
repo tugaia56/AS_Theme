@@ -5,7 +5,7 @@
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#5d4037</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_background">#ffffffff</color>											<!-- testo search -->
-    <color name="m3_sys_color_dynamic_dark_on_primary">#ffffffff</color>											<!-- pallino switch -->
+    <color name="m3_sys_color_dynamic_dark_on_primary">@*android:color/accent_material_dark</color>											<!-- pallino switch -->
     <color name="m3_sys_color_dynamic_dark_on_primary_container">@*android:color/accent_material_dark</color>		<!-- testo scelta orologio -->
     <color name="m3_sys_color_dynamic_dark_on_secondary">#ff9e80</color>
     <color name="m3_sys_color_dynamic_dark_on_secondary_container">#bf360c</color>
@@ -15,10 +15,10 @@
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#ffd180</color>
     <color name="m3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>					<!-- switch -->
     <color name="m3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>			<!-- bordo dialog -->
-    <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>					<!-- icone e switch-->
+    <color name="m3_sys_color_dynamic_dark_primary">@*android:color/white</color>  									<!-- icone e switch-->
     <color name="m3_sys_color_dynamic_dark_primary_container">#ffe57f</color>
-    <color name="m3_sys_color_dynamic_dark_secondary">#ff00ff</color>					<!-- check -->
-    <color name="m3_sys_color_dynamic_dark_secondary_container">#00ff00</color>		<!-- bg navbar attivo -->
+    <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>					<!-- check -->
+    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>		<!-- bg navbar attivo -->
     <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>							<!-- header -->
     <color name="m3_sys_color_dynamic_dark_surface_bright">@*android:color/ripple_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_container">@*android:color/holo_primary</color>					<!-- bg search -->
