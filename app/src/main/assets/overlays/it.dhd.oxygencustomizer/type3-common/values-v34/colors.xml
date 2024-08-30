@@ -17,8 +17,8 @@
     <color name="m3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>			<!-- bordo dialog -->
     <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>					<!-- icone e switch-->
     <color name="m3_sys_color_dynamic_dark_primary_container">#ffe57f</color>
-    <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>					<!-- check -->
-    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>		<!-- bg navbar attivo -->
+    <color name="m3_sys_color_dynamic_dark_secondary">#ff00ff</color>					<!-- check -->
+    <color name="m3_sys_color_dynamic_dark_secondary_container">#00ff00</color>		<!-- bg navbar attivo -->
     <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>							<!-- header -->
     <color name="m3_sys_color_dynamic_dark_surface_bright">@*android:color/ripple_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_container">@*android:color/holo_primary</color>					<!-- bg search -->

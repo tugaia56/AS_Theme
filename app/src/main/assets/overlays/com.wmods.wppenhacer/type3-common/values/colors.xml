@@ -106,10 +106,10 @@
     <color name="m3_ref_palette_neutral98">#fffdf8fd</color>
     <color name="m3_ref_palette_neutral99">#fffffbfe</color>
     <color name="m3_ref_palette_neutral_variant0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral_variant10">#ff1d1a22</color>
+    <color name="m3_ref_palette_neutral_variant10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral_variant100">#ffffffff</color>
     <color name="m3_ref_palette_neutral_variant20">#ff322f37</color>
-    <color name="m3_ref_palette_neutral_variant30">#ff49454f</color>
+    <color name="m3_ref_palette_neutral_variant30">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_neutral_variant40">#ff605d66</color>
     <color name="m3_ref_palette_neutral_variant50">#ff79747e</color>
     <color name="m3_ref_palette_neutral_variant60">#ff938f99</color>
@@ -119,7 +119,7 @@
     <color name="m3_ref_palette_neutral_variant95">#fff5eefa</color>
     <color name="m3_ref_palette_neutral_variant99">#fffffbfe</color>
     <color name="m3_ref_palette_primary0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_primary10">#ff21005d</color>
+    <color name="m3_ref_palette_primary10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_primary100">#ffffffff</color>
     <color name="m3_ref_palette_primary20">#ff381e72</color>
     <color name="m3_ref_palette_primary30">#ff4f378b</color>
@@ -132,7 +132,7 @@
     <color name="m3_ref_palette_primary95">#fff6edff</color>
     <color name="m3_ref_palette_primary99">#fffffbfe</color>
     <color name="m3_ref_palette_secondary0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_secondary10">#ff1d192b</color>
+    <color name="m3_ref_palette_secondary10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_secondary100">#ffffffff</color>
     <color name="m3_ref_palette_secondary20">#ff332d41</color>
     <color name="m3_ref_palette_secondary30">#ff4a4458</color>
@@ -145,7 +145,7 @@
     <color name="m3_ref_palette_secondary95">#fff6edff</color>
     <color name="m3_ref_palette_secondary99">#fffffbfe</color>
     <color name="m3_ref_palette_tertiary0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_tertiary10">#ff31111d</color>
+    <color name="m3_ref_palette_tertiary10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_tertiary100">#ffffffff</color>
     <color name="m3_ref_palette_tertiary20">#ff492532</color>
     <color name="m3_ref_palette_tertiary30">#ff633b48</color>
