@@ -9,7 +9,7 @@
     </item>
     <item android:id="@*android:id/progress">
         <shape android:shape="ring" android:useLevel="false" android:innerRadius="8.0dip" android:thickness="2.0dip">
-            <stroke android:width="2.0dip" android:color="@*android:color/car_purple_900" />
+            <stroke android:width="2.0dip" android:color="@*android:color/accent_material_dark" />
             <size android:height="20.0dip" android:width="20.0dip" />
         </shape>
     </item>

@@ -5,7 +5,7 @@
     <item>
         <shape android:shape="rectangle">
             <corners android:radius="14.0dip" />
-            <gradient android:startColor="@*android:color/car_purple_900" android:endColor="@*android:color/car_purple_800" android:angle="225.0" />
+            <gradient android:startColor="@*android:color/accent_material_dark" android:endColor="@*android:color/accent_material_light" android:angle="225.0" />
         </shape>
     </item>
 <!-- secondo background visibile -->
