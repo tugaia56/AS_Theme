@@ -10,7 +10,7 @@
     <color name="crvColorOnBackground">@*android:color/background_dark</color>
     <color name="crvColorOnSecondary">#ffffffff</color>
     <color name="crvColorOnSurface">@*android:color/background_dark</color>
-    <color name="crvColorPrimary">#ffcb060d</color>
+    <color name="crvColorPrimary">@*android:color/accent_material_dark</color>
     <color name="crvColorRipple">#ffb4b4b4</color>
     <color name="crvColorSecondary">#ff1e1e1e</color>
     <color name="crvColorSecondaryVariant">#ff1e1e1e</color>

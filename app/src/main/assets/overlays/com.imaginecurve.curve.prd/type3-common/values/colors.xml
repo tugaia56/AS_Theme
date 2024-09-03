@@ -122,7 +122,7 @@
     <color name="credit_utilisation_yellow_start">#ffffaf50</color>
     <color name="crvColorBackground">@*android:color/background_dark</color>
     <color name="crvColorBackgroundVariant">@*android:color/background_dark</color>
-    <color name="crvColorButtonBackground">#ffcb060d</color>
+    <color name="crvColorButtonBackground">@*android:color/accent_material_dark</color>
     <color name="crvColorButtonCaption">#ffa9a9a9</color>
     <color name="crvColorButtonTextOnSecondary">#ffffffff</color>
     <color name="crvColorError">#fff0a432</color>
