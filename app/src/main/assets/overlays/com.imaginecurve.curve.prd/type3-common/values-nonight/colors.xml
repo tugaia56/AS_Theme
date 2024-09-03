@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#fffcfcfc</color>
+    <color name="crvColorBackground">#fff5f5f5</color>
+    <color name="crvColorButtonBackground">#ffad0b11</color>
+    <color name="crvColorButtonCaption">#ff666666</color>
+    <color name="crvColorButtonTextOnSecondary">#ffad0b11</color>
+    <color name="crvColorError">#fff4982b</color>
+    <color name="crvColorNavigationBar">#ffffffff</color>
+    <color name="crvColorOnBackground">@*android:color/background_dark</color>
+    <color name="crvColorOnSecondary">#ffffffff</color>
+    <color name="crvColorOnSurface">@*android:color/background_dark</color>
+    <color name="crvColorPrimary">#ffcb060d</color>
+    <color name="crvColorRipple">#ffb4b4b4</color>
+    <color name="crvColorSecondary">#ff1e1e1e</color>
+    <color name="crvColorSecondaryVariant">#ff1e1e1e</color>
+    <color name="crvColorStatusBarColor">#fff5f5f5</color>
+    <color name="crvColorStatusBarSurfaceColor">#ffffffff</color>
+    <color name="crvColorSuccess">#ff50b554</color>
+    <color name="crvColorSurface">#ffffffff</color>
+    <color name="launchpad_button_background">#ffffffff</color>
+    <color name="segmentBackgroundColor">#141e1e1e</color>
+</resources>
