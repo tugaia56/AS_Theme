@@ -133,7 +133,7 @@
     <color name="m3_sys_color_dynamic_on_tertiary_fixed_variant">#f9a825</color>
     <color name="m3_sys_color_dynamic_primary_fixed">#fbc02d</color>
     <color name="m3_sys_color_dynamic_primary_fixed_dim">#fdd835</color>
-    <color name="m3_sys_color_dynamic_secondary_fixed">#ffeb3b</color>
+    <color name="m3_sys_color_dynamic_secondary_fixed">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffee58</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#fff176</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#fff59d</color>
@@ -185,7 +185,7 @@
     <color name="material_dynamic_primary95">#d4e157</color>
     <color name="material_dynamic_primary99">#dce775</color>
     <color name="material_dynamic_secondary0">#e6ee9c</color>
-    <color name="material_dynamic_secondary10">#f0f4c3</color>
+    <color name="material_dynamic_secondary10">@*android:color/accent_material_dark</color>
     <color name="material_dynamic_secondary100">#ffd600</color>
     <color name="material_dynamic_secondary20">#ffea00</color>
     <color name="material_dynamic_secondary30">#ffff00</color>
@@ -194,7 +194,7 @@
     <color name="material_dynamic_secondary60">#f9a825</color>
     <color name="material_dynamic_secondary70">#fbc02d</color>
     <color name="material_dynamic_secondary80">#fdd835</color>
-    <color name="material_dynamic_secondary90">#ffeb3b</color>
+    <color name="material_dynamic_secondary90">@*android:color/accent_material_dark</color>
     <color name="material_dynamic_secondary95">#ffee58</color>
     <color name="material_dynamic_secondary99">#fff176</color>
     <color name="material_dynamic_tertiary0">#fff59d</color>

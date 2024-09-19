@@ -73,7 +73,7 @@
     <color name="gm3_ref_palette_dynamic_tertiary80">#1b5e20</color>
     <color name="gm3_ref_palette_dynamic_tertiary90">#2e7d32</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">#43a047</color>
-    <color name="gm3_sys_color_dynamic_dark_inverse_surface">#66bb6a</color>
+    <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_background">#81c784</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary">#c8e6c9</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary_container">#ffffffff</color>
@@ -103,7 +103,7 @@
     <color name="gm3_sys_color_dynamic_light_on_background">#f9a825</color>
     <color name="gm3_sys_color_dynamic_light_on_primary">#fbc02d</color>
     <color name="gm3_sys_color_dynamic_light_on_primary_container">#fdd835</color>
-    <color name="gm3_sys_color_dynamic_light_on_primary_state_layer">#ffeb3b</color>
+    <color name="gm3_sys_color_dynamic_light_on_primary_state_layer">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary">#fff176</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary_state_layer">#ffc400</color>
@@ -113,7 +113,7 @@
     <color name="gm3_sys_color_dynamic_light_on_tertiary_container">#ff8f00</color>
     <color name="gm3_sys_color_dynamic_light_outline">#ffa000</color>
     <color name="gm3_sys_color_dynamic_light_outline_variant">#ffb300</color>
-    <color name="gm3_sys_color_dynamic_light_primary">#ffc107</color>
+    <color name="gm3_sys_color_dynamic_light_primary">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_primary_container">#ffca28</color>
     <color name="gm3_sys_color_dynamic_light_primary_state_content">#ffd54f</color>
     <color name="gm3_sys_color_dynamic_light_secondary">#ffe082</color>

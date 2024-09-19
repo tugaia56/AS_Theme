@@ -149,7 +149,7 @@
     <color name="material_dynamic_primary95">#d4e157</color>
     <color name="material_dynamic_primary99">#dce775</color>
     <color name="material_dynamic_secondary0">#e6ee9c</color>
-    <color name="material_dynamic_secondary10">#f0f4c3</color>
+    <color name="material_dynamic_secondary10">@*android:color/accent_material_dark</color>
     <color name="material_dynamic_secondary100">#ffd600</color>
     <color name="material_dynamic_secondary20">#ffea00</color>
     <color name="material_dynamic_secondary30">#ffff00</color>
@@ -158,7 +158,7 @@
     <color name="material_dynamic_secondary60">#f9a825</color>
     <color name="material_dynamic_secondary70">#fbc02d</color>
     <color name="material_dynamic_secondary80">#fdd835</color>
-    <color name="material_dynamic_secondary90">#ffeb3b</color>
+    <color name="material_dynamic_secondary90">@*android:color/accent_material_dark</color>
     <color name="material_dynamic_secondary95">#ffee58</color>
     <color name="material_dynamic_secondary99">#fff176</color>
     <color name="material_dynamic_tertiary0">#fff59d</color>

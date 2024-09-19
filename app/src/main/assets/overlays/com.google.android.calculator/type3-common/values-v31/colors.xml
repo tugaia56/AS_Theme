@@ -47,7 +47,7 @@
     <color name="gm3_ref_palette_dynamic_tertiary80">#ffab91</color>
     <color name="gm3_ref_palette_dynamic_tertiary90">#ffccbc</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">#ff9100</color>
-    <color name="gm3_sys_color_dynamic_dark_inverse_surface">#ffab40</color>
+    <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary">#e65100</color>
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#f57c00</color>
 																		
@@ -69,14 +69,14 @@
     <color name="gm3_sys_color_dynamic_light_on_primary_container">#f9a825</color>
     <color name="gm3_sys_color_dynamic_light_on_primary_state_layer">#fbc02d</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary">#fdd835</color>
-    <color name="gm3_sys_color_dynamic_light_on_secondary_container">#ffeb3b</color>
+    <color name="gm3_sys_color_dynamic_light_on_secondary_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary_state_layer">#ffee58</color>
     <color name="gm3_sys_color_dynamic_light_on_surface">#fff176</color>
     <color name="gm3_sys_color_dynamic_light_on_surface_variant">#fff59d</color>
     <color name="gm3_sys_color_dynamic_light_on_tertiary">#fff9c4</color>
     <color name="gm3_sys_color_dynamic_light_on_tertiary_container">#aeea00</color>
     <color name="gm3_sys_color_dynamic_light_outline">#c6ff00</color>
-    <color name="gm3_sys_color_dynamic_light_primary">#eeff41</color>
+    <color name="gm3_sys_color_dynamic_light_primary">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_primary_container">#f4ff81</color>
     <color name="gm3_sys_color_dynamic_light_primary_state_content">#827717</color>
     <color name="gm3_sys_color_dynamic_light_secondary">#9e9d24</color>

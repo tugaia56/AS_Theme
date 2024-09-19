@@ -175,7 +175,7 @@
     <color name="m3_ref_palette_dynamic_secondary100">#f9a825</color>
     <color name="m3_ref_palette_dynamic_secondary20">#fbc02d</color>
     <color name="m3_ref_palette_dynamic_secondary30">@*android:color/accent_material_dark</color>
-    <color name="m3_ref_palette_dynamic_secondary40">#ffeb3b</color>
+    <color name="m3_ref_palette_dynamic_secondary40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_secondary50">#ffee58</color>
     <color name="m3_ref_palette_dynamic_secondary60">#fff176</color>
     <color name="m3_ref_palette_dynamic_secondary70">#fff59d</color>

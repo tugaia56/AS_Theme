@@ -932,7 +932,7 @@
     <color name="xfdesign_xfinityLight_standardCardTitleTextColor">#689f38</color>
     <color name="xfdesign_yellow_pumpkin">#ffffa700</color>
     <color name="xfinity_app_material_1">#ffffffff</color>
-    <color name="xfinity_app_material_1_inverse">#ffeb3b</color>
+    <color name="xfinity_app_material_1_inverse">@*android:color/accent_material_dark</color>
     <color name="xfinity_app_material_2">#00c853</color>
     <color name="xfinity_app_material_2_inverse">#ff232328</color>
     <color name="xfinity_app_material_caution">#fff2e1d9</color>

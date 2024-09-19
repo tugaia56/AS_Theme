@@ -449,7 +449,7 @@
     <color name="coui_color_additional_purple_light">#ffa723ff</color>
     <color name="coui_color_additional_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_red_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_additional_red_light">#ffeb3b2f</color>
+    <color name="coui_color_additional_red_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_violet">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_violet_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_violet_light">#ff5a47ff</color>
@@ -560,9 +560,9 @@
     <color name="coui_color_primary_purple">#ff952af4</color>
     <color name="coui_color_primary_purple_dark">#ffa539ff</color>
     <color name="coui_color_primary_purple_light">#ff952af4</color>
-    <color name="coui_color_primary_red">#ffeb3b2f</color>
+    <color name="coui_color_primary_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_red_dark">#ffeb493d</color>
-    <color name="coui_color_primary_red_light">#ffeb3b2f</color>
+    <color name="coui_color_primary_red_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_blue">#ff0066ff</color>
     <color name="coui_color_primary_text_blue_dark">#ff5c9dff</color>
     <color name="coui_color_primary_text_blue_light">#ff0066ff</color>

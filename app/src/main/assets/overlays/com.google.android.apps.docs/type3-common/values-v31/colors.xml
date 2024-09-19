@@ -49,7 +49,7 @@
     <color name="gm3_ref_palette_dynamic_tertiary90">#b2dfdb</color>
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/button_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_inverse_surface">#ffffffff</color>
+    <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_background">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary_container">#ffffffff</color>
@@ -126,7 +126,7 @@
     <color name="gm3_sys_color_dynamic_tertiary_fixed">#d4e157</color>
     <color name="gm3_sys_color_dynamic_tertiary_fixed_dim">@*android:color/accent_material_dark</color>
     <color name="google_marterial_button_background_color">#e6ee9c</color>
-    <color name="google_marterial_button_stroke_color">#f0f4c3</color>
+    <color name="google_marterial_button_stroke_color">@*android:color/accent_material_dark</color>
     <color name="google_marterial_button_text_color">#ffd600</color>
     <color name="google_marterial_color_button_background_light">#ffea00</color>
     <color name="google_marterial_color_button_text_light">#ffff00</color>
@@ -135,7 +135,7 @@
     <color name="google_marterial_color_primary_variant_dark">#f9a825</color>
     <color name="google_marterial_color_primary_variant_light">#fbc02d</color>
     <color name="google_marterial_color_surface_dark">#fdd835</color>
-    <color name="google_marterial_color_surface_light">#ffeb3b</color>
+    <color name="google_marterial_color_surface_light">@*android:color/accent_material_dark</color>
     <color name="google_marterial_dialog_background_color">#ffee58</color>
     <color name="google_marterial_dialog_body_text_color">#fff176</color>
     <color name="google_marterial_dialog_title_color">#fff59d</color>

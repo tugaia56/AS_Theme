@@ -3,6 +3,7 @@
     <color name="action_bar_status_bar_background_color">@*android:color/background_dark</color>
     <color name="alert_dialog_background_color">@*android:color/background_dark</color>
     <color name="attachment_selected_m2">@*android:color/accent_material_dark</color>
+    <color name="avatar_person">#ff000000</color>
     <color name="go_to_top_button_background">@*android:color/ripple_material_dark</color>
     <color name="go_to_top_button_tint">#ffffffff</color>
     <color name="material_google_red_500">@*android:color/accent_material_dark</color>
@@ -19,4 +20,5 @@
     <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
     <color name="switcher_option_background_color">@*android:color/accent_material_dark</color>
     <color name="tooltip_shadow_color">#a4000000</color>
+    <color name="unknown_avatar_background">#ff5e5e5e</color>
 </resources>

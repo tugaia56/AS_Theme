@@ -44,7 +44,7 @@
     <color name="gm3_migration_sys_color_dynamic_light_surface_container">#90a4ae</color>
     <color name="gm3_migration_sys_color_dynamic_light_surface_container_high">#78909c</color>
     <color name="gm3_migration_sys_color_dynamic_light_surface_container_highest">#546e7a</color>
-    <color name="gm3_migration_sys_color_dynamic_light_surface_container_low">#ffeb3b</color>
+    <color name="gm3_migration_sys_color_dynamic_light_surface_container_low">@*android:color/accent_material_dark</color>
     <color name="gm3_migration_sys_color_dynamic_light_surface_container_lowest">#fbc02d</color>
     <color name="gm3_migration_sys_color_dynamic_light_surface_dim">#9e9d24</color>
     <color name="gm3_ref_palette_dynamic_neutral100">#bbb000</color>
@@ -81,7 +81,7 @@
     <color name="gm3_ref_palette_dynamic_tertiary80">#651fff</color>
     <color name="gm3_ref_palette_dynamic_tertiary90">#7c4dff</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">#fff000</color>
-    <color name="gm3_sys_color_dynamic_dark_inverse_surface">#4527a0</color>
+    <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_background">#bfdbbd</color>						<!-- numeri dialpad -->
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#7e57c2</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">#ccccbb</color>
@@ -170,7 +170,7 @@
     <color name="m3_sys_color_dynamic_dark_outline">#d4e157</color>
     <color name="m3_sys_color_dynamic_dark_outline_variant">#dce775</color>
     <color name="m3_sys_color_dynamic_dark_primary">#e6ee9c</color>
-    <color name="m3_sys_color_dynamic_dark_primary_container">#f0f4c3</color>
+    <color name="m3_sys_color_dynamic_dark_primary_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_secondary">#ffd600</color>
     <color name="m3_sys_color_dynamic_dark_secondary_container">#ffea00</color>
     <color name="m3_sys_color_dynamic_dark_surface">#ffff00</color>
@@ -186,7 +186,7 @@
     <color name="m3_sys_color_dynamic_dark_tertiary_container">#f9a825</color>
     <color name="m3_sys_color_dynamic_light_background">#fbc02d</color>
     <color name="m3_sys_color_dynamic_light_inverse_on_surface">#fdd835</color>
-    <color name="m3_sys_color_dynamic_light_inverse_primary">#ffeb3b</color>
+    <color name="m3_sys_color_dynamic_light_inverse_primary">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_light_inverse_surface">#ffee58</color>
     <color name="m3_sys_color_dynamic_light_on_background">#fff176</color>
     <color name="m3_sys_color_dynamic_light_on_primary">#fff59d</color>
