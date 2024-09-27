@@ -8,7 +8,7 @@
     <color name="m3_sys_color_dynamic_dark_on_primary">@*android:color/white</color>							<!-- pallino switch -->
     <color name="m3_sys_color_dynamic_dark_on_primary_container">@*android:color/white</color>					<!-- testo scelta orologio -->
     <color name="m3_sys_color_dynamic_dark_on_secondary">#ff9e80</color>
-    <color name="m3_sys_color_dynamic_dark_on_secondary_container">#000fff</color>
+    <color name="m3_sys_color_dynamic_dark_on_secondary_container">#ffffffff</color>							<!-- testo cerca -->
     <color name="m3_sys_color_dynamic_dark_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#ffbdbdbd</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#ff00ff</color>

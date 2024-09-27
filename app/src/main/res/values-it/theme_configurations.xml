@@ -1,11 +1,14 @@
 <resources>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 4.7.1</item>
+        <item>Versione 4.7.2</item>
         <item>AGGIUNTO:</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
-        <item>Aurora Store  v4.6.0</item>
-        <item>- - -</item>
+        <item>Dropbox v392.2.2</item>
+        <item>Google Messages v20240903</item>
+        <item>MicroG Services Revanced by WSTxda v5.8</item>
+        <item>Microsoft Outlook v4.2435.1</item>
+        <item>Oxygen Customizer BUG FIX</item>
     </string-array>
 </resources>
