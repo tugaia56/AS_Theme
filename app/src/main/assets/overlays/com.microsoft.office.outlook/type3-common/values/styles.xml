@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <style name="Widget.Support.CoordinatorLayout" parent="@*android:style/Widget">
+        <item name="statusBarBackground">@*android:color/background_dark</item>
+    </style>
+    <style name="lensPostCaptureDefaultTheme">
+        <item name="bottomSheetDialogTheme">@*android:drawable/toast_frame</item>
+        <item name="lensPackaging_BottomSheet_Color">@*android:color/background_dark</item>
+        <item name="lensPackaging_Handle_color">#ff6e6e6e</item>
+        <item name="lensPostCapture_BottomBar_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_BottomBar_Icon_text_color">#fff1f1f1</item>
+        <item name="lensPostCapture_BottomBar_TapTarget_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_CollectionView_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_Filters_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_Fragment_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_ImageFilters_Border_Color">#80000000</item>
+        <item name="lensPostCapture_MediaPlaceHolder_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_PageView_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_PillButton_Color_ActiveState">@*android:color/accent_material_dark</item>
+        <item name="lensPostCapture_TopMenu_Color">@*android:color/background_dark</item>
+        <item name="lensPostCapture_TrashCan_BG_Border_Color">#ffffffff</item>
+        <item name="lensPostCapture_TrashCan_BG_Fill_Color">#99000000</item>
+        <item name="lensPostCapture_TrashCan_Color">#ffffffff</item>
+        <item name="lensPostCapture_quick_attach_background_color">@*android:color/accent_material_dark</item>
+        <item name="lensPostCapture_quick_attach_icon_color">#ffacacac</item>
+        <item name="lensPostCapture_quick_attach_icon_color_coherence">#ffffffff</item>
+        <item name="lensPostCapture_quick_send_icon_color">@*android:color/background_dark</item>
+        <item name="lenshvc_textview_background">#33ffffff</item>
+    </style>
+    <style name="lensReorderDelightfulTheme">
+        <item name="lenshvc_reorder_empty_image">@*android:color/background_dark</item>
+        <item name="lenshvc_reorder_loading_icon">#ffffffff</item>
+    </style>
+    <style name="lensSettingsDefaultTheme">
+        <item name="lenshvc_settings_chevron_color">@*android:color/background_dark</item>
+        <item name="lenshvc_settings_item_background">#ffffffff</item>
+        <item name="lenshvc_settings_page_background">#fff1f1f1</item>
+        <item name="lenshvc_settings_primary_text_color">@*android:color/background_dark</item>
+        <item name="lenshvc_settings_title_color">@*android:color/background_dark</item>
+    </style>
+    <style name="lensSettingsDelightfulTheme">
+        <item name="lenshvc_settings_chevron_color">#ffc8c8c8</item>
+        <item name="lenshvc_settings_item_background">@*android:color/background_dark</item>
+        <item name="lenshvc_settings_page_background">@*android:color/background_dark</item>
+        <item name="lenshvc_settings_primary_text_color">#ffe1e1e1</item>
+        <item name="lenshvc_settings_title_color">#ffffffff</item>
+    </style>	
+</resources>
+		
