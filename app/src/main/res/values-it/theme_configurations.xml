@@ -3,13 +3,12 @@
     <string-array name="ThemeChangelog">
         <item>Versione 5.0.0</item>
         <item>AGGIUNTO:</item>
-        <item>Thunderbird Stabile v8.0</item>
-        <item>AGGIORNATO:</item>
         <item>Sfera Assistiva v14.1.6</item>
+        <item>Gestione Telefono v15.8.3</item>
+        <item>AGGIORNATO:</item>
         <item>Garmin Connect v5.6</item>
         <item>Garmin Connect IQ v2.32</item>
-        <item>Gestisci Notifiche v14.99.16.19</item>
-        <item>Gestione Telefono v15.8.3</item>
+        <item>Battery Guru v2.3.13</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
