@@ -44,7 +44,7 @@
     <color name="icon_background">#ffee675c</color>
     <color name="lottie_animation_color">@*android:color/system_accent1_900</color>
     <color name="map_ringing_status_card_bg_color">@*android:color/background_dark</color>
-    <color name="output_switcher_app_icon_background">@*android:color/system_accent1_600</color>
+    <color name="output_switcher_app_icon_background">@*android:color/accent_material_dark</color>
     <color name="output_switcher_app_icon_tint">@*android:color/system_accent1_200</color>
     <color name="output_switcher_background">@*android:color/system_neutral2_900</color>
     <color name="output_switcher_call_name">@*android:color/system_accent1_100</color>
@@ -88,7 +88,7 @@
     <color name="sharing_dynamic_text_color_tertiary">@*android:color/system_neutral2_400</color>
     <color name="sharing_stream_origin_circle_background">@*android:color/system_accent1_300</color>
     <color name="snackbar_action_color">#ff8ab4f8</color>
-    <color name="status_negative_element">#fff2b8b5</color>
+    <color name="status_negative_element">@*android:color/accent_material_dark</color>
     <color name="status_negative_surface">#ff8c1d18</color>
     <color name="status_neutral_element">#ffc4c7c5</color>
     <color name="status_neutral_surface_outline">@*android:color/accent_material_dark</color>

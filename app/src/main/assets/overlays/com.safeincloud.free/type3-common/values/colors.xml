@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="abc_decor_view_status_guard">#ff000000</color>
+    <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">@*android:color/accent_material_dark</color>
     <color name="abc_search_url_text_pressed">@*android:color/background_dark</color>
@@ -81,7 +81,7 @@
     <color name="floating_action_button_dark">@*android:color/accent_material_dark</color>
     <color name="floating_action_button_gold">#ffe2a033</color>
     <color name="floating_action_button_light">@*android:color/accent_material_dark</color>
-    <color name="floating_action_button_red">#ff1976d2</color>
+    <color name="floating_action_button_red">@*android:color/accent_material_dark</color>
     <color name="floating_action_title_background_black">@*android:color/background_dark</color>
     <color name="floating_action_title_background_dark">@*android:color/background_dark</color>
     <color name="floating_action_title_background_light">@*android:color/background_dark</color>
@@ -101,7 +101,7 @@
     <color name="label_list_background_dark">@*android:color/background_dark</color>
     <color name="label_list_background_light">#ffffffff</color>
     <color name="label_list_header_background_black">@*android:color/background_dark</color>
-    <color name="label_list_header_background_blue">#ff1976d2</color>
+    <color name="label_list_header_background_blue">@*android:color/accent_material_dark</color>
     <color name="label_list_header_background_dark">@*android:color/background_dark</color>
     <color name="label_list_header_background_light">#ffffffff</color>
     <color name="label_list_header_background_red">#ffd23c38</color>
@@ -113,7 +113,7 @@
     <color name="list_choice_background_black">@*android:color/background_dark</color>
     <color name="list_choice_background_dark">@*android:color/background_dark</color>
     <color name="list_choice_background_light">#ffcae2fc</color>
-    <color name="lock_background_black">#ff000000</color>
+    <color name="lock_background_black">@*android:color/background_dark</color>
     <color name="lock_background_blue">#ffe5e5e5</color>
     <color name="lock_background_dark">@*android:color/background_dark</color>
     <color name="lock_background_light">#ffffffff</color>
@@ -149,8 +149,8 @@
     <color name="popup_menu_background_black">@*android:color/background_dark</color>
     <color name="popup_menu_background_dark">@*android:color/background_dark</color>
     <color name="popup_menu_background_light">#ffffffff</color>
-    <color name="primary_black">#ff000000</color>
-    <color name="primary_blue">#ff1976d2</color>
+    <color name="primary_black">@*android:color/background_dark</color>
+    <color name="primary_blue">@*android:color/accent_material_dark</color>
     <color name="primary_dark">@*android:color/background_dark</color>
     <color name="primary_dark_black">@*android:color/background_dark</color>
     <color name="primary_dark_blue">#ff004ba0</color>
@@ -176,7 +176,7 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="secondary_text_light">@*android:color/background_dark</color>
-    <color name="side_background_black">#ff000000</color>
+    <color name="side_background_black">@*android:color/background_dark</color>
     <color name="side_background_dark">@*android:color/background_dark</color>
     <color name="side_background_light">#ffffffff</color>
     <color name="strong_password_cell_dark">@*android:color/accent_material_dark</color>
@@ -201,7 +201,7 @@
     <color name="warning_light">@*android:color/accent_material_dark</color>
     <color name="weak_password_cell_dark">@*android:color/accent_material_dark</color>
     <color name="weak_password_cell_light">@*android:color/accent_material_dark</color>
-    <color name="window_background_black">#ff000000</color>
+    <color name="window_background_black">@*android:color/background_dark</color>
     <color name="window_background_dark">@*android:color/background_dark</color>
     <color name="window_background_light">#ffffffff</color>
 </resources>

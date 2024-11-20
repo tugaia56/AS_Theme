@@ -116,7 +116,7 @@
     <color name="local_alu_popup_suggestion_chip_border_color">#ff666666</color>
     <color name="local_location_suggestion_bg">@*android:color/background_dark</color>
     <color name="local_location_suggestion_stroke">@*android:color/accent_material_dark</color>
-    <color name="local_preview_background">#ff2f2f2f</color>
+    <color name="local_preview_background">@*android:color/button_material_dark</color>
     <color name="local_suggestion_title">#61ffffff</color>
     <color name="location_icons_fill_color">#ffffffff</color>
     <color name="location_search_highlight_bg_color">#3fffffff</color>
@@ -181,5 +181,5 @@
     <color name="weather_us_hub_background_color">@*android:color/background_dark</color>
     <color name="weather_us_hub_setting_icon_color">#ffffffff</color>
     <color name="weather_us_setting_background_color">#ff252525</color>
-    <color name="weather_us_setting_gap_color">#ff0c0c0c</color>
+    <color name="weather_us_setting_gap_color">@*android:color/background_dark</color>
 </resources>

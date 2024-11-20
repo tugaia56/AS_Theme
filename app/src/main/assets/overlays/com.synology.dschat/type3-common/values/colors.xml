@@ -37,7 +37,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="c10_icon_inactive_icon_bottom_navigation_light">#ff555555</color>
     <color name="c10_icon_inactive_icon_bottom_navigation_night">#ff84878a</color>
@@ -103,7 +103,7 @@
     <color name="cc2_custom_grey_for_specific_fill_light">#ffe8eaec</color>
     <color name="cc2_custom_grey_for_specific_fill_night">#ff383c3d</color>
     <color name="cc3_unread_float_component_bg_light">#ffffffff</color>
-    <color name="cc3_unread_float_component_bg_night">#ff2f2f2f</color>
+    <color name="cc3_unread_float_component_bg_night">@*android:color/button_material_dark</color>
     <color name="cc4_for_better_text_reading_experience_light">#e6212121</color>
     <color name="cc4_for_better_text_reading_experience_night">#e6ffffff</color>
     <color name="certificateDivider">#ffffffff</color>

@@ -10,7 +10,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
@@ -54,7 +54,7 @@
     <color name="gm3_ref_palette_error20">#ff601410</color>
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
     <color name="gm3_ref_palette_error40">#ffb3261e</color>
-    <color name="gm3_ref_palette_error80">#fff2b8b5</color>
+    <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_grey30">#ff474747</color>
     <color name="gm3_ref_palette_grey50">@*android:color/button_material_dark</color>
@@ -119,7 +119,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>

@@ -13,7 +13,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -1009,7 +1009,7 @@
     <color name="support_bright_foreground_disabled_material_light">#80000000</color>
     <color name="support_bright_foreground_material_dark">@*android:color/white</color>
     <color name="support_bright_foreground_material_light">@*android:color/black</color>
-    <color name="support_button_material_dark">#ff5a595b</color>
+    <color name="support_button_material_dark">@*android:color/button_material_dark</color>
     <color name="support_button_material_light">#ffd6d7d7</color>
     <color name="support_highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="support_material_deep_teal_500">@*android:color/accent_material_dark</color>

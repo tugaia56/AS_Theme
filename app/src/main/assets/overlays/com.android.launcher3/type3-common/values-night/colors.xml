@@ -26,7 +26,7 @@
     <color name="material_color_outline_variant">@*android:color/system_neutral2_700</color>
     <color name="material_color_primary">@*android:color/system_accent1_200</color>
     <color name="material_color_primary_container">@*android:color/system_accent1_700</color>
-    <color name="material_color_primary_inverse">@*android:color/system_accent1_600</color>
+    <color name="material_color_primary_inverse">@*android:color/accent_material_dark</color>
     <color name="material_color_secondary">@*android:color/system_accent2_200</color>
     <color name="material_color_secondary_container">@*android:color/system_accent2_700</color>
     <color name="material_color_tertiary">@*android:color/system_accent3_200</color>

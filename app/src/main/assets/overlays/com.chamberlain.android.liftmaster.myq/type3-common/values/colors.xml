@@ -43,7 +43,7 @@
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
     <color name="button_light_gray">#27170432</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cache_color_hint_light_gray">#ff939598</color>
     <color name="candidate_background">#bb000000</color>
@@ -318,7 +318,7 @@
     <color name="yellow">#fff8d40f</color>
     <color name="zxing_custom_possible_result_points">#903a89cf</color>
     <color name="zxing_custom_result_view">#b0000000</color>
-    <color name="zxing_custom_viewfinder_laser">#ff1976d2</color>
+    <color name="zxing_custom_viewfinder_laser">@*android:color/accent_material_dark</color>
     <color name="zxing_custom_viewfinder_mask">#60000000</color>
     <color name="zxing_possible_result_points">#c0ffbd21</color>
     <color name="zxing_result_view">#b0000000</color>

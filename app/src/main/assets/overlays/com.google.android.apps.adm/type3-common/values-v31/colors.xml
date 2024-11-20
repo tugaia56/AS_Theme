@@ -46,7 +46,7 @@
     <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">#ccccbb</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface_variant">#8c9eff</color>								<!-- Descrizione principale utente -navbar -->
     <color name="gm3_sys_color_dynamic_dark_on_surface_variant_state_content">#1976d2</color>
-    <color name="gm3_sys_color_dynamic_dark_on_tertiary">#536dfe</color>
+    <color name="gm3_sys_color_dynamic_dark_on_tertiary">#dd0000</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary_container">#8c9eff</color>
 	<color name="gm3_sys_color_dynamic_dark_outline">#5c6bc0</color>
     <color name="gm3_sys_color_dynamic_dark_outline_variant">#ddffff</color>
@@ -131,7 +131,7 @@
     <color name="m3_ref_palette_dynamic_primary80">#388e3c</color>
     <color name="m3_ref_palette_dynamic_primary90">#43a047</color>
     <color name="m3_ref_palette_dynamic_secondary10">#4caf50</color>
-    <color name="m3_ref_palette_dynamic_secondary100">#66bb6a</color>
+    <color name="m3_ref_palette_dynamic_secondary100">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_secondary20">#81c784</color>
     <color name="m3_ref_palette_dynamic_secondary30">#a5d6a7</color>
     <color name="m3_ref_palette_dynamic_secondary40">#c8e6c9</color>
@@ -185,7 +185,7 @@
     <color name="m3_sys_color_dynamic_light_on_secondary_container">#ffc400</color>
     <color name="m3_sys_color_dynamic_light_on_surface">#ffd740</color>
     <color name="m3_sys_color_dynamic_light_on_surface_variant">#ffe57f</color>
-    <color name="m3_sys_color_dynamic_light_on_tertiary">#ff6f00</color>
+    <color name="m3_sys_color_dynamic_light_on_tertiary">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_light_on_tertiary_container">#ff8f00</color>
     <color name="m3_sys_color_dynamic_light_outline">#ffa000</color>
     <color name="m3_sys_color_dynamic_light_outline_variant">#ffb300</color>

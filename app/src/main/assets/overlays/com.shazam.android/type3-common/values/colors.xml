@@ -48,7 +48,7 @@
     <color name="browser_actions_divider_color">#1e000000</color>
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -126,12 +126,12 @@
     <color name="fui_bgFacebook">#ff3b5998</color>
     <color name="fui_bgGitHub">#ff24292e</color>
     <color name="fui_bgGoogle">#ffffffff</color>
-    <color name="fui_bgMicrosoft">#ff2f2f2f</color>
+    <color name="fui_bgMicrosoft">@*android:color/button_material_dark</color>
     <color name="fui_bgPhone">#ff43c5a5</color>
     <color name="fui_bgTwitter">#ff5baaf4</color>
     <color name="fui_bgYahoo">#ff720e9e</color>
     <color name="fui_transparent">#00000000</color>
-    <color name="grey_05">#ff0c0c0c</color>
+    <color name="grey_05">@*android:color/background_dark</color>
     <color name="grey_08">@*android:color/background_dark</color>
     <color name="grey_14">@*android:color/background_dark</color>
     <color name="grey_14_00pc">#00242424</color>

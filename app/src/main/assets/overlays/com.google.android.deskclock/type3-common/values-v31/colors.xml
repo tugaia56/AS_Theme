@@ -21,7 +21,7 @@
     <color name="gm3_ref_palette_dynamic_neutral_variant60">#aa00ff</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant80">#ffffffff</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant90">#ffffffff</color>
-    <color name="gm3_ref_palette_dynamic_primary10">#304ffe</color>
+    <color name="gm3_ref_palette_dynamic_primary10">#ffffffff</color>
     <color name="gm3_ref_palette_dynamic_primary20">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_dynamic_primary30">#2962ff</color>
     <color name="gm3_ref_palette_dynamic_primary40">@*android:color/accent_material_dark</color>

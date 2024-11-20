@@ -183,7 +183,7 @@
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
     <color name="button_background">#75000000</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_stroke">#55000000</color>
     <color name="button_stroke_2">#55ffffff</color>
@@ -334,7 +334,7 @@
     <color name="grey_hex_09">#ff090909</color>
     <color name="grey_hex_0a">#ff0a0a0a</color>
     <color name="grey_hex_0b">#ff0b0b0b</color>
-    <color name="grey_hex_0c">#ff0c0c0c</color>
+    <color name="grey_hex_0c">@*android:color/background_dark</color>
     <color name="grey_hex_0d">#ff0d0d0d</color>
     <color name="grey_hex_0e">@*android:color/button_material_dark</color>
     <color name="grey_hex_0f">@*android:color/background_dark</color>
@@ -369,7 +369,7 @@
     <color name="grey_hex_2c">#ff2c2c2c</color>
     <color name="grey_hex_2d">#ff2d2d2d</color>
     <color name="grey_hex_2e">@*android:color/background_dark</color>
-    <color name="grey_hex_2f">#ff2f2f2f</color>
+    <color name="grey_hex_2f">@*android:color/button_material_dark</color>
     <color name="grey_hex_30">@*android:color/background_dark</color>
     <color name="grey_hex_31">#ff313131</color>
     <color name="grey_hex_32">@*android:color/background_dark</color>

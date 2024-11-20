@@ -40,7 +40,7 @@
     <color name="m3_ref_palette_dynamic_primary95">#69f0ae</color>
     <color name="m3_ref_palette_dynamic_primary99">#1b5e20</color>
     <color name="m3_ref_palette_dynamic_secondary0">#2e7d32</color>
-    <color name="m3_ref_palette_dynamic_secondary10">#66bb6a</color>
+    <color name="m3_ref_palette_dynamic_secondary10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_secondary100">#4caf50</color>
     <color name="m3_ref_palette_dynamic_secondary20">#00bfa5</color>
     <color name="m3_ref_palette_dynamic_secondary30">@*android:color/button_material_dark</color>
@@ -59,7 +59,7 @@
     <color name="m3_ref_palette_dynamic_tertiary30">#2962ff</color>
     <color name="m3_ref_palette_dynamic_tertiary40">#0d47a1</color>
     <color name="m3_ref_palette_dynamic_tertiary50">#1e88e5</color>
-    <color name="m3_ref_palette_dynamic_tertiary60">#536dfe</color>
+    <color name="m3_ref_palette_dynamic_tertiary60">#dd0000</color>
     <color name="m3_ref_palette_dynamic_tertiary70">#1a237e</color>
     <color name="m3_ref_palette_dynamic_tertiary80">#3949ab</color>
     <color name="m3_ref_palette_dynamic_tertiary90">#d500f9</color>

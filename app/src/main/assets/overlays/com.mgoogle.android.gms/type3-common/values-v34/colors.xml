@@ -47,7 +47,7 @@
     <color name="m3_sys_color_dynamic_light_outline_variant">#388e3c</color>
     <color name="m3_sys_color_dynamic_light_primary">#43a047</color>
     <color name="m3_sys_color_dynamic_light_primary_container">#4caf50</color>
-    <color name="m3_sys_color_dynamic_light_secondary">#66bb6a</color>
+    <color name="m3_sys_color_dynamic_light_secondary">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_light_secondary_container">#2962ff</color>
     <color name="m3_sys_color_dynamic_light_surface">#2979ff</color>
     <color name="m3_sys_color_dynamic_light_surface_bright">#448aff</color>

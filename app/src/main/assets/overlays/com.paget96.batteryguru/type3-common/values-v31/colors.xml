@@ -82,7 +82,7 @@
     <color name="m3_sys_color_dynamic_dark_outline_variant">#2e7d32</color>
     <color name="m3_sys_color_dynamic_dark_primary">#388e3c</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">#43a047</color>
-    <color name="m3_sys_color_dynamic_dark_secondary">#66bb6a</color>
+    <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_secondary_container">#00bfa5</color>
     <color name="m3_sys_color_dynamic_dark_surface">#1de9b6</color>
     <color name="m3_sys_color_dynamic_dark_surface_bright">#64ffda</color>
@@ -93,7 +93,7 @@
     <color name="m3_sys_color_dynamic_dark_surface_container_lowest">#388e3c</color>
     <color name="m3_sys_color_dynamic_dark_surface_dim">#43a047</color>
     <color name="m3_sys_color_dynamic_dark_surface_variant">#4caf50</color>
-    <color name="m3_sys_color_dynamic_dark_tertiary">#66bb6a</color>
+    <color name="m3_sys_color_dynamic_dark_tertiary">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_tertiary_container">#81c784</color>
     <color name="m3_sys_color_dynamic_light_background">#18ffff</color>
     <color name="m3_sys_color_dynamic_light_inverse_on_surface">#84ffff</color>
@@ -156,7 +156,7 @@
     <color name="material_dynamic_neutral70">#388e3c</color>
     <color name="material_dynamic_neutral80">#43a047</color>
     <color name="material_dynamic_neutral90">#4caf50</color>
-    <color name="material_dynamic_neutral95">#66bb6a</color>
+    <color name="material_dynamic_neutral95">@*android:color/background_dark</color>
     <color name="material_dynamic_neutral99">#81c784</color>
     <color name="material_dynamic_neutral_variant0">#a5d6a7</color>
     <color name="material_dynamic_neutral_variant10">#c8e6c9</color>
@@ -203,7 +203,7 @@
     <color name="material_dynamic_tertiary20">#ffc400</color>
     <color name="material_dynamic_tertiary30">#ffd740</color>
     <color name="material_dynamic_tertiary40">#ffe57f</color>
-    <color name="material_dynamic_tertiary50">#ff6f00</color>
+    <color name="material_dynamic_tertiary50">@*android:color/background_dark</color>
     <color name="material_dynamic_tertiary60">#ff8f00</color>
     <color name="material_dynamic_tertiary70">#ffa000</color>
     <color name="material_dynamic_tertiary80">#ffb300</color>

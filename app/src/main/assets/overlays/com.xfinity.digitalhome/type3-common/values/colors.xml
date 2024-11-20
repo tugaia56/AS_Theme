@@ -55,7 +55,7 @@
     <color name="browser_actions_divider_color">#1e000000</color>
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_gray_w_dark_bg">#ffaaaaaa</color>
     <color name="cam_lib_color_thumbnail_camera_name">#ff8a80</color>
@@ -152,7 +152,7 @@
     <color name="design_dark_default_color_on_background">#ec407a</color>
     <color name="design_dark_default_color_on_error">#aa00ff</color>
     <color name="design_dark_default_color_on_primary">#e040fb</color>
-    <color name="design_dark_default_color_on_secondary">#304ffe</color>
+    <color name="design_dark_default_color_on_secondary">#ffffffff</color>
     <color name="design_dark_default_color_on_surface">#4a148c</color>
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">#8c9eff</color>
@@ -190,7 +190,7 @@
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="dot_end">#ffc7cdd2</color>
     <color name="dot_start">#ff868f96</color>
-    <color name="edit_view_background">#66bb6a</color>
+    <color name="edit_view_background">@*android:color/background_dark</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="exo_black_opacity_60">#2962ff</color>
@@ -239,14 +239,14 @@
     <color name="m3_ref_palette_black">#448aff</color>
     <color name="m3_ref_palette_error0">#82b1ff</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
-    <color name="m3_ref_palette_error100">#304ffe</color>
+    <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
@@ -690,7 +690,7 @@
     <color name="quantum_vanillablue50">#ffe3f2fd</color>
     <color name="quantum_vanillablue500">#ff2196f3</color>
     <color name="quantum_vanillablue600">#ff1e88e5</color>
-    <color name="quantum_vanillablue700">#ff1976d2</color>
+    <color name="quantum_vanillablue700">@*android:color/accent_material_dark</color>
     <color name="quantum_vanillablue800">#ff1565c0</color>
     <color name="quantum_vanillablue900">#ff0d47a1</color>
     <color name="quantum_vanillablueA100">#ff82b1ff</color>
@@ -1022,7 +1022,7 @@
     <color name="xfinity_app_semantic_fill_inverse_base">@*android:color/background_dark</color>
     <color name="xfinity_app_semantic_fill_inverse_down">#ffceceda</color>
     <color name="xfinity_app_semantic_fill_inverse_focus">#e65100</color>
-    <color name="xfinity_app_semantic_fill_inverse_hover">#ff6f00</color>
+    <color name="xfinity_app_semantic_fill_inverse_hover">@*android:color/background_dark</color>
     <color name="xfinity_app_semantic_fill_negative_base">#ffb7023c</color>
     <color name="xfinity_app_semantic_fill_negative_down">#ff660021</color>
     <color name="xfinity_app_semantic_fill_negative_focus">#ff8f002f</color>
@@ -1063,7 +1063,7 @@
     <color name="xfinity_app_semantic_stroke_neutral2_down">#ff232328</color>
     <color name="xfinity_app_semantic_stroke_neutral2_focus">#ff35353b</color>
     <color name="xfinity_app_semantic_stroke_neutral2_hover">#ff35353b</color>
-    <color name="xfinity_app_semantic_stroke_neutral_base">#ff000000</color>
+    <color name="xfinity_app_semantic_stroke_neutral_base">@*android:color/background_dark</color>
     <color name="xfinity_app_semantic_stroke_neutral_down">#ff484851</color>
     <color name="xfinity_app_semantic_stroke_neutral_focus">#ff35353b</color>
     <color name="xfinity_app_semantic_stroke_neutral_hover">#ff35353b</color>
@@ -1107,9 +1107,9 @@
     <color name="xfinity_app_semantic_text_theme1_down">#ff280061</color>
     <color name="xfinity_app_semantic_text_theme1_focus">#ff3a0092</color>
     <color name="xfinity_app_semantic_text_theme1_hover">#ff3a0092</color>
-    <color name="xfinity_black">#ff000000</color>
+    <color name="xfinity_black">@*android:color/background_dark</color>
     <color name="xfinity_black_95">#ff0d0d0f</color>
-    <color name="xfinity_black_color">#ff000000</color>
+    <color name="xfinity_black_color">@*android:color/background_dark</color>
     <color name="xfinity_blue">@*android:color/accent_material_dark</color>
     <color name="xfinity_color_accent">#ff3f51b5</color>
     <color name="xfinity_color_primary">#ff3f51b5</color>

@@ -9,11 +9,14 @@
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="black">@*android:color/background_dark</color>
+<color name="bottomNavigationBackground">#fffafafa</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+	<color name="btn_radio_background_color">#4d000000</color>
+	<color name="btn_radio_color_on_disabled">#ffffffff</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
@@ -27,6 +30,7 @@
     <color name="colorAccentVariant">@*android:color/accent_material_dark</color>
     <color name="colorBackground">@*android:color/system_neutral2_50</color>
     <color name="colorContainer">@*android:color/system_neutral2_50</color>
+	<color name="colorDisabledNeutral">#4dffffff</color>
     <color name="colorDivider">#1f000000</color>
     <color name="colorPressBackground">#14000000</color>
     <color name="common_google_signin_btn_text_dark_default">@*android:color/white</color>
@@ -37,6 +41,7 @@
     <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+	<color name="coui_color_secondary_neutral">#8a000000</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
@@ -94,7 +99,7 @@
     <color name="list_color_pressed">@*android:color/background_dark</color>
     <color name="list_selector_color_pressed">#0f000000</color>
     <color name="lockscreen_widget_active_color_dark">@*android:color/system_accent1_100</color>
-    <color name="lockscreen_widget_active_color_light">@*android:color/system_accent1_600</color>
+    <color name="lockscreen_widget_active_color_light">@*android:color/accent_material_dark</color>
     <color name="lockscreen_widget_background_color_dark">@*android:color/system_neutral1_900</color>
     <color name="lockscreen_widget_background_color_light">@*android:color/system_neutral1_0</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
@@ -172,7 +177,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
@@ -386,7 +391,9 @@
     <color name="offStateColor2">#1a000000</color>
     <color name="offStateColor3">#40000000</color>
     <color name="offStateColor4">#66ffffff</color>
+<color name="oplusColorPrimaryNeutral">@*android:color/background_dark</color>
     <color name="oplusColorSurfaces">#fff3f4f6</color>
+<color name="oplus_list_selector_color_disabled">#00000000</color>
     <color name="option_border_default">#ff5f6368</color>
     <color name="preference_background_color_pressed">#ffe6e6e6</color>
     <color name="preference_category_text">#ff6f7071</color>
@@ -406,7 +413,7 @@
     <color name="seed">#ff00897b</color>
     <color name="settings_accent">@*android:color/system_accent1_500</color>
     <color name="settings_pui_monet_v1">@*android:color/accent_material_dark</color>
-    <color name="settings_pui_monet_v2">@*android:color/accent_material_dark</color>																				 
+    <color name="settings_pui_monet_v2">@*android:color/accent_material_dark</color>
     <color name="shadow">#14000000</color>
     <color name="success">#ff008753</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
@@ -419,5 +426,6 @@
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="transparent">#00000000</color>
+<color name="wallpaper_preview_scrim_color">#99000000</color>
     <color name="white">#ffffffff</color>
 </resources>

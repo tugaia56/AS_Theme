@@ -7,6 +7,7 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="answer_chip_icon_color">@*android:color/accent_material_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
+    <color name="bam_center_fragment_background">#fff0f4f9</color>
     <color name="banner_promo_text_color">#ff5f6368</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -19,6 +20,7 @@
     <color name="call_accept_background">@*android:color/accent_material_dark</color>
     <color name="call_hangup_background">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_recording_indicator_color">#ffdd0000</color>
     <color name="cardview_dark_background">@*android:color/button_material_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="comms_ic_voicemail_error_color_error">@*android:color/accent_material_dark</color>
@@ -81,7 +83,6 @@
     <color name="gm3_ref_palette_error20">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
     <color name="gm3_ref_palette_error40">#ffb3261e</color>
-    <color name="gm3_ref_palette_error50">#ffdc362e</color>
     <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_green40">#ff146c2e</color>
@@ -141,7 +142,6 @@
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/button_material_dark</color>
-    <color name="gm3_sys_color_dark_surface_dim">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_tint">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_light_surface_container">#fff0f4f9</color>
     <color name="gm3_sys_color_light_surface_container_high">#ffe9eef6</color>

@@ -26,7 +26,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#ffd740</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_variant">#ff6f00</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_tertiary">#ff8f00</color>
     <color name="gm3_sys_color_dynamic_dark_tertiary_container">#ffa000</color>
     <color name="gm3_sys_color_dynamic_light_background">#ffb300</color>
@@ -83,7 +83,7 @@
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#388e3c</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#43a047</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#4caf50</color>
-    <color name="m3_sys_color_dynamic_dark_outline">#66bb6a</color>
+    <color name="m3_sys_color_dynamic_dark_outline">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_outline_variant">#81c784</color>
     <color name="m3_sys_color_dynamic_dark_primary">#a5d6a7</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">#c8e6c9</color>
@@ -139,9 +139,9 @@
     <color name="m3_sys_color_dynamic_primary_fixed">#448aff</color>
     <color name="m3_sys_color_dynamic_primary_fixed_dim">#2979ff</color>
     <color name="m3_sys_color_dynamic_secondary_fixed">#2962ff</color>
-    <color name="m3_sys_color_dynamic_secondary_fixed_dim">#304ffe</color>
+    <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
-    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#536dfe</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
     <color name="settingslib_track_off_color">#1a237e</color>
     <color name="gm3_sys_color_dynamic_dark_error">@*android:color/keyguard_avatar_frame_pressed_color</color>

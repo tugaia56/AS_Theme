@@ -29,7 +29,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
@@ -160,8 +160,8 @@
     <color name="lime_green_300">@*android:color/accent_material_dark</color>
     <color name="lime_green_500">#ff13e03c</color>
     <color name="lite_account">#ffffa500</color>
-    <color name="m3_ref_palette_black">#ff000000</color>
-    <color name="m3_ref_palette_error0">#ff000000</color>
+    <color name="m3_ref_palette_black">@*android:color/background_dark</color>
+    <color name="m3_ref_palette_error0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
@@ -170,11 +170,11 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
-    <color name="m3_ref_palette_neutral0">#ff000000</color>
+    <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff201f23</color>
@@ -198,7 +198,7 @@
     <color name="m3_ref_palette_neutral96">#fff7f2f7</color>
     <color name="m3_ref_palette_neutral98">#fffdf8fd</color>
     <color name="m3_ref_palette_neutral99">#fffffbfe</color>
-    <color name="m3_ref_palette_neutral_variant0">#ff000000</color>
+    <color name="m3_ref_palette_neutral_variant0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral_variant10">#ff1d1a22</color>
     <color name="m3_ref_palette_neutral_variant100">#ffffffff</color>
     <color name="m3_ref_palette_neutral_variant20">#ff322f37</color>
@@ -211,7 +211,7 @@
     <color name="m3_ref_palette_neutral_variant90">#ffe7e0ec</color>
     <color name="m3_ref_palette_neutral_variant95">#fff5eefa</color>
     <color name="m3_ref_palette_neutral_variant99">#fffffbfe</color>
-    <color name="m3_ref_palette_primary0">#ff000000</color>
+    <color name="m3_ref_palette_primary0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_primary10">#ff21005d</color>
     <color name="m3_ref_palette_primary100">#ffffffff</color>
     <color name="m3_ref_palette_primary20">#ff381e72</color>
@@ -224,7 +224,7 @@
     <color name="m3_ref_palette_primary90">#ffeaddff</color>
     <color name="m3_ref_palette_primary95">#fff6edff</color>
     <color name="m3_ref_palette_primary99">#fffffbfe</color>
-    <color name="m3_ref_palette_secondary0">#ff000000</color>
+    <color name="m3_ref_palette_secondary0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_secondary10">#ff1d192b</color>
     <color name="m3_ref_palette_secondary100">#ffffffff</color>
     <color name="m3_ref_palette_secondary20">#ff332d41</color>
@@ -237,7 +237,7 @@
     <color name="m3_ref_palette_secondary90">#ffe8def8</color>
     <color name="m3_ref_palette_secondary95">#fff6edff</color>
     <color name="m3_ref_palette_secondary99">#fffffbfe</color>
-    <color name="m3_ref_palette_tertiary0">#ff000000</color>
+    <color name="m3_ref_palette_tertiary0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_tertiary10">#ff31111d</color>
     <color name="m3_ref_palette_tertiary100">#ffffffff</color>
     <color name="m3_ref_palette_tertiary20">#ff492532</color>

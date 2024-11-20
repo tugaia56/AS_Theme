@@ -239,7 +239,7 @@
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#388e3c</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#43a047</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#4caf50</color>
-    <color name="m3_sys_color_dynamic_dark_outline">#66bb6a</color>
+    <color name="m3_sys_color_dynamic_dark_outline">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_outline_variant">#81c784</color>
     <color name="m3_sys_color_dynamic_dark_primary">#a5d6a7</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">#ffd600</color>
@@ -303,9 +303,9 @@
     <color name="material_dynamic_color_dark_on_error">#1565c0</color>
     <color name="material_dynamic_color_dark_on_error_container">#0d47a1</color>
     <color name="material_dynamic_color_light_error">#8c9eff</color>
-    <color name="material_dynamic_color_light_error_container">#536dfe</color>
+    <color name="material_dynamic_color_light_error_container">#dd0000</color>
     <color name="material_dynamic_color_light_on_error">#3d5afe</color>
-    <color name="material_dynamic_color_light_on_error_container">#304ffe</color>
+    <color name="material_dynamic_color_light_on_error_container">#ffffffff</color>
     <color name="settingslib_colorSurfaceVariant">#ff0000</color>
     <color name="settingslib_dialog_accent">#ff8f00</color>
     <color name="settingslib_dialog_background">#ffa000</color>

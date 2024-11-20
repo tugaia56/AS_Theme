@@ -265,7 +265,7 @@
     <color name="button_component_background_pressed">#ff8c8c8c</color>
     <color name="button_component_text_color">@*android:color/accent_material_dark</color>
     <color name="button_icon_dark">#ffe8eaed</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_press_highlight_dark">#80ffffff</color>
     <color name="button_pressed_color">#fff2f2f2</color>

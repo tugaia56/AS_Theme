@@ -14,7 +14,7 @@
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="button_checked_background">#12000000</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_ripple_background">#1e000000</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
@@ -123,7 +123,7 @@
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
     <color name="gm3_ref_palette_error40">#ffb3261e</color>
     <color name="gm3_ref_palette_error60">#ffe46962</color>
-    <color name="gm3_ref_palette_error80">#fff2b8b5</color>
+    <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_green100">#ffffffff</color>
     <color name="gm3_ref_palette_green40">#ff146c2e</color>
@@ -154,7 +154,7 @@
     <color name="gm3_ref_palette_primary90">#ffd3e3fd</color>
     <color name="gm3_ref_palette_red20">#ff601410</color>
     <color name="gm3_ref_palette_red40">#ffb3261e</color>
-    <color name="gm3_ref_palette_red80">#fff2b8b5</color>
+    <color name="gm3_ref_palette_red80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_red90">#fff9dedc</color>
     <color name="gm3_ref_palette_secondary10">#ff001d35</color>
     <color name="gm3_ref_palette_secondary100">#ffffffff</color>
@@ -275,7 +275,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>

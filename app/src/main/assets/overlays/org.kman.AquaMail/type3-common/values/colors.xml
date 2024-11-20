@@ -69,7 +69,7 @@
     <color name="add_account_card_summary_text_background_dark">@*android:color/background_dark</color>
     <color name="add_account_card_summary_text_background_light">#fff2f2f2</color>
     <color name="add_account_card_summary_text_color_dark">#ffeeeeee</color>
-    <color name="add_account_card_summary_text_color_light">#ff2f2f2f</color>
+    <color name="add_account_card_summary_text_color_light">@*android:color/button_material_dark</color>
     <color name="add_account_card_title_text_color_dark">#ffeeeeee</color>
     <color name="add_account_card_title_text_color_light">@*android:color/background_dark</color>
     <color name="add_account_eula_text_color_dark">#ffa7a7a7</color>
@@ -118,7 +118,7 @@
     <color name="browser_actions_divider_color">#1e000000</color>
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>

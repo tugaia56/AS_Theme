@@ -27,7 +27,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -344,13 +344,13 @@
     <color name="sud_color_background_light">#fffafafa</color>
     <color name="sud_color_error_text_dark">@*android:color/accent_material_dark</color>
     <color name="sud_color_error_text_light">#ffdd0000</color>
-    <color name="sud_glif_background_color_dark">#ff000000</color>
+    <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>
     <color name="sud_glif_edit_text_bg_light_color">#0a000000</color>
     <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_v3_dialog_background_color_light">#fff1f3f4</color>
-    <color name="sud_glif_v3_nav_bar_color_dark">#ff000000</color>
+    <color name="sud_glif_v3_nav_bar_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_v3_nav_bar_color_light">#ffffffff</color>
     <color name="sud_glif_v3_nav_bar_divider_color_dark">#00000000</color>
     <color name="sud_glif_v3_nav_bar_divider_color_light">@*android:color/transparent</color>

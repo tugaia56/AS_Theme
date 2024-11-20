@@ -172,7 +172,7 @@
     <color name="brown_800">#ff4e342e</color>
     <color name="brown_900">#ff3e2723</color>
     <color name="btn_border_gray">#ffa4a4a4</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_disabled_color">#ffcccccc</color>
     <color name="calendar_date_banner_background">#ffeeeeee</color>

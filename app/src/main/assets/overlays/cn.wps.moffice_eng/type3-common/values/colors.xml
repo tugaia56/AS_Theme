@@ -1560,7 +1560,7 @@
     <color name="wps_reader_text_color_day">#b2000000</color>
     <color name="wps_reader_text_color_night">#45ffffff</color>
     <color name="wps_reader_theme_day">#ffffffff</color>
-    <color name="wps_reader_theme_night">#ff2f2f2f</color>
+    <color name="wps_reader_theme_night">@*android:color/button_material_dark</color>
     <color name="wps_reader_top_title_color_day">#4f000000</color>
     <color name="wps_reader_top_title_color_night">#20ffffff</color>
     <color name="wps_recent_read_description_color">#ff999999</color>

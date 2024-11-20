@@ -35,10 +35,10 @@
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
     <color name="button_blue">#ff1072eb</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
+    <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="card_color_toggle_stroke_color">#ffc6c6c8</color>
     <color name="card_details_blocked_overlay">#fff2f2f7</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
@@ -223,7 +223,7 @@
     <color name="gm_ref_palette_green500">#ff34a853</color>
     <color name="gm_ref_palette_green600">#ff1e8e3e</color>
     <color name="gm_ref_palette_green700">#ff188038</color>
-    <color name="gm_ref_palette_green800">#ff137333</color>
+    <color name="gm_ref_palette_green800">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_green900">#ff0d652d</color>
     <color name="gm_ref_palette_grey100">#fff1f3f4</color>
     <color name="gm_ref_palette_grey200">#ffe8eaed</color>
@@ -271,7 +271,7 @@
     <color name="gm_ref_palette_red400">#ffee675c</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffd93025</color>
+    <color name="gm_ref_palette_red600">#ffdd0000</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
@@ -411,7 +411,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
@@ -495,8 +495,8 @@
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
-    <color name="material_deep_teal_200">#ff80cbc4</color>
-    <color name="material_deep_teal_500">#ff008577</color>
+    <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
+    <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>
@@ -618,7 +618,7 @@
     <color name="onfido_white_80">#80fcfcfd</color>
     <color name="onfido_white_85">#26fcfcfd</color>
     <color name="onfido_white_90">#1afcfcfd</color>
-    <color name="pay_button_generic_background_color_dark">#ff1f1f1f</color>
+    <color name="pay_button_generic_background_color_dark">@*android:color/background_dark</color>
     <color name="pay_button_generic_background_color_light">#ffffffff</color>
     <color name="pay_button_generic_background_outline_color_dark">#ff5e5e5e</color>
     <color name="pay_button_generic_background_outline_color_light">#ff5f6368</color>
@@ -684,7 +684,7 @@
     <color name="places_text_black_alpha_87">#de000000</color>
     <color name="places_text_white_alpha_26">#42ffffff</color>
     <color name="places_text_white_alpha_87">#deffffff</color>
-    <color name="preference_fallback_accent_color">#ff008577</color>
+    <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="pressed_bg">#64b7b7b7</color>
     <color name="primary_blue">#ff005aba</color>
     <color name="primary_blue_light_alpha">#1f005aba</color>
@@ -804,7 +804,7 @@
     <color name="stripe_paymentsheet_googlepay_divider_background">@*android:color/white</color>
     <color name="stripe_paymentsheet_googlepay_divider_line">#1f000000</color>
     <color name="stripe_paymentsheet_googlepay_divider_text">#99000000</color>
-    <color name="stripe_paymentsheet_googlepay_primary_button_background_color">#ff1f1f1f</color>
+    <color name="stripe_paymentsheet_googlepay_primary_button_background_color">@*android:color/background_dark</color>
     <color name="stripe_paymentsheet_googlepay_primary_button_tint_color">#ffffffff</color>
     <color name="stripe_paymentsheet_header_text">#ff565656</color>
     <color name="stripe_paymentsheet_link_mark">@*android:color/background_dark</color>
@@ -854,7 +854,7 @@
     <color name="white_color">#ffffffff</color>
     <color name="zxing_custom_possible_result_points">#903a89cf</color>
     <color name="zxing_custom_result_view">#b0000000</color>
-    <color name="zxing_custom_viewfinder_laser">#ff1976d2</color>
+    <color name="zxing_custom_viewfinder_laser">@*android:color/accent_material_dark</color>
     <color name="zxing_custom_viewfinder_mask">#60000000</color>
     <color name="zxing_possible_result_points">#c0ffbd21</color>
     <color name="zxing_result_view">#b0000000</color>

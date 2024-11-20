@@ -1,6 +1,6 @@
 <resources>
     <!-- Theme name and author name -->
-    <string name="ThemeName">Dark Shadow User</string>
+    <string name="ThemeName">Dark Shadow Full</string>
     <string name="ThemeAuthor">Tullio</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
@@ -20,17 +20,15 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 4.7.2</item>
+        <item>Version 5.0.0</item>
         <item>ADDED:</item>
-        <item>- - -</item>
+        <item>Thunderbird Stable v8.0</item>
         <item>UPDATED:</item>
-        <item>Dropbox v392.2.2</item>
-        <item>Google Messages v20240903</item>
-        <item>MicroG Services Revanced by WSTxda v5.8</item>
-        <item>Microsoft Outlook v4.2435.1</item>
-        <item>Oxygen Customizer BUG FIX</item>
-        <item>K-9 Mail v8.0b1</item>
-        <item>Thunderbird v8.0b1</item>
+        <item>Assistive Ball v14.1.6</item>
+        <item>Garmin Connect v5.6</item>
+        <item>Garmin Connect IQ v2.32</item>
+        <item>Manage Notifications v14.99.16.19</item>
+        <item>Manage Phone v15.8.3</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

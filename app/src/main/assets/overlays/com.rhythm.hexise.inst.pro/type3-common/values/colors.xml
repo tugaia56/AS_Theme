@@ -14,7 +14,7 @@
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="button_focus">@*android:color/accent_material_dark</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_normal">@*android:color/button_material_dark</color>
     <color name="button_press">@*android:color/ripple_material_dark</color>

@@ -12,7 +12,7 @@
     <color name="material_google_red_500">#ffee675c</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
     <color name="multipinning_edu_color_1">@*android:color/background_dark</color>
-    <color name="multipinning_edu_color_2">#fff2b8b5</color>
+    <color name="multipinning_edu_color_2">@*android:color/accent_material_dark</color>
     <color name="multipinning_edu_color_3">#ffffdf99</color>
     <color name="partner_logo_container_color">#ff3c3f41</color>
     <color name="partner_logo_kahoot_text_color">#ffffffff</color>

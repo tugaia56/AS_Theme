@@ -83,7 +83,7 @@ Creato da Kieron Quinn"</string>
 "<b>Nota</b>: se continui a visualizzare questo messaggio dopo aver abilitato l\'hook per l\'app Google, forza l\'arresto dell\'app Google e riprova</string>
     <string name="error_hooking_fail_title">Modulo Xposed non abilitato</string>
     <string name="error_icon_content_description">Errore</string>
-    <string name="error_no_root_desc">Discover Killer richiede root per funzionare, assicurati che il tuo dispositivo sia rootato e di aver concesso root</string>
+    <string name="error_no_root_desc">Discover Killer richiede root per funzionare, assicurati che il tuo dispositivo sia rootato e di aver concesso il root</string>
     <string name="error_no_root_title">Nessun Root</string>
     <string name="error_retry">Riprova</string>
     <string name="exposed_dropdown_menu_content_description">Mostra il menu a discesa</string>
@@ -92,7 +92,7 @@ Creato da Kieron Quinn"</string>
     <string name="libraries">Librerie terze parti</string>
     <string name="material_clock_toggle_content_description">Seleziona AM o PM</string>
     <string name="material_hour_24h_suffix">%1$s ore</string>
-    <string name="material_hour_selection">"Seleziona l'ora"</string>
+    <string name="material_hour_selection">"Seleziona l\'ora"</string>
     <string name="material_hour_suffix">%1$s in punto</string>
     <string name="material_minute_selection">Seleziona i minuti</string>
     <string name="material_minute_suffix">%1$s minuti</string>
@@ -101,9 +101,9 @@ Creato da Kieron Quinn"</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_pm">pm</string>
-    <string name="material_timepicker_select_time">"Seleziona l'ora"</string>
+    <string name="material_timepicker_select_time">"Seleziona l\'ora"</string>
     <string name="menu_restart_overlay">Riavvia Sovrapposizione</string>
-    <string name="material_timepicker_text_input_mode_description">"Passa alla modalità di immissione testo per inserire l'ora."</string>
+    <string name="material_timepicker_text_input_mode_description">"Passa alla modalità di immissione testo per inserire l\'ora."</string>
     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
@@ -123,7 +123,7 @@ Creato da Kieron Quinn"</string>
     <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
     <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">"Vai all'anno corrente %1$d"</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">"Vai all\'anno corrente %1$d"</string>
     <string name="mtrl_picker_navigate_to_year_description">"Vai all'anno %1$d"</string>
     <string name="mtrl_picker_out_of_range">"Non compresa nell'intervallo: %1$s"</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data di inizio - %1$s</string>
@@ -182,7 +182,7 @@ Creato da Kieron Quinn"</string>
     <string name="settings_background_picker_apply">Applica</string>
     <string name="settings_main_switch">Abilita Discover Killer</string>
     <string name="settings_monet">Colori Material You</string>
-    <string name="settings_monet_content">Usa colori Material You nella sovrapposizione ove possibile</string>
+    <string name="settings_monet_content">Ove possibile, nella sovrapposizione, usa colori Material You</string>
     <string name="settings_original_handler">L\'app Google gestisce la ricerca</string>
 	<string name="settings_original_handler_content">Consenti al servizio originale dell\'app Google di gestire le interazioni relative alla ricerca, anziché alla sovrapposizione personalizzata</string>
     <string name="settings_overlay_picker">Seleziona Sovrapposizione</string>

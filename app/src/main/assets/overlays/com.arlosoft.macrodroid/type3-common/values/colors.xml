@@ -122,7 +122,7 @@
     <color name="buttonHighlight">@*android:color/background_dark</color>
     <color name="buttonNormal">#ff3e526e</color>
     <color name="buttonText">@*android:color/white</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="card_bg_1">@*android:color/holo_light_primary_dark</color>
     <color name="card_bg_2">@*android:color/holo_light_primary_dark</color>

@@ -13,7 +13,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -22,7 +22,7 @@
     <color name="clr_black">@*android:color/background_dark</color>
     <color name="clr_dark_gray">@*android:color/background_dark</color>
     <color name="clr_gray">@*android:color/darker_gray</color>
-    <color name="clr_white">#ffffffff</color>
+    <color name="clr_white">@*android:color/white</color>
     <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorAccent_bw">@*android:color/accent_material_dark</color>
     <color name="colorAccent_dark">@*android:color/accent_material_dark</color>
@@ -109,7 +109,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
@@ -218,7 +218,7 @@
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_color_bw">#ff606060</color>
-    <color name="secondary_text_color_dark">#ffaaaaaa</color>
+    <color name="secondary_text_color_dark">@*android:color/darker_gray</color>
     <color name="secondary_text_color_deepdark">#ff808080</color>
     <color name="secondary_text_color_default">@*android:color/background_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>

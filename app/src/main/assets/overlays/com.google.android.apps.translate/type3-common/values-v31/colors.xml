@@ -31,7 +31,7 @@
     <color name="aag_widget_color_surface_variant">#d50000</color>
     <color name="survey_button_background_color">#ea80fc</color>
     <color name="survey_button_stroke_color">#4a148c</color>
-    <color name="survey_button_text_color">#304ffe</color>
+    <color name="survey_button_text_color">#ffffffff</color>
     <color name="widget_button_borderless_icon_color">#3d5afe</color>
     <color name="gm3_migration_sys_color_dynamic_dark_surface_bright">#dd2c00</color>
     <color name="gm3_migration_sys_color_dynamic_dark_surface_container_highest">#64dd17</color>
@@ -85,7 +85,7 @@
     <color name="gm3_sys_color_dynamic_dark_on_background">#bfdbbd</color>						<!-- numeri dialpad -->
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#7e57c2</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">#ccccbb</color>
-    <color name="gm3_sys_color_dynamic_dark_on_tertiary">#536dfe</color>
+    <color name="gm3_sys_color_dynamic_dark_on_tertiary">#dd0000</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary_container">#8c9eff</color>
     <color name="gm3_sys_color_dynamic_dark_outline_variant">#ddffff</color>
     <color name="gm3_sys_color_dynamic_dark_primary_state_layer">#3f51b5</color>
@@ -142,7 +142,7 @@
     <color name="m3_ref_palette_dynamic_primary80">#388e3c</color>
     <color name="m3_ref_palette_dynamic_primary90">#43a047</color>
     <color name="m3_ref_palette_dynamic_secondary10">#4caf50</color>
-    <color name="m3_ref_palette_dynamic_secondary100">#66bb6a</color>
+    <color name="m3_ref_palette_dynamic_secondary100">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_secondary20">#81c784</color>
     <color name="m3_ref_palette_dynamic_secondary30">#a5d6a7</color>
     <color name="m3_ref_palette_dynamic_secondary40">#c8e6c9</color>
@@ -195,7 +195,7 @@
     <color name="m3_sys_color_dynamic_light_on_secondary_container">#ffc400</color>
     <color name="m3_sys_color_dynamic_light_on_surface">#ffd740</color>
     <color name="m3_sys_color_dynamic_light_on_surface_variant">#ffe57f</color>
-    <color name="m3_sys_color_dynamic_light_on_tertiary">#ff6f00</color>
+    <color name="m3_sys_color_dynamic_light_on_tertiary">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_light_on_tertiary_container">#ff8f00</color>
     <color name="m3_sys_color_dynamic_light_outline">#ffa000</color>
     <color name="m3_sys_color_dynamic_light_outline_variant">#ffb300</color>

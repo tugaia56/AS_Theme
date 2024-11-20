@@ -736,7 +736,7 @@
     <color name="gm_ref_palette_green500">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_green600">#ff1e8e3e</color>
     <color name="gm_ref_palette_green700">#ff188038</color>
-    <color name="gm_ref_palette_green800">#ff137333</color>
+    <color name="gm_ref_palette_green800">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_green900">#ff0d652d</color>
     <color name="gm_ref_palette_grey100">#fff1f3f4</color>
     <color name="gm_ref_palette_grey200">#ffe8eaed</color>
@@ -1456,7 +1456,7 @@
     <color name="mod_google_green500">@*android:color/accent_material_dark</color>
     <color name="mod_google_green600">#ff1e8e3e</color>
     <color name="mod_google_green700">#ff188038</color>
-    <color name="mod_google_green800">#ff137333</color>
+    <color name="mod_google_green800">@*android:color/accent_material_dark</color>
     <color name="mod_google_green900">#ff0d652d</color>
     <color name="mod_google_grey100">#fff1f3f4</color>
     <color name="mod_google_grey200">#ffe8eaed</color>

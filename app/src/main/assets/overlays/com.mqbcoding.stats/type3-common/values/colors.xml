@@ -117,7 +117,7 @@
     <color name="dim_foreground_material_light">#ffbebebe</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
-    <color name="fordblue">#ff0066ff</color>
+    <color name="fordblue">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/white</color>
     <color name="green">#7700ff00</color>

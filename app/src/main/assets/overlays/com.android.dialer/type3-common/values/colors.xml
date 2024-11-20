@@ -16,11 +16,11 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_accept_background">@*android:color/accent_material_dark</color>
     <color name="call_hangup_background">#ffdf0000</color>
-    <color name="call_notification_answer_color">#ff1d873b</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="call_record_playback_icon_color">#8a000000</color>
     <color name="call_stats_bar_background">#88888888</color>
@@ -85,10 +85,10 @@
     <color name="dialer_red">#ffc53929</color>
     <color name="dialer_ripple_color">#1f000000</color>
     <color name="dialer_search_bar_color">@*android:color/button_material_dark</color>
-    <color name="dialer_snackbar_action_text_color">@*android:color/system_accent1_600</color>
-    <color name="dialer_theme_color">@*android:color/system_accent1_600</color>
+    <color name="dialer_snackbar_action_text_color">@*android:color/accent_material_dark</color>
+    <color name="dialer_theme_color">@*android:color/accent_material_dark</color>
     <color name="dialer_theme_color_20pct">#332a56c6</color>
-    <color name="dialer_theme_color_light">@*android:color/system_accent1_600</color>
+    <color name="dialer_theme_color_light">@*android:color/accent_material_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -121,7 +121,7 @@
     <color name="incall_background_gradient_spam_bottom">#b8e55135</color>
     <color name="incall_background_gradient_spam_middle">#d6c01111</color>
     <color name="incall_background_gradient_spam_top">#e5a30b0b</color>
-    <color name="incall_background_gradient_top">@*android:color/system_accent1_600</color>
+    <color name="incall_background_gradient_top">@*android:color/accent_material_dark</color>
     <color name="incall_background_multiwindow">@*android:color/system_accent1_500</color>
     <color name="incall_background_multiwindow_spam">#e9c22e2e</color>
     <color name="incall_button_background_color">@*android:color/button_material_dark</color>
@@ -164,7 +164,7 @@
     <color name="m3_ref_palette_dynamic_primary30">@*android:color/holo_primary</color>
     <color name="m3_ref_palette_dynamic_primary40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary50">#4caf50</color>
-    <color name="m3_ref_palette_dynamic_primary60">#66bb6a</color>
+    <color name="m3_ref_palette_dynamic_primary60">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_primary70">#81c784</color>
     <color name="m3_ref_palette_dynamic_primary80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary90">#ffffffff</color>
@@ -205,7 +205,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>

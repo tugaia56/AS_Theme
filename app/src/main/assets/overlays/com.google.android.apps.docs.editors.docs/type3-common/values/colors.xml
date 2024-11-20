@@ -14,7 +14,7 @@
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="button_checked_background">#12000000</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_ripple_background">#1e000000</color>
     <color name="button_ripple_background_white_icon">#33ffffff</color>

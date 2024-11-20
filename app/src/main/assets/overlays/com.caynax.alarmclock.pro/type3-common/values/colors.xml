@@ -38,7 +38,7 @@
     <color name="browser_actions_divider_color">#1e000000</color>
     <color name="browser_actions_text_color">#de000000</color>
     <color name="browser_actions_title_color">#ff646464</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="buttons_panel_material_dark">#10ffffff</color>
     <color name="buttons_panel_material_light">#10000000</color>

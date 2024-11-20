@@ -42,7 +42,7 @@
     <color name="browser_actions_title_color">#ff646464</color>
     <color name="bullet">#4c6e6e6e</color>
     <color name="buttonColor">#ff0078ff</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_secondary_default">@*android:color/background_dark</color>
     <color name="button_tertiary_default">@*android:color/transparent</color>

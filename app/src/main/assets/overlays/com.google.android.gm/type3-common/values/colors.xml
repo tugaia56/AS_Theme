@@ -82,7 +82,7 @@
     <color name="bt_letter_tile_x">#ff80deea</color>
     <color name="bt_letter_tile_y">#ffbcaaa4</color>
     <color name="bt_letter_tile_z">#ffaed581</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="calendar_header">#ff999999</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
@@ -201,7 +201,7 @@
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
     <color name="gm3_ref_palette_error40">#ffb3261e</color>
     <color name="gm3_ref_palette_error60">#ffe46962</color>
-    <color name="gm3_ref_palette_error80">#fff2b8b5</color>
+    <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_green100">#ffffffff</color>
     <color name="gm3_ref_palette_green40">#ff146c2e</color>
@@ -240,7 +240,7 @@
     <color name="gm3_ref_palette_primary95">#ffecf3fe</color>
     <color name="gm3_ref_palette_red10">#ff410e0b</color>
     <color name="gm3_ref_palette_red100">#ffffffff</color>
-    <color name="gm3_ref_palette_red80">#fff2b8b5</color>
+    <color name="gm3_ref_palette_red80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_red90">#fff9dedc</color>
     <color name="gm3_ref_palette_secondary10">#ff001d35</color>
     <color name="gm3_ref_palette_secondary100">#ffffffff</color>
@@ -296,7 +296,7 @@
     <color name="gm_ref_palette_green500">#ff34a853</color>
     <color name="gm_ref_palette_green600">#ff1e8e3e</color>
     <color name="gm_ref_palette_green700">#ff188038</color>
-    <color name="gm_ref_palette_green800">#ff137333</color>
+    <color name="gm_ref_palette_green800">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_green900">#ff0d652d</color>
     <color name="gm_ref_palette_grey100">#fff1f3f4</color>
     <color name="gm_ref_palette_grey200">#ffe8eaed</color>
@@ -419,7 +419,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>

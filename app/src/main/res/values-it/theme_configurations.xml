@@ -1,16 +1,16 @@
 <resources>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 4.7.2</item>
+        <item>Versione 5.0.0</item>
         <item>AGGIUNTO:</item>
-        <item>- - -</item>
+        <item>Thunderbird Stabile v8.0</item>
         <item>AGGIORNATO:</item>
-        <item>Dropbox v392.2.2</item>
-        <item>Google Messages v20240903</item>
-        <item>MicroG Services Revanced by WSTxda v5.8</item>
-        <item>Microsoft Outlook v4.2435.1</item>
-        <item>Oxygen Customizer BUG FIX</item>
-        <item>K-9 Mail v8.0b1</item>
-        <item>Thunderbird v8.0b1</item>
+        <item>Sfera Assistiva v14.1.6</item>
+        <item>Garmin Connect v5.6</item>
+        <item>Garmin Connect IQ v2.32</item>
+        <item>Gestisci Notifiche v14.99.16.19</item>
+        <item>Gestione Telefono v15.8.3</item>
     </string-array>
+    <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
+

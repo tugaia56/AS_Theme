@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="bam_center_fragment_background">#00ff00</color>
     <color name="bar_chart_bar_color">@*android:color/accent_material_dark</color>
     <color name="comms_ic_voicemail_error_color_error">@*android:color/accent_material_dark</color>
     <color name="comms_ic_voicemail_error_color_voicemail">@*android:color/accent_material_dark</color>

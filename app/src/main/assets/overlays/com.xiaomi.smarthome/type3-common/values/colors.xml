@@ -606,7 +606,7 @@
     <color name="mj_color_class_text_28">#ff19b97d</color>
     <color name="mj_color_class_text_31">#ff00977d</color>
     <color name="mj_color_class_text_36">#ffff9e00</color>
-    <color name="mj_color_class_text_7">#ffff7700</color>
+    <color name="mj_color_class_text_7">@*android:color/accent_material_dark</color>
     <color name="mj_color_color_txt_hint">#ff8c93b0</color>
     <color name="mj_color_context_menu">#ffffffff</color>
     <color name="mj_color_context_menu_separator">#ffe5e5e5</color>

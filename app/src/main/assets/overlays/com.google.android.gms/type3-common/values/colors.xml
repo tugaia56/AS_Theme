@@ -105,10 +105,10 @@
     <color name="button_content_tint">#ffffffff</color>
     <color name="button_disabled_color">@*android:color/background_dark</color>
     <color name="button_disabled_content_tint">#ff696969</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_disabled_color">#613c4043</color>
-    <color name="call_notification_answer_color">#ff1d873b</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="call_switching_illustration_background">@*android:color/white</color>
     <color name="car_light_blue_500">#ff03a9f4</color>
@@ -355,7 +355,7 @@
     <color name="gm3_ref_palette_error50">#ffdc362e</color>
     <color name="gm3_ref_palette_error60">#ffe46962</color>
     <color name="gm3_ref_palette_error70">#ffec928e</color>
-    <color name="gm3_ref_palette_error80">#fff2b8b5</color>
+    <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_green50">#ff198639</color>
     <color name="gm3_ref_palette_green80">#ff6dd58c</color>
@@ -650,7 +650,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
@@ -786,7 +786,7 @@
     <color name="opt_in_dim_color">#66000000</color>
     <color name="opt_in_title_color">#de000000</color>
     <color name="output_switcher_app_icon_background">@*android:color/accent_material_dark</color>
-    <color name="output_switcher_app_icon_tint">@*android:color/system_accent1_600</color>
+    <color name="output_switcher_app_icon_tint">@*android:color/accent_material_dark</color>
     <color name="output_switcher_background">@*android:color/system_neutral2_10</color>
     <color name="output_switcher_call_name">@*android:color/background_dark</color>
     <color name="output_switcher_call_status">@*android:color/button_material_dark</color>
@@ -801,7 +801,7 @@
     <color name="overlay_background_transparent_color">#00000000</color>
     <color name="paused_progress_bar_tint_color">@*android:color/background_dark</color>
     <color name="pay_balance_text_color">#ff5e5e5e</color>
-    <color name="pay_button_background_color_dark">#ff1f1f1f</color>
+    <color name="pay_button_background_color_dark">@*android:color/background_dark</color>
     <color name="pay_button_background_color_light">#ffffffff</color>
     <color name="pay_button_background_outline_color_dark">#ff5e5e5e</color>
     <color name="pay_button_background_outline_color_light">#ff5f6368</color>
@@ -1013,7 +1013,7 @@
     <color name="sud_system_accent1_100">@*android:color/system_accent1_100</color>
     <color name="sud_system_accent1_200">@*android:color/system_accent1_200</color>
     <color name="sud_system_accent1_300">@*android:color/system_accent1_300</color>
-    <color name="sud_system_accent1_600">@*android:color/system_accent1_600</color>
+    <color name="sud_system_accent1_600">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent2_100">@*android:color/system_accent2_100</color>
     <color name="sud_system_accent2_200">@*android:color/system_accent2_200</color>
     <color name="sud_system_accent2_600">@*android:color/system_accent2_600</color>

@@ -74,7 +74,7 @@
     <color name="btn_stroke_color">#ff16a186</color>
     <color name="btn_unable">#ff5c6c7e</color>
     <color name="button_enable">#ffffffff</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_unable">#ffaaaaaa</color>
     <color name="cad_black">@*android:color/background_dark</color>

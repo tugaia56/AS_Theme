@@ -17,10 +17,10 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
+    <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -72,7 +72,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
@@ -196,8 +196,8 @@
     <color name="m3_sys_color_secondary_fixed_dim">@color/m3_ref_palette_secondary80</color>
     <color name="m3_sys_color_tertiary_fixed">@color/m3_ref_palette_tertiary90</color>
     <color name="m3_sys_color_tertiary_fixed_dim">@color/m3_ref_palette_tertiary80</color>
-    <color name="material_deep_teal_200">#ff80cbc4</color>
-    <color name="material_deep_teal_500">#ff008577</color>
+    <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
+    <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_600">@*android:color/button_material_dark</color>

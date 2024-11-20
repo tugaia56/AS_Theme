@@ -18,14 +18,14 @@
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="browse_pack_author_color">#ff5f6368</color>
     <color name="browse_pack_name_color">#ff25272b</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_disabled_color">#613c4043</color>
     <color name="c2o_content_item_tint_end_color">#80000000</color>
     <color name="c2o_content_item_tint_start_color">@*android:color/transparent</color>
     <color name="c2o_customization_handle_tint">#ff8a8a8a</color>
     <color name="c2o_gif_category1">#ff2a56c6</color>
-    <color name="c2o_gif_category10">#ff137333</color>
+    <color name="c2o_gif_category10">@*android:color/accent_material_dark</color>
     <color name="c2o_gif_category10_light">@*android:color/holo_button_normal</color>
     <color name="c2o_gif_category11">#ffb80672</color>
     <color name="c2o_gif_category11_light">#fffde7f3</color>
@@ -36,7 +36,7 @@
     <color name="c2o_gif_category3_light">#fff4eaff</color>
     <color name="c2o_gif_category4">#ffcf2035</color>
     <color name="c2o_gif_category4_light">#fffaeaf0</color>
-    <color name="c2o_gif_category5">#ff137333</color>
+    <color name="c2o_gif_category5">@*android:color/accent_material_dark</color>
     <color name="c2o_gif_category5_light">@*android:color/holo_button_normal</color>
     <color name="c2o_gif_category6">#ff007b86</color>
     <color name="c2o_gif_category6_light">@*android:color/holo_button_normal</color>

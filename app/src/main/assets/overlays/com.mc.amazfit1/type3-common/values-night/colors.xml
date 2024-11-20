@@ -15,7 +15,7 @@
     <color name="calories_progr_bg_week">#ff880e4f</color>
     <color name="colorPrimary">@*android:color/background_dark</color>
     <color name="colorPrimaryDark">@*android:color/background_dark</color>
-    <color name="disabled">#ff5a595b</color>
+    <color name="disabled">@*android:color/button_material_dark</color>
     <color name="drawableTintColor">#ffffffff</color>
     <color name="drawableTintColorLowContrast">#ffeeeeee</color>
     <color name="drawerGradientEndColor">@*android:color/background_dark</color>

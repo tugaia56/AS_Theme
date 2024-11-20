@@ -93,7 +93,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cable_orbi_divider">#ff20b1f5</color>
     <color name="cam_add_photo_bg_color">#ff949095</color>
@@ -641,7 +641,7 @@
     <color name="yellow">#ffffff00</color>
     <color name="zxing_custom_possible_result_points">#903a89cf</color>
     <color name="zxing_custom_result_view">#b0000000</color>
-    <color name="zxing_custom_viewfinder_laser">#ff1976d2</color>
+    <color name="zxing_custom_viewfinder_laser">@*android:color/accent_material_dark</color>
     <color name="zxing_custom_viewfinder_mask">#60000000</color>
     <color name="zxing_possible_result_points">#c0ffbd21</color>
     <color name="zxing_result_view">#b0000000</color>

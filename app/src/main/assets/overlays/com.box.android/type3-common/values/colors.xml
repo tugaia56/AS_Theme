@@ -391,7 +391,7 @@
     <color name="pspdf__color_link_annotation_highlight_border">@*android:color/transparent</color>
     <color name="pspdf__color_red_light">#ffef5350</color>
     <color name="pspdf__color_signature_black">@*android:color/background_dark</color>
-    <color name="pspdf__color_signature_blue">#ff0066ff</color>
+    <color name="pspdf__color_signature_blue">@*android:color/accent_material_dark</color>
     <color name="pspdf__color_signature_green">@*android:color/accent_material_dark</color>
     <color name="pspdf__color_signature_red">#ffcc0000</color>
     <color name="pspdf__color_signature_yellow">#ffffeb3b</color>

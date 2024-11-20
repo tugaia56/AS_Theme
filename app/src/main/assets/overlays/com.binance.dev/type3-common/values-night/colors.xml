@@ -99,7 +99,7 @@
     <color name="2131100104">#ff1f2833</color>
     <color name="2131100106">#ffcccccc</color>
     <color name="2131100107">#ffffffff</color>
-    <color name="2131100108">#ff000000</color>
+    <color name="2131100108">@*android:color/background_dark</color>
     <color name="2131100110">#ffcccccc</color>
     <color name="2131100114">#ff0b0c0e</color>
     <color name="2131100115">#ff3c2e10</color>
@@ -152,7 +152,7 @@
     <color name="2131100251">#ff707a8a</color>
     <color name="2131100252">#ff76808e</color>
     <color name="2131100254">#ffeaecef</color>
-    <color name="2131100260">#ff000000</color>
+    <color name="2131100260">@*android:color/background_dark</color>
     <color name="2131100261">#ff707a8a</color>
     <color name="2131100268">@*android:color/holo_primary</color>
     <color name="2131100269">#ff434c5a</color>
@@ -321,10 +321,10 @@
     <color name="2131101557">#ff929aa5</color>
     <color name="2131101558">#ff14151a</color>
     <color name="2131101559">#ffffffff</color>
-    <color name="2131101560">#ff000000</color>
+    <color name="2131101560">@*android:color/background_dark</color>
     <color name="2131101633">#ff1f2833</color>
     <color name="2131101635">#ffffffff</color>
-    <color name="2131101636">#ff000000</color>
+    <color name="2131101636">@*android:color/background_dark</color>
     <color name="2131101637">#ff333b47</color>
     <color name="2131101638">@*android:color/background_dark</color>
     <color name="2131101641">#ff959eb1</color>

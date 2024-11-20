@@ -230,7 +230,7 @@
     <color name="btn_progress_undo">#ffffa9a9</color>
     <color name="button_cancel_color">#ff737373</color>
     <color name="button_confirm_color">#ff585858</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="car_bg_pressed">#ffaaaaaa</color>
     <color name="car_black_10">#19000000</color>
@@ -914,7 +914,7 @@
     <color name="psts_background_tab_pressed">#1affffff</color>
     <color name="pumpkin_orange">#ffff8000</color>
     <color name="pumpkin_orange_three">#fffa8a1a</color>
-    <color name="pumpkin_orange_two">#ffff7700</color>
+    <color name="pumpkin_orange_two">@*android:color/accent_material_dark</color>
     <color name="ranking_num_color_1">#fffdc102</color>
     <color name="ranking_num_color_2">#e6ffffff</color>
     <color name="ranking_num_color_3">#ffc98f3f</color>

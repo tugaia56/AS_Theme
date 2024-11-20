@@ -90,7 +90,7 @@
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="browse_banner_background">#f312a5f4</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="car_mode_now_playing_seekbar_background_color">#668a9399</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>

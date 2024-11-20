@@ -18,7 +18,7 @@
     <color name="stripe_3ds2_chevron">#80ffffff</color>
     <color name="stripe_3ds2_control_activated">#ffc1c1c1</color>
     <color name="stripe_3ds2_divider">#ffa5a5a5</color>
-    <color name="stripe_3ds2_primary">#ff1f1f1f</color>
+    <color name="stripe_3ds2_primary">@*android:color/background_dark</color>
     <color name="stripe_3ds2_primary_dark">@*android:color/background_dark</color>
     <color name="stripe_3ds2_text_color">#ffe1e1e1</color>
     <color name="stripe_3ds2_text_info_toggled">#ffa1a1a1</color>
@@ -48,7 +48,7 @@
     <color name="stripe_paymentsheet_googlepay_divider_line">#ff38383a</color>
     <color name="stripe_paymentsheet_googlepay_divider_text">#99ffffff</color>
     <color name="stripe_paymentsheet_googlepay_primary_button_background_color">#ffffffff</color>
-    <color name="stripe_paymentsheet_googlepay_primary_button_tint_color">#ff1f1f1f</color>
+    <color name="stripe_paymentsheet_googlepay_primary_button_tint_color">@*android:color/background_dark</color>
     <color name="stripe_paymentsheet_header_text">#99ffffff</color>
     <color name="stripe_paymentsheet_link_mark">#ffffffff</color>
     <color name="stripe_paymentsheet_payment_method_label_text">#deffffff</color>
@@ -59,6 +59,6 @@
     <color name="stripe_paymentsheet_title_text">#deffffff</color>
     <color name="stripe_paymentsheet_toolbar_items_color">#ffffffff</color>
     <color name="stripe_text_color_secondary">@*android:color/secondary_text_dark</color>
-    <color name="stripe_toolbar_color_default">#ff1f1f1f</color>
+    <color name="stripe_toolbar_color_default">@*android:color/background_dark</color>
     <color name="stripe_toolbar_color_default_dark">@*android:color/background_dark</color>
 </resources>

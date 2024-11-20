@@ -17,7 +17,7 @@
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
@@ -285,7 +285,7 @@
     <color name="material_color_on_tertiary_fixed_variant">@*android:color/system_accent3_700</color>
     <color name="material_color_outline">@*android:color/system_neutral2_500</color>
     <color name="material_color_outline_variant">@*android:color/system_neutral2_200</color>
-    <color name="material_color_primary">@*android:color/system_accent1_600</color>
+    <color name="material_color_primary">@*android:color/accent_material_dark</color>
     <color name="material_color_primary_container">@*android:color/system_accent1_100</color>
     <color name="material_color_primary_fixed">@*android:color/system_accent1_100</color>
     <color name="material_color_primary_fixed_dim">@*android:color/system_accent1_200</color>
@@ -417,9 +417,9 @@
     <color name="widget_picker_suggestions_icon_background_color_dark">#ffffffff</color>
     <color name="widget_picker_suggestions_icon_background_color_light">@*android:color/system_accent1_0</color>
     <color name="widget_picker_suggestions_icon_color_dark">#ff062e6f</color>
-    <color name="widget_picker_suggestions_icon_color_light">@*android:color/system_accent1_600</color>
+    <color name="widget_picker_suggestions_icon_color_light">@*android:color/accent_material_dark</color>
     <color name="widget_picker_tab_background_selected_dark">#ffffffff</color>
-    <color name="widget_picker_tab_background_selected_light">@*android:color/system_accent1_600</color>
+    <color name="widget_picker_tab_background_selected_light">@*android:color/accent_material_dark</color>
     <color name="widget_picker_tab_background_unselected_dark">#ff343535</color>
     <color name="widget_picker_tab_background_unselected_light">@*android:color/system_neutral1_100</color>
     <color name="widget_picker_title_color_dark">#ffe3e3e3</color>

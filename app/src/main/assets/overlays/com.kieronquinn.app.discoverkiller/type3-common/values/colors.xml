@@ -8,12 +8,12 @@
     <color name="androidx_core_ripple_material_light">#1f000000</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="black">@*android:color/background_dark</color>
+    <color name="black">@*android:color/white</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
-    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffdd0000</color>
@@ -44,7 +44,7 @@
     <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
-    <color name="design_default_color_error">#ffb00020</color>
+    <color name="design_default_color_error">@*android:color/accent_material_dark</color>
     <color name="design_default_color_on_background">@*android:color/background_dark</color>
     <color name="design_default_color_on_error">#ffffffff</color>
     <color name="design_default_color_on_primary">#ffffffff</color>
@@ -84,12 +84,12 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
     <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/white</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff201f23</color>
     <color name="m3_ref_palette_neutral17">#ff2b292d</color>
@@ -134,7 +134,7 @@
     <color name="m3_ref_palette_primary50">#ff7f67be</color>
     <color name="m3_ref_palette_primary60">#ff9a82db</color>
     <color name="m3_ref_palette_primary70">#ffb69df8</color>
-    <color name="m3_ref_palette_primary80">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_primary80">#fff000</color>
     <color name="m3_ref_palette_primary90">#ffeaddff</color>
     <color name="m3_ref_palette_primary95">#fff6edff</color>
     <color name="m3_ref_palette_primary99">#fffffbfe</color>
@@ -169,7 +169,7 @@
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
-    <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
+    <color name="material_deep_teal_500">#ff0000</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>

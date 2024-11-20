@@ -435,7 +435,7 @@
     <color name="fb_grid_item_footer_background_selected">#44fafafa</color>
     <color name="fb_grid_selected_item_background_dark">#ff858585</color>
     <color name="fb_grid_selected_item_background_light">#ffd4dce0</color>
-    <color name="fb_gridview_item_shadow_color">#ff0c0c0c</color>
+    <color name="fb_gridview_item_shadow_color">@*android:color/background_dark</color>
     <color name="fb_header_tint_doc">#ff005d9b</color>
     <color name="fb_header_tint_pdf">#ffb41e21</color>
     <color name="fb_header_tint_ppt">#ffd87536</color>
