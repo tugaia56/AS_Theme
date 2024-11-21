@@ -19,6 +19,7 @@
     <color name="offStateColor">@*android:color/button_material_dark</color>
     <color name="offStateColor2">#1affffff</color>
     <color name="offStateColor4">#99000000</color>
+    <color name="oplusColorControls">#4dffffff</color>
 <color name="oplusColorPrimaryNeutral">#e6ffffff</color>
     <color name="oplusColorSurfaces">@*android:color/button_material_dark</color>
     <color name="preference_background_color_pressed">#33ffffff</color>
