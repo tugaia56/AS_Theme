@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="activityscore">#ff00c853</color>
-    <color name="alarmsDaysHighlight">@*android:color/holo_primary</color>
+    <color name="alarmsDaysHighlight">@*android:color/button_material_dark</color>
     <color name="altitude">@*android:color/accent_material_dark</color>
     <color name="altitudePoints">@*android:color/accent_material_dark</color>
     <color name="androidx_core_ripple_material_light">#1f000000</color>
@@ -145,7 +145,7 @@
     <color name="haid_landing_app_down_pre_scan_bg">#0d000000</color>
     <color name="haid_masking_bg">#80000000</color>
     <color name="heart">#fff44336</color>
-    <color name="heartBg">@*android:color/holo_primary</color>
+    <color name="heartBg">@*android:color/button_material_dark</color>
     <color name="heartZone1Default">#ffaa00ff</color>
     <color name="heartZone2Default">#ffff6d00</color>
     <color name="heartZone3Default">#ff64dd17</color>
@@ -388,7 +388,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffffffff</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">@*android:color/holo_primary</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
@@ -414,7 +414,7 @@
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="mydialog_edittext_background">#fff1f3f4</color>
     <color name="mydialog_header_background">@*android:color/accent_material_dark</color>
-    <color name="notificationTextDefault">@*android:color/holo_primary</color>
+    <color name="notificationTextDefault">@*android:color/button_material_dark</color>
     <color name="notificationTextMIUI">#80ffffff</color>
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
@@ -504,7 +504,7 @@
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="transparent">#00ffffff</color>
-    <color name="wakeMeUpColor">@*android:color/holo_primary</color>
+    <color name="wakeMeUpColor">@*android:color/button_material_dark</color>
     <color name="walking_sleep">#ffff1744</color>
     <color name="walking_sleep_week">#ffff1744</color>
     <color name="weightBg">@*android:color/accent_material_dark</color>

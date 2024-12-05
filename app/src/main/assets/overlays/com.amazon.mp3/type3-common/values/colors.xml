@@ -242,7 +242,7 @@
     <color name="library_swatch_light_grey">#ffcccccc</color>
     <color name="light_grey">#ffbdbdbd</color>
     <color name="listview_item_pressed_background">#ff1a1a1a</color>
-    <color name="listview_section_header">@*android:color/holo_primary</color>
+    <color name="listview_section_header">@*android:color/button_material_dark</color>
     <color name="lyrics_badge_border_color">#ff7b8289</color>
     <color name="lyrics_badge_text_color">#ff686f76</color>
     <color name="lyrics_feedback_text_box_fill_color">#0dffffff</color>
@@ -386,7 +386,7 @@
     <color name="showcase_background">#bb000000</color>
     <color name="showcase_color">#ff12a6f5</color>
     <color name="stage_background_gradient_color">#b2000000</color>
-    <color name="subheader_background">@*android:color/holo_primary</color>
+    <color name="subheader_background">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>

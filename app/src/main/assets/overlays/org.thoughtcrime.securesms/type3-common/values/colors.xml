@@ -84,7 +84,7 @@
     <color name="conversation_blue">#ff336ba3</color>
     <color name="conversation_blue_shade">#ff285480</color>
     <color name="conversation_blue_tint">#ffadc8e1</color>
-    <color name="conversation_burlap">@*android:color/holo_primary</color>
+    <color name="conversation_burlap">@*android:color/button_material_dark</color>
     <color name="conversation_burlap_shade">#ff58513c</color>
     <color name="conversation_burlap_tint">#ffc4b997</color>
     <color name="conversation_compose_divider">#32000000</color>
@@ -256,7 +256,7 @@
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
-    <color name="device_link_item_background_dark">@*android:color/holo_primary</color>
+    <color name="device_link_item_background_dark">@*android:color/button_material_dark</color>
     <color name="device_link_item_background_light">#ffffffff</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>

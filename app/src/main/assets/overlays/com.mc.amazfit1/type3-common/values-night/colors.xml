@@ -5,7 +5,7 @@
     <color name="awake_sleep">#ffffff00</color>
     <color name="background">@*android:color/background_dark</color>
     <color name="backgroundCardBorderColor">@*android:color/background_dark</color>
-    <color name="backgroundCardColor">@*android:color/holo_primary</color>
+    <color name="backgroundCardColor">@*android:color/button_material_dark</color>
     <color name="backgroundCardMarkedColor">@*android:color/background_holo_dark</color>
     <color name="backgroundStartupScreen">@*android:color/background_dark</color>
     <color name="backgroundStartupScreenLight">@*android:color/background_dark</color>

@@ -14,7 +14,7 @@
     <item type="drawable" name="mj_color_white">#ffffffff</item>
     <item type="drawable" name="mj_color_white_00_transparent">#00ffffff</item>
     <item type="drawable" name="namcard_picker_bkg_hover">@*android:color/holo_light_primary_dark</item>
-    <item type="drawable" name="namcard_picker_bkg_normal">@*android:color/holo_primary</item>
+    <item type="drawable" name="namcard_picker_bkg_normal">@*android:color/button_material_dark</item>
     <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
     <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
     <item type="drawable" name="title_background">#ffebebec</item>

@@ -49,7 +49,7 @@
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="launcher_background_gray">@*android:color/background_dark</color>
-    <color name="light_black">@*android:color/holo_primary</color>
+    <color name="light_black">@*android:color/button_material_dark</color>
     <color name="m4_black_34">@*android:color/accent_material_dark</color>
     <color name="m4_black_5">#0d000000</color>
     <color name="m4_blue">@*android:color/accent_material_dark</color>

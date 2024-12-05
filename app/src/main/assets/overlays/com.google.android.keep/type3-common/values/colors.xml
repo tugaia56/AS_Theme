@@ -111,7 +111,7 @@
     <color name="gm3_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gm3_ref_palette_neutral95">#fff2f2f2</color>
     <color name="gm3_ref_palette_neutral_variant20">#ff2d312f</color>
-    <color name="gm3_ref_palette_neutral_variant30">@*android:color/holo_primary_dark</color>
+    <color name="gm3_ref_palette_neutral_variant30">@*android:color/button_material_dark</color>
     <color name="gm3_ref_palette_neutral_variant50">#ff747775</color>
     <color name="gm3_ref_palette_neutral_variant60">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_neutral_variant80">#ffc4c7c5</color>

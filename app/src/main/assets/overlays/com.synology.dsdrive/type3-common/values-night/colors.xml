@@ -9,10 +9,10 @@
     <color name="C17">@*android:color/accent_material_dark</color>
     <color name="C18">#ffffffff</color>
     <color name="C19">#ffffffff</color>
-    <color name="C2">@*android:color/holo_primary</color>
+    <color name="C2">@*android:color/button_material_dark</color>
     <color name="C20">@*android:color/background_dark</color>
     <color name="C21">#ff3a3a3a</color>
-    <color name="C22">@*android:color/holo_primary</color>
+    <color name="C22">@*android:color/button_material_dark</color>
     <color name="C23">#ff724eed</color>
     <color name="C3">#fff0f3f6</color>
     <color name="C4">#ff8c8e90</color>
@@ -32,7 +32,7 @@
     <color name="all_connection_button_text">#ffffffff</color>
     <color name="applogColorAccent">@*android:color/accent_material_dark</color>
     <color name="colorC1">#ffffffff</color>
-    <color name="colorC14">@*android:color/holo_primary</color>
+    <color name="colorC14">@*android:color/button_material_dark</color>
     <color name="colorC17">@*android:color/background_dark</color>
     <color name="colorC2">#ff8c8e90</color>
     <color name="colorC22">@*android:color/accent_material_dark</color>

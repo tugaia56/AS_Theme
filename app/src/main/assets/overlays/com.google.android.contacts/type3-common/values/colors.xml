@@ -93,7 +93,7 @@
     <color name="gm3_ref_palette_neutral100">#ffffffff</color>
     <color name="gm3_ref_palette_neutral20">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral6">@*android:color/background_dark</color>
-    <color name="gm3_ref_palette_neutral90">#ffffffff</color>
+    <color name="gm3_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gm3_ref_palette_neutral95">#fff2f2f2</color>
     <color name="gm3_ref_palette_neutral_variant20">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral_variant30">@*android:color/background_dark</color>
@@ -300,4 +300,5 @@
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="translucent_navigation_bar_color">#b3ffffff</color>
+    <color name="white">#ffffffff</color>
 </resources>

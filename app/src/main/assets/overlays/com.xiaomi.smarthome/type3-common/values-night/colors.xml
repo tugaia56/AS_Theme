@@ -6,7 +6,7 @@
     <color name="choose_sub_brand_text_unselected">#ffffffff</color>
     <color name="choose_sub_new_bg_unselected">#80ffffff</color>
     <color name="choose_sub_new_text_unselected">#ffffffff</color>
-    <color name="choose_wire_bg">@*android:color/holo_primary</color>
+    <color name="choose_wire_bg">@*android:color/button_material_dark</color>
     <color name="choose_wire_card_bg">#ff999999</color>
     <color name="divider_line_light">#27ffffff</color>
     <color name="mibi_action_bar_title_text_color_dark">#cc000000</color>
@@ -117,7 +117,7 @@
     <color name="mj_color_btn_disable_color">@*android:color/ripple_material_dark</color>
     <color name="mj_color_btn_gray_nor">#33ffffff</color>
     <color name="mj_color_btn_gray_pres">#ffffffff</color>
-    <color name="mj_color_btn_gray_unselect">@*android:color/holo_primary</color>
+    <color name="mj_color_btn_gray_unselect">@*android:color/button_material_dark</color>
     <color name="mj_color_btn_green_nor">@*android:color/accent_material_dark</color>
     <color name="mj_color_btn_green_pres">@*android:color/accent_material_dark</color>
     <color name="mj_color_btn_green_text_nor">#ffe6e6e6</color>

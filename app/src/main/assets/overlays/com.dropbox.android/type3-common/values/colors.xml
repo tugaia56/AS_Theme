@@ -82,7 +82,7 @@
     <color name="color__inverse__disabled__border">#4df7f5f2</color>
     <color name="color__inverse__disabled__text">#4df7f5f2</color>
     <color name="color__inverse__elevated__background">#ff2b2929</color>
-    <color name="color__inverse__faint__background">@*android:color/holo_primary</color>
+    <color name="color__inverse__faint__background">@*android:color/button_material_dark</color>
     <color name="color__inverse__faint__border">#338e8b87</color>
     <color name="color__inverse__faint__text">#99f7f5f2</color>
     <color name="color__inverse__glyph__accent">@*android:color/accent_material_dark</color>
@@ -198,9 +198,9 @@
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral17">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral20">@*android:color/holo_primary</color>
-    <color name="m3_ref_palette_neutral22">@*android:color/holo_primary</color>
-    <color name="m3_ref_palette_neutral24">@*android:color/holo_primary</color>
+    <color name="m3_ref_palette_neutral20">@*android:color/button_material_dark</color>
+    <color name="m3_ref_palette_neutral22">@*android:color/button_material_dark</color>
+    <color name="m3_ref_palette_neutral24">@*android:color/button_material_dark</color>
     <color name="m3_ref_palette_neutral30">#ff484649</color>
     <color name="m3_ref_palette_neutral4">#ff0e0e11</color>
     <color name="m3_ref_palette_neutral40">#ff605d62</color>

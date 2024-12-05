@@ -140,7 +140,7 @@
     <color name="fable_color_cool_400">#ff808286</color>
     <color name="fable_color_cool_500">#ff66696e</color>
     <color name="fable_color_cool_600">#ff4c5056</color>
-    <color name="fable_color_cool_700">@*android:color/holo_primary</color>
+    <color name="fable_color_cool_700">@*android:color/button_material_dark</color>
     <color name="fable_color_cool_800">@*android:color/background_dark</color>
     <color name="fable_color_cool_900">@*android:color/background_dark</color>
     <color name="fable_color_cool_900_tint_040">#6600050d</color>
@@ -211,7 +211,7 @@
     <color name="lb_details_description_body_color">#b2eeeeee</color>
     <color name="lb_details_description_color">#ffeeeeee</color>
     <color name="lb_details_overview_bg_color">@*android:color/background_dark</color>
-    <color name="lb_error_background_color_opaque">@*android:color/holo_primary</color>
+    <color name="lb_error_background_color_opaque">@*android:color/button_material_dark</color>
     <color name="lb_error_background_color_translucent">#e6000000</color>
     <color name="lb_error_message">#80eeeeee</color>
     <color name="lb_grey">#ff888888</color>

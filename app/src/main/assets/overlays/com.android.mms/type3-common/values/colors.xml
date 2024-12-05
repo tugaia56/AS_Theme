@@ -691,7 +691,7 @@
     <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffd8d8d8</color>
-    <color name="coui_btn_part_check_dark_color_on_disabled">#ff262626</color>
+    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">#fffafafa</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#ffffffff</color>
     <color name="coui_btn_part_check_inner_dark_color_on_disabled">#ff050505</color>

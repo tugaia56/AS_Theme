@@ -895,7 +895,7 @@
     <color name="video_edit_frame_shadow_color">#66000000</color>
     <color name="video_edit_not_edited">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="video_edit_select_time_color">@*android:color/accent_material_dark</color>
-    <color name="video_edit_share_card_bg_color">@*android:color/holo_primary</color>
+    <color name="video_edit_share_card_bg_color">@*android:color/button_material_dark</color>
     <color name="video_edit_time_bg_color">#80171717</color>
     <color name="video_edit_time_color">#ffffffff</color>
     <color name="video_edit_tips_color">#ff35344c</color>

@@ -93,7 +93,7 @@
     <color name="dark_blue_motori_l2">#ff0e33ab</color>
     <color name="dark_blue_motori_l3">@*android:color/ripple_material_dark</color>
     <color name="dark_gray_1">#ffbdbdbd</color>
-    <color name="dark_gray_2">@*android:color/holo_primary</color>
+    <color name="dark_gray_2">@*android:color/button_material_dark</color>
     <color name="dark_gray_3">@*android:color/accent_material_dark</color>
     <color name="dark_gray_4">@*android:color/background_dark</color>
     <color name="dark_gray_5">@*android:color/background_dark</color>

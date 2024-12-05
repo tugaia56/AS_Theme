@@ -5,14 +5,14 @@
     <item>
         <shape android:shape="rectangle">
             <corners android:radius="0.0dip" />
-            <gradient android:startColor="@*android:color/holo_primary" android:endColor="@*android:color/holo_primary" android:angle="45.0" />
+            <gradient android:startColor="@*android:color/button_material_dark" android:endColor="@*android:color/button_material_dark" android:angle="45.0" />
         </shape>
     </item>
 <!-- secondo background visibile -->
     <item android:left="2.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="2.0dip">
         <shape android:shape="rectangle">
             <corners android:radius="0.0dip" />
-            <gradient android:startColor="@*android:color/holo_primary" android:endColor="@*android:color/holo_primary" android:angle="90.0" />
+            <gradient android:startColor="@*android:color/button_material_dark" android:endColor="@*android:color/button_material_dark" android:angle="90.0" />
         </shape>
     </item>
 <!-- terzo background sfumatura sotto -->

@@ -42,7 +42,7 @@
     <color name="design_fab_stroke_end_outer_color">#0fffffff</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">@*android:color/holo_primary</color>
+    <color name="design_snackbar_background_color">@*android:color/button_material_dark</color>
     <color name="dialer_call">@*android:color/accent_material_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80bebebe</color>

@@ -168,7 +168,7 @@
     <color name="com_braze_inappmessage_button_text_light">@*android:color/white</color>
     <color name="com_braze_inappmessage_chevron">#ff9b9b9b</color>
     <color name="com_braze_inappmessage_frame_light">#c0333333</color>
-    <color name="com_braze_inappmessage_header_text">@*android:color/holo_primary</color>
+    <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
     <color name="com_braze_inappmessage_text">#ff555555</color>
@@ -333,7 +333,7 @@
     <color name="lb_details_description_body_color">#b2eeeeee</color>
     <color name="lb_details_description_color">#ffeeeeee</color>
     <color name="lb_details_overview_bg_color">@*android:color/background_dark</color>
-    <color name="lb_error_background_color_opaque">@*android:color/holo_primary</color>
+    <color name="lb_error_background_color_opaque">@*android:color/button_material_dark</color>
     <color name="lb_error_background_color_translucent">#e6000000</color>
     <color name="lb_error_message">#80eeeeee</color>
     <color name="lb_grey">#ff888888</color>

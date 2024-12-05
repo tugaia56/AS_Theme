@@ -158,7 +158,7 @@
     <color name="picker_grid_state_focused">#dc007aff</color>
     <color name="picker_grid_state_pressed">#dc007aff</color>
     <color name="picker_imageloading">#ff252528</color>
-    <color name="popup_background">@*android:color/holo_primary</color>
+    <color name="popup_background">@*android:color/button_material_dark</color>
     <color name="primary">@*android:color/background_floating_material_dark</color>
     <color name="primaryDark">@*android:color/background_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>

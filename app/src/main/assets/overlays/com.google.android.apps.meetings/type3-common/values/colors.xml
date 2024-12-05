@@ -35,7 +35,7 @@
     <color name="ag_abs_blue600_50">@*android:color/accent_material_dark</color>
     <color name="ag_abs_green300_24">@*android:color/accent_material_dark</color>
     <color name="ag_abs_grey900_grey200_11">#ff36373a</color>
-    <color name="ag_abs_grey900_grey200_8">@*android:color/holo_primary</color>
+    <color name="ag_abs_grey900_grey200_8">@*android:color/button_material_dark</color>
     <color name="ag_abs_quantum_grey900_opaque16">@*android:color/background_dark</color>
     <color name="ag_abs_transparent">#00000000</color>
     <color name="ag_abs_white">#ffffffff</color>
@@ -361,7 +361,7 @@
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="target_message_highlight">#ffe4e4e4</color>
-    <color name="tasks_fab_background_color">@*android:color/holo_primary</color>
+    <color name="tasks_fab_background_color">@*android:color/button_material_dark</color>
     <color name="tasks_textColorTertiaryDisabled">#61212121</color>
     <color name="teal300">@*android:color/accent_material_dark</color>
     <color name="teal600">@*android:color/accent_material_dark</color>

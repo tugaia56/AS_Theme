@@ -56,7 +56,7 @@
     <color name="custom_color">@*android:color/accent_material_dark</color>
     <color name="custom_color_dark">@*android:color/accent_material_dark</color>
     <color name="darkBackground">@*android:color/background_dark</color>
-    <color name="darkCardBackground">@*android:color/holo_primary</color>
+    <color name="darkCardBackground">@*android:color/button_material_dark</color>
     <color name="darkCrop">#33000000</color>
     <color name="darkIcon">#ffbdbdbd</color>
     <color name="darkPrimary">@*android:color/accent_material_dark</color>
@@ -117,7 +117,7 @@
     <color name="green">#ff00ff00</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="ic_launcher_background">@*android:color/holo_primary</color>
+    <color name="ic_launcher_background">@*android:color/button_material_dark</color>
     <color name="intent_color">#ffffffff</color>
     <color name="intent_color_dark">#ffffffff</color> <!--ffc560d6-->
     <color name="lightBackground">#ffffffff</color>

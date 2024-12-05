@@ -306,7 +306,7 @@
     <color name="ht_night_color_e5e5e5">#ffffffff</color>
     <color name="ht_night_color_white">@*android:color/background_dark</color>
     <color name="ht_night_dialog_background">@*android:color/background_dark</color>
-    <color name="ht_night_dialog_btn_cancel_background">@*android:color/holo_primary</color>
+    <color name="ht_night_dialog_btn_cancel_background">@*android:color/button_material_dark</color>
     <color name="ht_night_dialog_btn_cancel_textcolor">#ffb3b3b3</color>
     <color name="ht_night_dialog_btn_confirm_background">@*android:color/accent_material_dark</color>
     <color name="ht_night_frame_color">#30f2f8ff</color>

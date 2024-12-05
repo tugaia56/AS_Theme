@@ -14,7 +14,7 @@
     <color name="pager_shadow_end">#60ffffff</color>
     <color name="region_chip_selected_background">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="snackbar_action_text_color">@*android:color/accent_material_dark</color>
-    <color name="subgroup_overlay_color">@*android:color/holo_primary</color>
+    <color name="subgroup_overlay_color">@*android:color/button_material_dark</color>
     <color name="weather_container_background_color">@*android:color/holo_light_primary_dark</color>
     <color name="weather_container_border">@*android:color/holo_light_primary_dark</color>
     <color name="wheel_loading">#10ffffff</color>

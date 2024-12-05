@@ -556,7 +556,7 @@
             2 0
             0 1
             85 95z" android:fillType="evenOdd" />
-    <path android:fillColor="@*android:color/holo_primary" android:pathData="M83.611
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M83.611
             270.387l-77.378
             -6.77c-3.42
             -0.3 -5.89

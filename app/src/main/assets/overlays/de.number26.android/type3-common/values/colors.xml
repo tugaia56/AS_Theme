@@ -527,9 +527,9 @@
     <color name="nxd_neutral_50">#fff9f9f9</color>
     <color name="nxd_neutral_500">#ff969696</color>
     <color name="nxd_neutral_600">#ffffffff</color>
-    <color name="nxd_neutral_700">@*android:color/holo_primary</color>
+    <color name="nxd_neutral_700">@*android:color/button_material_dark</color>
     <color name="nxd_neutral_800">@*android:color/accent_material_dark</color>
-    <color name="nxd_neutral_815">@*android:color/holo_primary</color>
+    <color name="nxd_neutral_815">@*android:color/button_material_dark</color>
     <color name="nxd_neutral_825">@*android:color/background_dark</color>
     <color name="nxd_neutral_850">@*android:color/background_dark</color>
     <color name="nxd_neutral_900">@*android:color/background_dark</color>

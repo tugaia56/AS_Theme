@@ -110,7 +110,7 @@
     <color name="gm3_ref_palette_white">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/holo_primary</color>
+    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/button_material_dark</color>
@@ -300,7 +300,7 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="quantum_googblue50">@*android:color/holo_primary_dark</color>
+    <color name="quantum_googblue50">@*android:color/button_material_dark</color>
     <color name="quantum_googblue500">@*android:color/accent_material_dark</color>
     <color name="quantum_googblue600">@*android:color/accent_material_dark</color>
     <color name="quantum_googgreen500">#ff0f9d58</color>

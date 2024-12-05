@@ -84,7 +84,7 @@
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="drawer_text_color_dark">#ffefefef</color>
-    <color name="drawer_text_color_light">@*android:color/holo_primary</color>
+    <color name="drawer_text_color_light">@*android:color/button_material_dark</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="folder_header_background">@*android:color/button_material_dark</color>

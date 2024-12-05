@@ -11,7 +11,7 @@
     <color name="account_drawer_bg_color_dark">#ff0f0c03</color>
     <color name="account_setup_button_bar_background">#ff95b9c7</color>
     <color name="account_setup_divider_color">#ffcccccc</color>
-    <color name="account_setup_headline_color">@*android:color/holo_primary</color>
+    <color name="account_setup_headline_color">@*android:color/button_material_dark</color>
     <color name="account_setup_info_text_color">@*android:color/background_dark</color>
     <color name="account_setup_label_large_text_color">@*android:color/background_dark</color>
     <color name="account_setup_label_text_color">#ff666666</color>
@@ -23,7 +23,7 @@
     <color name="account_status_dark_text">#ffffffff</color>
     <color name="account_status_event_bg">#fffa4242</color>
     <color name="account_status_event_text">#ffffffff</color>
-    <color name="account_status_status_black">#ff2f2f2f</color>
+    <color name="account_status_status_black">@*android:color/button_material_dark</color>
     <color name="account_status_status_gray">#fff6f6f6</color>
     <color name="action_bar_bg">#fffbfbfb</color>
     <color name="action_bar_color_default">#fff1f1f1</color>
@@ -56,7 +56,7 @@
     <color name="agenda_item_declined_color">#66333333</color>
     <color name="agenda_item_declined_color_dark">#ff616161</color>
     <color name="agenda_item_not_selected">#00000000</color>
-    <color name="agenda_item_standard_color">@*android:color/holo_primary</color>
+    <color name="agenda_item_standard_color">@*android:color/button_material_dark</color>
     <color name="agenda_item_standard_color_dark">#ffffffff</color>
     <color name="agenda_item_where_declined_text_color">#66666666</color>
     <color name="agenda_item_where_declined_text_color_dark">@*android:color/background_dark</color>
@@ -90,7 +90,7 @@
     <color name="appwidget_date">#ff676767</color>
     <color name="appwidget_item_allday_color">#ffffffff</color>
     <color name="appwidget_item_declined_color">#66333333</color>
-    <color name="appwidget_item_standard_color">@*android:color/holo_primary</color>
+    <color name="appwidget_item_standard_color">@*android:color/button_material_dark</color>
     <color name="appwidget_month">#ffeeeeee</color>
     <color name="appwidget_no_events">#ffffffff</color>
     <color name="appwidget_row_in_progress">#6633b5e5</color>
@@ -108,7 +108,7 @@
     <color name="attachment_jpg">#884593d1</color>
     <color name="attachment_mov">#88d2494a</color>
     <color name="attachment_mp3">#88f2840b</color>
-    <color name="attachment_name_color">@*android:color/holo_primary</color>
+    <color name="attachment_name_color">@*android:color/button_material_dark</color>
     <color name="attachment_pdf">#88e94d4d</color>
     <color name="attachment_plain">#88236def</color>
     <color name="attachment_ppt">#88ed7327</color>
@@ -249,7 +249,7 @@
     <color name="contact_info_silhouette">#fff8f7f7</color>
     <color name="conversation_list_background_color">@*android:color/transparent</color>
     <color name="conversation_list_view_bg">#ffe5e5e5</color>
-    <color name="conversation_list_view_bg_dark">@*android:color/holo_primary</color>
+    <color name="conversation_list_view_bg_dark">@*android:color/button_material_dark</color>
     <color name="conversation_view_background_color">#fff48fb1</color>
     <color name="create_event_date_color">@*android:color/background_dark</color>
     <color name="create_event_date_color_dark">#ffffffff</color>
@@ -372,7 +372,7 @@
     <color name="folder_explorer_blue">@*android:color/accent_material_dark</color>
     <color name="folder_explorer_dark_bg">@*android:color/background_dark</color>
     <color name="folder_explorer_dark_list_bg">@*android:color/background_dark</color>
-    <color name="folder_explorer_dark_pager_title_bg">@*android:color/holo_primary</color>
+    <color name="folder_explorer_dark_pager_title_bg">@*android:color/button_material_dark</color>
     <color name="folder_explorer_dark_text">#ffb9b9b9</color>
     <color name="folder_explorer_dark_title_bg">@*android:color/background_dark</color>
     <color name="folder_explorer_dark_title_color">#ffec8031</color>
@@ -508,7 +508,7 @@
     <color name="list_view_bg_pink">#ffbb81c4</color>
     <color name="loading_messages_background_color">#ffeeeeee</color>
     <color name="lockscr_dark_btn_text_color">#ffb9b9b9</color>
-    <color name="lockscr_dark_color_gray">@*android:color/holo_primary</color>
+    <color name="lockscr_dark_color_gray">@*android:color/button_material_dark</color>
     <color name="lockscr_dark_color_light_gray">@*android:color/background_dark</color>
     <color name="lockscr_dark_color_list_row_selected">#ff873719</color>
     <color name="lockscr_dark_color_mainbg">@*android:color/background_dark</color>
@@ -540,12 +540,12 @@
     <color name="message_header_background_color">@*android:color/white</color>
     <color name="message_list_item_footer_background">#ffeeeeee</color>
     <color name="message_list_item_normal_text">#ffffffff</color>
-    <color name="message_list_item_read_primary_text">@*android:color/holo_primary</color>
+    <color name="message_list_item_read_primary_text">@*android:color/button_material_dark</color>
     <color name="message_list_item_read_primary_text_dark">#ffcccccc</color>
     <color name="message_list_item_read_secondary_text">#ffffffff</color>
-    <color name="message_list_item_unread_primary_text">@*android:color/holo_primary</color>
+    <color name="message_list_item_unread_primary_text">@*android:color/button_material_dark</color>
     <color name="message_list_item_unread_primary_text_dark">#ffffffff</color>
-    <color name="message_list_item_unread_secondary_text">@*android:color/holo_primary</color>
+    <color name="message_list_item_unread_secondary_text">@*android:color/button_material_dark</color>
     <color name="mini_drawer_activated_background_color">#ffd3d3d3</color>
     <color name="mini_month_bg_color">#ffffffff</color>
     <color name="mini_month_today_outline_color">@*android:color/background_dark</color>
@@ -558,8 +558,8 @@
     <color name="month_day_number_dark">#ffffffff</color>
     <color name="month_day_number_other">#ff999999</color>
     <color name="month_day_number_other_dark">#ff616161</color>
-    <color name="month_dna_conflict_time_color">@*android:color/holo_primary</color>
-    <color name="month_event_color">@*android:color/holo_primary</color>
+    <color name="month_dna_conflict_time_color">@*android:color/button_material_dark</color>
+    <color name="month_event_color">@*android:color/button_material_dark</color>
     <color name="month_event_color_dark">#ffffffff</color>
     <color name="month_event_extra_color">#ff666666</color>
     <color name="month_event_extra_color_dark">#ffffffff</color>
@@ -759,7 +759,7 @@
     <color name="sys_msg_btn_bg_dark">#ffaa5311</color>
     <color name="sys_msg_btn_light_bg">#b055acee</color>
     <color name="sys_msg_btn_light_bg_dark">#b0aa5311</color>
-    <color name="task_divider">@*android:color/holo_primary</color>
+    <color name="task_divider">@*android:color/button_material_dark</color>
     <color name="task_empty_circle">#ff61a8e4</color>
     <color name="task_full_circle">#ffdd5900</color>
     <color name="task_header_text">#ff61a8e4</color>

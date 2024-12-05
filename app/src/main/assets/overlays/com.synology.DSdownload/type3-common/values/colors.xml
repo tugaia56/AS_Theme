@@ -120,7 +120,7 @@
     <color name="popup_over_black__title_fg">#ffffffff</color>
     <color name="popup_over_white__listview_line">#ffdce0e4</color>
     <color name="popup_over_white__title_fg">#ffffffff</color>
-    <color name="preference_bg_gray">@*android:color/holo_primary</color>
+    <color name="preference_bg_gray">@*android:color/button_material_dark</color>
     <color name="preference_category_divider_gray">#ff575757</color>
     <color name="preference_category_gray">@*android:color/button_material_dark</color>
     <color name="preference_category_holo_gray">#ff6b6b6b</color>

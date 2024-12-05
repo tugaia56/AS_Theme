@@ -29,7 +29,7 @@
     <color name="cylinder_effect_side_color">#ff353639</color>
     <color name="digilocker_purple">@*android:color/accent_material_dark</color>
     <color name="disabled_selection_indicator_circle">#61ffffff</color>
-    <color name="disconnected_background">@*android:color/holo_primary</color>
+    <color name="disconnected_background">@*android:color/button_material_dark</color>
     <color name="fullscreen_progressbar_progress_background">@*android:color/ripple_material_dark</color>
     <color name="fullscreen_progressbar_whole_screen_background">@*android:color/ripple_material_dark</color>
     <color name="icon_background_color">@*android:color/ripple_material_dark</color>
@@ -51,5 +51,5 @@
     <color name="total_storage_card_blob_bottom_wave">@*android:color/background_dark</color>
     <color name="total_storage_card_blob_dot">@*android:color/accent_material_dark</color>
     <color name="total_storage_card_blob_shadow">@*android:color/background_dark</color>
-    <color name="total_storage_card_blob_top_wave">@*android:color/holo_primary</color>
+    <color name="total_storage_card_blob_top_wave">@*android:color/button_material_dark</color>
 </resources>

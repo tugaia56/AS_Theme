@@ -11,7 +11,7 @@
     <color name="ad_overlay_background">#99000000</color>
     <color name="ad_text_1_light">@*android:color/background_dark</color>
     <color name="ad_text_2_light">#ff606060</color>
-    <color name="ad_text_3_light">@*android:color/holo_primary</color>
+    <color name="ad_text_3_light">@*android:color/button_material_dark</color>
     <color name="ad_text_4_light">#ff666666</color>
     <color name="alignment_marker_color">#ffb4b4b4</color>
     <color name="background_floating_material_light">@*android:color/white</color>

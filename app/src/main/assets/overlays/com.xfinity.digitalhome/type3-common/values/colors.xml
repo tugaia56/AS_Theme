@@ -928,7 +928,7 @@
     <color name="xfdesign_smolder">#ff1f232e</color>
     <color name="xfdesign_tangerine">#ffff9271</color>
     <color name="xfdesign_turq">#ff50c3d5</color>
-    <color name="xfdesign_white">@*android:color/holo_primary</color>
+    <color name="xfdesign_white">@*android:color/button_material_dark</color>
     <color name="xfdesign_xfinityLight_standardCardTitleTextColor">#689f38</color>
     <color name="xfdesign_yellow_pumpkin">#ffffa700</color>
     <color name="xfinity_app_material_1">#ffffffff</color>

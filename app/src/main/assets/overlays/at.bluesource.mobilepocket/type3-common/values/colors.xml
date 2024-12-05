@@ -52,7 +52,7 @@
     <color name="blue_code_white_transparent">#f2ffffff</color>
     <color name="blue_code_white_transparent_50">#80ffffff</color>
     <color name="bluecode_bank_result_cell_logo_bg_color">#ff4990e2</color>
-    <color name="bluecode_cell_first_text">@*android:color/holo_primary</color>
+    <color name="bluecode_cell_first_text">@*android:color/button_material_dark</color>
     <color name="bluecode_cell_first_text_red">#ffd31930</color>
     <color name="bluecode_cell_second_text">#ff717171</color>
     <color name="bluecode_menu_connected">#ff7dd221</color>
@@ -273,9 +273,9 @@
     <color name="hs__composeBackgroundColor_DarkActionBar">@*android:color/holo_light_primary_dark</color>
     <color name="hs__composeBackgroundColor_HighContrast">@*android:color/holo_light_primary_dark</color>
     <color name="hs__composeBackgroundColor_Light">@*android:color/holo_light_primary_dark</color>
-    <color name="hs__containerBackgroundColor_DarkActionBar">@*android:color/holo_primary</color>
-    <color name="hs__containerBackgroundColor_HighContrast">@*android:color/holo_primary</color>
-    <color name="hs__containerBackgroundColor_Light">@*android:color/holo_primary</color>
+    <color name="hs__containerBackgroundColor_DarkActionBar">@*android:color/button_material_dark</color>
+    <color name="hs__containerBackgroundColor_HighContrast">@*android:color/button_material_dark</color>
+    <color name="hs__containerBackgroundColor_Light">@*android:color/button_material_dark</color>
     <color name="hs__contentSeparatorColor_DarkActionBar">@*android:color/background_dark</color>
     <color name="hs__contentSeparatorColor_HighContrast">@*android:color/background_dark</color>
     <color name="hs__contentSeparatorColor_Light">@*android:color/background_dark</color>
@@ -368,7 +368,7 @@
     <color name="medium_emphasis_light">#ffffffff</color>
     <color name="menu_item_default">#ffffffff</color>
     <color name="menu_item_default_icon">#ffffffff</color>
-    <color name="menu_item_selected">@*android:color/holo_primary</color>
+    <color name="menu_item_selected">@*android:color/button_material_dark</color>
     <color name="mine_shaft">@*android:color/background_dark</color>
     <color name="mp_grey">@*android:color/accent_material_dark</color>
     <color name="mp_text_grey">#ffffffff</color>

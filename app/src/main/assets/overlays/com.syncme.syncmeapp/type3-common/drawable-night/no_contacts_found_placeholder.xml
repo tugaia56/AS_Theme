@@ -225,7 +225,7 @@
     <path android:fillColor="#00000000" android:pathData="M47.876
             55.424S55.252
             46.899 64.028
-            55.424" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="3.0" android:strokeLineCap="round" />
+            55.424" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="3.0" android:strokeLineCap="round" />
     <path android:fillColor="#ffffffff" android:pathData="M40.816
             52.338m-4
             0a4

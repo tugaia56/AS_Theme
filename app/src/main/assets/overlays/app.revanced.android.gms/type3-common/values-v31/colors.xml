@@ -123,7 +123,7 @@
     <color name="material_dynamic_neutral95">@*android:color/background_dark</color>
     <color name="material_dynamic_neutral99">#81c784</color>
     <color name="material_dynamic_neutral_variant0">#a5d6a7</color>
-    <color name="material_dynamic_neutral_variant10">@*android:color/holo_primary</color>
+    <color name="material_dynamic_neutral_variant10">@*android:color/button_material_dark</color>
     <color name="material_dynamic_neutral_variant100">#64dd17</color>
     <color name="material_dynamic_neutral_variant20">#76ff03</color>
     <color name="material_dynamic_neutral_variant30">#b2ff59</color>

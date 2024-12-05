@@ -262,8 +262,8 @@
     <color name="gradation_05_light">#ffbdbdbd</color>
     <color name="gradation_06_dark">@*android:color/holo_light_primary_dark</color>
     <color name="gradation_06_light">@*android:color/holo_light_primary_dark</color>
-    <color name="gradation_07_dark">@*android:color/holo_primary</color>
-    <color name="gradation_07_light">@*android:color/holo_primary</color>
+    <color name="gradation_07_dark">@*android:color/button_material_dark</color>
+    <color name="gradation_07_light">@*android:color/button_material_dark</color>
     <color name="gradation_08_dark">@*android:color/button_material_dark</color>
     <color name="gradation_08_light">@*android:color/button_material_dark</color>
     <color name="gradation_09_dark">@*android:color/button_material_dark</color>
@@ -313,7 +313,7 @@
     <color name="grey_400">#ffbdbdbd</color>
     <color name="grey_50">#fffafafa</color>
     <color name="grey_500">@*android:color/holo_light_primary_dark</color>
-    <color name="grey_600">@*android:color/holo_primary</color>
+    <color name="grey_600">@*android:color/button_material_dark</color>
     <color name="grey_700">@*android:color/button_material_dark</color>
     <color name="grey_800">@*android:color/button_material_dark</color>
     <color name="grey_900">@*android:color/button_material_dark</color>
@@ -390,7 +390,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffffffff</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">@*android:color/holo_primary</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/button_material_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/button_material_dark</color>
@@ -420,7 +420,7 @@
     <color name="oneplus_contorl_bg_color_menu_light">#ffffffff</color>
     <color name="oneplus_contorl_bg_color_statusbar_dark">@*android:color/background_dark</color>
     <color name="oneplus_contorl_bg_color_statusbar_light">#ffffffff</color>
-    <color name="oneplus_contorl_bg_color_steppers_dark">@*android:color/holo_primary</color>
+    <color name="oneplus_contorl_bg_color_steppers_dark">@*android:color/button_material_dark</color>
     <color name="oneplus_contorl_bg_color_steppers_light">#fff2f2f2</color>
     <color name="oneplus_contorl_divider_color_dark">#1effffff</color>
     <color name="oneplus_contorl_divider_color_light">#14000000</color>
@@ -500,7 +500,7 @@
     <color name="pink_a400">#ffdd3a82</color>
     <color name="pink_a700">#ffcf2d74</color>
     <color name="preference_category_color_dark">#ff134d5d</color>
-    <color name="preference_category_color_light">@*android:color/holo_primary</color>
+    <color name="preference_category_color_light">@*android:color/button_material_dark</color>
     <color name="primary_charm_purple_dark">#ff9575cd</color>
     <color name="primary_charm_purple_light">#ff673ab7</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
@@ -646,7 +646,7 @@
     <color name="text_color_primary">#d8000000</color>
     <color name="text_color_secondary">#66000000</color>
     <color name="timepicker_ampmlabel_text_color_dark">#ffffffff</color>
-    <color name="timepicker_numbers_background_color_dark">@*android:color/holo_primary</color>
+    <color name="timepicker_numbers_background_color_dark">@*android:color/button_material_dark</color>
     <color name="timepicker_numbers_background_color_light">#fff0f0f0</color>
     <color name="timepicker_numbers_inner_text_color">#b7000000</color>
     <color name="timepicker_numbers_inner_text_color_dark">#89ffffff</color>

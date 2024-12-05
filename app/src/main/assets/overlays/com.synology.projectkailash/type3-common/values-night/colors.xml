@@ -4,9 +4,9 @@
     <color name="c1">#ffffffff</color>
     <color name="c10">#ff84878a</color>
     <color name="c11">#26ffffff</color>
-    <color name="c12">@*android:color/holo_primary</color>
+    <color name="c12">@*android:color/button_material_dark</color>
     <color name="c13">@*android:color/accent_material_dark</color>
-    <color name="c14">@*android:color/holo_primary</color>
+    <color name="c14">@*android:color/button_material_dark</color>
     <color name="c15">#803b3b3b</color>
     <color name="c16">@*android:color/background_dark</color>
     <color name="c17">@*android:color/background_dark</color>

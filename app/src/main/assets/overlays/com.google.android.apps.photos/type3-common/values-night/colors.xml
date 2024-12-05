@@ -11,7 +11,7 @@
     <color name="photos_daynight_blue50">@*android:color/ripple_material_dark</color>
     <color name="photos_daynight_grey800_alpha38">@*android:color/ripple_material_dark</color>
     <color name="photos_daynight_white_elevation_12dp">#ff3b3b3e</color>
-    <color name="photos_daynight_white_elevation_1dp">@*android:color/holo_primary</color>
+    <color name="photos_daynight_white_elevation_1dp">@*android:color/button_material_dark</color>
     <color name="photos_daynight_white_elevation_3dp">@*android:color/background_dark</color>
     <color name="photos_daynight_white_elevation_8dp">@*android:color/background_dark</color>
     <color name="photos_draganddrop_drop_overlay_background">#f0000000</color>

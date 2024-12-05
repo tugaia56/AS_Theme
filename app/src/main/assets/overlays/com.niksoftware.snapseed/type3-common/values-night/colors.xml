@@ -10,7 +10,7 @@
     <color name="primary_dark">@*android:color/background_dark</color>
     <color name="primary_dark_transparent">@*android:color/background_dark</color>
     <color name="secondary_background">@*android:color/background_dark</color>
-    <color name="slider_background">@*android:color/holo_primary</color>
+    <color name="slider_background">@*android:color/button_material_dark</color>
     <color name="status_bar_light">#ff323335</color>
     <color name="theme_item_disabled">@*android:color/background_dark</color>
     <color name="theme_item_normal">@*android:color/white</color>

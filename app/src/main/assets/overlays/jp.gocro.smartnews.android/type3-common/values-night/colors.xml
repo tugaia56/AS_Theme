@@ -50,14 +50,14 @@
     <color name="feed_date_marker_chip_background">#1affffff</color>
     <color name="feed_explicit_signal_collection_rejected_background">#ff2c2c2c</color>
     <color name="feed_lite_article_background">@*android:color/background_dark</color>
-    <color name="feed_lite_article_slim_background">@*android:color/holo_primary</color>
+    <color name="feed_lite_article_slim_background">@*android:color/button_material_dark</color>
     <color name="feed_tsb_info_sheet_divider">#32ffffff</color>
     <color name="follow_category_tag_bg_select">@*android:color/white</color>
     <color name="follow_category_tag_bg_unselect">#ff3a3b3c</color>
     <color name="follow_category_tag_border_unselect">#ff3a3b3c</color>
     <color name="follow_category_tag_text_select">@*android:color/black</color>
     <color name="follow_category_tag_text_unselect">#deffffff</color>
-    <color name="follow_chip_background_checked">@*android:color/holo_primary</color>
+    <color name="follow_chip_background_checked">@*android:color/button_material_dark</color>
     <color name="follow_edittext_background">#40ffffff</color>
     <color name="follow_entity_key">@*android:color/white</color>
     <color name="follow_entity_key_reverse">@*android:color/black</color>
@@ -174,7 +174,7 @@
     <color name="us_radar_tab_layout_background">#3d767680</color>
     <color name="us_radar_tab_layout_selected">#ff636366</color>
     <color name="weather_jp_disaster_level_detail_icon_close_tint">#deffffff</color>
-    <color name="weather_jp_disaster_loading_placeholder">@*android:color/holo_primary</color>
+    <color name="weather_jp_disaster_loading_placeholder">@*android:color/button_material_dark</color>
     <color name="weather_jp_disaster_region_border_color">@*android:color/background_leanback_dark</color>
     <color name="weather_jp_live_camera_placeholder">#33ffffff</color>
     <color name="weather_jp_radarBanner_placeholder_color">@*android:color/background_dark</color>

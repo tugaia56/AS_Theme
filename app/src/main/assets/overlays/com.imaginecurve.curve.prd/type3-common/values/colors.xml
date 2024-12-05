@@ -178,7 +178,7 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">@*android:color/holo_primary</color>
+    <color name="design_snackbar_background_color">@*android:color/button_material_dark</color>
     <color name="edit_text_border_selected">#ff0051dc</color>
     <color name="edit_text_border_unselected">#ff616188</color>
     <color name="edit_text_default_color">#ff222222</color>
@@ -394,7 +394,7 @@
     <color name="kus_white_variant">#fff8fafd</color>
     <color name="kustomerColorSurfaceVariant">#4c000000</color>
     <color name="launchpad_banner_warning_color">#1af2a100</color>
-    <color name="launchpad_button_background">@*android:color/holo_primary_dark</color>
+    <color name="launchpad_button_background">@*android:color/button_material_dark</color>
     <color name="lightGrey">#ffd3d3d3</color>
     <color name="list_item_curve_flex_charges_declined_status_color">#fff4982b</color>
     <color name="list_item_flex_loan_details_repayments_completed_color">#ff50b554</color>

@@ -4,5 +4,5 @@
     <color name="color_edge_effect">@*android:color/white</color>
     <color name="settingslib_colorSurfaceHeader">@*android:color/background_dark</color>
     <color name="settingslib_text_color_primary_device_default">@*android:color/accent_material_dark</color>
-    <color name="settingslib_surface_dark">@*android:color/holo_primary</color>
+    <color name="settingslib_surface_dark">@*android:color/button_material_dark</color>
 </resources>

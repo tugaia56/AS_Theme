@@ -43,7 +43,7 @@
     <color name="hiad_emui_button_pressed">@*android:color/background_dark</color>
     <color name="hiad_emui_color_subbg">@*android:color/background_dark</color>
     <color name="hiad_emui_white">@*android:color/background_dark</color>
-    <color name="hiad_endcard_default_bg">@*android:color/holo_primary</color>
+    <color name="hiad_endcard_default_bg">@*android:color/button_material_dark</color>
     <color name="hiad_endcard_desc_color">#99ffffff</color>
     <color name="hiad_endcard_text_color">#ffffffff</color>
     <color name="hiad_install_success_card_color">#ff363636</color>
@@ -70,9 +70,9 @@
     <color name="hiad_video_progress_blue_hm">#ff317af7</color>
     <color name="hiad_whythisad_root_bg">#ffffffff</color>
     <color name="theme_color">#ff3f97e9</color>
-    <color name="upsdk_color_gray_1">@*android:color/holo_primary</color>
+    <color name="upsdk_color_gray_1">@*android:color/button_material_dark</color>
     <color name="upsdk_color_gray_10">#ffe6e6e6</color>
-    <color name="emui_color_gray_1">@*android:color/holo_primary</color>
+    <color name="emui_color_gray_1">@*android:color/button_material_dark</color>
     <color name="emui_color_gray_10">#ffe6e6e6</color>
     <color name="emui_color_gray_7">#ff808080</color>
 </resources>

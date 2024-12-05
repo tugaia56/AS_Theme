@@ -345,7 +345,7 @@
     <color name="selling_active_organic_color_bar">#ff18a5a5</color>
     <color name="shipment_tracking_completed_green">#ff3ac952</color>
     <color name="shipment_tracking_upcoming_grey">#ffc7c7c7</color>
-    <color name="sign_in_google_text">@*android:color/holo_primary</color>
+    <color name="sign_in_google_text">@*android:color/button_material_dark</color>
     <color name="snap_connect_core_dark_yellow">#fff7eb20</color>
     <color name="snap_connect_core_yellow">#fffffc00</color>
     <color name="social_splash_screen_content_background_color">#fffd6970</color>

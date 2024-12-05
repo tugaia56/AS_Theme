@@ -46,7 +46,7 @@
     <color name="colorProfileTextOff">#ffffffff</color>
     <color name="colorResetSelectedText">#ffffffff</color>
     <color name="colorResetText">#ffffffff</color>
-    <color name="colorSelectedGeqBackgroundBar">@*android:color/holo_primary</color>
+    <color name="colorSelectedGeqBackgroundBar">@*android:color/button_material_dark</color>
     <color name="colorSelectedGeqBar">@*android:color/accent_material_dark</color>
     <color name="colorSelectedGeqBarTopLine">#ff85b1c6</color>
     <color name="colorSelectedTabText">@*android:color/accent_material_dark</color>

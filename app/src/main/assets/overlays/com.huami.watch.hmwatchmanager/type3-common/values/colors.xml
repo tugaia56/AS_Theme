@@ -579,7 +579,7 @@
     <color name="grayWithe">#ffebebeb</color>
     <color name="grayWithe100">#fff8f8f8</color>
     <color name="gray_400">#ffbdbdbd</color>
-    <color name="gray_600">@*android:color/holo_primary</color>
+    <color name="gray_600">@*android:color/button_material_dark</color>
     <color name="gray_e1">#ffe1e1e1</color>
     <color name="green_af">#ffa9bfff</color>
     <color name="green_ff">#fff3f7ff</color>
@@ -803,7 +803,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffffffff</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">@*android:color/holo_primary</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>

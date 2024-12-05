@@ -3,7 +3,7 @@
     <color name="DriveMode_Action_40">@*android:color/accent_material_dark</color>
     <color name="DriveMode_Background">@*android:color/background_dark</color>
     <color name="DriveMode_Background_Transparent">#00010b14</color>
-    <color name="DriveMode_ControlBackground">@*android:color/holo_primary</color>
+    <color name="DriveMode_ControlBackground">@*android:color/button_material_dark</color>
     <color name="DriveMode_TextPrimary">#ffffffff</color>
     <color name="Icon10">#fff04747</color>
     <color name="Icon100">@*android:color/button_material_dark</color>
@@ -32,7 +32,7 @@
     <color name="Icon70_dark">#ff007db8</color>
     <color name="Icon80">#ff148fcc</color>
     <color name="Icon80_dark">@*android:color/accent_material_dark</color>
-    <color name="Icon90">@*android:color/holo_primary</color>
+    <color name="Icon90">@*android:color/button_material_dark</color>
     <color name="Icon90_dark">#ffffffff</color>
     <color name="abc_input_method_navigation_guard">@*android:color/black</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
@@ -99,7 +99,7 @@
     <color name="audio_message_play">@*android:color/accent_material_dark</color>
     <color name="backgroundColor">#ffffffff</color>
     <color name="backgroundColor_dark">@*android:color/background_dark</color>
-    <color name="background_color">#fff2f2f2</color>
+    <color name="background_color">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="bar_background_fill">#e9f2f2f2</color>
     <color name="bar_border_gray">#ff979797</color>
@@ -271,7 +271,7 @@
     <color name="darkThemeNeutral10">#ffffffff</color>
     <color name="darkThemeNeutral20">@*android:color/holo_light_primary_dark</color>
     <color name="darkThemeNeutral30">#ffffffff</color>
-    <color name="darkThemeNeutral40">@*android:color/holo_primary</color>
+    <color name="darkThemeNeutral40">@*android:color/button_material_dark</color>
     <color name="darkThemeNeutral50">@*android:color/button_material_dark</color>
     <color name="darkThemeNeutral60">@*android:color/background_dark</color>
     <color name="darkThemeStatus10">#ffff8484</color>
@@ -439,7 +439,7 @@
     <color name="lightThemeIcon60">#ff1280a5</color>
     <color name="lightThemeIcon70">@*android:color/accent_material_dark</color>
     <color name="lightThemeIcon80">#ff148fcc</color>
-    <color name="lightThemeIcon90">@*android:color/holo_primary</color>
+    <color name="lightThemeIcon90">@*android:color/button_material_dark</color>
     <color name="lightThemeNeutral10">#ff010814</color>
     <color name="lightThemeNeutral20">#ff5f5f5f</color>
     <color name="lightThemeNeutral30">#ffffffff</color>
@@ -668,8 +668,8 @@
     <color name="mosaic_card_header_background_warning">#ffa96000</color>
     <color name="mosaic_card_monetization_status_text_default">@*android:color/accent_material_dark</color>
     <color name="mosaic_card_monetization_status_text_pressed">@*android:color/accent_material_dark</color>
-    <color name="mosaic_card_monetization_title_text_default">@*android:color/holo_primary</color>
-    <color name="mosaic_card_monetization_title_text_pressed">@*android:color/holo_primary</color>
+    <color name="mosaic_card_monetization_title_text_default">@*android:color/button_material_dark</color>
+    <color name="mosaic_card_monetization_title_text_pressed">@*android:color/button_material_dark</color>
     <color name="mosaic_chat_bubble_background_customer_text">#fff5f5f5</color>
     <color name="mosaic_chat_bubble_text_alexa_text">#ffffffff</color>
     <color name="mosaic_chat_bubble_text_customer_text">@*android:color/background_dark</color>
@@ -1489,7 +1489,7 @@
     <color name="mosaic_media_player_controls_button_primary_icon_default">#fff5f5f5</color>
     <color name="mosaic_media_player_controls_button_primary_icon_disabled">#4df5f5f5</color>
     <color name="mosaic_media_player_controls_button_primary_icon_pressed">#fff5f5f5</color>
-    <color name="mosaic_media_player_controls_button_secondary_icon_default">@*android:color/holo_primary</color>
+    <color name="mosaic_media_player_controls_button_secondary_icon_default">@*android:color/button_material_dark</color>
     <color name="mosaic_media_player_controls_button_secondary_icon_disabled">@*android:color/group_button_dialog_pressed_holo_dark</color>
     <color name="mosaic_media_player_controls_button_secondary_icon_pressed">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="mosaic_media_player_controls_button_tertiary_icon_active">@*android:color/accent_material_dark</color>
@@ -1573,9 +1573,9 @@
     <color name="mosaic_search_text_active">@*android:color/accent_material_dark</color>
     <color name="mosaic_search_text_rest_default">@*android:color/accent_material_dark</color>
     <color name="mosaic_search_text_rest_pressed">@*android:color/accent_material_dark</color>
-    <color name="mosaic_search_text_typed_default">@*android:color/holo_primary</color>
-    <color name="mosaic_search_text_typed_pressed">@*android:color/holo_primary</color>
-    <color name="mosaic_search_text_typing">@*android:color/holo_primary</color>
+    <color name="mosaic_search_text_typed_default">@*android:color/button_material_dark</color>
+    <color name="mosaic_search_text_typed_pressed">@*android:color/button_material_dark</color>
+    <color name="mosaic_search_text_typing">@*android:color/button_material_dark</color>
     <color name="mosaic_section_header_action_text_default">@*android:color/accent_material_dark</color>
     <color name="mosaic_section_header_action_text_disabled">#4d0078be</color>
     <color name="mosaic_section_header_action_text_pressed">#800078be</color>
@@ -1864,7 +1864,7 @@
     <color name="mosaic_toast_action_text_pressed">#800078be</color>
     <color name="mosaic_toast_background">#fff5f5f5</color>
     <color name="mosaic_toast_icon_success">#ff00833b</color>
-    <color name="mosaic_toast_title_text">@*android:color/holo_primary</color>
+    <color name="mosaic_toast_title_text">@*android:color/button_material_dark</color>
     <color name="mosaic_transport_bar_app_default_background_default">#ffffffff</color>
     <color name="mosaic_transport_bar_app_default_background_disabled">#ffffffff</color>
     <color name="mosaic_transport_bar_app_default_background_pressed">#ffffffff</color>
@@ -1916,7 +1916,7 @@
     <color name="neutral30">#ffffffff</color>
     <color name="neutral30_dark">#ffffffff</color>
     <color name="neutral40">#ffdbdcdc</color>
-    <color name="neutral40_dark">@*android:color/holo_primary</color>
+    <color name="neutral40_dark">@*android:color/button_material_dark</color>
     <color name="neutral50">#ffe8e8e8</color>
     <color name="neutral50_dark">@*android:color/button_material_dark</color>
     <color name="neutral60">#fff6f6f6</color>

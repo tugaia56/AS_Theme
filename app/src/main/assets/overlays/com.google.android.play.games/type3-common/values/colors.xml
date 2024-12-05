@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_pressed">@*android:color/background_dark</color>
     <color name="abc_search_url_text_selected">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="boingo_grey">@*android:color/holo_primary</color>
+    <color name="boingo_grey">@*android:color/button_material_dark</color>
     <color name="boingo_white">#ffffffff</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -49,7 +49,7 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">@*android:color/holo_primary</color>
+    <color name="design_snackbar_background_color">@*android:color/button_material_dark</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
@@ -82,9 +82,9 @@
     <color name="games__home__instanthome__herovideo__overlay_background">#a3000000</color>
     <color name="games__privacy__description_background_color_dark">#ff323134</color>
     <color name="games__profile__avatar__select_fill_color">#ccffffff</color>
-    <color name="games__profile__level_chip_stroke_dark">@*android:color/holo_primary</color>
+    <color name="games__profile__level_chip_stroke_dark">@*android:color/button_material_dark</color>
     <color name="games__profile_creation_button_color">@*android:color/accent_material_dark</color>
-    <color name="games__profile_creation_upsell_item_background_dark">@*android:color/holo_primary</color>
+    <color name="games__profile_creation_upsell_item_background_dark">@*android:color/button_material_dark</color>
     <color name="games__profile_creation_upsell_item_background_light">#fffefcf7</color>
     <color name="games__profile_creation_upsell_item_background_stroke_dark">@*android:color/accent_material_dark</color>
     <color name="games__profile_creation_upsell_item_background_stroke_light">@*android:color/accent_material_dark</color>
@@ -94,7 +94,7 @@
     <color name="games_holo_gray_light">#33999999</color>
     <color name="games_metagame_avatar_focused_outline_fill">#4db2cb39</color>
     <color name="games_metagame_avatar_focused_outline_stroke">#9996aa39</color>
-    <color name="games_tile_text_color_primary_text">@*android:color/holo_primary</color>
+    <color name="games_tile_text_color_primary_text">@*android:color/button_material_dark</color>
     <color name="games_video_recording_onboarding_background_color">#fff5f5f5</color>
     <color name="games_video_recording_onboarding_dot_active">#ff616161</color>
     <color name="games_video_recording_onboarding_dot_inactive">#66616161</color>
@@ -423,11 +423,11 @@
     <color name="quantum_googgreen500">#ff0f9d58</color>
     <color name="quantum_googred500">#ffdb4437</color>
     <color name="quantum_googyellow500">#fff4b400</color>
-    <color name="replay__background_color_dark_elevation_level1">@*android:color/holo_primary</color>
-    <color name="replay__background_color_dark_elevation_level2">@*android:color/holo_primary</color>
-    <color name="replay__background_color_dark_elevation_level3">@*android:color/holo_primary</color>
-    <color name="replay__background_color_dark_elevation_level4">@*android:color/holo_primary</color>
-    <color name="replay__background_color_dark_elevation_level5">@*android:color/holo_primary</color>
+    <color name="replay__background_color_dark_elevation_level1">@*android:color/button_material_dark</color>
+    <color name="replay__background_color_dark_elevation_level2">@*android:color/button_material_dark</color>
+    <color name="replay__background_color_dark_elevation_level3">@*android:color/button_material_dark</color>
+    <color name="replay__background_color_dark_elevation_level4">@*android:color/button_material_dark</color>
+    <color name="replay__background_color_dark_elevation_level5">@*android:color/button_material_dark</color>
     <color name="replay__badge_background_color">#db202124</color>
     <color name="replay__cardimageview___shadow_end_color">#03000000</color>
     <color name="replay__cardimageview__shadow_start_color">#37000000</color>

@@ -437,7 +437,7 @@
     <color name="coui_color_surface">#fffafafa</color>
     <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_top">#ffffffff</color>
-    <color name="coui_color_surface_top_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_surface_top_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">#fff5f5f5</color>
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>

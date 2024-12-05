@@ -88,7 +88,7 @@
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="indigo_500">#ff3f51b5</color>
-    <color name="itemsSummaryColor">@*android:color/holo_primary</color>
+    <color name="itemsSummaryColor">@*android:color/button_material_dark</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">@*android:color/background_dark</color>

@@ -55,7 +55,7 @@
     <color name="com_braze_inappmessage_button_text_light">@*android:color/white</color>
     <color name="com_braze_inappmessage_chevron">#ff9b9b9b</color>
     <color name="com_braze_inappmessage_frame_light">#c0333333</color>
-    <color name="com_braze_inappmessage_header_text">@*android:color/holo_primary</color>
+    <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
     <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
@@ -142,7 +142,7 @@
     <color name="pkt_dm_grey_4">#ff999999</color>
     <color name="pkt_dm_grey_5">#ff737373</color>
     <color name="pkt_dm_grey_6">@*android:color/background_dark</color>
-    <color name="pkt_dm_grey_7">@*android:color/holo_primary</color>
+    <color name="pkt_dm_grey_7">@*android:color/button_material_dark</color>
     <color name="pkt_dm_lapis_1">#ff1649ac</color>
     <color name="pkt_dm_lapis_3">#ff95d2ff</color>
     <color name="pkt_dm_lapis_5">#ff15253d</color>
@@ -153,7 +153,7 @@
     <color name="pkt_dm_teal_5">@*android:color/accent_material_dark</color>
     <color name="pkt_dm_teal_6">@*android:color/accent_material_dark</color>
     <color name="pkt_grey_1">@*android:color/background_dark</color>
-    <color name="pkt_grey_2">@*android:color/holo_primary</color>
+    <color name="pkt_grey_2">@*android:color/button_material_dark</color>
     <color name="pkt_grey_3">@*android:color/background_dark</color>
     <color name="pkt_grey_4">#ff737373</color>
     <color name="pkt_grey_5">#ff8c8c8c</color>

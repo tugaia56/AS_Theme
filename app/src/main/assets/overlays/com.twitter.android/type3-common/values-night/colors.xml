@@ -14,7 +14,7 @@
     <color name="custom_push_primary_dark_color">#b2ffffff</color>
     <color name="global_ripple_selector_color">#6dffffff</color>
     <color name="gray_0">@*android:color/background_dark</color>
-    <color name="gray_200">@*android:color/holo_primary</color>
+    <color name="gray_200">@*android:color/button_material_dark</color>
     <color name="gray_300">#ff6b7d8c</color>
     <color name="gray_300_opacity_30">#4d6b7d8c</color>
     <color name="gray_300_opacity_50">#806b7d8c</color>

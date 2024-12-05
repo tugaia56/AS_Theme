@@ -182,7 +182,7 @@
     <color name="gm3_ref_palette_yellow90">#ffffdf99</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/holo_primary</color>
+    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/button_material_dark</color>
@@ -219,7 +219,7 @@
     <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
     <color name="gm_ref_palette_grey600">#ff80868b</color>
     <color name="gm_ref_palette_grey700">#ff5f6368</color>
-    <color name="gm_ref_palette_grey800">@*android:color/holo_primary</color>
+    <color name="gm_ref_palette_grey800">@*android:color/button_material_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="gm_ref_palette_red200">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red300">@*android:color/accent_material_dark</color>
@@ -238,7 +238,7 @@
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
     <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="go_to_top_button_background">#f5ffffff</color>
-    <color name="go_to_top_button_tint">@*android:color/holo_primary</color>
+    <color name="go_to_top_button_tint">@*android:color/button_material_dark</color>
     <color name="google_blue_800">#ff2a56c6</color>
     <color name="google_blue_900">#ff1c3aa9</color>
     <color name="google_blue_grey_300">#ff90a4ae</color>
@@ -435,7 +435,7 @@
     <color name="sticker_gallery_tab_selected_color_dark_mode">@*android:color/accent_material_dark</color>
     <color name="sticker_gallery_tab_text_color_dark_mode">#ffbdc1c6</color>
     <color name="sticker_icon_background_color">#fff1f1f1</color>
-    <color name="sticker_icon_background_color_dark_mode">@*android:color/holo_primary</color>
+    <color name="sticker_icon_background_color_dark_mode">@*android:color/button_material_dark</color>
     <color name="sticker_pack_author_color_dark_mode">#ffbdc1c6</color>
     <color name="sticker_shadow_color_dark_mode">#ff616161</color>
     <color name="sud_color_accent_glif_dark">@*android:color/accent_material_dark</color>
@@ -448,7 +448,7 @@
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>
     <color name="sud_glif_edit_text_bg_light_color">#0a000000</color>
-    <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/holo_primary</color>
+    <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/button_material_dark</color>
     <color name="sud_glif_v3_nav_bar_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_v3_nav_bar_color_light">#ffffffff</color>
     <color name="sud_glif_v3_nav_bar_divider_color_dark">#00000000</color>

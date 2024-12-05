@@ -41,7 +41,7 @@
     <color name="blue_70_opacity_8">#cc2a88e6</color>
     <color name="blue_70_opacity_9">#e62a88e6</color>
     <color name="default_text">#fff4f4f4</color>
-    <color name="default_text_inverted">@*android:color/holo_primary</color>
+    <color name="default_text_inverted">@*android:color/button_material_dark</color>
     <color name="default_text_inverted_opacity_1">#1a252525</color>
     <color name="default_text_inverted_opacity_2">#33252525</color>
     <color name="default_text_inverted_opacity_3">#4d252525</color>
@@ -71,7 +71,7 @@
     <color name="gcm_keyboard_text">#ffffffff</color>
     <color name="gcm_snackbar_surface">#fffbfbfb</color>
     <color name="gcm_snackbar_text_action">@*android:color/accent_material_dark</color>
-    <color name="gcm_snackbar_text_primary">@*android:color/holo_primary</color>
+    <color name="gcm_snackbar_text_primary">@*android:color/button_material_dark</color>
     <color name="gcm_switch_thumb_primary_action_checked_disabled">#ff37618a</color>
     <color name="gcm_switch_track_primary_action_checked_disabled">#610688cb</color>
     <color name="gcm_system_primary_action">@*android:color/accent_material_dark</color>
@@ -267,7 +267,7 @@
     <color name="red_70_opacity_7">#b3ee3e3e</color>
     <color name="red_70_opacity_8">#ccee3e3e</color>
     <color name="red_70_opacity_9">#e6ee3e3e</color>
-    <color name="secondary_action">@*android:color/holo_primary_dark</color>
+    <color name="secondary_action">@*android:color/button_material_dark</color>
     <color name="secondary_action_opacity_1">#1a1b2029</color>
     <color name="secondary_action_opacity_2">#331b2029</color>
     <color name="secondary_action_opacity_3">#4d1b2029</color>
@@ -307,7 +307,7 @@
     <color name="surface_1_opacity_7">#b31d1d1d</color>
     <color name="surface_1_opacity_8">#cc1d1d1d</color>
     <color name="surface_1_opacity_9">#e61d1d1d</color>
-    <color name="surface_2">@*android:color/holo_primary</color>
+    <color name="surface_2">@*android:color/button_material_dark</color>
     <color name="surface_2_inverted">#fff4f4f4</color>
     <color name="surface_2_inverted_opacity_1">#1af4f4f4</color>
     <color name="surface_2_inverted_opacity_2">#33f4f4f4</color>
@@ -327,7 +327,7 @@
     <color name="surface_2_opacity_7">#b3252525</color>
     <color name="surface_2_opacity_8">#cc252525</color>
     <color name="surface_2_opacity_9">#e6252525</color>
-    <color name="surface_3">@*android:color/holo_primary_dark</color>
+    <color name="surface_3">@*android:color/button_material_dark</color>
     <color name="surface_3_inverted">#ffe4e4e4</color>
     <color name="surface_3_inverted_opacity_1">#1ae4e4e4</color>
     <color name="surface_3_inverted_opacity_2">#33e4e4e4</color>

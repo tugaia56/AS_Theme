@@ -145,7 +145,7 @@
     <color name="color_star">#ffffc300</color>
     <color name="color_validate">#ff3cbc50</color>
     <color name="com_appboy_button_disabled">#ffbbbbbb</color>
-    <color name="com_appboy_button_enabled">@*android:color/holo_primary</color>
+    <color name="com_appboy_button_enabled">@*android:color/button_material_dark</color>
     <color name="com_appboy_card_background">@*android:color/white</color>
     <color name="com_appboy_card_background_border">#50cccccc</color>
     <color name="com_appboy_card_background_shadow">#30cccccc</color>
@@ -174,8 +174,8 @@
     <color name="com_appboy_inappmessage_header_text">@*android:color/background_floating_material_dark</color>
     <color name="com_appboy_inappmessage_icon">@*android:color/white</color>
     <color name="com_appboy_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_appboy_inappmessage_text">@*android:color/holo_primary</color>
-    <color name="com_appboy_inappmessage_text_slideup">@*android:color/holo_primary</color>
+    <color name="com_appboy_inappmessage_text">@*android:color/button_material_dark</color>
+    <color name="com_appboy_inappmessage_text_slideup">@*android:color/button_material_dark</color>
     <color name="com_appboy_newsfeed_swipe_refresh_color_1">#fff33e3e</color>
     <color name="com_appboy_newsfeed_swipe_refresh_color_2">#ff1bbdf2</color>
     <color name="com_appboy_newsfeed_swipe_refresh_color_3">#ff2f3436</color>

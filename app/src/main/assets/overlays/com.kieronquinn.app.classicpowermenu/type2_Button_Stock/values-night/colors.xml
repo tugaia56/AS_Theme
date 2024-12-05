@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="background">@*android:color/background_dark</color>
-    <color name="background_secondary">@*android:color/holo_primary</color>
+    <color name="background_secondary">@*android:color/button_material_dark</color>
     <color name="power_button_emergency">@*android:color/accent_material_dark</color>
     <color name="primary">@*android:color/background_dark</color>
     <color name="ripple_material">@*android:color/ripple_material_dark</color>

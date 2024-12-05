@@ -159,7 +159,7 @@
     <color name="barColor">#bbffffff</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="blackTitle">#ffffffff</color>
-    <color name="black_2">@*android:color/holo_primary</color>
+    <color name="black_2">@*android:color/button_material_dark</color>
     <color name="black_20">#0c000000</color>
     <color name="black_3">@*android:color/background_dark</color>
     <color name="black_30">#5e000000</color>
@@ -224,7 +224,7 @@
     <color name="custom_dark">#ff6f6f6f</color>
     <color name="custom_trans">#fff1f1f1</color>
     <color name="dark_gray">#ff9baab2</color>
-    <color name="dark_grey">@*android:color/holo_primary</color>
+    <color name="dark_grey">@*android:color/button_material_dark</color>
     <color name="dark_grey_color">#ff4a636f</color>
     <color name="deselected_color">#ffaaffaa</color>
     <color name="deselected_font_color">#ff339933</color>
@@ -360,9 +360,9 @@
     <color name="grey_hex_23">@*android:color/background_dark</color>
     <color name="grey_hex_24">@*android:color/background_dark</color>
     <color name="grey_hex_25">#ff252525</color>
-    <color name="grey_hex_26">@*android:color/holo_primary</color>
+    <color name="grey_hex_26">@*android:color/button_material_dark</color>
     <color name="grey_hex_27">#ff272727</color>
-    <color name="grey_hex_28">@*android:color/holo_primary</color>
+    <color name="grey_hex_28">@*android:color/button_material_dark</color>
     <color name="grey_hex_29">#ff292929</color>
     <color name="grey_hex_2a">#ff2a2a2a</color>
     <color name="grey_hex_2b">#ff2b2b2b</color>
@@ -373,11 +373,11 @@
     <color name="grey_hex_30">@*android:color/background_dark</color>
     <color name="grey_hex_31">#ff313131</color>
     <color name="grey_hex_32">@*android:color/background_dark</color>
-    <color name="grey_hex_33">@*android:color/holo_primary</color>
+    <color name="grey_hex_33">@*android:color/button_material_dark</color>
     <color name="grey_hex_34">#ff343434</color>
     <color name="grey_hex_35">#ff353535</color>
     <color name="grey_hex_36">#ff363636</color>
-    <color name="grey_hex_37">@*android:color/holo_primary</color>
+    <color name="grey_hex_37">@*android:color/button_material_dark</color>
     <color name="grey_hex_38">@*android:color/background_dark</color>
     <color name="grey_hex_39">#ff393939</color>
     <color name="grey_hex_3a">#ff3a3a3a</color>
@@ -580,8 +580,8 @@
     <color name="grey_hex_ff">#ffffffff</color>
     <color name="grey_percent_05">#ff0d0d0d</color>
     <color name="grey_percent_10">@*android:color/background_dark</color>
-    <color name="grey_percent_15">@*android:color/holo_primary</color>
-    <color name="grey_percent_20">@*android:color/holo_primary</color>
+    <color name="grey_percent_15">@*android:color/button_material_dark</color>
+    <color name="grey_percent_20">@*android:color/button_material_dark</color>
     <color name="grey_percent_25">@*android:color/background_dark</color>
     <color name="grey_percent_30">@*android:color/background_leanback_dark</color>
     <color name="grey_percent_35">#ff595959</color>
@@ -771,7 +771,7 @@
     <color name="onboard3_dark">#ff9e9e9e</color>
     <color name="onboard4">#ff3b5998</color>
     <color name="onboard4_dark">#ff2d4371</color>
-    <color name="onboard5">@*android:color/holo_primary</color>
+    <color name="onboard5">@*android:color/button_material_dark</color>
     <color name="onboard5_dark">#99000000</color>
     <color name="orange">#ffdf8501</color>
     <color name="orange_dark">#ffc97700</color>
@@ -829,7 +829,7 @@
     <color name="selected_font_color">#ff999933</color>
     <color name="shadow_bottom">#ffc0c0c0</color>
     <color name="shadow_bottom_night">@*android:color/background_dark</color>
-    <color name="socialPanel">@*android:color/holo_primary</color>
+    <color name="socialPanel">@*android:color/button_material_dark</color>
     <color name="socialTitle">#fff5f5f5</color>
     <color name="success_color">#ff1ee11e</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
@@ -860,7 +860,7 @@
     <color name="titleFeedSettingsNight">#fff0f0f0</color>
     <color name="titleInlineShare">#ff505050</color>
     <color name="titleThank">#ddffffff</color>
-    <color name="title_pref">@*android:color/holo_primary</color>
+    <color name="title_pref">@*android:color/button_material_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="transparent">#00000000</color>

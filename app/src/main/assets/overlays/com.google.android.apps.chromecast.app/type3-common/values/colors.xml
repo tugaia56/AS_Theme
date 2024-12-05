@@ -101,7 +101,7 @@
     <color name="ghs_ref_palette_default_active_a1_40">#ff0256cf</color>
     <color name="ghs_ref_palette_default_active_a1_80">#ffb0c5ff</color>
     <color name="ghs_ref_palette_default_active_a1_90">@*android:color/accent_material_dark</color>
-    <color name="ghs_ref_palette_default_active_a2_30">@*android:color/holo_primary</color>
+    <color name="ghs_ref_palette_default_active_a2_30">@*android:color/button_material_dark</color>
     <color name="ghs_ref_palette_default_active_a2_60">#ff585e71</color>
     <color name="ghs_ref_palette_default_active_a2_95">#ffedf0ff</color>
     <color name="ghs_ref_palette_default_active_n1_20">#ff303033</color>
@@ -209,7 +209,7 @@
     <color name="gm3_ref_palette_yellow95">#fffff0d1</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/holo_primary</color>
+    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/button_material_dark</color>

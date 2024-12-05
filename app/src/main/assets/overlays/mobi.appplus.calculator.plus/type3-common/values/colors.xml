@@ -139,7 +139,7 @@
     <color name="classic_color_divider_operation">#ff444d53</color>
     <color name="classic_color_divider_top">@*android:color/accent_material_dark</color>
     <color name="classic_color_icon_filter">#ff4d565d</color>
-    <color name="classic_color_text">@*android:color/holo_primary</color>
+    <color name="classic_color_text">@*android:color/button_material_dark</color>
     <color name="classic_color_text_button_equal">#ffffffff</color>
     <color name="classic_color_text_button_number">#ff4d565d</color>
     <color name="classic_color_text_button_operation">#ffffffff</color>
@@ -211,7 +211,7 @@
     <color name="darkblue_color_button_constant_press">#ff090c13</color>
     <color name="darkblue_color_button_equal">@*android:color/background_dark</color>
     <color name="darkblue_color_button_equal_press">#ff4b5366</color>
-    <color name="darkblue_color_button_number">@*android:color/holo_primary</color>
+    <color name="darkblue_color_button_number">@*android:color/button_material_dark</color>
     <color name="darkblue_color_button_number_press">#ff171c28</color>
     <color name="darkblue_color_button_operation">@*android:color/holo_light_primary_dark</color>
     <color name="darkblue_color_button_operation_press">#ff090c13</color>
@@ -292,15 +292,15 @@
     <color name="default_circle_color_text_linked">@*android:color/accent_material_dark</color>
     <color name="default_circle_color_text_selected">#ffffffff</color>
     <color name="default_color_background">@*android:color/background_dark</color>
-    <color name="default_color_button_constant">@*android:color/holo_primary</color>
+    <color name="default_color_button_constant">@*android:color/button_material_dark</color>
     <color name="default_color_button_constant_press">@*android:color/accent_material_dark</color>
     <color name="default_color_button_equal">@*android:color/accent_material_dark</color>
     <color name="default_color_button_equal_press">@*android:color/accent_material_dark</color>
     <color name="default_color_button_number">@*android:color/background_dark</color>
     <color name="default_color_button_number_press">@*android:color/accent_material_dark</color>
-    <color name="default_color_button_operation">@*android:color/holo_primary</color>
+    <color name="default_color_button_operation">@*android:color/button_material_dark</color>
     <color name="default_color_button_operation_press">@*android:color/accent_material_dark</color>
-    <color name="default_color_button_topline">@*android:color/holo_primary</color>
+    <color name="default_color_button_topline">@*android:color/button_material_dark</color>
     <color name="default_color_button_topline_press">@*android:color/accent_material_dark</color>
     <color name="default_color_divider">@*android:color/background_leanback_dark</color>
     <color name="default_color_divider_top">@*android:color/accent_material_dark</color>

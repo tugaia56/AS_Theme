@@ -519,7 +519,7 @@
     <color name="tab_background_light">#ffffffff</color>
     <color name="tab_button_pressed_dark">#4d333333</color>
     <color name="tab_button_pressed_light">#4df5f5f5</color>
-    <color name="tab_button_unpressed_dark">@*android:color/holo_primary</color>
+    <color name="tab_button_unpressed_dark">@*android:color/button_material_dark</color>
     <color name="tab_button_unpressed_light">#fff5f5f5</color>
     <color name="tab_text_color_selected">#ffffffff</color>
     <color name="tab_text_color_unselected">#80ffffff</color>

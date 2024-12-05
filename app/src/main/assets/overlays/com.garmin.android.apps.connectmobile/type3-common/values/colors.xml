@@ -309,7 +309,7 @@
     <color name="gcm_bic_background">@*android:color/background_dark</color>
     <color name="gcm_bic_surface_1">@*android:color/background_dark</color>
     <color name="gcm_bic_surface_2">@*android:color/button_material_dark</color>
-    <color name="gcm_bic_surface_3">@*android:color/holo_primary_dark</color>
+    <color name="gcm_bic_surface_3">@*android:color/button_material_dark</color>
 	<color name="gcm_card_gradient_light_blue_end">#ff11a9ed</color>
 	<color name="gcm_card_gradient_light_blue_start">#ff73d4ff</color>
 	<color name="gcm_challenges_joined_background">@*android:color/background_dark</color>
@@ -326,7 +326,7 @@
     <color name="gcm_progress_bullet_disconnected_color">#ff888888</color>
     <color name="gcm_reports_chart_gradient_end">#fff0a13b</color>
     <color name="gcm_reports_chart_gradient_start">#ffdf8430</color>
-    <color name="gcm_snackbar_surface">@*android:color/holo_primary</color>
+    <color name="gcm_snackbar_surface">@*android:color/button_material_dark</color>
     <color name="gcm_snackbar_text_action">#ff54a9fe</color>
     <color name="gcm_snackbar_text_primary">#fff4f4f4</color>
     <color name="gcm_switch_thumb_primary_action_checked_disabled">#ff87b0de</color>
@@ -447,7 +447,7 @@
     <color name="gray_50_static_opacity_7">#b3515151</color>
     <color name="gray_50_static_opacity_8">#cc515151</color>
     <color name="gray_50_static_opacity_9">#e6515151</color>
-    <color name="gray_55_static">@*android:color/holo_primary_dark</color>
+    <color name="gray_55_static">@*android:color/button_material_dark</color>
     <color name="gray_55_static_opacity_1">#1a1b2029</color>
     <color name="gray_55_static_opacity_2">#331b2029</color>
     <color name="gray_55_static_opacity_3">#4d1b2029</color>
@@ -457,7 +457,7 @@
     <color name="gray_55_static_opacity_7">#b31b2029</color>
     <color name="gray_55_static_opacity_8">#cc1b2029</color>
     <color name="gray_55_static_opacity_9">#e61b2029</color>
-    <color name="gray_60_static">@*android:color/holo_primary</color>
+    <color name="gray_60_static">@*android:color/button_material_dark</color>
     <color name="gray_60_static_opacity_1">#1a252525</color>
     <color name="gray_60_static_opacity_2">#33252525</color>
     <color name="gray_60_static_opacity_3">#4d252525</color>
@@ -1592,7 +1592,7 @@
     <color name="surface_2_opacity_8">#ccfbfbfb</color>
     <color name="surface_2_opacity_9">#e6fbfbfb</color>
     <color name="surface_3">#fff4f4f4</color>
-    <color name="surface_3_inverted">@*android:color/holo_primary_dark</color>
+    <color name="surface_3_inverted">@*android:color/button_material_dark</color>
     <color name="surface_3_inverted_opacity_1">#1a1b2029</color>
     <color name="surface_3_inverted_opacity_2">#331b2029</color>
     <color name="surface_3_inverted_opacity_3">#4d1b2029</color>

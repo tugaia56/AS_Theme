@@ -260,7 +260,7 @@
     <color name="2131100212">#ffeaecef</color>
     <color name="2131100214">#ff212833</color>
     <color name="2131100215">#ff212833</color>
-    <color name="2131100220">@*android:color/holo_primary</color>
+    <color name="2131100220">@*android:color/button_material_dark</color>
     <color name="2131100222">@*android:color/accent_material_dark</color>
     <color name="2131100223">#802ebd85</color>
     <color name="2131100225">#ff333b47</color>

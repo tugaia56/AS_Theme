@@ -21,7 +21,7 @@
             0 1
             48 0z M 0
             0" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M0
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M0
             48C0
             21.49 21.49
             0 48

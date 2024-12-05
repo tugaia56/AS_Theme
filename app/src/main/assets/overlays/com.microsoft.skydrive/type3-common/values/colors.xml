@@ -216,7 +216,7 @@
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="glay">#99999999</color>
     <color name="grid_view_comment_icon">@*android:color/accent_material_dark</color>
-    <color name="gridview_header_background_color_dark">@*android:color/holo_primary</color>
+    <color name="gridview_header_background_color_dark">@*android:color/button_material_dark</color>
     <color name="gridview_header_background_color_light">#fff4f4f4</color>
     <color name="header_subtext">#ff717171</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
@@ -457,7 +457,7 @@
     <color name="ms_pdf_viewer_annotation_color_signature_toolbar_save_button_disable">#ffacacac</color>
     <color name="ms_pdf_viewer_annotation_color_signature_toolbar_save_button_enabled">@*android:color/accent_material_dark</color>
     <color name="ms_pdf_viewer_annotation_color_white">#ffffffff</color>
-    <color name="ms_pdf_viewer_date_time_picker_background">@*android:color/holo_primary</color>
+    <color name="ms_pdf_viewer_date_time_picker_background">@*android:color/button_material_dark</color>
     <color name="ms_pdf_viewer_image_select_background">#ffffffff</color>
     <color name="ms_pdf_viewer_image_select_button_background">@*android:color/background_dark</color>
     <color name="ms_pdf_viewer_image_select_text">#ffffffff</color>
@@ -467,7 +467,7 @@
     <color name="ms_pdf_viewer_outline_page_number_color">#ff6e6e6e</color>
     <color name="ms_pdf_viewer_outline_text_color">@*android:color/background_dark</color>
     <color name="ms_pdf_viewer_outline_text_highlight_color">@*android:color/accent_material_dark</color>
-    <color name="ms_pdf_viewer_password_dialogUI_background_color">@*android:color/holo_primary</color>
+    <color name="ms_pdf_viewer_password_dialogUI_background_color">@*android:color/button_material_dark</color>
     <color name="ms_pdf_viewer_password_dialogUI_button_disable_color">#4dffffff</color>
     <color name="ms_pdf_viewer_password_dialogUI_button_focused_color">#33cccccc</color>
     <color name="ms_pdf_viewer_password_dialogUI_button_pressed_color">#40cccccc</color>

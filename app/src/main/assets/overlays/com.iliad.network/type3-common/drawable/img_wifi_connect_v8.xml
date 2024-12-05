@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector android:height="114.0dip" android:width="314.0dip" android:viewportWidth="314.0" android:viewportHeight="114.0"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <path android:fillColor="@*android:color/holo_primary_dark" android:pathData="M50
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M50
             0L264
             0A50
             50 0
@@ -1156,7 +1156,7 @@
             52.135v-2.668h-2.67v2.668zM72.933
             38.8h-2.666v2.667h2.666L72.933
             38.8z" android:fillType="evenOdd" />
-    <path android:fillColor="@*android:color/holo_primary_dark" android:pathData="M261.5
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M261.5
             50.5m-43.5
             0a43.5
             43.5 0

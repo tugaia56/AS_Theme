@@ -42,7 +42,7 @@
     <color name="day_white_50">#80ffffff</color>
     <color name="day_with_completed_data">#ff78909c</color>
     <color name="day_with_events_circle">#ffd6d6d6</color>
-    <color name="day_with_events_in_month">@*android:color/holo_primary</color>
+    <color name="day_with_events_in_month">@*android:color/button_material_dark</color>
     <color name="day_with_secondary_events_circle">#fff4b400</color>
     <color name="daynight_black">@*android:color/background_dark</color>
     <color name="daynight_grey900">@*android:color/background_dark</color>
@@ -870,13 +870,13 @@
     <color name="road_name_text_day">#ff0f53ff</color>
     <color name="scalebar_on_dark_background">#ffededed</color>
     <color name="scalebar_on_light_background">#ff3e403f</color>
-    <color name="scalebar_shadow_for_dark_background">@*android:color/holo_primary</color>
+    <color name="scalebar_shadow_for_dark_background">@*android:color/button_material_dark</color>
     <color name="scrim_color_dark">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="scrim_color_high_dark">@*android:color/background_dark</color>
     <color name="scrim_color_light">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="scrim_color_medium">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="scrim_color_medium_dark">@*android:color/group_button_dialog_pressed_holo_light</color>
-    <color name="secondary_grey">@*android:color/holo_primary</color>
+    <color name="secondary_grey">@*android:color/button_material_dark</color>
     <color name="secondary_night_grey">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>

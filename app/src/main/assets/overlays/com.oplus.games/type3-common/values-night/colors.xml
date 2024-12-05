@@ -177,7 +177,7 @@
     <color name="NXcolor_borderless_button_text_color">#ffffffff</color>
     <color name="NXcolor_borderless_button_text_color_disabled">#26ffffff</color>
     <color name="NXcolor_borderless_internet_button_padding_color_disable">@*android:color/background_dark</color>
-    <color name="NXcolor_btn_drawable_color_disabled">@*android:color/holo_primary</color>
+    <color name="NXcolor_btn_drawable_color_disabled">@*android:color/button_material_dark</color>
     <color name="NXcolor_btn_text_color_disabled">#33ffffff</color>
     <color name="NXcolor_navigation_divider">#33000000</color>
     <color name="NXcolor_navigation_tool_disabled_color">#4dffffff</color>
@@ -212,7 +212,7 @@
     <color name="ac_color_FB6A35">@*android:color/accent_material_dark</color>
     <color name="ac_color_global_bg">#ffffffff</color>
     <color name="ac_color_hint_server_error">@*android:color/accent_material_dark</color>
-    <color name="ac_color_record_bg">@*android:color/holo_primary</color>
+    <color name="ac_color_record_bg">@*android:color/button_material_dark</color>
     <color name="ac_diff_mul_color_1A000000">#1affffff</color>
     <color name="ac_ui_color_85000000">#d9ffffff</color>
     <color name="ac_ui_color_biometric_item">#1affffff</color>
@@ -241,7 +241,7 @@
     <color name="account_login_record_item_month_divider">#33ffffff</color>
     <color name="account_mul_color_1A000000">#1affffff</color>
     <color name="account_section_head_bg">#26ffffff</color>
-    <color name="back_flow_bg_color">@*android:color/holo_primary</color>
+    <color name="back_flow_bg_color">@*android:color/button_material_dark</color>
     <color name="base_sign_text_tomorrow">#ffffffff</color>
     <color name="bg_color_light_green_normal">#ff0f4d2f</color>
     <color name="bg_color_light_green_selected">#ff0d4027</color>
@@ -284,7 +284,7 @@
     <color name="color_8c000000">#8cffffff</color>
     <color name="color_979797">#ff686868</color>
     <color name="color_979797_opacity_30">#4b686868</color>
-    <color name="color_CCCCCC">@*android:color/holo_primary</color>
+    <color name="color_CCCCCC">@*android:color/button_material_dark</color>
     <color name="color_D92AD181">#d92ed585</color>
     <color name="color_DFF8EC">#ff0f4d2f</color>
     <color name="color_EAFFF6">#ff00150c</color>
@@ -485,7 +485,7 @@
     <color name="gc_card_background_white">@*android:color/background_dark</color>
     <color name="gc_dialog_background_white">@*android:color/background_dark</color>
     <color name="gc_divider_background_color">#33ffffff</color>
-    <color name="gc_float_view_background_white">@*android:color/holo_primary</color>
+    <color name="gc_float_view_background_white">@*android:color/button_material_dark</color>
     <color name="gc_theme_color_light">#4dff6349</color>
     <color name="gc_uikit_listview_divider_color">#33ffffff</color>
     <color name="grey">#ff414141</color>
@@ -493,14 +493,14 @@
     <color name="ht_list_seletor_color_pressed">#08ffffff</color>
     <color name="icon_black">#ffffffff</color>
     <color name="light_blue">#ff6a7ea8</color>
-    <color name="list_item_background_select">@*android:color/holo_primary</color>
-    <color name="mine_color_press_status">@*android:color/holo_primary</color>
+    <color name="list_item_background_select">@*android:color/button_material_dark</color>
+    <color name="mine_color_press_status">@*android:color/button_material_dark</color>
     <color name="mine_divider_color">#33ffffff</color>
     <color name="mine_summary_color">#8cffffff</color>
     <color name="mul_color_1A000000">#1affffff</color>
-    <color name="mul_color_phone_bg_normal">@*android:color/holo_primary</color>
+    <color name="mul_color_phone_bg_normal">@*android:color/button_material_dark</color>
     <color name="mul_color_phone_bg_pressed">#26ffffff</color>
-    <color name="mul_login_bg">@*android:color/holo_primary</color>
+    <color name="mul_login_bg">@*android:color/button_material_dark</color>
     <color name="navigation_bar_color">@*android:color/background_dark</color>
     <color name="nearmepay_dialog_text_shadow_color">#c4000000</color>																	  
     <color name="nx_alert_dialog_background_tint">@*android:color/background_dark</color>
@@ -577,7 +577,7 @@
     <color name="nx_floating_button_label_broader_color">#1affffff</color>
     <color name="nx_floating_button_label_text_color_disable">#26ffffff</color>
     <color name="nx_icon_black">#ffffffff</color>
-    <color name="nx_icon_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="nx_icon_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="nx_icon_seekbar_progress_color_normal">#ff999999</color>
     <color name="nx_icon_seekbar_thumb_shadow_color">#33ffffff</color>
     <color name="nx_jump_preference_btn_next_bg_color">#1affffff</color>
@@ -635,7 +635,7 @@
     <color name="nx_security_keyboard_bg_top_color">@*android:color/background_dark</color>
     <color name="nx_security_keyboard_special_key_bg_color">@*android:color/background_dark</color>
     <color name="nx_seekbar_background_color_disabled">#1affffff</color>
-    <color name="nx_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="nx_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="nx_seekbar_progress_color_normal">#ff999999</color>
     <color name="nx_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="nx_seekbar_thumb_shadow_color">#33ffffff</color>
@@ -687,7 +687,7 @@
     <color name="uc_color_70_000000">#b3ffffff</color>
     <color name="uc_color_80_000000">#80ffffff</color>
     <color name="uc_color_BBC0CB">#ff343944</color>
-    <color name="uc_color_CCCCCC">@*android:color/holo_primary</color>
+    <color name="uc_color_CCCCCC">@*android:color/button_material_dark</color>
     <color name="uc_color_F9F9F9">#ff060606</color>
     <color name="uc_color_FF931B">#ffe47800</color>
     <color name="uc_delete_alert_dialog_button_warning_color">#ffa22020</color>

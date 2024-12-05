@@ -123,7 +123,7 @@
     <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
     <color name="gm_ref_palette_grey600">#ff80868b</color>
     <color name="gm_ref_palette_grey700">#ff5f6368</color>
-    <color name="gm_ref_palette_grey800">@*android:color/holo_primary</color>
+    <color name="gm_ref_palette_grey800">@*android:color/button_material_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="gm_ref_palette_red200">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red300">@*android:color/accent_material_dark</color>

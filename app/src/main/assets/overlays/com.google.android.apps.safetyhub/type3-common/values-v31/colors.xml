@@ -16,8 +16,8 @@
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>													<!-- background account -->
 	<color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/accent_material_dark</color>										<!-- background actionbar -->
 	<color name="gm3_sys_color_dynamic_dark_primary">@*android:color/button_material_dark</color>												<!-- background sotto account -->
-    <color name="switch_bar_disable">@*android:color/holo_primary</color>
-    <color name="switch_bar_enable">@*android:color/holo_primary</color>
+    <color name="switch_bar_disable">@*android:color/button_material_dark</color>
+    <color name="switch_bar_enable">@*android:color/button_material_dark</color>
     <color name="switchbar_text_color">@*android:color/white</color>
     <color name="gm3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
 	<color name="gm3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>

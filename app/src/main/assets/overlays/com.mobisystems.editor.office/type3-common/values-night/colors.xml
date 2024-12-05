@@ -9,7 +9,7 @@
     <color name="color_2196f3_585858">@*android:color/background_leanback_dark</color>
     <color name="color_242424_d2d2d2">#ffd2d2d2</color>
     <color name="color_343434_ffffff">#ffffffff</color>
-    <color name="color_3887dd_333333">@*android:color/holo_primary</color>
+    <color name="color_3887dd_333333">@*android:color/button_material_dark</color>
     <color name="color_484848_ffffff">#ffffffff</color>
     <color name="color_4996b8_ffffff">#ffffffff</color>
     <color name="color_50242424_b3ffffff">#b3ffffff</color>

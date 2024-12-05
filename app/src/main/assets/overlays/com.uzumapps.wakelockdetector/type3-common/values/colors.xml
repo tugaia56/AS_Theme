@@ -6,8 +6,8 @@
     <color name="abc_search_url_text_selected">@*android:color/background_dark</color>
     <color name="accent_material_dark">@*android:color/accent_material_dark</color>
     <color name="accent_material_light">@*android:color/accent_material_dark</color>
-    <color name="action_bar_background">@*android:color/background_floating_material_dark</color>
-    <color name="actionbar_theme_dark_bg">@*android:color/background_floating_material_dark</color>
+    <color name="action_bar_background">@*android:color/background_dark</color>
+    <color name="actionbar_theme_dark_bg">@*android:color/background_dark</color>
     <color name="actionbar_theme_light_bg">#ffdddddd</color>
     <color name="awake_color">@*android:color/accent_material_dark</color>
     <color name="background_floating_material_dark">@*android:color/background_floating_material_dark</color>
@@ -25,7 +25,7 @@
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
-    <color name="dim_foreground_material_light">@*android:color/holo_primary</color>
+    <color name="dim_foreground_material_light">@*android:color/button_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/background_dark</color>
     <color name="gray">#80a0a0a0</color>

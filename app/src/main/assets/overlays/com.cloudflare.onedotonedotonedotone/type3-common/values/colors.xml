@@ -127,7 +127,7 @@
     <color name="warp_dark_gray_transparent">@*android:color/group_button_dialog_focused_holo_light</color>
     <color name="warp_error_red">#ffbc0a0a</color>
     <color name="warp_ghost">#ffd3d3d8</color>
-    <color name="warp_gray">@*android:color/holo_primary</color>
+    <color name="warp_gray">@*android:color/button_material_dark</color>
     <color name="warp_info_green">#ff2b9f0a</color>
     <color name="warp_light_black">@*android:color/background_dark</color>
     <color name="warp_light_blue">#ff0053d0</color>

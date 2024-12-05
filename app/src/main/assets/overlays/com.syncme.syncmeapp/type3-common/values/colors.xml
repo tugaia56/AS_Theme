@@ -197,7 +197,7 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="sn_premium_logo_text">#00000000</color>
-    <color name="steel_grey">@*android:color/holo_primary</color>
+    <color name="steel_grey">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>

@@ -205,7 +205,7 @@
     <color name="promotion_feedback_submit_text_color_disable_night">#80ffffff</color>
     <color name="promotion_feedback_submit_text_color_night">#ffffffff</color>
     <color name="promotion_feedback_window_background_color">#ffffffff</color>
-    <color name="promotion_feedback_window_background_color_night">@*android:color/holo_primary</color>
+    <color name="promotion_feedback_window_background_color_night">@*android:color/button_material_dark</color>
     <color name="promotion_native_ads_ad_bg_color">#33000000</color>
     <color name="promotion_native_ads_ad_color">#ffffffff</color>
     <color name="promotion_native_ads_advertiser">#ff6a6a6a</color>

@@ -46,7 +46,7 @@
     <color name="hiad_emui_button_pressed">@*android:color/background_dark</color>
     <color name="hiad_emui_color_subbg">@*android:color/background_dark</color>
     <color name="hiad_emui_white">@*android:color/background_dark</color>
-    <color name="hiad_endcard_default_bg">@*android:color/holo_primary</color>
+    <color name="hiad_endcard_default_bg">@*android:color/button_material_dark</color>
     <color name="hiad_endcard_desc_color">#99ffffff</color>
     <color name="hiad_endcard_text_color">#ffffffff</color>
     <color name="hiad_feedback_0_percent_black">#00ffffff</color>

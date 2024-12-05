@@ -161,7 +161,7 @@
     <color name="m3_ref_palette_dynamic_primary10">#b9f6ca</color>
     <color name="m3_ref_palette_dynamic_primary100">#1b5e20</color>
     <color name="m3_ref_palette_dynamic_primary20">#ffffffff</color>
-    <color name="m3_ref_palette_dynamic_primary30">@*android:color/holo_primary</color>
+    <color name="m3_ref_palette_dynamic_primary30">@*android:color/button_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary50">#4caf50</color>
     <color name="m3_ref_palette_dynamic_primary60">@*android:color/background_dark</color>

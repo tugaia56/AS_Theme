@@ -18,7 +18,7 @@
     <color name="ag_white">@*android:color/background_dark</color>
     <color name="ag_grey700">#ffffffff</color>
     <color name="ag_grey100">@*android:color/holo_light_primary_dark</color>
-    <color name="ag_chat_search_bar_background_tint">@*android:color/holo_primary</color>
+    <color name="ag_chat_search_bar_background_tint">@*android:color/button_material_dark</color>
     <color name="ag_grey800">#ffffffff</color>
     <color name="ag_grey900">@*android:color/accent_material_dark</color>
     <color name="survey_primary_text_color">@*android:color/accent_material_dark</color>
@@ -50,9 +50,9 @@
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
     <color name="tasks_bottomSheetBackground">@*android:color/background_dark</color>
     <color name="tasks_custom_input_background_color">#24f1f3f4</color>
-    <color name="tasks_elevation_3">@*android:color/holo_primary</color>
-    <color name="tasks_fab_background_color">@*android:color/holo_primary</color>
-    <color name="tasks_scroll_header">@*android:color/holo_primary</color>
+    <color name="tasks_elevation_3">@*android:color/button_material_dark</color>
+    <color name="tasks_fab_background_color">@*android:color/button_material_dark</color>
+    <color name="tasks_scroll_header">@*android:color/button_material_dark</color>
     <color name="unread_reply_count_background">#1fa8c7fa</color>
     <color name="google_grey540">#ff899096</color>
 </resources>

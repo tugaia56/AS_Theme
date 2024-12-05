@@ -44,7 +44,7 @@
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="memory_apps_usage">#ff77831a</color>
-    <color name="memory_avail">@*android:color/holo_primary</color>
+    <color name="memory_avail">@*android:color/button_material_dark</color>
     <color name="memory_cache">#ff479392</color>
     <color name="memory_dcim">#ff793a7f</color>
     <color name="memory_downloads">#ff476093</color>

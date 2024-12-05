@@ -21,7 +21,7 @@
     <color name="buttonActiveTextColor">#deffffff</color>
     <color name="buttonDeactivatedTextColor">#99ffffff</color>
     <color name="channelDivider">#ffc5c5c5</color>
-    <color name="commentBkg">@*android:color/holo_primary</color>
+    <color name="commentBkg">@*android:color/button_material_dark</color>
     <color name="commentText">#deffffff</color>
     <color name="commentsCount">#ffffffff</color>
     <color name="comments_icons">#ffffffff</color>
@@ -33,7 +33,7 @@
     <color name="event_card_background">@*android:color/background_dark</color>
     <color name="event_fragment_background">@*android:color/background_dark</color>
     <color name="event_title">#ffffffff</color>
-    <color name="feed_card_background">@*android:color/holo_primary</color>
+    <color name="feed_card_background">@*android:color/button_material_dark</color>
     <color name="feed_desc_color">#fffafafa</color>
     <color name="feed_gallery_color">#fffafafa</color>
     <color name="feed_info_color">#ffffffff</color>

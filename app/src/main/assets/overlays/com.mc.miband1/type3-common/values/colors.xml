@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="activityscore">#ff00c853</color>
-    <color name="alarmsDaysHighlight">@*android:color/holo_primary</color>
+    <color name="alarmsDaysHighlight">@*android:color/button_material_dark</color>
     <color name="altitude">@*android:color/accent_material_dark</color>
     <color name="altitudePoints">@*android:color/accent_material_dark</color>
     <color name="androidx_core_ripple_material_light">#1f000000</color>

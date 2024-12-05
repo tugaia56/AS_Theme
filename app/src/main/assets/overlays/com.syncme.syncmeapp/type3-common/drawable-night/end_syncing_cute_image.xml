@@ -273,7 +273,7 @@
     <path android:fillColor="#00000000" android:pathData="M74.521
             53.735s-7.427
             8.583 -16.263
-            0" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="3.0" android:strokeLineCap="round" />
+            0" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="3.0" android:strokeLineCap="round" />
     <path android:fillColor="#ffffffff" android:pathData="M51.711
             53.358m-4.365
             0a4.365

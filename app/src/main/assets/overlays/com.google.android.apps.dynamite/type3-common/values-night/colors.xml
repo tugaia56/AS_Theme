@@ -23,7 +23,7 @@
     <color name="rte_toolbar_separator_background">#1bbbbbbb</color>
     <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
-    <color name="survey_surface_color_elevation_3">@*android:color/holo_primary</color>
-    <color name="tasks_elevation_3">@*android:color/holo_primary</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/button_material_dark</color>
+    <color name="tasks_elevation_3">@*android:color/button_material_dark</color>
     <color name="yellow_fill">#ffffdea0</color>
 </resources>

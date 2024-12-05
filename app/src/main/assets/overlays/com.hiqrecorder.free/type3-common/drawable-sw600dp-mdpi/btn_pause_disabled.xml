@@ -33,7 +33,7 @@
             8 0 0
             0 12
             4Z" />
-    <path android:fillColor="@*android:color/holo_primary" android:pathData="M15
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M15
             16H13V8H15M11
             16H9V8H11M12
             2A10

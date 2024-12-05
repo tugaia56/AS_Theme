@@ -1135,7 +1135,7 @@
     <color name="palette_gray_1_alpha">#99222222</color>
     <color name="palette_gray_2">#ff555555</color>
     <color name="palette_gray_23">#ffdadada</color>
-    <color name="palette_gray_26">#ff2f2f2f</color>
+    <color name="palette_gray_26">@*android:color/button_material_dark</color>
     <color name="palette_gray_28">@*android:color/background_dark</color>
     <color name="palette_gray_2_3">#ff7e7e7e</color>
     <color name="palette_gray_2_alpha">#7f555555</color>

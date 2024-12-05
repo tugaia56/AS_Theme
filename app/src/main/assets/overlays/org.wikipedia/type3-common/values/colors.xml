@@ -102,7 +102,7 @@
     <color name="gray600">#ff54595d</color>
     <color name="gray650">#ff2e3136</color>
     <color name="gray675">@*android:color/background_dark</color>
-    <color name="gray700">@*android:color/holo_primary</color>
+    <color name="gray700">@*android:color/button_material_dark</color>
     <color name="green600">@*android:color/accent_material_dark</color>
     <color name="green700">#ff14866d</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>

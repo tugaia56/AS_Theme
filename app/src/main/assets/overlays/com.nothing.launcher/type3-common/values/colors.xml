@@ -145,7 +145,7 @@
     <color name="popup_notification_dot_light">#ffffffff</color>
     <color name="popup_shade_first_dark">@*android:color/button_material_dark</color>
     <color name="popup_shade_first_light">#fff9f9f9</color>
-    <color name="popup_shade_second_dark">@*android:color/holo_primary</color>
+    <color name="popup_shade_second_dark">@*android:color/button_material_dark</color>
     <color name="popup_shade_second_light">#fff1f1f1</color>
     <color name="popup_shade_third_dark">@*android:color/background_dark</color>
     <color name="popup_shade_third_light">#ffe2e2e2</color>

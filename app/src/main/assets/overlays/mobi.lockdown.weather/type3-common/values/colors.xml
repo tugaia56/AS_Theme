@@ -58,7 +58,7 @@
     <color name="colorButtonTransparentSelected">#b3000000</color>
     <color name="colorDefault">#99ffffff</color>
     <color name="colorDefaultLight">#8c000000</color>
-    <color name="colorDetailBackground">@*android:color/holo_primary</color>
+    <color name="colorDetailBackground">@*android:color/button_material_dark</color>
     <color name="colorDetailBackgroundLight">#ffe7e7e7</color>
     <color name="colorDialog">@*android:color/background_dark</color>
     <color name="colorDialogLight">#fffbfbfb</color>

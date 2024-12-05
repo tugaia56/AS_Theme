@@ -181,7 +181,7 @@
     <color name="lenshvc_gallery_tint_color">#ffffffff</color>
     <color name="lenshvc_gallery_tooltip_background_color">@*android:color/background_dark</color>
     <color name="lenshvc_gallery_tooltip_text_color">#ffffffff</color>
-    <color name="lenshvc_image_count_background">@*android:color/holo_primary</color>
+    <color name="lenshvc_image_count_background">@*android:color/button_material_dark</color>
     <color name="lenshvc_interaction_text_icon_selected_color">@*android:color/background_dark</color>
     <color name="lenshvc_interimcrop_info_description_card_background">@*android:color/background_dark</color>
     <color name="lenshvc_interimcrop_info_description_text">#ffffffff</color>

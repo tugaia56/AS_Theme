@@ -439,7 +439,7 @@
     <color name="coui_searchview_hint_bg_color_disabled">#13ffffff</color>
     <color name="coui_searchview_hint_bg_color_normal">#26ffffff</color>
     <color name="coui_seekbar_background_color_disabled">#1affffff</color>
-    <color name="coui_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_progress_color_normal">#ff999999</color>
     <color name="coui_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#33ffffff</color>
@@ -471,7 +471,7 @@
     <color name="play_btn_textView_color">#8cffffff</color>
     <color name="press_end_color">#1affffff</color>
     <color name="press_start_color">#00ffffff</color>
-    <color name="record_btn_enable">@*android:color/holo_primary</color>
+    <color name="record_btn_enable">@*android:color/button_material_dark</color>
     <color name="record_btn_inner_color">#4dffffff</color>
     <color name="search_view_window_mask">#b3000000</color>
     <color name="seek_bar_progress">#ffffffff</color>

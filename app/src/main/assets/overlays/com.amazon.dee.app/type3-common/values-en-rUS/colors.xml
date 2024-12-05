@@ -3,7 +3,7 @@
     <color name="DriveMode_Action_40">@*android:color/accent_material_dark</color>
     <color name="DriveMode_Background">@*android:color/background_dark</color>
     <color name="DriveMode_Background_Transparent">#00010b14</color>
-    <color name="DriveMode_ControlBackground">@*android:color/holo_primary</color>
+    <color name="DriveMode_ControlBackground">@*android:color/button_material_dark</color>
     <color name="DriveMode_TextPrimary">#ffffffff</color>
     <color name="darkThemeAction10">@*android:color/accent_material_dark</color>
     <color name="darkThemeAction20">@*android:color/accent_material_dark</color>
@@ -31,7 +31,7 @@
     <color name="darkThemeNeutral10">#ffffffff</color>
     <color name="darkThemeNeutral20">@*android:color/holo_light_primary_dark</color>
     <color name="darkThemeNeutral30">#ffffffff</color>
-    <color name="darkThemeNeutral40">@*android:color/holo_primary</color>
+    <color name="darkThemeNeutral40">@*android:color/button_material_dark</color>
     <color name="darkThemeNeutral50">@*android:color/button_material_dark</color>
     <color name="darkThemeNeutral60">@*android:color/background_dark</color>
     <color name="darkThemeStatus10">#ffff8484</color>
@@ -63,7 +63,7 @@
     <color name="lightThemeIcon60">#ff1280a5</color>
     <color name="lightThemeIcon70">@*android:color/accent_material_dark</color>
     <color name="lightThemeIcon80">#ff148fcc</color>
-    <color name="lightThemeIcon90">@*android:color/holo_primary</color>
+    <color name="lightThemeIcon90">@*android:color/button_material_dark</color>
     <color name="lightThemeNeutral10">#ff010814</color>
     <color name="lightThemeNeutral20">#ff5f5f5f</color>
     <color name="lightThemeNeutral30">#ffffffff</color>

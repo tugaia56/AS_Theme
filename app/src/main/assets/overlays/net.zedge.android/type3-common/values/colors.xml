@@ -11,7 +11,7 @@
     <color name="Grey">#ff666666</color>
     <color name="Layer1">@*android:color/background_dark</color>
     <color name="Layer2">@*android:color/background_dark</color>
-    <color name="Layer3">@*android:color/holo_primary</color>
+    <color name="Layer3">@*android:color/button_material_dark</color>
     <color name="LightGrey">#ffd3d3d3</color>
     <color name="MineShaft">@*android:color/background_dark</color>
     <color name="Pink">@*android:color/accent_material_dark</color>
@@ -92,7 +92,7 @@
     <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
-    <color name="dark_text">@*android:color/holo_primary</color>
+    <color name="dark_text">@*android:color/button_material_dark</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>

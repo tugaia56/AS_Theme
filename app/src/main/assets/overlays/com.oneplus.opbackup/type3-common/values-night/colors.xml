@@ -19,7 +19,7 @@
     <color name="no_package_title_color">#deffffff</color>
     <color name="permission_dialog_content_color">#ddffffff</color>
     <color name="permission_dialog_tip_color">#b7ffffff</color>
-    <color name="progress_bar_background_color">@*android:color/holo_primary</color>
+    <color name="progress_bar_background_color">@*android:color/button_material_dark</color>
     <color name="progress_bar_progress_color">#ffd7a200</color>
     <color name="settings_font_color">#ff7e8082</color>
     <color name="text_color_hint">#4cffffff</color>

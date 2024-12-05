@@ -770,7 +770,7 @@
     <color name="nav_header_bg">@*android:color/transparent</color>
     <color name="nearly_white">#ffe6e6e6</color>
     <color name="night_mode_check">@*android:color/background_dark</color>
-    <color name="no_groups_color">@*android:color/holo_primary</color>
+    <color name="no_groups_color">@*android:color/button_material_dark</color>
     <color name="notification_action_color_filter">#8a000000</color>
     <color name="notification_bar_accent">#ff9593b2</color>
     <color name="notification_bar_background">#fff8f8f8</color>
@@ -826,7 +826,7 @@
     <color name="place_autocomplete_separator">#1f000000</color>
     <color name="plugins_accent">#ffffffff</color>
     <color name="plugins_dark">@*android:color/background_dark</color>
-    <color name="plugins_primary">@*android:color/holo_primary_dark</color>
+    <color name="plugins_primary">@*android:color/button_material_dark</color>
     <color name="plugins_user_bar">@*android:color/button_material_dark</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="primary">@*android:color/background_dark</color>

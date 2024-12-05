@@ -225,7 +225,7 @@
     <color name="mintegral_reward_kiloo_background">#b3000000</color>
     <color name="mintegral_reward_minicard_bg">#7f000000</color>
     <color name="mintegral_reward_six_black_transparent">#60000000</color>
-    <color name="mintegral_reward_title_textcolor">@*android:color/holo_primary</color>
+    <color name="mintegral_reward_title_textcolor">@*android:color/button_material_dark</color>
     <color name="mintegral_reward_white">#ffffffff</color>
     <color name="mintegral_video_common_alertview_bg">#ffffffff</color>
     <color name="mintegral_video_common_alertview_cancel_button_bg_default">#ff27ae5f</color>

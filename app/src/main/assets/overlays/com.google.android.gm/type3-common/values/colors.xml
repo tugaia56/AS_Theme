@@ -306,7 +306,7 @@
     <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
     <color name="gm_ref_palette_grey600">#ff80868b</color>
     <color name="gm_ref_palette_grey700">#ff5f6368</color>
-    <color name="gm_ref_palette_grey800">@*android:color/holo_primary</color>
+    <color name="gm_ref_palette_grey800">@*android:color/button_material_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="gm_ref_palette_red100">#fffad2cf</color>
     <color name="gm_ref_palette_red200">#fff6aea9</color>
@@ -494,7 +494,7 @@
     <color name="ooo_banner_event_busy_icon_color_gm3">#ffe37400</color>
     <color name="partner_logo_container_color">#ffeaf0fb</color>
     <color name="partner_logo_kahoot_text_color">#ff46178f</color>
-    <color name="paywall_color_1">@*android:color/holo_primary</color>
+    <color name="paywall_color_1">@*android:color/button_material_dark</color>
     <color name="paywall_color_2">#ffd2e3fc</color>
     <color name="paywall_color_3">#ff34a853</color>
     <color name="paywall_color_4">@*android:color/accent_material_dark</color>
@@ -594,7 +594,7 @@
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>
     <color name="sud_glif_edit_text_bg_light_color">#0a000000</color>
-    <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/holo_primary</color>
+    <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/button_material_dark</color>
     <color name="sud_glif_v3_dialog_background_color_light">#fff1f3f4</color>
     <color name="sud_glif_v3_nav_bar_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_v3_nav_bar_color_light">#ffffffff</color>

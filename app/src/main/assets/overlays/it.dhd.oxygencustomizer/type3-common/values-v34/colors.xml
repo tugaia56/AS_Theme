@@ -27,7 +27,7 @@
     <color name="m3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_dim">@*android:color/accent_material_dark</color>
-    <color name="m3_sys_color_dynamic_dark_surface_variant">@*android:color/holo_primary</color>
+    <color name="m3_sys_color_dynamic_dark_surface_variant">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_tertiary">#000fff</color>
     <color name="m3_sys_color_dynamic_dark_tertiary_container">#33691e</color>
     <color name="m3_sys_color_dynamic_light_background">#00c853</color>

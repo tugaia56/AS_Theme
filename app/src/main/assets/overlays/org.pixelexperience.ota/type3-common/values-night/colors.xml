@@ -7,7 +7,7 @@
     <color name="banner_background_attention_high">#ff3b2d2c</color>
     <color name="banner_background_attention_low">#ff2b3328</color>
     <color name="banner_background_attention_medium">#ff333121</color>
-    <color name="cardview_background">@*android:color/holo_primary</color>
+    <color name="cardview_background">@*android:color/button_material_dark</color>
     <color name="design_snackbar_background_color">@*android:color/button_material_dark</color>
     <color name="settingslib_accent_primary_variant">@*android:color/accent_material_dark</color>
     <color name="settingslib_colorSurfaceHeader">@*android:color/background_dark</color>

@@ -9,7 +9,7 @@
     <color name="ag_abs_black">@*android:color/background_dark</color>
     <color name="ag_abs_dynamic_neutral30">#ff5f6368</color>
     <color name="ag_abs_dynamic_neutral80">#ffe8eaed</color>
-    <color name="ag_abs_grey900_grey200_8">@*android:color/holo_primary</color>
+    <color name="ag_abs_grey900_grey200_8">@*android:color/button_material_dark</color>
     <color name="ag_abs_green700">@*android:color/accent_material_dark</color>
     <color name="ag_abs_green600">@*android:color/accent_material_dark</color>
     <color name="ag_abs_quantum_grey900_opaque16">@*android:color/background_dark</color>

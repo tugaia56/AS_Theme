@@ -116,7 +116,7 @@
     <color name="dls_secondary3">#ffc6c6c6</color>
     <color name="dls_secondary3_dark">#ff4b4b4b</color>
     <color name="dls_secondary4">#ffe4e4e4</color>
-    <color name="dls_secondary4_dark">@*android:color/holo_primary</color>
+    <color name="dls_secondary4_dark">@*android:color/button_material_dark</color>
     <color name="dls_secondary5">#fff1f1f1</color>
     <color name="dls_secondary5_dark">@*android:color/background_dark</color>
     <color name="dls_success">#ff68bc44</color>

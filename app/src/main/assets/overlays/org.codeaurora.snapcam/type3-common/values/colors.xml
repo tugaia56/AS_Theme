@@ -265,7 +265,7 @@
     <color name="options_menu_background_closed">#db202124</color>
     <color name="options_menu_background_opened">#b8000000</color>
     <color name="options_menu_scroll_bar_color">#6bffffff</color>
-    <color name="photo_placeholder">@*android:color/holo_primary</color>
+    <color name="photo_placeholder">@*android:color/button_material_dark</color>
     <color name="portrait_mode_inner_color">@*android:color/accent_material_dark</color>
     <color name="portrait_mode_outer_color">#ffeceff1</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>

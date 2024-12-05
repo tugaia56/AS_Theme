@@ -1,14 +1,11 @@
 <resources>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 5.0.0</item>
-        <item>AGGIUNTO:</item>
-        <item>Sfera Assistiva v14.1.6</item>
-        <item>Gestione Telefono v15.8.3</item>
-        <item>AGGIORNATO:</item>
-        <item>Garmin Connect v5.6</item>
-        <item>Garmin Connect IQ v2.32</item>
-        <item>Battery Guru v2.3.13</item>
+        <item>Android Auto 13.2.644464</item>
+        <item>Smart Launcher v6.5</item>
+        <item>Home Screen Switcher v1.1</item>
+        <item>pCloud v4.4.2</item>
+        <item>ChatGPT v1.2024.331</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

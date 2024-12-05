@@ -217,14 +217,14 @@
     <color name="grey_5">#ff999999</color>
     <color name="grey_5_30_transparent">#4d8e8e8e</color>
     <color name="grey_5_66_transparent">#aa8e8e8e</color>
-    <color name="grey_6">@*android:color/holo_primary_dark</color>
+    <color name="grey_6">@*android:color/button_material_dark</color>
     <color name="grey_6_66_transparent">#aa737373</color>
     <color name="grey_6_75_transparent">#bf737373</color>
     <color name="grey_7">@*android:color/holo_light_primary_dark</color>
     <color name="grey_7_70_transparent">#b3555555</color>
     <color name="grey_7_75_transparent">#bf555555</color>
     <color name="grey_7_85_transparent">#d9555555</color>
-    <color name="grey_8">@*android:color/holo_primary</color>
+    <color name="grey_8">@*android:color/button_material_dark</color>
     <color name="grey_8_40_transparent">#66363636</color>
     <color name="grey_8_70_transparent">#b3363636</color>
     <color name="grey_9">@*android:color/background_dark</color>

@@ -11,7 +11,7 @@
             120 635
             120H0V0Z M 0
             0" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M683
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M683
             0L87.098
             0C60.589
             0 39.098

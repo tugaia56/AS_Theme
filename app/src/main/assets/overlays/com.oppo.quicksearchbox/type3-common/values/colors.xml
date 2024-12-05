@@ -495,10 +495,10 @@
     <color name="coui_color_bottom_bar">#fffafafa</color>
     <color name="coui_color_card_background">@*android:color/holo_primary</color>
     <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_light">#ffffffff</color>
+    <color name="coui_color_card_background_light">@*android:color/holo_primary</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
-    <color name="coui_color_card_pressed_light">#ffe6e6e6</color>
+    <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>
     <color name="coui_color_control_highlight">#7fd0d0d0</color>
     <color name="coui_color_controls">#33000000</color>
     <color name="coui_color_controls_dark">#4dffffff</color>
@@ -531,7 +531,7 @@
     <color name="coui_color_press_background_dark">#26ffffff</color>
     <color name="coui_color_press_background_light">#14000000</color>
     <color name="coui_color_primary_blue">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_blue_dark">#ff247cff</color>
+    <color name="coui_color_primary_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_green">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_green_dark">@*android:color/accent_material_dark</color>
@@ -618,7 +618,7 @@
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_with_card_light">#fff3f4f6</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
-    <color name="coui_color_tips_dark">#ff247cff</color>
+    <color name="coui_color_tips_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_tips_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_white">#ffffffff</color>
     <color name="coui_color_white_dark">#ffffffff</color>

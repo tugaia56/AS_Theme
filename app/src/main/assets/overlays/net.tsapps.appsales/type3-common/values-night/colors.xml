@@ -17,11 +17,11 @@
     <color name="discount_text">#ffeeeeee</color>
     <color name="listitem_highlight_background">#ff87413f</color>
     <color name="loading_circle_background">@*android:color/button_material_dark</color>
-    <color name="material_button_background_disabled">@*android:color/holo_primary</color>
+    <color name="material_button_background_disabled">@*android:color/button_material_dark</color>
     <color name="navbar_divider">#ff3c3c3e</color>
     <color name="popup_menu_background">@*android:color/background_dark</color>
     <color name="snackbar_background">@*android:color/background_dark</color>
-    <color name="spacerline">@*android:color/holo_primary</color>
+    <color name="spacerline">@*android:color/button_material_dark</color>
     <color name="text_light">#ffc2c2c2</color>
     <color name="text_main">#ffeeeeee</color>
     <color name="background_elevated">@*android:color/background_dark</color>

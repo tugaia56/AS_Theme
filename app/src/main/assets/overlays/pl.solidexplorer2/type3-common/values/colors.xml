@@ -30,7 +30,7 @@
     <color name="blue_complementary_dark">#ffdb9b2e</color>
     <color name="blue_dark">#ff00719b</color>
     <color name="blue_grey">#ff607d8b</color>
-    <color name="blue_grey_80">@*android:color/holo_primary_dark</color>
+    <color name="blue_grey_80">@*android:color/button_material_dark</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@*android:color/black</color>

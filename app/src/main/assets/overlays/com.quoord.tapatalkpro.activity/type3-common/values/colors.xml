@@ -113,7 +113,7 @@
     <color name="clear_history_color">@*android:color/accent_material_dark</color>
     <color name="colorLightGray">#ffd9d9d9</color>
     <color name="colorWhite">#ffffffff</color>
-    <color name="color_282828">@*android:color/holo_primary</color>
+    <color name="color_282828">@*android:color/button_material_dark</color>
     <color name="color_345baf">@*android:color/accent_material_dark</color>
     <color name="color_383b3e">#ff383b3e</color>
     <color name="color_b1481c">@*android:color/accent_material_dark</color>
@@ -278,7 +278,7 @@
     <color name="divider8_l">#ffdcdcdc</color>
     <color name="edge_effect_color_dark">#d6ffffff</color>
     <color name="edge_effect_color_light">#ea000000</color>
-    <color name="emoji_darkcolor">@*android:color/holo_primary</color>
+    <color name="emoji_darkcolor">@*android:color/button_material_dark</color>
     <color name="emoji_lightcolor">#ffdcdcdc</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
@@ -347,7 +347,7 @@
     <color name="kinecosystem_white">#ffffffff</color>
     <color name="kingifting_button_stroke_dark">#ff636363</color>
     <color name="kingifting_button_stroke_light">#ffdedede</color>
-    <color name="kingifting_disabled_dark">@*android:color/holo_primary</color>
+    <color name="kingifting_disabled_dark">@*android:color/button_material_dark</color>
     <color name="kinrecovery_colorPrimaryDark_dark">#ff272626</color>
     <color name="kinrecovery_colorPrimaryDark_light">#ff50515a</color>
     <color name="kinrecovery_edittext_stroke_dark">#ff3d3d3d</color>
@@ -413,7 +413,7 @@
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="quick_bar_hint">#ff9d9d9d</color>
-    <color name="quote_bg_color_d">@*android:color/holo_primary</color>
+    <color name="quote_bg_color_d">@*android:color/button_material_dark</color>
     <color name="quote_border_bg_color_d">#ff2e3032</color>
     <color name="quote_border_bg_color_l">#ffd0d0d0</color>
     <color name="random_color_0">#ff3d7fea</color>
@@ -526,7 +526,7 @@
     <color name="vip_black_bg">@*android:color/background_dark</color>
     <color name="vip_blue_bg">@*android:color/accent_material_dark</color>
     <color name="vip_green_bg">@*android:color/accent_material_dark</color>
-    <color name="vip_text_title_color">@*android:color/holo_primary</color>
+    <color name="vip_text_title_color">@*android:color/button_material_dark</color>
     <color name="vip_year_buy">@*android:color/accent_material_dark</color>
     <color name="wallet_balance_bg_dark">@*android:color/background_dark</color>
     <color name="wallet_balance_bg_light">@*android:color/accent_material_dark</color>

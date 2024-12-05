@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accent10">@*android:color/holo_primary</color>
+    <color name="accent10">@*android:color/button_material_dark</color>
     <color name="accent100">@*android:color/accent_material_dark</color>
-    <color name="accent20">@*android:color/holo_primary</color>
+    <color name="accent20">@*android:color/button_material_dark</color>
     <color name="accent50">#ff375f94</color>
     <color name="accent80">#ff4080d4</color>
     <color name="alert100">@*android:color/background_dark</color>
@@ -38,7 +38,7 @@
     <color name="promo100">@*android:color/ripple_material_dark</color>
     <color name="secondary50">#ff81878a</color>
     <color name="secondary80">#ffb7bfc3</color>
-    <color name="tertiary100">@*android:color/holo_primary</color>
+    <color name="tertiary100">@*android:color/button_material_dark</color>
     <color name="tertiary20">#ff4e5054</color>
     <color name="tertiary50">#ff898d94</color>
     <color name="tertiary80">#ffc4cad4</color>

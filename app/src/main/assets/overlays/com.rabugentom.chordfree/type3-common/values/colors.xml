@@ -13,7 +13,7 @@
     <color name="bright_foreground_disabled_material_light">#80ffffff</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/white</color>
-    <color name="bronze">@*android:color/holo_primary</color>
+    <color name="bronze">@*android:color/button_material_dark</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
@@ -46,7 +46,7 @@
     <color name="diagram_capo_stripe2_D">#ffcccccc</color>
     <color name="diagram_capo_stripe2_L">#ffcccccc</color>
     <color name="diagram_fret_non_realistic_D">#ffcccccc</color>
-    <color name="diagram_fret_non_realistic_L">@*android:color/holo_primary</color>
+    <color name="diagram_fret_non_realistic_L">@*android:color/button_material_dark</color>
     <color name="diagram_fret_realistic1">#ff777777</color>
     <color name="diagram_fret_realistic2">#ff999999</color>
     <color name="diagram_fret_realistic3">#ffcccccc</color>
@@ -54,7 +54,7 @@
     <color name="diagram_fret_section_left">#ff999999</color>
     <color name="diagram_fret_section_right">#ff777777</color>
     <color name="diagram_name_text_color_D">#ffcccccc</color>
-    <color name="diagram_name_text_color_L">@*android:color/holo_primary</color>
+    <color name="diagram_name_text_color_L">@*android:color/button_material_dark</color>
     <color name="diagram_neck_border_D">#ffcccccc</color>
     <color name="diagram_neck_border_L">#ffcccccc</color>
     <color name="diagram_neck_border_outline_D">#ff111111</color>
@@ -71,16 +71,16 @@
     <color name="diagram_note_border_L">#ff444444</color>
     <color name="diagram_note_border_small_D">#ffcccccc</color>
     <color name="diagram_note_border_small_L">#ff444444</color>
-    <color name="diagram_note_text_D">@*android:color/holo_primary</color>
+    <color name="diagram_note_text_D">@*android:color/button_material_dark</color>
     <color name="diagram_note_text_L">#ffcccccc</color>
     <color name="diagram_numbers_text_color_D">#ffeeeeee</color>
-    <color name="diagram_numbers_text_color_L">@*android:color/holo_primary</color>
+    <color name="diagram_numbers_text_color_L">@*android:color/button_material_dark</color>
     <color name="diagram_reperes_background_color_D">#ff888888</color>
     <color name="diagram_reperes_background_color_L">#ff888888</color>
     <color name="diagram_reperes_text_color_D">#ffcccccc</color>
     <color name="diagram_reperes_text_color_L">#ffcccccc</color>
     <color name="diagram_string_non_realistic_D">#ffcccccc</color>
-    <color name="diagram_string_non_realistic_L">@*android:color/holo_primary</color>
+    <color name="diagram_string_non_realistic_L">@*android:color/button_material_dark</color>
     <color name="diagram_string_realistic1">#ff777777</color>
     <color name="diagram_string_realistic2">#ff999999</color>
     <color name="diagram_string_realistic3">#ffbbbbbb</color>

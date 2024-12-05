@@ -369,7 +369,7 @@
     <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffd8d8d8</color>
-    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/holo_primary</color>
+    <color name="coui_btn_part_check_dark_color_on_disabled">@*android:color/button_material_dark</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">#fffafafa</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#ffffffff</color>
     <color name="coui_btn_part_check_inner_dark_color_on_disabled">@*android:color/background_dark</color>
@@ -412,7 +412,7 @@
     <color name="coui_common_warning_dark_color">@*android:color/accent_material_dark</color>
     <color name="coui_common_warning_light_color">@*android:color/accent_material_dark</color>
     <color name="coui_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/holo_primary</color>
+    <color name="coui_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="coui_control_id_bg_color">#ffffffff</color>
     <color name="coui_control_id_bg_color_popup">#ffffffff</color>
     <color name="coui_control_id_day_of_week">#4d000000</color>
@@ -827,7 +827,7 @@
     <color name="opt_result_entirely_transparent_white">#00000000</color>
     <color name="opt_result_manual_button_text_color">@*android:color/accent_material_dark</color>
     <color name="opt_result_view_title_textcolor">#ffffffff</color>
-    <color name="optimization_scanning_title_color">@*android:color/holo_primary</color>
+    <color name="optimization_scanning_title_color">@*android:color/button_material_dark</color>
     <color name="permission_hyperlink_color">#ff1193d4</color>
     <color name="permission_record_color_summary">#8c000000</color>
     <color name="permission_text_color_tip_default">#7f000000</color>

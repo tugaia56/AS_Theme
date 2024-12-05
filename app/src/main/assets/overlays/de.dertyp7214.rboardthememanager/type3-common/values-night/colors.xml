@@ -4,7 +4,7 @@
     <color name="background">@*android:color/background_dark</color>
     <color name="background_icon">#ff183a71</color>
     <color name="black">#ffffffff</color>
-    <color name="foreground">@*android:color/holo_primary</color>
+    <color name="foreground">@*android:color/button_material_dark</color>
     <color name="foreground_icon">@*android:color/accent_material_dark</color>
     <color name="md3">@*android:color/accent_material_dark</color>
     <color name="switch_thumb">@*android:color/background_dark</color>

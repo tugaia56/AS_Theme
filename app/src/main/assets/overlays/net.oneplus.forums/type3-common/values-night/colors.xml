@@ -250,7 +250,7 @@
     <color name="coui_preference_title_color_selected">#ffffffff</color>
     <color name="coui_progressbar_background_color_disabled">#33ffffff</color>
     <color name="coui_progressbar_background_color_normal">#1fffffff</color>
-    <color name="coui_progressbar_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_progressbar_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_scrollbar_color">#4dffffff</color>
     <color name="coui_search_view_bg_color">#33ffffff</color>
     <color name="coui_search_view_hint_color">#33ffffff</color>
@@ -262,7 +262,7 @@
     <color name="coui_searchview_hint_bg_color_disabled">#13ffffff</color>
     <color name="coui_searchview_hint_bg_color_normal">#26ffffff</color>
     <color name="coui_seekbar_background_color_disabled">#1affffff</color>
-    <color name="coui_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_progress_color_normal">#ff999999</color>
     <color name="coui_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#33ffffff</color>

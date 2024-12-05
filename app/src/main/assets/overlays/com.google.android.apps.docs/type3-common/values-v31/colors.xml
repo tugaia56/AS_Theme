@@ -72,7 +72,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">#ff00ff</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/holo_primary_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">#ff0000</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#00ff00</color>

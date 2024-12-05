@@ -75,7 +75,7 @@
     <color name="commentTitle">@*android:color/accent_material_dark</color>
     <color name="commentsCount">@*android:color/button_material_dark</color>
     <color name="commentsText">#ff79909b</color>
-    <color name="comments_icons">@*android:color/holo_primary</color>
+    <color name="comments_icons">@*android:color/button_material_dark</color>
     <color name="common_google_signin_btn_text_dark_default">@*android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@*android:color/black</color>
@@ -238,7 +238,7 @@
     <color name="shimmerColor">#a2878787</color>
     <color name="shimmer_color">#a2878787</color>
     <color name="sign_up_btn_text_color">@*android:color/button_material_dark</color>
-    <color name="sign_up_privacy_link_color">@*android:color/holo_primary</color>
+    <color name="sign_up_privacy_link_color">@*android:color/button_material_dark</color>
     <color name="sign_up_privacy_text_color">#ff979797</color>
     <color name="sign_up_send_phone_code_btn_text_color">#ffebebeb</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>

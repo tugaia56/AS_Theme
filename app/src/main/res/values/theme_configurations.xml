@@ -21,13 +21,6 @@
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
         <item>Version 5.0.0</item>
-        <item>ADDED:</item>
-        <item>Assistive Ball v14.1.6</item>
-        <item>Manage Phone v15.8.3</item>
-        <item>UPDATED:</item>
-        <item>Garmin Connect v5.6</item>
-        <item>Garmin Connect IQ v2.32</item>
-        <item>Battery Guru v2.3.13</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

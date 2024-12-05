@@ -340,7 +340,7 @@
     <color name="text_primary_extra_light">@*android:color/accent_material_dark</color>
     <color name="text_primary_indicator">#ff0f3b9b</color>
     <color name="text_primary_indicator_dark">#ffaaaaaa</color>
-    <color name="text_primary_indicator_light">@*android:color/holo_primary</color>
+    <color name="text_primary_indicator_light">@*android:color/button_material_dark</color>
     <color name="text_primary_info">#ff666666</color>
     <color name="text_primary_info_dark">#ffd9d9d9</color>
     <color name="text_primary_info_light">#ff666666</color>

@@ -346,7 +346,7 @@
     <color name="ib_fr_details_subtitle_color_dark">#ff7f7f7f</color>
     <color name="ib_fr_details_subtitle_color_light">#ff808080</color>
     <color name="ib_fr_details_title_color_dark">#ffcccccc</color>
-    <color name="ib_fr_details_title_color_light">@*android:color/holo_primary</color>
+    <color name="ib_fr_details_title_color_light">@*android:color/button_material_dark</color>
     <color name="ib_fr_new_feature_toast_bg">@*android:color/background_leanback_dark</color>
     <color name="ib_fr_no_comments_icon_color_dark">@*android:color/accent_material_dark</color>
     <color name="ib_fr_no_comments_icon_color_light">#ffe6e6e6</color>

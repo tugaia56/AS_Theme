@@ -53,7 +53,7 @@
     <color name="avatar_background_red_orange">#ffff9349</color>
     <color name="avatar_background_teal">#ff008575</color>
     <color name="avatar_background_yellow">#fff6ea00</color>
-    <color name="background_color">#e6ffffff</color>
+    <color name="background_color">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="bar_progress_color">@*android:color/accent_material_dark</color>
     <color name="black">@*android:color/background_dark</color>

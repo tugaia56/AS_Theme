@@ -241,7 +241,7 @@
             -0.103 -0.22
             -0.155 -0.396
             -0.155z" android:fillType="nonZero" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M176.76
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M176.76
             155.16L185.34
             155.16A1.1
             1.1 0
@@ -258,8 +258,8 @@
             156.26A1.1
             1.1 0
             0 1
-            176.76 155.16z" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="1.32" android:fillType="evenOdd" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M119.56
+            176.76 155.16z" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M119.56
             138.66L144.64
             138.66A1.1
             1.1 0
@@ -276,8 +276,8 @@
             139.76A1.1
             1.1 0
             0 1
-            119.56 138.66z" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="1.32" android:fillType="evenOdd" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M11.76
+            119.56 138.66z" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M11.76
             151.86L89.64
             151.86A1.1
             1.1 0
@@ -294,8 +294,8 @@
             152.96A1.1
             1.1 0
             0 1
-            11.76 151.86z" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="1.32" android:fillType="evenOdd" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M-76.24
+            11.76 151.86z" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M-76.24
             154.06L1.64
             154.06A1.1
             1.1 0
@@ -312,8 +312,8 @@
             155.16A1.1
             1.1 0
             0 1
-            -76.24 154.06z" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="1.32" android:fillType="evenOdd" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M105.15
+            -76.24 154.06z" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M105.15
             147.35m-5.39
             0a5.39
             5.39 0
@@ -321,8 +321,8 @@
             10.78 0a5.39
             5.39 0
             1 1
-            -10.78 0" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="1.32" android:fillType="evenOdd" />
-        <path android:fillColor="@*android:color/holo_primary" android:pathData="M105.15
+            -10.78 0" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
+        <path android:fillColor="@*android:color/button_material_dark" android:pathData="M105.15
             162.75m-5.39
             0a5.39
             5.39 0
@@ -330,7 +330,7 @@
             10.78 0a5.39
             5.39 0
             1 1
-            -10.78 0" android:strokeColor="@*android:color/holo_primary" android:strokeWidth="1.32" android:fillType="evenOdd" />
+            -10.78 0" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
     </group>
     <path android:fillColor="#00000000" android:pathData="M161
             165m-30

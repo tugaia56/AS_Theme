@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<color name="permission_rationale_overview_background">@*android:color/accent_material_dark</color>
     <color name="settingslib_accent_primary_variant">@*android:color/accent_material_dark</color>
     <color name="settingslib_colorSurface">@*android:color/accent_material_dark</color>
     <color name="settingslib_colorSurfaceHeader">@*android:color/background_dark</color>

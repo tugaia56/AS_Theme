@@ -119,7 +119,7 @@
     <color name="channel_tab_chip_selected_text_color">#ffffffff</color>
     <color name="channel_tab_chip_stroke_color">#33000000</color>
     <color name="channel_tab_chip_unselected">#32ffffff</color>
-    <color name="channel_tab_chip_unselected_text_color">@*android:color/holo_primary</color>
+    <color name="channel_tab_chip_unselected_text_color">@*android:color/button_material_dark</color>
     <color name="channel_tab_floating_selected_text_color">#deffffff</color>
     <color name="channel_tab_floating_unselected_text_color">#99ffffff</color>
     <color name="channel_threaded_cell_indicator">#26000000</color>
@@ -311,7 +311,7 @@
     <color name="introduction_us_gender_default_border_color">#ffcccccc</color>
     <color name="introduction_us_gender_default_text_color">@*android:color/background_dark</color>
     <color name="introduction_us_weather_icon">@*android:color/background_dark</color>
-    <color name="introduction_userProfileButton_disabled">@*android:color/holo_primary</color>
+    <color name="introduction_userProfileButton_disabled">@*android:color/button_material_dark</color>
     <color name="introduction_userProfileButton_disabled_text">#4d000000</color>
     <color name="introduction_user_profile_description_text_color">#ff7f7f7f</color>
     <color name="jp_weather_feature_chip_fill_checked">#ffd9f0fc</color>
@@ -331,7 +331,7 @@
     <color name="loading_gradient_start">#ffe5e5e5</color>
     <color name="localChannelCrimeSubLabel">#ff8c8c8c</color>
     <color name="localChannelListSectionBackground">#fff7f7f7</color>
-    <color name="localChannelMainLabel">@*android:color/holo_primary</color>
+    <color name="localChannelMainLabel">@*android:color/button_material_dark</color>
     <color name="localPresetChannelCellContextualLabel">#ff4f4f4f</color>
     <color name="localPresetChannelCellShadow">@*android:color/background_dark</color>
     <color name="local_alu_popup_background">#ffffffff</color>
@@ -451,7 +451,7 @@
     <color name="rakutenreward_pointexchange_submit_pressed">#ff872624</color>
     <color name="rakutenreward_tab_clicked">#50cccccc</color>
     <color name="rakutenreward_text">#ff666666</color>
-    <color name="rakutenreward_text_gray">@*android:color/holo_primary</color>
+    <color name="rakutenreward_text_gray">@*android:color/button_material_dark</color>
     <color name="rakutenreward_white_loading">#70ffffff</color>
     <color name="reader_navigation_hint_text">#ffffffff</color>
     <color name="red">#ffff0000</color>
@@ -474,7 +474,7 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="separator">#33000000</color>
-    <color name="smartview_recommended_text">@*android:color/holo_primary</color>
+    <color name="smartview_recommended_text">@*android:color/button_material_dark</color>
     <color name="sn_color_blue_100">#ffc8f0ff</color>
     <color name="sn_color_blue_300">#ff6cc9f9</color>
     <color name="sn_color_blue_400">#ff3eb0f2</color>

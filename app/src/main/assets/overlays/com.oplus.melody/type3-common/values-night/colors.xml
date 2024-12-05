@@ -371,7 +371,7 @@
     <color name="coui_color_secondary_yellow">#40f2bf30</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">@*android:color/background_dark</color>
-    <color name="coui_color_surface_top">@*android:color/holo_primary</color>
+    <color name="coui_color_surface_top">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_edit_text_delete_bg_color_normal">#33ffffff</color>
@@ -427,7 +427,7 @@
     <color name="coui_searchview_hint_bg_color_disabled">#13ffffff</color>
     <color name="coui_searchview_hint_bg_color_normal">#26ffffff</color>
     <color name="coui_seekbar_background_color_disabled">#1affffff</color>
-    <color name="coui_seekbar_progress_color_disabled">@*android:color/holo_primary</color>
+    <color name="coui_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="coui_seekbar_progress_color_normal">#ff999999</color>
     <color name="coui_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="coui_seekbar_thumb_shadow_color">#33ffffff</color>
@@ -455,7 +455,7 @@
     <color name="melody_common_ops_couiTintLightNormal">#264f67d2</color>
     <color name="melody_common_ops_couiTintLightPressed">#264f67d2</color>
     <color name="melody_common_ops_switchCheckedBarDisabledColor">#264f67d2</color>
-    <color name="melody_ui_btn_white_background_color">@*android:color/holo_primary</color>
+    <color name="melody_ui_btn_white_background_color">@*android:color/button_material_dark</color>
     <color name="melody_ui_btn_white_text_color">#d9ffffff</color>
     <color name="melody_ui_button_text_color_disabled">#26ffffff</color>
     <color name="melody_ui_choose_button_bg_color">#d9ffffff</color>

@@ -397,7 +397,7 @@
     <color name="coui_clickable_text_color_pressed">#4d2660f5</color>
     <color name="coui_clickable_text_color_selected">#4d2660f5</color>
     <color name="coui_code_input_security_circle_color">#d8000000</color>
-    <color name="coui_color_additional_azure">#ff007bff</color>
+    <color name="coui_color_additional_azure">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_azure_dark">#ff0575fa</color>
     <color name="coui_color_additional_blue">#ff3d43eb</color>
     <color name="coui_color_additional_blue_dark">#ff416cfb</color>
@@ -433,7 +433,7 @@
     <color name="coui_color_error_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_hint_neutral">#66000000</color>
     <color name="coui_color_hint_neutral_dark">#66ffffff</color>
-    <color name="coui_color_link">#ff007bff</color>
+    <color name="coui_color_link">@*android:color/accent_material_dark</color>
     <color name="coui_color_link_dark">#ff0575fa</color>
     <color name="coui_color_mask">#66000000</color>
     <color name="coui_color_mask_dark">#99000000</color>
@@ -499,7 +499,7 @@
     <color name="coui_color_surface_top_dark">#ff333333</color>
     <color name="coui_color_surface_with_card">#fff3f4f6</color>
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_tips">#ff007bff</color>
+    <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_color_tips_dark">#ff0575fa</color>
     <color name="coui_color_white">#ffffffff</color>
     <color name="coui_color_white_dark">#ffffffff</color>
@@ -729,7 +729,7 @@
     <color name="coui_stepper_icon_color_a14">#14000000</color>
     <color name="coui_stepper_icon_color_a1f">#1f000000</color>
     <color name="coui_stepper_view_btn_icon_background_color">#1f000000</color>
-    <color name="coui_stepper_view_btn_icon_color">@*android:color/holo_primary</color>
+    <color name="coui_stepper_view_btn_icon_color">@*android:color/button_material_dark</color>
     <color name="coui_stepper_view_text_color">@*android:color/background_dark</color>
     <color name="coui_stroke_button_fill_color">#00000000</color>
     <color name="coui_support_menu_textcolor_normal">#ff363636</color>
@@ -750,7 +750,7 @@
     <color name="coui_theme_primary_color">#ffffffff</color>
     <color name="coui_title_text_color_large">@*android:color/background_dark</color>
     <color name="coui_tool_navigation_item_bg_color_dark">#0dffffff</color>
-    <color name="coui_tool_tips_background_color">#ff007bff</color>
+    <color name="coui_tool_tips_background_color">@*android:color/accent_material_dark</color>
     <color name="coui_tool_tips_delete_icon_bg_color">#24ffffff</color>
     <color name="coui_tool_tips_delete_icon_color">#ffffffff</color>
     <color name="coui_tool_tips_shadow_color">#5d000000</color>

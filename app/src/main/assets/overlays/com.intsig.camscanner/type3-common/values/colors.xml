@@ -178,7 +178,7 @@
     <color name="cs_black_141414">@*android:color/background_dark</color>
     <color name="cs_black_212121">@*android:color/background_dark</color>
     <color name="cs_black_223346">#ff223346</color>
-    <color name="cs_black_333333">@*android:color/holo_primary</color>
+    <color name="cs_black_333333">@*android:color/button_material_dark</color>
     <color name="cs_black_33495E">#ff33495e</color>
     <color name="cs_black_34485E">@*android:color/background_dark</color>
     <color name="cs_black_435B74">#ff435b74</color>
@@ -672,7 +672,7 @@
     <color name="txt_message_item_titlecolor_read">#ffc6c6c6</color>
     <color name="txt_message_item_titlecolor_unread">#ff666666</color>
     <color name="txt_message_itme_timecolor">@*android:color/accent_material_dark</color>
-    <color name="txt_register_black">@*android:color/holo_primary</color>
+    <color name="txt_register_black">@*android:color/button_material_dark</color>
     <color name="upgrade_premium">#ffff9312</color>
     <color name="uploading_item_text_color">@*android:color/background_dark</color>
     <color name="util_share_dlg_divider">#ff384c5e</color>

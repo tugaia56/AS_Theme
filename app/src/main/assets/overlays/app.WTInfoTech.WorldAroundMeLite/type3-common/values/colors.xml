@@ -321,7 +321,7 @@
     <color name="navigationDrawerNameTextColor">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">@*android:color/button_material_dark</color>
-    <color name="openSourceLicenceBackground">@*android:color/holo_primary</color>
+    <color name="openSourceLicenceBackground">@*android:color/button_material_dark</color>
     <color name="orange_100">#ffffe0b2</color>
     <color name="orange_200">#ffffcc80</color>
     <color name="orange_300">#ffffb74d</color>

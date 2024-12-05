@@ -116,7 +116,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffffffff</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">@*android:color/holo_primary</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/button_material_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/button_material_dark</color>
@@ -268,7 +268,7 @@
     <color name="op_seek_bar_tick_disabled_color_light">#2e000000</color>
     <color name="op_switchbar_background_color">#fff0f0f0</color>
     <color name="op_time_picker_am_pm_label_text_color_dark">#ffffffff</color>
-    <color name="op_time_picker_numbers_background_color_dark">@*android:color/holo_primary</color>
+    <color name="op_time_picker_numbers_background_color_dark">@*android:color/button_material_dark</color>
     <color name="op_time_picker_numbers_background_color_light">#fff0f0f0</color>
     <color name="opcardview_light_background_light">#ffffffff</color>
     <color name="opcardview_light_background_mask_light">#1e000000</color>
@@ -297,7 +297,7 @@
     <color name="timepicker_default_ampm_unselected_background_color_material">@*android:color/transparent</color>
     <color name="timepicker_default_numbers_background_color_material">@*android:color/transparent</color>
     <color name="timepicker_default_text_color_material">@*android:color/background_dark</color>
-    <color name="timepicker_numbers_background_color_dark">@*android:color/holo_primary</color>
+    <color name="timepicker_numbers_background_color_dark">@*android:color/button_material_dark</color>
     <color name="timepicker_numbers_background_color_light">#fff0f0f0</color>
     <color name="timepicker_numbers_inner_text_color">#b7000000</color>
     <color name="timepicker_numbers_inner_text_color_dark">#89ffffff</color>
