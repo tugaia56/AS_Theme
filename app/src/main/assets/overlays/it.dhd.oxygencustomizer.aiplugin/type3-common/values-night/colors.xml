@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">@*android:color/background_dark</color>
+    <color name="colorBackgroundHard">@*android:color/background_dark</color>
+    <color name="colorBackgroundMedium">@*android:color/background_dark</color>
+    <color name="colorBackgroundSoft">@*android:color/background_dark</color>
+    <color name="oplusColorSurfaces">@*android:color/button_material_dark</color>
+    <color name="preference_background_color_pressed">#33ffffff</color>
+    <color name="preference_category_text">@*android:color/accent_material_dark</color>
+    <color name="textColorPrimary">#ffe9e9e9</color>
+    <color name="textColorPrimaryDisabled">#4dffffff</color>
+    <color name="textColorSecondary">#ff969696</color>
+</resources>

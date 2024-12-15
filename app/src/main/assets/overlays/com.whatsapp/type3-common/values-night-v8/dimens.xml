@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="abc_control_corner_material">14.0dip</dimen>
+    <dimen name="control_corner_material">14.0dip</dimen>
+    <dimen name="design_fab_elevation">0.0dip</dimen>
+</resources>
