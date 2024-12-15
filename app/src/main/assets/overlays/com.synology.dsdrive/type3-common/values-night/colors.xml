@@ -50,5 +50,5 @@
     <color name="passcode_text_pressed">@*android:color/background_dark</color>
     <color name="passcode_toolbar_bg">@*android:color/background_dark</color>
     <color name="popup_menu_background_sa">@*android:color/background_dark</color>
-    <color name="surfaceColor">#ff1a1a1a</color>
+    <color name="surfaceColor">@*android:color/background_dark</color>
 </resources>

@@ -241,7 +241,7 @@
     <color name="library_swatch_grey">#ff999999</color>
     <color name="library_swatch_light_grey">#ffcccccc</color>
     <color name="light_grey">#ffbdbdbd</color>
-    <color name="listview_item_pressed_background">#ff1a1a1a</color>
+    <color name="listview_item_pressed_background">@*android:color/background_dark</color>
     <color name="listview_section_header">@*android:color/button_material_dark</color>
     <color name="lyrics_badge_border_color">#ff7b8289</color>
     <color name="lyrics_badge_text_color">#ff686f76</color>

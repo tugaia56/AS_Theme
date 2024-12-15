@@ -16,7 +16,7 @@
     <color name="GRAY_800">#ffc8c8c8</color>
     <color name="GRAY_900">@*android:color/white</color>
     <color name="GREEN_500">@*android:color/accent_material_dark</color>
-    <color name="acrobat_marketing_price_bg_color">#ff1a1a1a</color>
+    <color name="acrobat_marketing_price_bg_color">@*android:color/background_dark</color>
     <color name="acrobat_marketing_update_not_now_text_color">#ffa2a2a2</color>
     <color name="acrobat_promotional_text_color">#ffa2a2a2</color>
     <color name="apply_to_all_pages">#ffc8c8c8</color>

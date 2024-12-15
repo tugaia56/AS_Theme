@@ -6,6 +6,7 @@
         <item>Home Screen Switcher v1.1</item>
         <item>pCloud v4.4.2</item>
         <item>ChatGPT v1.2024.331</item>
+        <item>AppBooster v1.0.5</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

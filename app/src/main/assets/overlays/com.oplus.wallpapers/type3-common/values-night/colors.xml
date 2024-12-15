@@ -675,7 +675,7 @@
     <color name="ux_divider_line_bg_color">#33ffffff</color>
     <color name="ux_oplus_custom_shape_normal">#26ffffff</color>
     <color name="ux_panel_backgound_color">#99000000</color>
-    <color name="ux_panel_bg_with_shadow_color">#ff1a1a1a</color>
+    <color name="ux_panel_bg_with_shadow_color">@*android:color/background_dark</color>
     <color name="ux_personal_background_color">#ff202020</color>
     <color name="ux_personal_bottom_title_text_color">#d9ffffff</color>
     <color name="ux_personal_item_mask_color">#d5202020</color>

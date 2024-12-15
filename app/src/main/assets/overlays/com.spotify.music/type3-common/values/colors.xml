@@ -2424,7 +2424,7 @@
     <color name="studiolight_invertedlight_text_brightaccent">#ff5f58ff</color>
     <color name="studiolight_invertedlight_text_subdued">#ff5e5e5e</color>
     <color name="studiolight_mutedaccent_background_base">@*android:color/background_dark</color>
-    <color name="studiolight_mutedaccent_background_highlight">#ff1a1a1a</color>
+    <color name="studiolight_mutedaccent_background_highlight">@*android:color/background_dark</color>
     <color name="studiolight_mutedaccent_background_press">@*android:color/background_dark</color>
     <color name="studiolight_mutedaccent_background_tinted_base">#12ffffff</color>
     <color name="studiolight_mutedaccent_background_tinted_highlight">#1affffff</color>

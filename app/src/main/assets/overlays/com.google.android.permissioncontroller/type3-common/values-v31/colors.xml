@@ -8,7 +8,7 @@
 <color name="m3_ref_palette_dynamic_neutral30">#c62828</color>
 <color name="m3_ref_palette_dynamic_neutral40">#d32f2f</color>
 <color name="m3_ref_palette_dynamic_neutral50">#e53935</color>
-<color name="m3_ref_palette_dynamic_neutral60">@*android:color/accent_material_dark</color>
+<color name="m3_ref_palette_dynamic_neutral60">#ff0000</color>
 <color name="m3_ref_palette_dynamic_neutral70">#f44336</color>
 <color name="m3_ref_palette_dynamic_neutral80">#e57373</color>
 <color name="m3_ref_palette_dynamic_neutral90">#ef9a9a</color>
