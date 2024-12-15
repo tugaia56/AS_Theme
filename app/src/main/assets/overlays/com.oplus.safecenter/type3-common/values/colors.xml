@@ -769,7 +769,7 @@
     <color name="coui_color_bar_dark">@*android:color/background_dark</color>
     <color name="coui_color_bar_light">@*android:color/background_dark</color>
     <color name="coui_color_blue">@*android:color/accent_material_dark</color>
-    <color name="coui_color_blue_dark">#ff247cff</color>
+    <color name="coui_color_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_variant">@*android:color/holo_blue_light</color>
     <color name="coui_color_blue_variant_dark">@*android:color/holo_blue_light</color>
@@ -800,7 +800,7 @@
     <color name="coui_color_container_solid_dark">@*android:color/background_leanback_dark</color>
     <color name="coui_color_container_solid_light">#ffebebeb</color>
     <color name="coui_color_container_theme_blue">@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_theme_blue_dark">#ff247cff</color>
+    <color name="coui_color_container_theme_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_green">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_green_dark">#ff24b232</color>
