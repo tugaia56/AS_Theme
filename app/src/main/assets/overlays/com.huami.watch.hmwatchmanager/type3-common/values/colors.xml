@@ -1067,7 +1067,7 @@
     <color name="slope_up_arc_fill">#ffff5353</color>
     <color name="slp3_compare">#ff6655bb</color>
     <color name="sls_333333">@*android:color/holo_light_primary_dark</color>
-    <color name="sls_back_1a">#ff1a1a1a</color>
+    <color name="sls_back_1a">@*android:color/background_dark</color>
     <color name="sls_back_5f">#ff5f5f5f</color>
     <color name="sls_back_66">#66000000</color>
     <color name="sls_back_8d">#ff8d8d8d</color>
@@ -1085,7 +1085,7 @@
     <color name="sls_chose">#ffff5353</color>
     <color name="sls_color_bg_color_item_live">#ff0d0f17</color>
     <color name="sls_color_black">@*android:color/background_dark</color>
-    <color name="sls_color_black_1a">#ff1a1a1a</color>
+    <color name="sls_color_black_1a">@*android:color/background_dark</color>
     <color name="sls_color_black_28">#ff282829</color>
     <color name="sls_color_black_a6">#a6000000</color>
     <color name="sls_dialog_bg">#fff6f7f8</color>

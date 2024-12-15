@@ -65,7 +65,7 @@
     <color name="camera_gradient_center">#80d73889</color>
     <color name="camera_gradient_end">#80fd8d32</color>
     <color name="camera_gradient_start">#80a307ba</color>
-    <color name="camera_pre_capture_utility_menu_color">#ff1a1a1a</color>
+    <color name="camera_pre_capture_utility_menu_color">@*android:color/background_dark</color>
     <color name="capture_textview_text_color">#feffffff</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cds_black_a05">#0c000000</color>

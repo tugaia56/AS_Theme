@@ -181,7 +181,7 @@
     <color name="hiad_app_down_processing_progress">#33007dff</color>
     <color name="hiad_app_down_processing_text">@*android:color/background_dark</color>
     <color name="hiad_app_down_white">#b3ffffff</color>
-    <color name="hiad_app_text_color">#ff1a1a1a</color>
+    <color name="hiad_app_text_color">@*android:color/background_dark</color>
     <color name="hiad_app_text_color_half">@*android:color/background_dark</color>
     <color name="hiad_black">@*android:color/background_dark</color>
     <color name="hiad_button">#00000000</color>
