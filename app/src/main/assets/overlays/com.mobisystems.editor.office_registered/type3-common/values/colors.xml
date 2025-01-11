@@ -41,7 +41,7 @@
     <color name="analyzer_chart_blue">#ff039be5</color>
     <color name="analyzer_chart_cur_dir">#ff656565</color>
     <color name="analyzer_chart_used_space">#ffe4e3e3</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="annot_edit_background_end">#a0202020</color>
     <color name="annot_edit_background_start">@*android:color/transparent</color>

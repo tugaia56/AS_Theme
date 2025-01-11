@@ -70,7 +70,7 @@
     <color name="primary_text_disabled_material_light">#39ffffff</color>
     <color name="red">@*android:color/accent_material_dark</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
-    <color name="ripple_material_light">#1fffffff</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8affffff</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>

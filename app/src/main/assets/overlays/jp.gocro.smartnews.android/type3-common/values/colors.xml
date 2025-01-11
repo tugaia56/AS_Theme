@@ -35,7 +35,7 @@
     <color name="ai_summary_warning_background">#1affffff</color>
     <color name="alizarin">#fffd4749</color>
     <color name="amethyst">#ffab4edb</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="article_bottom_chip_bg">#ffffffff</color>
     <color name="article_bottom_view_bg">#fff7f7f7</color>

@@ -25,7 +25,7 @@
     <color name="androidl_color_text_clean">#ff4281f4</color>
     <color name="androidl_color_text_linked">#ffffffff</color>
     <color name="androidl_color_text_selected">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="black_background_linked">#802f73e3</color>
     <color name="black_color_background">#ffeeeeee</color>

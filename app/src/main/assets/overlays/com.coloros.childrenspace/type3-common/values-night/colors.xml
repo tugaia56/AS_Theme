@@ -256,10 +256,10 @@
     <color name="couiSkyBlueFourthLightPressedPatchO">#4dcfbe9e</color>
     <color name="couiSkyBlueFourthLightPressedPatchR">#4dcfbe9e</color>
     <color name="couiSkyBlueFourthLightPressedRepatchO">#4dcfbe9e</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalPatchO">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalPatchR">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalRepatchO">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalPatchO">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalPatchR">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalRepatchO">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightPressedPatchO">#4dffc502</color>
     <color name="couiSkyBlueSecondLightPressedPatchR">#4dffc502</color>
     <color name="couiSkyBlueSecondLightPressedRepatchO">#4dffc502</color>
@@ -323,7 +323,7 @@
     <color name="coui_btn_drawable_color_disabled">#1affffff</color>
     <color name="coui_btn_eye_color_normal">#ffb5b5b5</color>
     <color name="coui_btn_eye_slash_color_left_top">@*android:color/background_dark</color>
-    <color name="coui_btn_part_check_inner_color_on_disabled">#ff050505</color>
+    <color name="coui_btn_part_check_inner_color_on_disabled">@*android:color/background_dark</color>
     <color name="coui_btn_radio_background_color">#80999999</color>
     <color name="coui_btn_radio_color_on_disabled">#ff5f5f5f</color>
     <color name="coui_button_text_color_disabled">#33ffffff</color>

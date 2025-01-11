@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="black">@*android:color/background_dark</color>
@@ -213,9 +213,9 @@
     <color name="couiSkyBlueFourthLightNormal">#26d7c9af</color>
     <color name="couiSkyBlueFourthNormal">#ffd7c9af</color>
     <color name="couiSkyBlueFourthTextHighLight">#4cd7c9af</color>
-    <color name="couiSkyBlueSecondBarDisabledColor">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondBarDisabledColor">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightNormal">#26ffcb1b</color>
-    <color name="couiSkyBlueSecondNormal">#ffffcb1b</color>
+    <color name="couiSkyBlueSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondTextHighLight">#4cffcb1b</color>
     <color name="couiSkyBlueThirdBarDisabledColor">#4dddb4b5</color>
     <color name="couiSkyBlueThirdLightNormal">#26ddb4b5</color>

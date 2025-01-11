@@ -27,7 +27,7 @@
     <color name="andante_blue_48">#7b8b95a8</color>
     <color name="andante_blue_60">#9a8b95a8</color>
     <color name="andante_blue_80">#cc8b95a8</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="artwork_background">#ff484b4b</color>
     <color name="audio_stats_btn_light_vivace">#ff67aef0</color>

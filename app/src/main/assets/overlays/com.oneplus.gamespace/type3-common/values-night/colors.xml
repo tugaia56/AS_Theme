@@ -87,7 +87,7 @@
     <color name="couiSkyBlueFirstLightPressed">#4d3f87a2</color>
     <color name="couiSkyBlueFourthLightNormal">#4dd7c9af</color>
     <color name="couiSkyBlueFourthLightPressed">#4dcfbe9e</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
     <color name="couiSkyBlueThirdLightPressed">#4dd5a2a4</color>

@@ -89,7 +89,7 @@
     <color name="ac_select_divider">#ffcecece</color>
     <color name="activity_fragment_white_bg">@*android:color/background_dark</color>
     <color name="alert_dialog_message_color_no_skin">#00ff00</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="antenna_bottom_sheet_subtitle">#ffffffff</color>
     <color name="antenna_bottom_sheet_title">#ffffffff</color>
@@ -124,7 +124,7 @@
     <color name="base_008577">@*android:color/accent_material_dark</color>
     <color name="base_1994FF">#ff1994ff</color>
     <color name="base_1E8AE8">#ff1e8ae8</color>
-    <color name="base_333333">#ff333333</color>
+    <color name="base_333333">@*android:color/button_material_dark</color>
     <color name="base_61FFFFFF">#61ffffff</color>
     <color name="base_808080">#ff808080</color>
     <color name="base_CC000000">#cc000000</color>
@@ -528,7 +528,7 @@
     <color name="homeshield_scan_content">#ffffffff</color>
     <color name="homeshield_subtitle_text_color">#ffa5abb4</color>
     <color name="homeshield_times_3677F6">#ff3677f6</color>
-    <color name="homeshield_title_text_color">#ff333333</color>
+    <color name="homeshield_title_text_color">@*android:color/button_material_dark</color>
     <color name="homeshield_total_num">#ff00a3df</color>
     <color name="homeshield_upgrade_bg_color">#2936444b</color>
     <color name="internet_connection_connecting">#ff999b9e</color>
@@ -594,7 +594,7 @@
     <color name="network_online_green">#ff34c759</color>
     <color name="network_scan_describe_color">#ffa5abb4</color>
     <color name="network_scan_device_content">#66ffffff</color>
-    <color name="network_scan_title_color">#ff333333</color>
+    <color name="network_scan_title_color">@*android:color/button_material_dark</color>
     <color name="network_scanner_bg_end">#ff0fcddd</color>
     <color name="network_scanner_bg_start">#ff06b6de</color>
     <color name="network_scanning_bg_end_color">#ff0fcddd</color>

@@ -117,7 +117,7 @@
     <color name="adobe_loki_app_bar">#ff1e77e3</color>
     <color name="adobe_loki_status_bar">#ff156bd9</color>
     <color name="adobe_spectrum_light245_blue4">@*android:color/accent_material_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="annual_price_ribbon_color">#ffedcc00</color>
     <color name="annual_rate_text_color">#ff707070</color>

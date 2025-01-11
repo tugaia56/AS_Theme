@@ -10,7 +10,7 @@
     <color name="action_bar_background_color">@*android:color/background_dark</color>
     <color name="action_bar_color">@*android:color/background_dark</color>
     <color name="action_bar_text_color">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="appBackgroundColor">@*android:color/background_dark</color>
     <color name="appBarBackgroundColor">@*android:color/background_dark</color>
@@ -124,7 +124,7 @@
     <color name="dividerColor">#14ffffff</color>
     <color name="divider_bottom_sheet">#1affffff</color>
     <color name="divider_header">#ffe6e6e6</color>
-    <color name="divider_horizontal">#ff333333</color>
+    <color name="divider_horizontal">@*android:color/button_material_dark</color>
     <color name="divider_list_row">@*android:color/background_dark</color>
     <color name="error">#ffff4c4c</color>
     <color name="errorColor">#ffff4c4c</color>
@@ -137,7 +137,7 @@
     <color name="floaty_player_background">#ff111111</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
-    <color name="full_player_background">#ff333333</color>
+    <color name="full_player_background">@*android:color/button_material_dark</color>
     <color name="gallery_progress_ring_background">#ffffffff</color>
     <color name="grey">#ff7a7a7a</color>
     <color name="grey100">@*android:color/background_dark</color>
@@ -263,7 +263,7 @@
     <color name="sh_grey_01_alpha_70">#b3151515</color>
     <color name="sh_grey_02">@*android:color/background_dark</color>
     <color name="sh_grey_03">@*android:color/background_dark</color>
-    <color name="sh_grey_04">#ff333333</color>
+    <color name="sh_grey_04">@*android:color/button_material_dark</color>
     <color name="sh_grey_05">#ff404040</color>
     <color name="sh_grey_06">#ff666666</color>
     <color name="sh_grey_07">#ffffffff</color>

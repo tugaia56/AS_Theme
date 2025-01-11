@@ -290,7 +290,7 @@
     <color name="color_EAFFF6">#ff00150c</color>
     <color name="color_F8F8F8">#1affffff</color>
     <color name="color_a1a5a4">#ff5a5e5d</color>
-    <color name="color_aaaaaa">#ff555555</color>
+    <color name="color_aaaaaa">@*android:color/button_material_dark</color>
     <color name="color_black_opacity_4">#1effffff</color>
     <color name="color_boot_devider">#33ffffff</color>
     <color name="color_boot_not_clickable">#4dffffff</color>

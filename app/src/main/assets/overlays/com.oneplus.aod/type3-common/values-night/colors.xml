@@ -184,8 +184,8 @@
     <color name="couiSkyBlueFourthLightNormalCompat">#4dd7c9af</color>
     <color name="couiSkyBlueFourthLightPressed">#4dcfbe9e</color>
     <color name="couiSkyBlueFourthLightPressedCompat">#4dcfbe9e</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalCompat">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalCompat">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightPressed">#4dffc502</color>
     <color name="couiSkyBlueSecondLightPressedCompat">#4dffc502</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>

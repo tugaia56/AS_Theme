@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="avatar_card_background">#99111111</color>
     <color name="background_floating_material_light">@*android:color/white</color>
@@ -42,7 +42,7 @@
     <color name="conversation_button_border_color">#ffededed</color>
     <color name="cover_layout_overlay">#66000000</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
-    <color name="design_dark_default_color_background">#ff121212</color>
+    <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>
     <color name="design_dark_default_color_on_error">@*android:color/background_dark</color>
@@ -54,7 +54,7 @@
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
     <color name="design_dark_default_color_secondary">#ff03dac6</color>
     <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
-    <color name="design_dark_default_color_surface">#ff121212</color>
+    <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
     <color name="design_default_color_on_background">@*android:color/background_dark</color>
@@ -75,11 +75,11 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
-    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="divider">#33000000</color>
     <color name="divider_gradient">#1f000000</color>
     <color name="dls_accent1">#ff00524e</color>

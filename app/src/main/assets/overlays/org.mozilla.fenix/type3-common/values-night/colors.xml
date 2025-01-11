@@ -15,6 +15,8 @@
     <color name="fx_mobile_layer_color_2">@*android:color/background_floating_material_dark</color>	
     <color name="fx_mobile_layer_color_3">@*android:color/button_material_dark</color>
     <color name="fx_mobile_layer_color_accent_opaque">@*android:color/accent_material_dark</color>
+    <color name="neutral_faded_normal_theme">#1ffbfbfe</color>
+    <color name="sync_disconnected_background_normal_theme">#ff5b5846</color>
     <color name="fx_mobile_text_color_accent">@*android:color/accent_material_dark</color>
     <color name="fx_mobile_text_color_primary">#ffffffff</color>
     <color name="fx_mobile_text_color_secondary">@*android:color/accent_material_dark</color>

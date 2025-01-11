@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_checked="true">
-        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="1440.0" android:viewportHeight="1440.0"
-          xmlns:android="http://schemas.android.com/apk/res/android">
-            <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M320 1374 c0 -10 45 -158 100 -328 l100 -311 -100 -310 c-55 -171 -100 -318 -100 -327 0 -10 6 -18 13 -18 8 0 103 64 213 143 109 79 310 223 447 321 136 97 247 183 247 191 0 14 -872 644 -902 653 -12 3 -18 -1 -18 -14z" android:strokeWidth="1.0" />
-            <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M373 1307 c33 -86 177 -554 177 -575 0 -15 -41 -151 -90 -302 -49 -151 -88 -276 -86 -278 2 -2 60 37 127 85 68 49 156 111 194 138 l70 49 -28 -37 c-15 -20 -24 -37 -20 -37 18 1 523 372 523 385 0 7 -102 87 -227 176 -126 90 -244 174 -263 188 l-34 26 21 -37 22 -37 -52 36 c-29 20 -113 80 -188 134 -76 55 -140 99 -144 99 -4 0 -5 -6 -2 -13z" android:strokeWidth="1.0" />
-            <path android:fillColor="@*android:color/user_icon_4" android:pathData="M373 1307 c33 -86 177 -554 177 -575 0 -15 -41 -151 -90 -302 -49 -151 -88 -276 -86 -278 4 -3 779 549 804 573 15 14 26 6 -515 393 -155 111 -285 202 -289 202 -3 0 -4 -6 -1 -13z" android:strokeWidth="1.0" />
-        </vector>
-    </item>
-    <item android:state_checked="false">
-        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="1440.0" android:viewportHeight="1440.0"
-          xmlns:android="http://schemas.android.com/apk/res/android">
-            <path android:fillColor="@*android:color/lockscreen_clock_background" android:pathData="M894 1217 c-109 -79 -311 -223 -447 -321 -165 -119 -247 -183 -245 -193 2 -9 116 -97 253 -195 138 -98 335 -240 438 -315 195 -140 227 -158 227 -128 0 9 -45 157 -100 327 l-100 311 101 314 c93 289 105 343 81 343 -5 0 -98 -64 -208 -143z" android:strokeWidth="1.0" />
-            <path android:fillColor="@*android:color/lockscreen_clock_background" android:pathData="M925 1194 c-71 -52 -157 -113 -190 -136 l-59 -41 27 37 c16 20 24 36 20 36 -18 -1 -523 -372 -523 -385 0 -12 160 -132 455 -340 l70 -50 -22 37 -22 37 52 -36 c29 -20 114 -81 190 -136 76 -54 140 -97 142 -95 2 2 -36 128 -86 281 -49 152 -89 289 -89 303 0 19 144 482 177 572 9 23 -12 10 -142 -84z" android:strokeWidth="1.0" />
-            <path android:fillColor="@*android:color/user_icon_4" android:pathData="M910 1184 c-80 -58 -262 -189 -404 -291 l-259 -186 29 -24 c66 -52 786 -564 789 -561 2 2 -36 128 -86 281 -49 152 -89 289 -89 303 0 19 144 482 177 572 9 23 -12 10 -157 -94z" android:strokeWidth="1.0" />
-        </vector>
-    </item>
+    <item android:state_checked="true" android:drawable="@*android:drawable/btn_toggle_off_focused_holo_light" />
+    <item android:drawable="@*android:drawable/btn_toggle_off_focused_holo_light" />
 </selector>

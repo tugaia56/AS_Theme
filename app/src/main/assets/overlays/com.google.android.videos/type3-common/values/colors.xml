@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="activated_tag_color">#ffff605a</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="biometric_error_color">#ffff5722</color>

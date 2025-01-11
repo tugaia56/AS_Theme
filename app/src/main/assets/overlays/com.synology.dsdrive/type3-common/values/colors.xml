@@ -9,7 +9,7 @@
     <color name="C15">#fffe3824</color>
     <color name="C16">#ffdddddd</color>
     <color name="C17">#ff1eb9c7</color>
-    <color name="C18">#ff555555</color>
+    <color name="C18">@*android:color/button_material_dark</color>
     <color name="C19">@*android:color/background_dark</color>
     <color name="C2">@*android:color/background_dark</color>
     <color name="C20">#fffafafa</color>
@@ -17,7 +17,7 @@
     <color name="C22">#fff6f8fa</color>
     <color name="C23">#ff6f5cb1</color>
     <color name="C24">#ff006ee6</color>
-    <color name="C3">#ff555555</color>
+    <color name="C3">@*android:color/button_material_dark</color>
     <color name="C4">@*android:color/button_material_dark</color>
     <color name="C5">#668c8e90</color>
     <color name="C6">#ffffffff</color>
@@ -31,13 +31,13 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="actionSheetC1">@*android:color/background_dark</color>
     <color name="actionSheetC15">#fffe3824</color>
-    <color name="actionSheetC3">#ff555555</color>
+    <color name="actionSheetC3">@*android:color/button_material_dark</color>
     <color name="actionSheetC4">@*android:color/button_material_dark</color>
     <color name="actionSheetC6">#ffffffff</color>
     <color name="actionSheetC9">#ffffffff</color>
     <color name="all_connection_button_border_light">#ffeceef0</color>
     <color name="all_connection_button_text_light">@*android:color/background_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_icon_background">@*android:color/accent_material_dark</color>
     <color name="applogColorAccent">#ff5078fe</color>
@@ -83,7 +83,7 @@
     <color name="certificateEmptyViewIconTintNight">#ffffffff</color>
     <color name="certificateEmptyViewTextLight">#596e7072</color>
     <color name="certificateEmptyViewTextNight">#d9828383</color>
-    <color name="certificateIconTintLight">#ff555555</color>
+    <color name="certificateIconTintLight">@*android:color/button_material_dark</color>
     <color name="certificateIconTintNight">#fff0f3f6</color>
     <color name="certificateInfoLight">@*android:color/button_material_dark</color>
     <color name="certificateInfoNight">#ff8c8e90</color>
@@ -93,7 +93,7 @@
     <color name="certificateToolbarBackgroundNight">@*android:color/background_dark</color>
     <color name="certificateToolbarTextPrimaryLight">@*android:color/background_dark</color>
     <color name="certificateToolbarTextPrimaryNight">#ffffffff</color>
-    <color name="certificateToolbarTintLight">#ff555555</color>
+    <color name="certificateToolbarTintLight">@*android:color/button_material_dark</color>
     <color name="certificateToolbarTintNight">#fff0f3f6</color>
     <color name="certificateWindowBackGroundLight">#ffffffff</color>
     <color name="certificateWindowBackGroundNight">@*android:color/background_dark</color>
@@ -110,7 +110,7 @@
     <color name="colorC28">#80e0e0e0</color>
     <color name="colorC3">#668c8e90</color>
     <color name="colorC4">#ffffffff</color>
-    <color name="colorC7">#ff555555</color>
+    <color name="colorC7">@*android:color/button_material_dark</color>
     <color name="colorC8">#ffdddddd</color>
     <color name="colorError">#fff2616d</color>
     <color name="colorFontBlue">#ff248bf3</color>
@@ -184,7 +184,7 @@
     <color name="gdprPrefsToolbarBgDark">@*android:color/background_dark</color>
     <color name="gdprPrefsToolbarBgLight">#ffffffff</color>
     <color name="gdprPrefsToolbarNaviTintColorDark">#fff0f3f6</color>
-    <color name="gdprPrefsToolbarNaviTintColorLight">#ff555555</color>
+    <color name="gdprPrefsToolbarNaviTintColorLight">@*android:color/button_material_dark</color>
     <color name="grid_line_virtual">#19000000</color>
     <color name="group_audio">#ff08ad93</color>
     <color name="group_doc">#ff0064ff</color>
@@ -465,7 +465,7 @@
     <color name="ui_doc_bg_dark">@*android:color/background_dark</color>
     <color name="ui_doc_bg_light">#ffffffff</color>
     <color name="ui_doc_toolbar_tint_dark">#ffffffff</color>
-    <color name="ui_doc_toolbar_tint_light">#ff555555</color>
+    <color name="ui_doc_toolbar_tint_light">@*android:color/button_material_dark</color>
     <color name="viewer__navigationbar_background">#a6000000</color>
     <color name="viewer__statusbar_background">#4d000000</color>
     <color name="vpi__background_holo_dark">@*android:color/background_dark</color>

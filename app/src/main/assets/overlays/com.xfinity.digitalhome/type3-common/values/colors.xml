@@ -7,7 +7,7 @@
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="activities_background">#fff8f9fb</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_notification_tint_color">#ff080d18</color>
     <color name="area_of_interest_polygon">#80fb6400</color>
@@ -367,7 +367,7 @@
     <color name="medallia_alert_text_color">#00bfa5</color>
     <color name="medallia_background_semi_transparent">#80000000</color>
     <color name="medallia_banner_background">#1565c0</color>
-    <color name="medallia_body_color">#ff333333</color>
+    <color name="medallia_body_color">@*android:color/button_material_dark</color>
     <color name="medallia_delimiter_modal_form">#ffe0e0e0</color>
     <color name="medallia_fragment_dialog_button_color">#ff009b8d</color>
     <color name="medallia_fragment_dialog_text_color">#1de9b6</color>
@@ -775,7 +775,7 @@
     <color name="text_color_wifi_confirm_data">#ff474747</color>
     <color name="text_color_wifi_confirm_title">#ff44484c</color>
     <color name="thermostat_dialog_header">#ff8f8e94</color>
-    <color name="thermostat_set_point_item">#ff333333</color>
+    <color name="thermostat_set_point_item">@*android:color/button_material_dark</color>
     <color name="third_advanced_features_color">#ff3f3a38</color>
     <color name="thumb_gradient_center">#51000000</color>
     <color name="thumb_gradient_end">#00000000</color>

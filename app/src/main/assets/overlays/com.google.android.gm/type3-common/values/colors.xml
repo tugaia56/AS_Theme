@@ -27,7 +27,7 @@
     <color name="ag_abs_yellow300_24">#3dfdd663</color>
     <color name="ag_nv_200_700">#ffa9acaa</color>
     <color name="ampm_text_color">#ff8c8c8c</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="autocomplete_bottom_shadow_start">#40000000</color>
     <color name="autocomplete_divider_color">#ffcccccc</color>

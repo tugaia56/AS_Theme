@@ -272,7 +272,7 @@
     <color name="secondary_text_opacity_7">#b3a6a6a6</color>
     <color name="secondary_text_opacity_8">#cca6a6a6</color>
     <color name="secondary_text_opacity_9">#e6a6a6a6</color>
-    <color name="surface_1">#ff1d1d1d</color>
+    <color name="surface_1">@*android:color/background_dark</color>
     <color name="surface_1_inverted">#fffbfbfb</color>
     <color name="surface_1_inverted_opacity_1">#1afbfbfb</color>
     <color name="surface_1_inverted_opacity_2">#33fbfbfb</color>

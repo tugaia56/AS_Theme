@@ -824,7 +824,7 @@
     <color name="oos11_record_color">@*android:color/background_dark</color>
     <color name="oos11_record_picker_color">#19000000</color>
     <color name="oos11_ring_divider_color">#fffafafa</color>
-    <color name="oos11_ripple_material_light">#40000000</color>
+    <color name="oos11_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="oos11_search_view_text_cursor">#b0dddddd</color>
     <color name="oos11_server_number_server_background_color">#fff5f5f5</color>
     <color name="oos11_settings_item_title_text_primary">@*android:color/background_dark</color>

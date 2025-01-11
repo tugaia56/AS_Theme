@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_normal">@*android:color/accent_material_dark</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="appnotification_blue_theme_background_color">#ff198bed</color>
     <color name="appnotification_blue_theme_background_color_pressed">#bf198bed</color>
@@ -166,11 +166,11 @@
     <color name="com_braze_inappmessage_button_text_light">@*android:color/white</color>
     <color name="com_braze_inappmessage_chevron">#ff9b9b9b</color>
     <color name="com_braze_inappmessage_frame_light">#c0333333</color>
-    <color name="com_braze_inappmessage_header_text">#ff333333</color>
+    <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_braze_inappmessage_text">#ff555555</color>
-    <color name="com_braze_inappmessage_text_slideup">#ff555555</color>
+    <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
+    <color name="com_braze_inappmessage_text_slideup">@*android:color/button_material_dark</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_1">#fff33e3e</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_2">#ff1bbdf2</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_3">#ff2f3436</color>

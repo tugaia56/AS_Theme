@@ -49,7 +49,7 @@
     <color name="alert_dialog_color_accent_light">#ff23aff3</color>
     <color name="alert_dialog_title_style_font_color_dark">#ddffffff</color>
     <color name="alert_dialog_title_style_font_color_light">#dd000000</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="back_record_page_indicator">#d9ffffff</color>
     <color name="back_record_status_view_bg">#cc1d1e24</color>
@@ -626,10 +626,10 @@
     <color name="oplusSkyBlueFourthNormal">#ffd7c9af</color>
     <color name="oplusSkyBlueFourthPressed">#ffcfbe9e</color>
     <color name="oplusSkyBlueFourthTextHighLight">#4cd7c9af</color>
-    <color name="oplusSkyBlueSecondBarDisabledColor">#4dffcb1b</color>
+    <color name="oplusSkyBlueSecondBarDisabledColor">@*android:color/accent_material_dark</color>
     <color name="oplusSkyBlueSecondLightNormal">#26ffcb1b</color>
     <color name="oplusSkyBlueSecondLightPressed">#26ffc502</color>
-    <color name="oplusSkyBlueSecondNormal">#ffffcb1b</color>
+    <color name="oplusSkyBlueSecondNormal">@*android:color/accent_material_dark</color>
     <color name="oplusSkyBlueSecondPressed">#ffffc502</color>
     <color name="oplusSkyBlueSecondTextHighLight">#4cffcb1b</color>
     <color name="oplusSkyBlueThirdBarDisabledColor">#4dddb4b5</color>

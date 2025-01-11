@@ -16,7 +16,7 @@
     <color name="all_apps_label_text_dark">#61ffffff</color>
     <color name="all_apps_prediction_row_separator">#3cffffff</color>
     <color name="all_apps_prediction_row_separator_dark">#3cffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="appsearch_contact_action_badge_color">@*android:color/accent_material_dark</color>
     <color name="appsearch_contact_action_tint">#ff0000</color>
@@ -493,7 +493,7 @@
     <color name="quantum_grey500">#ff9e9e9e</color>
     <color name="quantum_grey600">#ff757575</color>
     <color name="quantum_grey700">#ff616161</color>
-    <color name="quantum_grey800">#ff424242</color>
+    <color name="quantum_grey800">@*android:color/background_dark</color>
     <color name="quantum_grey900">#ff212121</color>
     <color name="quantum_greyblack1000">#ff000000</color>
     <color name="quantum_greywhite1000">#ffffffff</color>
@@ -598,7 +598,7 @@
     <color name="quantum_purpleA400">#ffd500f9</color>
     <color name="quantum_purpleA700">#ffaa00ff</color>
     <color name="quantum_teal100">#ffb2dfdb</color>
-    <color name="quantum_teal200">#ff80cbc4</color>
+    <color name="quantum_teal200">@*android:color/accent_material_dark</color>
     <color name="quantum_teal300">#ff4db6ac</color>
     <color name="quantum_teal400">#ff26a69a</color>
     <color name="quantum_teal50">#ffe0f2f1</color>

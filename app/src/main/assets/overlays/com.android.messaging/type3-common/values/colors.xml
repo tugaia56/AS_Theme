@@ -8,7 +8,7 @@
     <color name="action_bar_background_color">@*android:color/background_dark</color>
     <color name="action_bar_background_color_dark">@*android:color/background_dark</color>
     <color name="action_bar_title_text_color">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="archived_conversation_action_bar_background_color">#ff9d9d9d</color>
     <color name="archived_conversation_action_bar_background_color_dark">@*android:color/background_dark</color>
@@ -115,7 +115,7 @@
     <color name="message_action_status_text">#ffffffff</color>
     <color name="message_action_timestamp_text">#ffffffff</color>
     <color name="message_audio_button_color_incoming">#ffffffff</color>
-    <color name="message_body_size_text_color">#ff555555</color>
+    <color name="message_body_size_text_color">@*android:color/button_material_dark</color>
     <color name="message_bubble_color_outgoing">@*android:color/button_material_dark</color>
     <color name="message_bubble_color_selected">@*android:color/accent_material_dark</color>
     <color name="message_download_failed_status_text">@*android:color/background_dark</color>

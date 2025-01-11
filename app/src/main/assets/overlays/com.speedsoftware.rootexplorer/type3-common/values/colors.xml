@@ -84,7 +84,7 @@
     <color name="material_grey_900">@*android:color/background_dark</color>
     <color name="medium_dark_grey">#ffaaaaaa</color>
     <color name="medium_grey">#ff666666</color>
-    <color name="mid_grey">#ff555555</color>
+    <color name="mid_grey">@*android:color/button_material_dark</color>
     <color name="mtrl_btn_bg_color_disabled">#1f000000</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>
     <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>

@@ -16,7 +16,7 @@
     <color name="action_text_opacity_7">#b31976d2</color>
     <color name="action_text_opacity_8">#cc1976d2</color>
     <color name="action_text_opacity_9">#e61976d2</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="black">@*android:color/background_dark</color>
@@ -140,8 +140,8 @@
     <color name="browser_actions_title_color">#ff646464</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="caldroid_333">#ff333333</color>
-    <color name="caldroid_555">#ff555555</color>
+    <color name="caldroid_333">@*android:color/button_material_dark</color>
+    <color name="caldroid_555">@*android:color/button_material_dark</color>
     <color name="caldroid_black">@*android:color/background_dark</color>
     <color name="caldroid_darker_gray">#ffaaaaaa</color>
     <color name="caldroid_gray">#ffcccccc</color>
@@ -931,7 +931,7 @@
     <color name="material_personalized_color_text_primary_inverse_disable_only">#ffffffff</color>
     <color name="material_personalized_color_text_secondary_and_tertiary_inverse">#ffffffff</color>
     <color name="material_personalized_color_text_secondary_and_tertiary_inverse_disabled">#ffffffff</color>
-    <color name="mct_grid_gray">#ff333333</color>
+    <color name="mct_grid_gray">@*android:color/button_material_dark</color>
     <color name="moderate_cyan">#ff5dbcd2</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>
     <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
@@ -1133,7 +1133,7 @@
     <color name="palette_gray_19">#ffa7a7a7</color>
     <color name="palette_gray_1_2">#ff3a3a3a</color>
     <color name="palette_gray_1_alpha">#99222222</color>
-    <color name="palette_gray_2">#ff555555</color>
+    <color name="palette_gray_2">@*android:color/button_material_dark</color>
     <color name="palette_gray_23">#ffdadada</color>
     <color name="palette_gray_26">@*android:color/button_material_dark</color>
     <color name="palette_gray_28">@*android:color/background_dark</color>
@@ -1543,7 +1543,7 @@
     <color name="sso_black">@*android:color/background_dark</color>
     <color name="sso_black_with_transparency">#20000000</color>
     <color name="sso_blue">#ff0000ff</color>
-    <color name="sso_dark_gray">#ff333333</color>
+    <color name="sso_dark_gray">@*android:color/button_material_dark</color>
     <color name="sso_gray">#ff666666</color>
     <color name="sso_light_gray">#ffcccccc</color>
     <color name="sso_txt_no_internet_conn">#ffffffff</color>
@@ -1771,7 +1771,7 @@
     <color name="ucrop_color_statusbar">#fff5f5f5</color>
     <color name="ucrop_color_white">#ffffffff</color>
     <color name="very_dark_gray">@*android:color/background_dark</color>
-    <color name="very_dark_gray_2">#ff555555</color>
+    <color name="very_dark_gray_2">@*android:color/button_material_dark</color>
     <color name="very_dark_gray_3">@*android:color/button_material_dark</color>
     <color name="very_light_gray">#ffdcdcdc</color>
     <color name="very_light_gray_2">#ffd8d8d8</color>

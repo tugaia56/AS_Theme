@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="avatarColor1">#ff94bf30</color>
     <color name="avatarColor10">#fffa9c3e</color>
@@ -263,7 +263,7 @@
     <color name="ui_doc_bg_dark">@*android:color/background_dark</color>
     <color name="ui_doc_bg_light">#ffffffff</color>
     <color name="ui_doc_toolbar_tint_dark">#ffffffff</color>
-    <color name="ui_doc_toolbar_tint_light">#ff555555</color>
+    <color name="ui_doc_toolbar_tint_light">@*android:color/button_material_dark</color>
     <color name="vpi__background_holo_dark">@*android:color/background_dark</color>
     <color name="vpi__background_holo_light">#fff3f3f3</color>
     <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>

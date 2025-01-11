@@ -9,7 +9,7 @@
     <color name="accent_material_dark">@*android:color/accent_material_dark</color>
     <color name="accent_material_light">@*android:color/accent_material_dark</color>
     <color name="almondColor">@*android:color/accent_material_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="antiqueWhiteColor">#fffaebd7</color>
     <color name="babyBlueColor">#ffbedce6</color>
@@ -211,7 +211,7 @@
     <color name="kustom_light_divider_secondary">#30606060</color>
     <color name="kustom_light_error">#ffdd4444</color>
     <color name="kustom_light_icons">#ff707070</color>
-    <color name="kustom_light_preview_background">#ff555555</color>
+    <color name="kustom_light_preview_background">@*android:color/button_material_dark</color>
     <color name="kustom_light_primary">#ffffffff</color>
     <color name="kustom_light_primary_dark">#ffdadada</color>
     <color name="kustom_light_primary_light">#ffffffff</color>

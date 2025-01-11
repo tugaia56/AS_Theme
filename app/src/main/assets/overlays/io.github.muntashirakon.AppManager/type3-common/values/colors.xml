@@ -23,7 +23,7 @@
     <color name="android_theme_tag_color_15">#ff009933</color>
     <color name="android_theme_tag_color_16">#ffcc3399</color>
     <color name="android_theme_tag_color_17">#ffffcc00</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="apple_core">#ffdcc7aa</color>
     <color name="apricot">#fff7882f</color>

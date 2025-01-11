@@ -14,7 +14,7 @@
     <color name="about_page_link_text_color">@*android:color/black</color>
     <color name="about_page_name_color">@*android:color/accent_material_dark</color>
     <color name="about_page_navigationBarColor">#5c000000</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_dark">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
@@ -74,14 +74,14 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gray">#ff607d8b</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="info">@*android:color/accent_material_dark</color>
     <color name="invalid">#ff8f6b32</color>
     <color name="legacy_icon_background">#ffffffff</color>
@@ -2886,8 +2886,8 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
@@ -2896,7 +2896,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="switchbar_background_dark">#ff424242</color>
+    <color name="switchbar_background_dark">@*android:color/background_dark</color>
     <color name="switchbar_background_light">#ff80868b</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>

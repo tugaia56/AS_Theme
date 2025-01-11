@@ -33,7 +33,7 @@
     <color name="agenda_widget_event_narrow_duration_text_color">#ffbbbac1</color>
     <color name="alert_dialog_title_color">@*android:color/accent_material_dark</color>
     <color name="all_account_btn_background">@*android:color/transparent</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="avatar_aad_logo_background">@*android:color/white</color>
     <color name="avatar_background_blue">@*android:color/accent_material_dark</color>

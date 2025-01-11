@@ -78,7 +78,7 @@
     <color name="add_account_proceed_disabled_light">#ffc0c0c0</color>
     <color name="add_account_status_color_dark">@*android:color/background_dark</color>
     <color name="add_account_status_color_light">#ff007e8d</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_exit_ad_background_color_dark">@*android:color/background_dark</color>
     <color name="app_exit_ad_background_color_light">#fff0f0f0</color>

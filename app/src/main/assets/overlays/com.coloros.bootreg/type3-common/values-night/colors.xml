@@ -75,7 +75,7 @@
     <color name="couiSkyBlueFifthTextNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueFirstLightNormal">#4d4696b4</color>
     <color name="couiSkyBlueFourthLightNormal">#4dd7c9af</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
     <color name="couiSkyblueTintControlDisabled">#4dffffff</color>
     <color name="couiSkyblueTintLightNormal">#4d38d7d5</color>

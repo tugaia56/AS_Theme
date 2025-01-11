@@ -13,7 +13,7 @@
     <color name="air_4">#fff74554</color>
     <color name="air_5">#ffac68ee</color>
     <color name="air_6">#ffb13140</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="black_transparent">#14000000</color>

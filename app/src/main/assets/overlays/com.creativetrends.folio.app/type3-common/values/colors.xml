@@ -146,7 +146,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="arc_background">#25ffffff</color>
     <color name="backShortcut">#d0000000</color>
@@ -173,7 +173,7 @@
     <color name="blue_dark">#ff1d83d4</color>
     <color name="blue_darker">#ff0d3d63</color>
     <color name="blue_gray">#ff4b636f</color>
-    <color name="bookmark_text">#ff555555</color>
+    <color name="bookmark_text">@*android:color/button_material_dark</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
@@ -281,7 +281,7 @@
     <color name="favoriteColor">#00000000</color>
     <color name="favoriteColorBackground">#ffffffff</color>
     <color name="favoriteDivider">#2ecccccc</color>
-    <color name="favoriteGridTitle">#ff555555</color>
+    <color name="favoriteGridTitle">@*android:color/button_material_dark</color>
     <color name="favoriteGridTitleNight">#ffeeeeee</color>
     <color name="finestBlack">@*android:color/background_dark</color>
     <color name="finestBlack05">#0d202020</color>
@@ -407,7 +407,7 @@
     <color name="grey_hex_52">#ff525252</color>
     <color name="grey_hex_53">#ff535353</color>
     <color name="grey_hex_54">#ff545454</color>
-    <color name="grey_hex_55">#ff555555</color>
+    <color name="grey_hex_55">@*android:color/button_material_dark</color>
     <color name="grey_hex_56">#ff565656</color>
     <color name="grey_hex_57">#ff575757</color>
     <color name="grey_hex_58">@*android:color/background_leanback_dark</color>
@@ -764,7 +764,7 @@
     <color name="onBoard_white">#88ffffff</color>
     <color name="onBoard_white_sum">#aaffffff</color>
     <color name="onboard1">@*android:color/background_dark</color>
-    <color name="onboard1_dark">#ff555555</color>
+    <color name="onboard1_dark">@*android:color/button_material_dark</color>
     <color name="onboard2">@*android:color/accent_material_dark</color>
     <color name="onboard2_dark">#ff1565c0</color>
     <color name="onboard3">#ffdddddd</color>
@@ -849,7 +849,7 @@
     <color name="test_color">@*android:color/background_dark</color>
     <color name="textColorPrimary">#ffffffff</color>
     <color name="textSummary">#ff999999</color>
-    <color name="textSummaryPower">#ff555555</color>
+    <color name="textSummaryPower">@*android:color/button_material_dark</color>
     <color name="textSummaryShortcut">#cc999999</color>
     <color name="textSummaryShortcutNight">#70ffffff</color>
     <color name="thankYouBackground">#c9000000</color>

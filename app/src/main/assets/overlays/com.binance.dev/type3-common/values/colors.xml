@@ -613,7 +613,7 @@
     <color name="2131100904">#99000000</color>
     <color name="2131100905">#ffc9d7ec</color>
     <color name="2131100906">#ff535353</color>
-    <color name="2131100907">#ff1d1d1d</color>
+    <color name="2131100907">@*android:color/background_dark</color>
     <color name="2131100908">#ff909090</color>
     <color name="2131100909">#ff545454</color>
     <color name="2131100910">#80000000</color>

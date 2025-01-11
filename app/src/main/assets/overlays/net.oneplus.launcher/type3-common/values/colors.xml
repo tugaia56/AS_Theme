@@ -35,7 +35,7 @@
     <color name="allapps_fab_main_color">#ffffffff</color>
     <color name="alphabetical_fast_scroll_bar_dark_tracked_color">#ffffffff</color>
     <color name="alphabetical_fast_scroll_bar_tracked_color">@*android:color/background_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_category_item_bg_color">#ffffffff</color>
     <color name="app_category_item_bg_dragging_color">#66000000</color>

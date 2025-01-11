@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="attachment_icon_pdf">@*android:color/accent_material_dark</color>
     <color name="attachment_icon_ppt">#fff9ce1d</color>
@@ -89,8 +89,8 @@
     <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_braze_inappmessage_text">#ff555555</color>
-    <color name="com_braze_inappmessage_text_slideup">#ff555555</color>
+    <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
+    <color name="com_braze_inappmessage_text_slideup">@*android:color/button_material_dark</color>
     <color name="com_facebook_blue">#ff1877f2</color>
     <color name="com_facebook_button_background_color_disabled">#ffebedf0</color>
     <color name="com_facebook_button_background_color_pressed">#ff186bda</color>

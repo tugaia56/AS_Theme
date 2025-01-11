@@ -69,7 +69,7 @@
     <color name="account_ui_gray40">#66ffffff</color>
     <color name="account_ui_login_last_login_text_color">#ff7ab1ff</color>
     <color name="account_ui_main_ui_content_color">#80000000</color>
-    <color name="account_ui_main_ui_title_color">#ff555555</color>
+    <color name="account_ui_main_ui_title_color">@*android:color/button_material_dark</color>
     <color name="account_ui_normal_color">#ff06b666</color>
     <color name="account_ui_orange100">#ffff8810</color>
     <color name="account_ui_p3_30">#4dff5850</color>
@@ -88,7 +88,7 @@
     <color name="ad_base_color">@*android:color/holo_light_primary_dark</color>
     <color name="alert_color">#ffff2222</color>
     <color name="alexa_btn_bg">#ff009bc3</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_notification_icon_color">#ffff5a00</color>
     <color name="applet_black">@*android:color/background_dark</color>
@@ -249,7 +249,7 @@
     <color name="car_orange">#ffff9c2c</color>
     <color name="car_orange_darker">#ffe68e2a</color>
     <color name="car_orange_pink">#ffff6655</color>
-    <color name="car_title_color">#ff555555</color>
+    <color name="car_title_color">@*android:color/button_material_dark</color>
     <color name="car_white">#ffffffff</color>
     <color name="car_white_60">#aaffffff</color>
     <color name="card_view_title_color">@*android:color/holo_light_primary_dark</color>
@@ -692,7 +692,7 @@
     <color name="lab_temperature_black_cancel">#ffcccccc</color>
     <color name="lab_temperature_options_out">#ffe8e8e8</color>
     <color name="lab_temperature_red">#ffff5353</color>
-    <color name="lab_title_gray">#ff555555</color>
+    <color name="lab_title_gray">@*android:color/button_material_dark</color>
     <color name="lab_title_view">#ff5490db</color>
     <color name="lab_top_view">#ff64a3e1</color>
     <color name="lab_white20">#33ffffff</color>
@@ -789,7 +789,7 @@
     <color name="main_ui_content_color">#80000000</color>
     <color name="main_ui_content_color_light">#88999999</color>
     <color name="main_ui_content_color_light_2">#66999999</color>
-    <color name="main_ui_title_color">#ff555555</color>
+    <color name="main_ui_title_color">@*android:color/button_material_dark</color>
     <color name="mango">#ffffaa39</color>
     <color name="mask_color">#ccedeff0</color>
     <color name="mask_color_night_mode">#77f7f7f7</color>
@@ -1248,7 +1248,7 @@
     <color name="wf_indicator_disable">#ffbdbdbd</color>
     <color name="wf_indicator_enable">#ffa5a5a5</color>
     <color name="wf_light_white">#e6ffffff</color>
-    <color name="wf_select_img_text_color">#ff555555</color>
+    <color name="wf_select_img_text_color">@*android:color/button_material_dark</color>
     <color name="wf_text_disable_color">#80ffffff</color>
     <color name="wf_text_light_white">#99ffffff</color>
     <color name="wf_un_done_color">#19ff5353</color>
@@ -1308,7 +1308,7 @@
     <color name="wl_divider_section_background">#fff6f7f8</color>
     <color name="wl_green">#ff06b666</color>
     <color name="wl_orange_pink">#ffff6655</color>
-    <color name="wl_title_color">#ff555555</color>
+    <color name="wl_title_color">@*android:color/button_material_dark</color>
     <color name="wl_white">#ffffffff</color>
     <color name="wl_white_60">#aaffffff</color>
     <color name="x_recycler_color_loading_color1">#55777777</color>

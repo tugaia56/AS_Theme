@@ -16,7 +16,7 @@
     <color name="alpha_picker_bg_light">@*android:color/background_dark</color>
     <color name="alpha_picker_unavailable_bg_dark">@*android:color/button_material_dark</color>
     <color name="alpha_picker_unavailable_bg_light">@*android:color/button_material_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8affffff</color>
     <color name="background_floating_material_light">@*android:color/background_floating_material_dark</color>
     <color name="background_menu_settings">@*android:color/background_floating_material_dark</color>

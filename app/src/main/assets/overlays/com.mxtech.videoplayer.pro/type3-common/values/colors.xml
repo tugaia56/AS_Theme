@@ -490,7 +490,7 @@
     <color name="action_mode_background_light_darkactionbar">#ff9b9b9b</color>
     <color name="action_mode_statusbar_light_darkactionbar">@*android:color/background_dark</color>
     <color name="actionbar_black_border">#bfffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="background_material_dark_custom">@*android:color/background_dark</color>

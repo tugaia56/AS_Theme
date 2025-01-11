@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">@*android:color/accent_material_dark</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="auto_upload_suggestion_color">#ffd9e2ff</color>
     <color name="background_floating_material_light">#ffffffff</color>
@@ -82,7 +82,6 @@
     <color name="exo_black_opacity_70">#b3000000</color>
     <color name="exo_bottom_bar_background">#b0000000</color>
     <color name="exo_edit_mode_background_color">#fff4f3f0</color>
-    <color name="exo_error_message_background_color">#aa000000</color>
     <color name="exo_styled_error_message_background">#80808080</color>
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
@@ -163,7 +162,7 @@
     <color name="m3_ref_palette_error40">#ffb3261e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
-    <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>

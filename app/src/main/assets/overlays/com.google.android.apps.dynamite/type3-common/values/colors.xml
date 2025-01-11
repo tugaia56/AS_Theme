@@ -18,7 +18,7 @@
     <color name="ag_abs_white_80">#ccffffff</color>
     <color name="ag_green600">@*android:color/accent_material_dark</color>
     <color name="ag_nv_200_700">#ffa9acaa</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_primary_color">@*android:color/white</color>
     <color name="app_primary_text">@*android:color/white</color>

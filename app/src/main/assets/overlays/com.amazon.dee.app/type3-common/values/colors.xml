@@ -89,7 +89,7 @@
     <color name="amazon_smile">#ffff9900</color>
     <color name="amazon_smile_translucent">#e9ff9900</color>
     <color name="amazon_white">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="apl_close_button_pressed_dark_theme">#ff9e9e9e</color>
     <color name="apl_close_button_pressed_light_theme">@*android:color/button_material_dark</color>
@@ -104,7 +104,7 @@
     <color name="bar_background_fill">#e9f2f2f2</color>
     <color name="bar_border_gray">#ff979797</color>
     <color name="bar_button_background">#26000000</color>
-    <color name="bar_text">#ff555555</color>
+    <color name="bar_text">@*android:color/button_material_dark</color>
     <color name="bg_poi_details_divider">#1affffff</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="blackTint">#66000000</color>

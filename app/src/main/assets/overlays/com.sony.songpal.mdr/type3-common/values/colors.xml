@@ -13,7 +13,7 @@
     <color name="activity_graph_color_track">#14000000</color>
     <color name="activity_precautionary_statement_background_color">#fff2f2f2</color>
     <color name="alexa_app_text_color">#ff31c4f3</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="asc_geofence_circle_fill_color">#1effa100</color>
     <color name="asc_geofence_circle_outer_line_color">#64ffa100</color>

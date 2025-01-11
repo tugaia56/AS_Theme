@@ -123,7 +123,7 @@
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="briefcase_icon_color">@*android:color/accent_material_dark</color>
     <color name="cross_profile_button_text_color">@*android:color/accent_material_dark</color>

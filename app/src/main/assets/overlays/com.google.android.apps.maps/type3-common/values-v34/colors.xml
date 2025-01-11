@@ -164,6 +164,4 @@
     <color name="m3_sys_color_dynamic_light_on_error">#512da8</color>
     <color name="m3_sys_color_dynamic_light_on_error_container">#5e35b1</color>
     <color name="settingslib_thumb_on_color">#673ab7</color>
-    <color name="sud_system_sc_highest_dark">@*android:color/bright_foreground_light</color>
-    <color name="sud_system_sc_highest_light">@*android:color/accent_material_light</color>
 </resources>

@@ -7,7 +7,7 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="action_bar">#c0000000</color>
     <color name="anchor_text_highlight">#a6ffe168</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="assignee_header_text_on_primary">@*android:color/white</color>
     <color name="autocomplete_bottom_shadow_start">#40000000</color>

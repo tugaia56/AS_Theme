@@ -12,7 +12,7 @@
     <color name="amp_light_gray">#ffe5e5e5</color>
     <color name="amp_light_gray_2">#ffc6d0d9</color>
     <color name="amp_transparent">#00000000</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="backgroundColor">#ff0a0a0a</color>
     <color name="background_floating_material_light">@*android:color/white</color>
@@ -92,11 +92,11 @@
     <color name="com_braze_inappmessage_button_text_light">@*android:color/white</color>
     <color name="com_braze_inappmessage_chevron">#ff9b9b9b</color>
     <color name="com_braze_inappmessage_frame_light">#c0333333</color>
-    <color name="com_braze_inappmessage_header_text">#ff333333</color>
+    <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_braze_inappmessage_text">#ff555555</color>
-    <color name="com_braze_inappmessage_text_slideup">#ff555555</color>
+    <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
+    <color name="com_braze_inappmessage_text_slideup">@*android:color/button_material_dark</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_1">#fff33e3e</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_2">#ff1bbdf2</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_3">#ff2f3436</color>
@@ -368,8 +368,8 @@
     <color name="gray_color_700">#ff2c2e2f</color>
     <color name="grey">#ff545454</color>
     <color name="header_close_icon_background">#ffaeaeb2</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="hintTextColor">#ffa7b7c2</color>
     <color name="ic_launcher_background">#ff1c1c1e</color>
     <color name="kusExcelFileColor">#ff0c9d58</color>
@@ -714,8 +714,8 @@
     <color name="ring_pink">#ffeb5d76</color>
     <color name="ring_red">#ffcd2f2f</color>
     <color name="ring_teal">#ff48c8a9</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>

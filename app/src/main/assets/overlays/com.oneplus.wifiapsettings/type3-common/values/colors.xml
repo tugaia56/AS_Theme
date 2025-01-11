@@ -10,7 +10,7 @@
     <color name="alert_dialog_color_accent_light">#ff23aff3</color>
     <color name="alert_dialog_title_style_font_color_dark">#ddffffff</color>
     <color name="alert_dialog_title_style_font_color_light">#dd000000</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>

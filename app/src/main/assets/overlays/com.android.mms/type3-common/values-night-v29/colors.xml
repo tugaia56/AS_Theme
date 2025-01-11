@@ -176,8 +176,8 @@
     <color name="couiSkyBlueFourthLightNormalCompat">#4dd7c9af</color>
     <color name="couiSkyBlueFourthLightPressed">#4dcfbe9e</color>
     <color name="couiSkyBlueFourthLightPressedCompat">#4dcfbe9e</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalCompat">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalCompat">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightPressed">#4dffc502</color>
     <color name="couiSkyBlueSecondLightPressedCompat">#4dffc502</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
@@ -229,7 +229,7 @@
     <color name="coui_btn_eye_color_normal">#ffb5b5b5</color>
     <color name="coui_btn_eye_slash_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">@*android:color/background_leanback_dark</color>
-    <color name="coui_btn_part_check_inner_color_on_disabled">#ff050505</color>
+    <color name="coui_btn_part_check_inner_color_on_disabled">@*android:color/background_dark</color>
     <color name="coui_btn_radio_background_color">#80999999</color>
     <color name="coui_btn_radio_color_disabled">#1affffff</color>
     <color name="coui_btn_radio_color_off">#33ffffff</color>
@@ -341,7 +341,7 @@
     <color name="coui_shape_btn_check_fill_color_off_disabled">#1ae6e6e6</color>
     <color name="coui_simple_lock_filled_rectangle_icon_color">#e6ffffff</color>
     <color name="coui_simple_lock_outlined_rectangle_icon_color">#66ffffff</color>
-    <color name="coui_snack_bar_background_color">#ff242424</color>
+    <color name="coui_snack_bar_background_color">@*android:color/background_dark</color>
     <color name="coui_snack_bar_content_text_color">#d9ffffff</color>
     <color name="coui_tab_text_color_normal">#8cffffff</color>
     <color name="coui_tab_text_color_selected">#d9ffffff</color>

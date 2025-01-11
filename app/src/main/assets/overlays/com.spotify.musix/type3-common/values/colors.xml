@@ -437,7 +437,7 @@
     <color name="anchorlight_warning_decorative_subdued">#fff18900</color>
     <color name="anchorlight_warning_essential_base">@*android:color/background_dark</color>
     <color name="anchorlight_warning_text_base">@*android:color/background_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="aquamarine">#ff9bf0e1</color>
     <color name="aquamarine_180">#ff91eeda</color>

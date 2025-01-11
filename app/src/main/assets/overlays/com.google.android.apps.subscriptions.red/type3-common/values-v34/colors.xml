@@ -142,6 +142,8 @@
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
+    <color name="settingslib_text_color_primary_device_default">#ff6d00</color>
+    <color name="settingslib_text_color_secondary_device_default">#ff9100</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
     <color name="settingslib_track_off_color">#1a237e</color>
     <color name="gm3_sys_color_dynamic_dark_error">#ffffffff</color>
@@ -161,5 +163,4 @@
     <color name="m3_sys_color_dynamic_light_on_error">#512da8</color>
     <color name="m3_sys_color_dynamic_light_on_error_container">#5e35b1</color>
     <color name="settingslib_thumb_on_color">#673ab7</color>
-    <color name="sud_system_neutral2_600">#7e57c2</color>
 </resources>

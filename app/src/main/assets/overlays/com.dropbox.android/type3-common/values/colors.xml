@@ -25,7 +25,7 @@
     <color name="amp_light_gray">#ffe5e5e5</color>
     <color name="amp_light_gray_2">#ffc6d0d9</color>
     <color name="amp_transparent">#00000000</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="annotation_black">@*android:color/background_dark</color>
     <color name="annotation_blue">#ff367cde</color>
@@ -457,7 +457,7 @@
     <color name="raw__black__40">#ff999999</color>
     <color name="raw__black__5">#fff2f2f2</color>
     <color name="raw__black__60">#ff666666</color>
-    <color name="raw__black__80">#ff333333</color>
+    <color name="raw__black__80">@*android:color/button_material_dark</color>
     <color name="raw__black__90">@*android:color/background_dark</color>
     <color name="raw__black__95">#ff0d0d0d</color>
     <color name="raw__crimson__100">#ff9a0032</color>

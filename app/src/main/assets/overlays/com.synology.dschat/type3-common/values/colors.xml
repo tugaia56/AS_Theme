@@ -7,11 +7,11 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="actionSheetC1">@*android:color/background_dark</color>
     <color name="actionSheetC15">#fffe3824</color>
-    <color name="actionSheetC3">#ff555555</color>
+    <color name="actionSheetC3">@*android:color/button_material_dark</color>
     <color name="actionSheetC4">@*android:color/button_material_dark</color>
     <color name="actionSheetC6">#ffffffff</color>
     <color name="actionSheetC9">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="applogColorAccent">#ff5078fe</color>
     <color name="avatarColor1">#fffa9c3e</color>
@@ -39,7 +39,7 @@
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="c10_icon_inactive_icon_bottom_navigation_light">#ff555555</color>
+    <color name="c10_icon_inactive_icon_bottom_navigation_light">@*android:color/button_material_dark</color>
     <color name="c10_icon_inactive_icon_bottom_navigation_night">#ff84878a</color>
     <color name="c11_divider_light">#ffffffff</color>
     <color name="c11_divider_night">#26ffffff</color>
@@ -87,7 +87,7 @@
     <color name="c5_font_inactive_text_bottom_navigation_night">#99ffffff</color>
     <color name="c6_font_accent_color_snackbar_light">#ffffaa28</color>
     <color name="c6_font_accent_color_snackbar_night">#ffffb947</color>
-    <color name="c7_icon_primary_light">#ff555555</color>
+    <color name="c7_icon_primary_light">@*android:color/button_material_dark</color>
     <color name="c7_icon_primary_night">#fff0f3f6</color>
     <color name="c8_icon_secondary_light">#4c3c3c43</color>
     <color name="c8_icon_secondary_night">#4cebebf5</color>
@@ -109,12 +109,12 @@
     <color name="certificateDivider">#ffffffff</color>
     <color name="certificateEmptyViewIconTintLight">#ff787a7f</color>
     <color name="certificateEmptyViewTextLight">#596e7072</color>
-    <color name="certificateIconTintLight">#ff555555</color>
+    <color name="certificateIconTintLight">@*android:color/button_material_dark</color>
     <color name="certificateInfoLight">@*android:color/button_material_dark</color>
     <color name="certificateTitleLight">@*android:color/background_dark</color>
     <color name="certificateToolbarBackground">#ffffffff</color>
     <color name="certificateToolbarTextPrimary">@*android:color/background_dark</color>
-    <color name="certificateToolbarTint">#ff555555</color>
+    <color name="certificateToolbarTint">@*android:color/button_material_dark</color>
     <color name="certificateWindowBackGround">#ffffffff</color>
     <color name="chipBorder">#ff9ea8aa</color>
     <color name="colorAccent">#ff26c07a</color>
@@ -202,7 +202,7 @@
     <color name="gdprPrefsToolbarBgDark">@*android:color/background_dark</color>
     <color name="gdprPrefsToolbarBgLight">#ffffffff</color>
     <color name="gdprPrefsToolbarNaviTintColorDark">#fff0f3f6</color>
-    <color name="gdprPrefsToolbarNaviTintColorLight">#ff555555</color>
+    <color name="gdprPrefsToolbarNaviTintColorLight">@*android:color/button_material_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="hintPrimary">#80a0a4a8</color>
@@ -330,7 +330,7 @@
     <color name="tempBackground">#fffffaea</color>
     <color name="toolbar__divider_color">#4c000000</color>
     <color name="toolbar_font">#de000000</color>
-    <color name="toolbar_main_color">#ff555555</color>
+    <color name="toolbar_main_color">@*android:color/button_material_dark</color>
     <color name="toolbar_sheet_tab_bg">#ffeceef0</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>

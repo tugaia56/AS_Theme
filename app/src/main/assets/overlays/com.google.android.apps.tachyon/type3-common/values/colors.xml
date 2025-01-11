@@ -9,7 +9,7 @@
     <color name="action_button_background_start">#73000000</color>
     <color name="ag_abs_transparent">#00000000</color>
     <color name="ag_abs_white">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="annotation_color_black">#ff3c4043</color>
     <color name="annotation_color_blue">#ff00acc1</color>
@@ -336,7 +336,7 @@
     <color name="lb_search_bar_text">#80eeeeee</color>
     <color name="lb_search_bar_text_speech_mode">#ff444444</color>
     <color name="lb_speech_orb_not_recording">#ffcccccc</color>
-    <color name="lb_speech_orb_not_recording_icon">#ff555555</color>
+    <color name="lb_speech_orb_not_recording_icon">@*android:color/button_material_dark</color>
     <color name="lb_speech_orb_not_recording_pulsed">#ffeeeeee</color>
     <color name="lb_speech_orb_recording">#ffff4343</color>
     <color name="leave_a_message_pill_ripple_color">#33999999</color>

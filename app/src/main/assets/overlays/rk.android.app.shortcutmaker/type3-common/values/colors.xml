@@ -7,7 +7,7 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="activity_color">#ffffffff</color>
     <color name="activity_color_dark">#ffffffff</color> <!--ffdb892e-->
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_color">#ffffffff</color>
     <color name="app_color_dark">#ffffffff</color> <!--ff3db05a-->

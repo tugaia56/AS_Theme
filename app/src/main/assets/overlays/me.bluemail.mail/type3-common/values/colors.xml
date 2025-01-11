@@ -276,7 +276,7 @@
     <color name="dark_grey">#ff353535</color>
     <color name="dark_theme_bg_color">#ff035492</color>
     <color name="dark_theme_bottom_toolbar_color">#ffc0c0c0</color>
-    <color name="dark_theme_button_background_color">#ff555555</color>
+    <color name="dark_theme_button_background_color">@*android:color/button_material_dark</color>
     <color name="dark_theme_close_btn">#ff0e445e</color>
     <color name="darker_blue">@*android:color/accent_material_dark</color>
     <color name="date_picker_text_disabled">#ffcccccc</color>
@@ -554,7 +554,7 @@
     <color name="month_bgcolor_dark">@*android:color/background_dark</color>
     <color name="month_day_names_color">@*android:color/button_material_dark</color>
     <color name="month_day_names_color_dark">#ffffffff</color>
-    <color name="month_day_number">#ff555555</color>
+    <color name="month_day_number">@*android:color/button_material_dark</color>
     <color name="month_day_number_dark">#ffffffff</color>
     <color name="month_day_number_other">#ff999999</color>
     <color name="month_day_number_other_dark">#ff616161</color>
@@ -585,7 +585,7 @@
     <color name="month_sunday_dark">#fff5f5f5</color>
     <color name="month_today_bgcolor">#25a2ff00</color>
     <color name="month_today_bgcolor_dark">#6efffffa</color>
-    <color name="month_today_number">#ff555555</color>
+    <color name="month_today_number">@*android:color/button_material_dark</color>
     <color name="month_today_number_dark">#ffffffff</color>
     <color name="month_week_num_color">#ff41c3b1</color>
     <color name="month_week_num_color_dark">#ff41c3b1</color>

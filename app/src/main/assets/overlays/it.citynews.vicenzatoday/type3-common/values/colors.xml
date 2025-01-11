@@ -9,7 +9,7 @@
     <color name="action_button_color">#ff778f99</color>
     <color name="activityBackgroundColor">#ffffffff</color>
     <color name="activityDarkBackround">#ffececec</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="articleBodycolor">@*android:color/background_dark</color>
     <color name="articleListBackground">#fffafafa</color>

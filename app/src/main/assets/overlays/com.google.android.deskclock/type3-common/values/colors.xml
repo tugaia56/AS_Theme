@@ -33,7 +33,8 @@
     <color name="grey_850">@*android:color/background_dark</color>
     <color name="google_grey900">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
-    <color name="ripple_material_dark">#1fffffff</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="gm_ref_palette_grey500">#ffffffff</color>
     <color name="google_grey400">#ffffffff</color>
     <color name="google_grey500">#ffffffff</color>

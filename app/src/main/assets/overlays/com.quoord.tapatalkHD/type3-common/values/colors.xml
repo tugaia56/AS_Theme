@@ -21,7 +21,7 @@
     <color name="all_black">@*android:color/background_dark</color>
     <color name="all_gray">#ffdddddd</color>
     <color name="all_white">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="applovin_sdk_adBadgeTextColor">#ff0a5b17</color>
     <color name="applovin_sdk_adControlbutton_brightBlueColor">@*android:color/accent_material_dark</color>

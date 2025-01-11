@@ -75,7 +75,7 @@
     <color name="couiGreenTintColorFocusNormal">#1f2eb85a</color>
     <color name="couiGreenTintColorFocusOutlineNormal">#662eb85a</color>
     <color name="couiGreenTintControlDisabled">#33ffffff</color>
-    <color name="couiGreenTintControlNormal">#ff2eb85a</color>
+    <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintLightNormal">#4d2ad181</color>
     <color name="couiGreenTintLightPressed">#4d26bc74</color>
     <color name="couiOrangeColorDisableNormal">#4ded6825</color>
@@ -99,7 +99,7 @@
     <color name="couiOrangeTintColorDisableNormal">#4dfe7c48</color>
     <color name="couiOrangeTintColorFocusNormal">#1ffe7c48</color>
     <color name="couiOrangeTintColorFocusOutlineNormal">#66fe7c48</color>
-    <color name="couiOrangeTintControlNormal">#fffe7c48</color>
+    <color name="couiOrangeTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedColorFocusNormal">#33f23d5b</color>
     <color name="couiRedFifthColorDisableNormal">#4dea3939</color>
     <color name="couiRedFifthColorFocusNormal">#33ea3939</color>
@@ -122,7 +122,7 @@
     <color name="couiRedTintColorFocusNormal">#1fed413b</color>
     <color name="couiRedTintColorFocusOutlineNormal">#66ed413b</color>
     <color name="couiRedTintControlDisabled">#33ffffff</color>
-    <color name="couiRedTintControlNormal">#ffed413b</color>
+    <color name="couiRedTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedTintLightNormal">#33ea3447</color>
     <color name="couiRedTintLightPressed">#33e81d32</color>
     <color name="couiSingleEighthColorFocusNormal">#337e70ff</color>
@@ -136,7 +136,7 @@
     <color name="couiSingleNinthColorFocusNormal">#33c35570</color>
     <color name="couiSingleNinthLightNormal">#4dc35570</color>
     <color name="couiSingleSecondColorFocusNormal">#33ffcb1b</color>
-    <color name="couiSingleSecondLightNormal">#4dffcb1b</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
     <color name="couiSingleSeventhColorFocusNormal">#33007aff</color>
     <color name="couiSingleSeventhLightNormal">#4d007aff</color>
     <color name="couiSingleSixthColorFocusNormal">#33cd2638</color>
@@ -157,7 +157,7 @@
     <color name="couiSkyBlueFourthColorFocusNormal">#33d7c9af</color>
     <color name="couiSkyBlueFourthLightNormal">#4dd7c9af</color>
     <color name="couiSkyBlueSecondColorFocusNormal">#33ffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueThirdColorFocusNormal">#33ddb4b5</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
     <color name="couiSkyblueTintControlDisabled">#4dffffff</color>
@@ -185,8 +185,8 @@
     <color name="couiYellowTintColorFocusNormal">#1fffba19</color>
     <color name="couiYellowTintColorFocusOutlineNormal">#66ffba19</color>
     <color name="couiYellowTintControlDisabled">#33ffffff</color>
-    <color name="couiYellowTintControlNormal">#ffffba19</color>
-    <color name="couiYellowTintControlPressed">#ffcc9514</color>
+    <color name="couiYellowTintControlNormal">@*android:color/accent_material_dark</color>
+    <color name="couiYellowTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiYellowTintLightNormal">#4dfac000</color>
     <color name="couiYellowTintLightPressed">#33ffba19</color>
     <color name="coui_alert_dialog_background_tint">@*android:color/background_dark</color>
@@ -254,7 +254,7 @@
     <color name="coui_color_controls">#40ffffff</color>
     <color name="coui_color_disabled_neutral">#26ffffff</color>
     <color name="coui_color_divider">#33ffffff</color>
-    <color name="coui_color_error">#ffff6c61</color>
+    <color name="coui_color_error">@*android:color/holo_blue_light</color>
     <color name="coui_color_error_text_bg">#ffea3939</color>
     <color name="coui_color_fill_solid">@*android:color/background_leanback_dark</color>
     <color name="coui_color_fill_thin">#14ffffff</color>
@@ -309,7 +309,7 @@
     <color name="coui_lock_pattern_dot_color">#66ffffff</color>
     <color name="coui_lock_pattern_path_color">#ffffffff</color>
     <color name="coui_lock_pattern_success_color">#ffffffff</color>
-    <color name="coui_navigation_default_bg">#ffffffff</color>
+    <color name="coui_navigation_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_divider_color">#33ffffff</color>
     <color name="coui_navigation_enlarge_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_rail_icon_unselected_color">#ffffffff</color>

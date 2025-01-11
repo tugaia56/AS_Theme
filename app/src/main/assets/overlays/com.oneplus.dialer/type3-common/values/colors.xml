@@ -187,8 +187,8 @@
     <color name="dialer_end_call_button_color">#ffbd2a2a</color>
     <color name="dialer_primary_text_color">@*android:color/background_floating_material_dark</color>
     <color name="dialer_primary_text_color_white">#ffffffff</color>
-    <color name="dialer_ripple_material_dark">#a0ffffff</color>
-    <color name="dialer_ripple_material_default">#30000000</color>
+    <color name="dialer_ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="dialer_ripple_material_default">@*android:color/ripple_material_dark</color>
     <color name="dialer_secondary_color">#fff50057</color>
     <color name="dialer_secondary_text_color">#ff636363</color>
     <color name="dialer_secondary_text_color_hiden">#61000000</color>

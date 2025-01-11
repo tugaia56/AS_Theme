@@ -20,7 +20,7 @@
     <color name="alarm_activity_default_bg">@*android:color/button_material_dark</color>
     <color name="alarm_activity_flashing_bg">@*android:color/background_dark</color>
     <color name="alarm_activity_station_bg">#20ffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="annotation_bg_bottom">#d9a79cb1</color>
     <color name="annotation_bg_top">#d9b495a4</color>
@@ -171,8 +171,8 @@
     <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_braze_inappmessage_text">#ff555555</color>
-    <color name="com_braze_inappmessage_text_slideup">#ff555555</color>
+    <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
+    <color name="com_braze_inappmessage_text_slideup">@*android:color/button_material_dark</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_1">#fff33e3e</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_2">#ff1bbdf2</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_3">#ff2f3436</color>
@@ -362,7 +362,7 @@
     <color name="lb_search_bar_text_speech_mode">#ff444444</color>
     <color name="lb_search_plate_hint_text_color">#ffcccccc</color>
     <color name="lb_speech_orb_not_recording">#ffcccccc</color>
-    <color name="lb_speech_orb_not_recording_icon">#ff555555</color>
+    <color name="lb_speech_orb_not_recording_icon">@*android:color/button_material_dark</color>
     <color name="lb_speech_orb_not_recording_pulsed">#ffeeeeee</color>
     <color name="lb_speech_orb_recording">#ffff4343</color>
     <color name="lb_tv_white">#ffcccccc</color>

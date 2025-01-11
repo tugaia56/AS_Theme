@@ -29,7 +29,7 @@
     <color name="amber_A200">#ffffd740</color>
     <color name="amber_A400">#ffffc400</color>
     <color name="amber_A700">@*android:color/accent_material_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="applovin_sdk_adBadgeTextColor">#ff0a5b17</color>
     <color name="applovin_sdk_adControlbutton_brightBlueColor">#ff1376ff</color>

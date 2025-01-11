@@ -16,7 +16,7 @@
     <color name="activity_main__sliding_menu__list_item_background_unselected">@*android:color/transparent</color>
     <color name="activity_main__sliding_menu__list_item_icon_tint">#ffb2b2b2</color>
     <color name="activity_phone_call_recording_list_item__icons">#ff545454</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="app_promotion">@*android:color/accent_material_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>

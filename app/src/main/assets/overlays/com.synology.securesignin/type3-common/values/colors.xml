@@ -22,8 +22,8 @@
     <color name="accountBgColor7">#ff3d82d1</color>
     <color name="accountBgColor8">#ff4054e6</color>
     <color name="accountBgColor9">#fff5c33b</color>
-    <color name="actionBarIconColor">#ff555555</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="actionBarIconColor">@*android:color/button_material_dark</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="authCardErrorBgColor">#fffff8f8</color>
     <color name="authCardOfflineBgColor">#fff8f9fb</color>
@@ -171,7 +171,7 @@
     <color name="itemTextSecondary">#b3787a7c</color>
     <color name="list_background_color">#ffeff2f7</color>
     <color name="loginDetailChangePasswordButtonBorderColor">#1f000000</color>
-    <color name="loginNoticeIconColor">#ff555555</color>
+    <color name="loginNoticeIconColor">@*android:color/button_material_dark</color>
     <color name="login_bg">#ff3f51b5</color>
     <color name="login_btn_text_disable_color">#7f303234</color>
     <color name="login_btn_text_enable_color">#ff303234</color>

@@ -262,7 +262,7 @@
     <color name="couiSkyBlueSecondBarDisabledColor">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightNormal">#26ffcb1b</color>
     <color name="couiSkyBlueSecondLightPressed">#26ffc502</color>
-    <color name="couiSkyBlueSecondNormal">#ffffcb1b</color>
+    <color name="couiSkyBlueSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondPressed">#ffffc502</color>
     <color name="couiSkyBlueSecondTextHighLight">#4cffcb1b</color>
     <color name="couiSkyBlueThirdBarDisabledColor">#4dddb4b5</color>
@@ -786,7 +786,7 @@
     <color name="icon_color_purple">#ff7828ff</color>
     <color name="icon_color_red">@*android:color/accent_material_dark</color>
     <color name="icon_color_skyblue">@*android:color/accent_material_dark</color>
-    <color name="icon_color_yellow">#ffffcb1b</color>
+    <color name="icon_color_yellow">@*android:color/accent_material_dark</color>
     <color name="icon_tint">@*android:color/background_dark</color>
     <color name="keyguard_color_white">#ffffffff</color>
     <color name="keyguard_text_color_white">#ffffffff</color>

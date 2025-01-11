@@ -31,7 +31,7 @@
     <color name="grey20">#ff323334</color>
     <color name="grey30">@*android:color/ripple_material_dark</color>
     <color name="grey50">#ff444445</color>
-    <color name="grey80">#ff555555</color>
+    <color name="grey80">@*android:color/button_material_dark</color>
     <color name="header100">@*android:color/background_dark</color>
     <color name="indigo100">@*android:color/accent_material_dark</color>
     <color name="pink100">#ffd1004b</color>

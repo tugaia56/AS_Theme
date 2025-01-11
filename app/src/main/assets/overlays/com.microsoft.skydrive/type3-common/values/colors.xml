@@ -13,7 +13,7 @@
     <color name="actionbar_refresh_color4">@*android:color/ripple_material_dark</color>
     <color name="album_list_overlay_text_color">#ffffffff</color>
     <color name="allphotos_view_tile_placeholder_color">#fff3f2f1</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="authentication_signin_arrow_disabled_background_color">@*android:color/darker_gray</color>
     <color name="authentication_signin_arrow_pressed_background_color">#ff052f72</color>

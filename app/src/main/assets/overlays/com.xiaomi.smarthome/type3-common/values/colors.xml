@@ -14,7 +14,7 @@
     <color name="all9">#ff999999</color>
     <color name="allC">#ffcccccc</color>
     <color name="allE">#ffeeeeee</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="arc_fail_color">#ffed1c24</color>
     <color name="background_floating_material_light">@*android:color/white</color>

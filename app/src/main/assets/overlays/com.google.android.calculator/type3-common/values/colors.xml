@@ -42,7 +42,7 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="foreground_material_dark">@*android:color/white</color>

@@ -254,10 +254,10 @@
     <color name="couiSkyBlueFourthLightPressedPatchO">#4dcfbe9e</color>
     <color name="couiSkyBlueFourthLightPressedPatchR">#4dcfbe9e</color>
     <color name="couiSkyBlueFourthLightPressedRepatchO">#4dcfbe9e</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalPatchO">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalPatchR">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalRepatchO">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalPatchO">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalPatchR">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalRepatchO">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondLightPressedPatchO">#4dffc502</color>
     <color name="couiSkyBlueSecondLightPressedPatchR">#4dffc502</color>
     <color name="couiSkyBlueSecondLightPressedRepatchO">#4dffc502</color>

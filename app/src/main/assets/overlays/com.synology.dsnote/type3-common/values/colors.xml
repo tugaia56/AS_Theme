@@ -28,7 +28,7 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="abs__holo_blue_light">@*android:color/accent_material_dark</color>
     <color name="actionbar_title_gray">#ffffffff</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="applogColorAccent">#ff5078fe</color>
     <color name="attachment_divider_gray">#ffd6d8da</color>
@@ -316,7 +316,7 @@
     <color name="todo_update_pressed_blue">#770087ff</color>
     <color name="toolbar_bg_gray">#fff6f6f7</color>
     <color name="toolbar_divider_gray">#ffeceef0</color>
-    <color name="toolbar_main_color">#ff555555</color>
+    <color name="toolbar_main_color">@*android:color/button_material_dark</color>
     <color name="toolbar_sub_bg_gray">@*android:color/background_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>

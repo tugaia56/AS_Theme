@@ -10,9 +10,9 @@
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="abs__holo_blue_light">#ff33beb5</color>
-    <color name="action_mode_color">#ff555555</color>
+    <color name="action_mode_color">@*android:color/button_material_dark</color>
     <color name="actionbar_bg">#ff4b4a48</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="avatarColor1">#ff94bf30</color>
     <color name="avatarColor10">#fffa9c3e</color>
@@ -35,7 +35,7 @@
     <color name="background_floating_material_light">@*android:color/background_dark</color>
     <color name="background_light">@*android:color/background_dark</color>
     <color name="bg_header1">#ffffffff</color>
-    <color name="bg_header4">#ff555555</color>
+    <color name="bg_header4">@*android:color/button_material_dark</color>
     <color name="black">#ffffffff</color>
     <color name="blue">@*android:color/accent_material_dark</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
@@ -352,7 +352,7 @@
     <color name="text_login_button">#ff0b3165</color>
     <color name="text_title_over_dark">#ffffffff</color>
     <color name="text_title_over_light">#ffffffff</color>
-    <color name="toolbar_main_color">#ff555555</color>
+    <color name="toolbar_main_color">@*android:color/button_material_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="translucent">#40ffffff</color>
@@ -363,7 +363,7 @@
     <color name="ui_doc_bg_dark">@*android:color/background_dark</color>
     <color name="ui_doc_bg_light">#ffffffff</color>
     <color name="ui_doc_toolbar_tint_dark">#ffffffff</color>
-    <color name="ui_doc_toolbar_tint_light">#ff555555</color>
+    <color name="ui_doc_toolbar_tint_light">@*android:color/button_material_dark</color>
     <color name="vpi__background_holo_dark">@*android:color/background_dark</color>
     <color name="vpi__background_holo_light">#fff3f3f3</color>
     <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>

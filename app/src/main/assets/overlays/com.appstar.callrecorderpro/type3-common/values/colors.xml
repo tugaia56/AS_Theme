@@ -9,7 +9,7 @@
     <color name="actionBarTitleText">#fff8f8f8</color>
     <color name="actionmodeColor">@*android:color/accent_material_dark</color>
     <color name="actionmodeDarkColor">@*android:color/background_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="appthemeColor">#ffba3e49</color>
     <color name="appthemeDarkColor">@*android:color/accent_material_dark</color>

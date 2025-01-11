@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="biometric_error_color">#ffff5722</color>
@@ -35,7 +35,7 @@
     <color name="brown_a30">#4d856c5a</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_answer_color">#ff1d873b</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">#ffd93025</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -102,11 +102,11 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
-    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="error_color">#fffa4545</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
@@ -369,7 +369,7 @@
     <color name="yellow_600">#ff997328</color>
     <color name="yellow_a10">#1afcb90e</color>
     <color name="yellow_a30">#4dfcb90e</color>
-    <color name="zagare">#ff0066ff</color>
+    <color name="zagare">@*android:color/accent_material_dark</color>
     <color name="zagareDark">#ff0044ee</color>
     <color name="zagareLight">@*android:color/accent_material_dark</color>
     <color name="zagareLight_a30">#4d2288ff</color>
@@ -379,7 +379,7 @@
     <color name="zagare_30">#ffb3d1ff</color>
     <color name="zagare_400">@*android:color/accent_material_dark</color>
     <color name="zagare_50">#ff80b3ff</color>
-    <color name="zagare_500">#ff0066ff</color>
+    <color name="zagare_500">@*android:color/accent_material_dark</color>
     <color name="zagare_600">#ff0d3fbd</color>
     <color name="zagare_70">#ff4c94ff</color>
     <color name="zagare_a05">#0d0066ff</color>

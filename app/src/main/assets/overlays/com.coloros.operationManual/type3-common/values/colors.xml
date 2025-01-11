@@ -9,7 +9,7 @@
     <color name="Blue30Opacity40">#665c9dff</color>
     <color name="Blue40">@*android:color/accent_material_dark</color>
     <color name="Blue40Opacity20">#33247cff</color>
-    <color name="Blue40Opacity25">#40247cff</color>
+    <color name="Blue40Opacity25">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="Blue40Opacity30">#4d247cff</color>
     <color name="Blue40Opacity40">#66247cff</color>
     <color name="Blue50">@*android:color/accent_material_dark</color>
@@ -26,7 +26,7 @@
     <color name="CyanVariantDark">#ff329da8</color>
     <color name="Gray12">#ff1e1e1e</color>
     <color name="Gray15">@*android:color/background_leanback_dark</color>
-    <color name="Gray20">#ff333333</color>
+    <color name="Gray20">@*android:color/button_material_dark</color>
     <color name="Gray92">#ffebebeb</color>
     <color name="Gray95">#fff0f1f2</color>
     <color name="Gray98">#fffafafa</color>
@@ -44,7 +44,7 @@
     <color name="Green30Opacity40">#6624b232</color>
     <color name="Green40">#ff24b232</color>
     <color name="Green40Opacity20">#3324b232</color>
-    <color name="Green40Opacity25">#4024b232</color>
+    <color name="Green40Opacity25">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="Green40Opacity30">#4deb493d</color>
     <color name="Green40Opacity40">#4d24b232</color>
     <color name="Green50">@*android:color/accent_material_dark</color>
@@ -129,7 +129,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="blur_cover_color">#e6ffffff</color>
@@ -269,7 +269,7 @@
     <color name="couiGreenTintColorFocusNormal">#1f2fb152</color>
     <color name="couiGreenTintColorFocusOutlineNormal">#662fb152</color>
     <color name="couiGreenTintControlDisabled">#26000000</color>
-    <color name="couiGreenTintControlNormal">#ff2fb152</color>
+    <color name="couiGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiGreenTintControlNormalPreferenceBg">#ffdff8ec</color>
     <color name="couiGreenTintControlPressed">#ff398f56</color>
     <color name="couiGreenTintLightNormal">#2639bf56</color>
@@ -465,12 +465,12 @@
     <color name="couiSkyBlueFourthLightNormal">#26d7c9af</color>
     <color name="couiSkyBlueFourthNormal">#ffd7c9af</color>
     <color name="couiSkyBlueFourthTextHighLight">#4cd7c9af</color>
-    <color name="couiSkyBlueSecondBarDisabledColor">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondColorDisableNormal">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondBarDisabledColor">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondColorDisableNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondColorFocusNormal">#1fffcb1b</color>
     <color name="couiSkyBlueSecondColorFocusOutlineNormal">#66ffcb1b</color>
     <color name="couiSkyBlueSecondLightNormal">#26ffcb1b</color>
-    <color name="couiSkyBlueSecondNormal">#ffffcb1b</color>
+    <color name="couiSkyBlueSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondTextHighLight">#4cffcb1b</color>
     <color name="couiSkyBlueThirdBarDisabledColor">#4dddb4b5</color>
     <color name="couiSkyBlueThirdColorDisableNormal">#4dddb4b5</color>
@@ -816,7 +816,7 @@
     <color name="coui_color_secondary_blue_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_secondary_green">#2600bd13</color>
-    <color name="coui_color_secondary_green_dark">#4024b232</color>
+    <color name="coui_color_secondary_green_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_green_light">#2600bd13</color>
     <color name="coui_color_secondary_neutral">#8c000000</color>
     <color name="coui_color_secondary_neutral_dark">#8affffff</color>

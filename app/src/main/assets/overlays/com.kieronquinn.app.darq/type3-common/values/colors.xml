@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="accent">@*android:color/accent_material_dark</color>
-    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background">@*android:color/white</color>
     <color name="background_floating_material_light">@*android:color/white</color>
@@ -100,7 +100,7 @@
     <color name="icon_inside_3">#ff1ad975</color>
     <color name="icon_inside_4">#ffd9ba1a</color>
     <color name="icon_inside_5">#fff59714</color>
-    <color name="icon_inside_6">#ff333333</color>
+    <color name="icon_inside_6">@*android:color/button_material_dark</color>
     <color name="icon_inside_7">#ff2f1ad9</color>
     <color name="icon_inside_8">#ff1ad5d9</color>
     <color name="icon_inside_9">#ff981ad9</color>

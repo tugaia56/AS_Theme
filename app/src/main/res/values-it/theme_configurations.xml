@@ -1,12 +1,38 @@
 <resources>
+    <!-- Theme name and author name -->
+    <string name="ThemeName">Dark Shadow Theme User</string>
+    <string name="ThemeAuthor">Tullio</string>
+    <!-- Your email for bug reports (DEFAULT: empty) -->
+    <!--suppress CheckTagEmptyBody -->
+    <string name="ThemeAuthorEmail">tugaia56@gmail.com</string>
+    <!-- Theme wallpaper source (must be raw) -->
+    <string name="ThemeWallpaperSource"></string>
+    <!-- Do your theme support substratum legacy? -->
+    <!-- If you choose not to support legacy, then change the following line from -->
+    <!-- 'true' to 'false' to hide your theme on the Play Store from any stock ROM-->
+    <bool name="ThemeSupportLegacy">true</bool>
+    <!-- Does your theme support substratum samsung? -->
+    <bool name="ThemeSupportSamsung">false</bool>
+    <!-- Do you want to override the hero image auto color assignment? -->
+    <!-- Don't force anything? -> auto -->
+    <!-- Force black/dark icons? -> dark -->
+    <!-- Force white/light icons? -> light -->
+    <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
+        <item>Versione 5.0.0</item>
+        <item>AGGIUNTO:</item>
+        <item>- - -</item>
+        <item>AGGIORNATO:</item>
         <item>Android Auto 13.2.644464</item>
         <item>Smart Launcher v6.5</item>
         <item>Home Screen Switcher v1.1</item>
         <item>pCloud v4.4.2</item>
         <item>ChatGPT v1.2024.331</item>
         <item>AppBooster v1.0.5</item>
+        <item>Collegamento a Windows v1.24112.138.0</item>
+        <item>Maps v24.49.96</item>
+        <item>Google App v15.50.41</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
