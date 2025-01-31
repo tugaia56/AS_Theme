@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="settingslib_materialColorOnPrimary">#dd2c00</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">#ff3d00</color>
+    <color name="settingslib_materialColorOnSurface">#ff6e40</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">#ff9e80</color>
+    <color name="settingslib_materialColorOutline">#bf360c</color>
+    <color name="settingslib_materialColorPrimary">#d84315</color>
+    <color name="settingslib_materialColorPrimaryContainer">#76ff03</color>
+    <color name="settingslib_materialColorSecondaryContainer">#33691e</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">#8bc34a</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">#0091ea</color>
+    <color name="settingslib_materialColorSurfaceContainerLowest">#0d47a1</color>
+    <color name="settingslib_materialColorSurfaceVariant">#1e88e5</color>
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
@@ -142,7 +154,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
-    <color name="settingslib_text_color_primary_device_default">#00ff00</color>
+    <color name="settingslib_text_color_primary_device_default">@*android:color/accent_material_dark</color>
     <color name="settingslib_text_color_secondary_device_default">#ff00ff</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
     <color name="settingslib_track_off_color">#1a237e</color>
@@ -163,5 +175,4 @@
     <color name="m3_sys_color_dynamic_light_on_error">#512da8</color>
     <color name="m3_sys_color_dynamic_light_on_error_container">#5e35b1</color>
     <color name="settingslib_thumb_on_color">#673ab7</color>
-    <color name="sud_system_neutral2_600">#7e57c2</color>
 </resources>

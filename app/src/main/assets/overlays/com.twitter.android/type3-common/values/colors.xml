@@ -350,7 +350,7 @@
     <color name="spaces_card_ended_overlay_color">#99000000</color>
     <color name="spaces_default_button_color">#4dffffff</color>
     <color name="spaces_default_button_pressed_color">#9affffff</color>
-    <color name="stars_empty_text">#ff4a4a4a</color>
+    <color name="stars_empty_text">@*android:color/background_dark</color>
     <color name="strong_grey">#ff14171a</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>

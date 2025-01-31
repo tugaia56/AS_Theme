@@ -29,7 +29,7 @@
     <color name="base_dialog_line_color">#ffe6e6e6</color>
     <color name="base_grey_button_background">#ffebebeb</color>
     <color name="bb_keyboard_focus_color">#8a000000</color>
-    <color name="black">#00ff00</color>
+    <color name="black">@*android:color/accent_material_dark</color>
     <color name="black05percent">#0c000000</color>
     <color name="black50percent">#80000000</color>
     <color name="black60percent">#96000000</color>
@@ -46,7 +46,7 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="camera_button_disabled_color">@*android:color/accent_material_dark</color>
     <color name="camera_button_pressed_color">@*android:color/accent_material_dark</color>
     <color name="camera_button_rest_color">@*android:color/accent_material_dark</color>
@@ -77,7 +77,7 @@
     <color name="content_description_inactive_color">#ffd0d0d0</color>
     <color name="dark_grey">#32777777</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
-    <color name="design_dark_default_color_background">#ff121212</color>
+    <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>
     <color name="design_dark_default_color_on_error">@*android:color/background_dark</color>
@@ -89,7 +89,7 @@
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
     <color name="design_dark_default_color_secondary">#ff03dac6</color>
     <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
-    <color name="design_dark_default_color_surface">#ff121212</color>
+    <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
     <color name="design_default_color_on_background">@*android:color/background_dark</color>
@@ -267,7 +267,7 @@
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
-    <color name="material_grey_850">#ff303030</color>
+    <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
     <color name="material_harmonized_color_error">#ffffffff</color>
     <color name="material_harmonized_color_error_container">#ffffffff</color>
@@ -425,7 +425,7 @@
     <color name="oem_settings_radio_button_color">#ff256fff</color>
     <color name="oem_settings_radio_button_secondary_text_color">@*android:color/background_dark</color>
     <color name="oem_settings_sub_color">#99000000</color>
-    <color name="oem_settings_sub_title_color">#ff4a4a4a</color>
+    <color name="oem_settings_sub_title_color">@*android:color/background_dark</color>
     <color name="oem_settings_title_color">#e6000000</color>
     <color name="oem_status_bar_background">#fff9f9f9</color>
     <color name="oem_status_description_color">#ff505050</color>
@@ -467,7 +467,7 @@
     <color name="pl__colorPrimaryDark">#ff0063ad</color>
     <color name="pl__textColorError">#ffb00020</color>
     <color name="pl__white">#ffffffff</color>
-    <color name="preference_fallback_accent_color">#ff008577</color>
+    <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="primary_btn_text_color">#ff0f6cbd</color>
     <color name="primary_button_text">#ffffffff</color>
     <color name="primary_dark_material_dark">@*android:color/black</color>

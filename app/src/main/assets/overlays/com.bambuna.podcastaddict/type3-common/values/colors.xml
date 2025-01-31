@@ -360,7 +360,7 @@
     <color name="indigo_800">#ff283593</color>
     <color name="indigo_900">#ff1a237e</color>
     <color name="indigo_A100">#ff8c9eff</color>
-    <color name="indigo_A200">#ff536dfe</color>
+    <color name="indigo_A200">@*android:color/ripple_material_dark</color>
     <color name="indigo_A400">#ff3d5afe</color>
     <color name="indigo_A700">#ff304ffe</color>
     <color name="indigo_lighter">#ff8093ff</color>

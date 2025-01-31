@@ -396,7 +396,7 @@
     <color name="grey_hex_47">#ff474747</color>
     <color name="grey_hex_48">#ff484848</color>
     <color name="grey_hex_49">#ff494949</color>
-    <color name="grey_hex_4a">#ff4a4a4a</color>
+    <color name="grey_hex_4a">@*android:color/background_dark</color>
     <color name="grey_hex_4b">#ff4b4b4b</color>
     <color name="grey_hex_4c">#ff4c4c4c</color>
     <color name="grey_hex_4d">@*android:color/background_leanback_dark</color>

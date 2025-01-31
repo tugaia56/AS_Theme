@@ -508,7 +508,7 @@
     <color name="quantum_grey800">@*android:color/accent_material_dark</color>
     <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="quantum_indigo700">#ff303f9f</color>
-    <color name="quantum_indigoA200">#ff536dfe</color>
+    <color name="quantum_indigoA200">@*android:color/ripple_material_dark</color>
     <color name="quantum_lightblue500">#ff03a9f4</color>
     <color name="quantum_lightgreen500">#ff8bc34a</color>
     <color name="quantum_purple500">#ff9c27b0</color>

@@ -2,7 +2,7 @@
 <layer-list
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
-        <shape android:tint="?android:colorBackground" android:shape="rectangle"
+        <shape android:tint="@*android:color/background_dark" android:shape="rectangle"
           xmlns:android="http://schemas.android.com/apk/res/android">
             <stroke android:width="2.0dip" android:color="@*android:color/accent_material_dark" />
             <solid android:color="#ffffffff" />
@@ -10,7 +10,7 @@
         </shape>
     </item>
     <item android:bottom="2.0dip">
-        <shape android:tint="?android:colorBackground" android:shape="rectangle"
+        <shape android:tint="@*android:color/background_dark" android:shape="rectangle"
           xmlns:android="http://schemas.android.com/apk/res/android">
             <corners android:topLeftRadius="14.0dip" android:topRightRadius="14.0dip" android:bottomLeftRadius="14.0dip" android:bottomRightRadius="14.0dip" />
         </shape>

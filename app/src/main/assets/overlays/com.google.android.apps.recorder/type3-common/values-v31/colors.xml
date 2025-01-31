@@ -127,7 +127,7 @@
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#009688</color>
     <color name="gm3_sys_color_dynamic_dark_on_secondary_container">#26a69a</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface">#4db6ac</color>
-    <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">#00ff00</color>
+    <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface_variant_state_content">#00c853</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary">#00e676</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary_container">#69f0ae</color>

@@ -66,7 +66,7 @@
     <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
-    <color name="chip_focused_color">@*android:color/holo_blue_light</color>
+    <color name="chip_focused_color">@*android:color/accent_material_dark</color>
     <color name="dark_image_scrim_color">#96202124</color>
     <color name="december_dark">#ff42484a</color>
     <color name="december_dark_divider">#ff293235</color>

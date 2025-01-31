@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorOutline">@*android:color/accent_material_dark</color>
     <color name="glance_colorBackground">@*android:color/background_dark</color>
@@ -29,18 +30,20 @@
     <color name="glance_colorWidgetBackground">@*android:color/background_dark</color>
     <color name="letter_tile_person_backgound_color_oneplus">@*android:color/holo_light_primary_dark</color>
     <color name="letter_tile_text_color_oneplus">#d9ffffff</color>
-    <color name="photo_picker_button_text_color">@*android:color/white</color>
-    <color name="photo_picker_header_title_text_color">@*android:color/white</color>
-    <color name="spark_active_background_color">@*android:color/keyguard_avatar_frame_pressed_color</color>
-    <color name="survey_accent_color">@*android:color/accent_material_dark</color>
-    <color name="survey_checkbox_text_color">@*android:color/white</color>
-    <color name="survey_close_icon_color">@*android:color/white</color>
+    <color name="settingslib_materialColorOnPrimary">#ff003730</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">#ffa1f1e2</color>
+    <color name="settingslib_materialColorOnSurface">#ffe5e2e1</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">#ffc7c7c7</color>
+    <color name="settingslib_materialColorOutline">#ff919191</color>
+    <color name="settingslib_materialColorPrimary">#ff83d6c7</color>
+    <color name="settingslib_materialColorPrimaryContainer">#ff005047</color>
+    <color name="settingslib_materialColorSecondaryContainer">#ff334c47</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">@*android:color/background_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">@*android:color/background_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerLowest">@*android:color/background_dark</color>
+    <color name="settingslib_materialColorSurfaceVariant">@*android:color/background_dark</color>
+    <color name="spark_active_background_color">@*android:color/ripple_material_dark</color>
     <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
-    <color name="survey_grey_icon_color">@*android:color/white</color>
-    <color name="survey_hint_text_color">@*android:color/white</color>
-    <color name="survey_hint_text_unfocused_color">@*android:color/white</color>
-    <color name="survey_multi_select_edit_text_color">@*android:color/white</color>
-    <color name="survey_surface_color">@*android:color/background_dark</color>
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
     <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
     <color name="translucent_navigation_bar_color">@*android:color/car_blue_grey_800</color>

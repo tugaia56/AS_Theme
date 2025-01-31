@@ -601,7 +601,7 @@
     <color name="coui_edit_text_delete_bg_color_pressed_dark">#4dffffff</color>
     <color name="coui_edit_text_delete_icon_color_normal">#ffffffff</color>
     <color name="coui_edit_text_delete_icon_color_pressed">#ffffffff</color>
-    <color name="coui_floating_button_disabled_color">#00ff00</color>
+    <color name="coui_floating_button_disabled_color">@*android:color/accent_material_dark</color>
     <color name="coui_floating_button_elevation_color">#ff00ff</color>
     <color name="coui_floating_button_label_broader_color">#ff0000</color>
     <color name="coui_floating_button_label_ripple_color">#fff000</color>

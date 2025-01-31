@@ -17,8 +17,8 @@
     <color name="Blue50Opacity15">#26908dff</color>
     <color name="Blue50Opacity30">#4d908dff</color>
     <color name="Blue50Opacity40">#66908dff</color>
-    <color name="BlueVariant">@*android:color/holo_blue_light</color>
-    <color name="BlueVariantDark">@*android:color/holo_blue_light</color>
+    <color name="BlueVariant">@*android:color/accent_material_dark</color>
+    <color name="BlueVariantDark">@*android:color/accent_material_dark</color>
     <color name="Cyan40">#ff25a9b8</color>
     <color name="Cyan50">#ff1dbacc</color>
     <color name="CyanVariant">#ff39afbd</color>
@@ -78,7 +78,7 @@
     <color name="Purple50">#ffa723ff</color>
     <color name="PurpleVariant">#ffb873e5</color>
     <color name="PurpleVariantDark">#ffa466cc</color>
-    <color name="Red30">@*android:color/holo_blue_light</color>
+    <color name="Red30">@*android:color/accent_material_dark</color>
     <color name="Red30Opacity40">#66ff6c61</color>
     <color name="Red40">#ffeb493d</color>
     <color name="Red40Opacity20">#33eb493d</color>
@@ -161,7 +161,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="calendar_picker_day_hint_color">#33000000</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -1436,9 +1436,9 @@
     <color name="coui_color_assist_azure">#ff45abe5</color>
     <color name="coui_color_assist_azure_dark">#ff3d98cc</color>
     <color name="coui_color_assist_azure_light">#ff45abe5</color>
-    <color name="coui_color_assist_blue">@*android:color/holo_blue_light</color>
-    <color name="coui_color_assist_blue_dark">@*android:color/holo_blue_light</color>
-    <color name="coui_color_assist_blue_light">@*android:color/holo_blue_light</color>
+    <color name="coui_color_assist_blue">@*android:color/accent_material_dark</color>
+    <color name="coui_color_assist_blue_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_color_assist_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_cyan">#ff39afbd</color>
     <color name="coui_color_assist_cyan_dark">#ff329da8</color>
     <color name="coui_color_assist_cyan_light">#ff39afbd</color>
@@ -1490,9 +1490,9 @@
     <color name="coui_color_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_light">@*android:color/accent_material_dark</color>
-    <color name="coui_color_blue_variant">@*android:color/holo_blue_light</color>
-    <color name="coui_color_blue_variant_dark">@*android:color/holo_blue_light</color>
-    <color name="coui_color_blue_variant_light">@*android:color/holo_blue_light</color>
+    <color name="coui_color_blue_variant">@*android:color/accent_material_dark</color>
+    <color name="coui_color_blue_variant_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_color_blue_variant_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
     <color name="coui_color_card">@*android:color/holo_primary</color>
     <color name="coui_color_card_background">@*android:color/holo_primary</color>
@@ -1580,7 +1580,7 @@
     <color name="coui_color_divider_dark">#33ffffff</color>
     <color name="coui_color_divider_light">#1f000000</color>
     <color name="coui_color_error">@*android:color/accent_material_dark</color>
-    <color name="coui_color_error_dark">@*android:color/holo_blue_light</color>
+    <color name="coui_color_error_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_text_bg">#4de82a18</color>
     <color name="coui_color_error_text_bg_dark">#ffea3939</color>
@@ -1661,7 +1661,7 @@
     <color name="coui_color_label_theme_orange_dark">#fff08222</color>
     <color name="coui_color_label_theme_orange_light">#ffeb6e00</color>
     <color name="coui_color_label_theme_red">@*android:color/accent_material_dark</color>
-    <color name="coui_color_label_theme_red_dark">@*android:color/holo_blue_light</color>
+    <color name="coui_color_label_theme_red_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_label_theme_red_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_label_theme_yellow">#ffdb9a00</color>
     <color name="coui_color_label_theme_yellow_dark">#ffe5a100</color>
@@ -1710,7 +1710,7 @@
     <color name="coui_color_primary_on_popup_orange_dark">#fff08222</color>
     <color name="coui_color_primary_on_popup_orange_light">#ffeb6e00</color>
     <color name="coui_color_primary_on_popup_red">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_on_popup_red_dark">@*android:color/holo_blue_light</color>
+    <color name="coui_color_primary_on_popup_red_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_on_popup_red_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_on_popup_yellow">#ffdb9a00</color>
     <color name="coui_color_primary_on_popup_yellow_dark">#ffe5a100</color>
@@ -1734,7 +1734,7 @@
     <color name="coui_color_primary_text_orange_dark">#fff08222</color>
     <color name="coui_color_primary_text_orange_light">#ffeb6e00</color>
     <color name="coui_color_primary_text_red">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_text_red_dark">@*android:color/holo_blue_light</color>
+    <color name="coui_color_primary_text_red_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_red_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_yellow">#ffdb9a00</color>
     <color name="coui_color_primary_text_yellow_dark">#ffe5a100</color>
@@ -2462,7 +2462,7 @@
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="switch_unchecked_bar_color">#ffe5e5e5</color>
-    <color name="switch_unchecked_bar_dark_color">#ff757575</color>
+    <color name="switch_unchecked_bar_dark_color">@*android:color/button_material_dark</color>
     <color name="switch_unchecked_bar_disabled_color">#fff2f2f2</color>
     <color name="switch_unchecked_bar_disabled_dark_color">#80757575</color>
     <color name="switch_unchecked_bar_disabled_light_color">#fff2f2f2</color>

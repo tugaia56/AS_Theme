@@ -83,7 +83,7 @@
     <color name="m3_sys_color_dynamic_dark_inverse_surface">#c51162</color>
     <color name="m3_sys_color_dynamic_dark_on_background">#f50057</color>
     <color name="m3_sys_color_dynamic_dark_on_secondary">#880e4f</color>
-    <color name="m3_sys_color_dynamic_dark_on_secondary_container">#00ff00</color>
+    <color name="m3_sys_color_dynamic_dark_on_secondary_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#fff000</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#00ffff</color>
     <color name="m3_sys_color_dynamic_dark_secondary_container">#fff000</color>
@@ -138,7 +138,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffee58</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#fff176</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#fff59d</color>
-    <color name="material_dynamic_neutral0">#00ff00</color>
+    <color name="material_dynamic_neutral0">@*android:color/accent_material_dark</color>
     <color name="material_dynamic_neutral10">#b2dfdb</color>
     <color name="material_dynamic_neutral100">#00c853</color>
     <color name="material_dynamic_neutral20">#00e676</color>

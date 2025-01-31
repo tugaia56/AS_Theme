@@ -19,7 +19,7 @@
     <color name="gm3_ref_palette_dynamic_neutral99">#dd0000</color>												<!-- pulsante rifiuta chiamata notifiche QS -->
 	
 	
-    <color name="gm3_sys_color_dynamic_on_tertiary_fixed_variant">#00ff00</color>
+    <color name="gm3_sys_color_dynamic_on_tertiary_fixed_variant">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_secondary90">#ff00ff</color>
     <color name="survey_button_background_color">#ff3d00</color>
     <color name="survey_button_stroke_color">#dd2c00</color>
@@ -157,14 +157,14 @@
     <color name="google_marterial_dialog_body_text_color">#64ffda</color>
     <color name="google_marterial_dialog_title_color">#a7ffeb</color>
     <color name="m3_ref_palette_dynamic_neutral10">#004d40</color>
-    <color name="m3_ref_palette_dynamic_neutral20">#00ff00</color>
+    <color name="m3_ref_palette_dynamic_neutral20">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_neutral90">#00ffff</color>
     <color name="m3_ref_palette_dynamic_neutral95">#000fff</color>
     <color name="m3_ref_palette_dynamic_neutral_variant10">#00ffff</color>
     <color name="m3_ref_palette_dynamic_neutral_variant100">#ccc000</color>
     <color name="m3_ref_palette_dynamic_neutral_variant30">#26a69a</color>
     <color name="m3_ref_palette_dynamic_neutral_variant50">#4db6ac</color>
-    <color name="m3_ref_palette_dynamic_neutral_variant60">#00ff00</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant60">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_neutral_variant80">#b2dfdb</color>
     <color name="m3_ref_palette_dynamic_neutral_variant90">#ffffffff</color>
     <color name="m3_ref_palette_dynamic_primary10">#00e676</color>
@@ -259,7 +259,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffdd0000</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#fdd835</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#ff8f00</color>
-    <color name="settingslib_colorSurfaceVariant">#00ff00</color>
+    <color name="settingslib_colorSurfaceVariant">@*android:color/accent_material_dark</color>
     <color name="settingslib_dialog_accent">#ff00ff</color>
     <color name="settingslib_dialog_background">#ff0000</color>
     <color name="settingslib_dialog_colorError">#ffdd0000</color>

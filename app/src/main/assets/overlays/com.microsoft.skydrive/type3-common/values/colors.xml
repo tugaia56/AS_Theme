@@ -304,7 +304,7 @@
     <color name="lenshvc_permission_view_button_text_color">#ffffffff</color>
     <color name="lenshvc_photo_background_color">@*android:color/background_dark</color>
     <color name="lenshvc_photo_background_color_view_fragment">#00ededed</color>
-    <color name="lenshvc_popup_dialog_text_color">#ff4a4a4a</color>
+    <color name="lenshvc_popup_dialog_text_color">@*android:color/background_dark</color>
     <color name="lenshvc_pressed_color_overlay">#ff4a4d4f</color>
     <color name="lenshvc_progress_dialog_text_color">@*android:color/background_dark</color>
     <color name="lenshvc_reorder_empty_image">#ffffffff</color>
@@ -667,7 +667,7 @@
     <color name="text_color_icon_badge">@*android:color/accent_material_dark</color>
     <color name="text_color_primary">@*android:color/background_dark</color>
     <color name="text_color_secondary">#ff6e6e6e</color>
-    <color name="text_color_secondary_duo">#ff4a4a4a</color>
+    <color name="text_color_secondary_duo">@*android:color/background_dark</color>
     <color name="text_color_white">#ffffffff</color>
     <color name="theme_color_accent">@*android:color/accent_material_dark</color>
     <color name="theme_color_accent_dark">#ff106ebe</color>

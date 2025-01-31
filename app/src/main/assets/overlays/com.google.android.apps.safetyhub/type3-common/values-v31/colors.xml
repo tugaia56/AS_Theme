@@ -171,7 +171,7 @@
     <color name="m3_ref_palette_dynamic_neutral99">#009688</color>
     <color name="m3_ref_palette_dynamic_neutral_variant30">#26a69a</color>
     <color name="m3_ref_palette_dynamic_neutral_variant50">#4db6ac</color>
-    <color name="m3_ref_palette_dynamic_neutral_variant60">#00ff00</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant60">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_neutral_variant80">#b2dfdb</color>
     <color name="m3_ref_palette_dynamic_neutral_variant90">#00c853</color>
     <color name="m3_ref_palette_dynamic_primary10">#00e676</color>

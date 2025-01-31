@@ -454,7 +454,7 @@
     <color name="mipay_text_color_gray">#80000000</color>
     <color name="mipay_text_color_green">#ff4d840c</color>
     <color name="mipay_text_color_loading">#ff999999</color>
-    <color name="mipay_text_color_normal">#ff4a4a4a</color>
+    <color name="mipay_text_color_normal">@*android:color/background_dark</color>
     <color name="mipay_text_color_orange">#ffe84700</color>
     <color name="mipay_text_color_red">#ffee0000</color>
     <color name="mipay_text_color_white">@*android:color/white</color>
@@ -976,7 +976,7 @@
     <color name="tips_icon_color">#ffff9e0d</color>
     <color name="title_color">@*android:color/holo_light_primary_dark</color>
     <color name="title_text_color">#ff999999</color>
-    <color name="title_text_color_grey1">#ff4a4a4a</color>
+    <color name="title_text_color_grey1">@*android:color/background_dark</color>
     <color name="title_text_color_shadow">#80000000</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>

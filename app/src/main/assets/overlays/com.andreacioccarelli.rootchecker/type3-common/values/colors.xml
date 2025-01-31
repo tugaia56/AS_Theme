@@ -127,7 +127,7 @@
     <color name="Indigo_800">#ff283593</color>
     <color name="Indigo_900">#ff1a237e</color>
     <color name="Indigo_A100">#ff8c9eff</color>
-    <color name="Indigo_A200">#ff536dfe</color>
+    <color name="Indigo_A200">@*android:color/ripple_material_dark</color>
     <color name="Indigo_A400">#ff3d5afe</color>
     <color name="Indigo_A700">#ff304ffe</color>
     <color name="LightBlue_100">#ffb3e5fc</color>

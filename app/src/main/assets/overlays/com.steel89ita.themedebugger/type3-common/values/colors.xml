@@ -76,7 +76,7 @@
     <color name="side_drawer_item_pressed_color">@*android:color/ripple_material_dark</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="title_color">@*android:color/holo_blue_light</color>
+    <color name="title_color">@*android:color/accent_material_dark</color>
     <color name="transparent">#00000000</color>
     <color name="white_transparent">#effefefe</color>
 </resources>

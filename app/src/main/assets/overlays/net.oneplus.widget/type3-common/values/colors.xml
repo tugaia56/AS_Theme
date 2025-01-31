@@ -20,7 +20,7 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">@*android:color/accent_material_dark</color>
-    <color name="colorPrimary">#00FF00</color>
+    <color name="colorPrimary">@*android:color/accent_material_dark</color>
     <color name="colorPrimaryDark">#FF00FF</color>
     <color name="colorpicker_disabled_cell_color">#70000000</color>
     <color name="colorpicker_ripple_effect_color">#70ffffff</color>

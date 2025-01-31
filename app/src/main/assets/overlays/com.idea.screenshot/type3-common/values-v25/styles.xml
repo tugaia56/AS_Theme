@@ -3,9 +3,6 @@
     <style name="Platform.V25.AppCompat.Light" parent="@*android:style/Theme.Material.NoActionBar" >
         <item name="android:textColor">@*android:color/white</item>
         <item name="android:textColorHintInverse">@null</item>
-        <item name="android:itemBackground">@*android:color/background_dark</item>
-        <item name="android:backgroundTint">@*android:color/background_dark</item>
-        <item name="android:windowBackground">@*android:color/background_dark</item>
         <item name="android:textColorHint">@null</item>
         <item name="android:textColorLink">?android:colorAccent</item>
         <item name="android:listDivider">@*android:color/transparent</item>

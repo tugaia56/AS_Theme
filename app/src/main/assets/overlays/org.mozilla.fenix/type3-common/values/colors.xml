@@ -122,7 +122,7 @@
     <color name="photonDarkGrey10">@*android:color/button_material_dark</color>
     <color name="photonDarkGrey30">@*android:color/button_material_dark</color>
     <color name="photonDarkGrey30A95">@*android:color/button_material_dark</color>
-    <color name="photonDarkGrey60">#00ff00</color>
+    <color name="photonDarkGrey60">@*android:color/accent_material_dark</color>
     <color name="photonDarkGrey80">@*android:color/background_dark</color>
     <color name="photonDarkGrey90">@*android:color/background_dark</color>
     <color name="photonDarkGrey90A40">#661B2029</color>

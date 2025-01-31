@@ -12,13 +12,13 @@
     <color name="m3_sys_color_dynamic_dark_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#ffbdbdbd</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#ff00ff</color>
-    <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#00ff00</color>
+    <color name="m3_sys_color_dynamic_dark_on_tertiary_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>				<!-- switch disattivato -->
     <color name="m3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>		<!-- bordo dialog -->
     <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>				<!-- slider a sx icone e switch -->
 	<color name="m3_sys_color_dynamic_dark_primary_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>				<!-- check -->
-    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/ripple_material_dark</color>	<!-- slider a dx bg navbar attivo -->
+    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/background_leanback_dark</color><!-- slider a dx bg navbar attivo -->
     <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>						<!-- header -->
     <color name="m3_sys_color_dynamic_dark_surface_bright">@*android:color/ripple_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>			<!-- bg search -->
@@ -37,7 +37,7 @@
     <color name="m3_sys_color_dynamic_light_on_background">#1b5e20</color>
     <color name="m3_sys_color_dynamic_light_on_primary">#ffffffff</color>
     <color name="m3_sys_color_dynamic_light_on_primary_container">#fff000</color>
-    <color name="m3_sys_color_dynamic_light_on_secondary">#00ff00</color>
+    <color name="m3_sys_color_dynamic_light_on_secondary">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_light_on_secondary_container">#ff00ff</color>
     <color name="m3_sys_color_dynamic_light_on_surface">#004d40</color>
     <color name="m3_sys_color_dynamic_light_on_surface_variant">#004d40</color>

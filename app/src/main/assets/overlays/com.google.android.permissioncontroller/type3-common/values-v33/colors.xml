@@ -12,13 +12,13 @@
 <color name="gm_red_300">#fff28b82</color>
 <color name="gm_red_400">#ffee675c</color>
 <color name="gm_red_500">#ffea4335</color>
-<color name="gm_red_600">#ffd93025</color>
+<color name="gm_red_600">#ffdd0000</color>
 <color name="gm_yellow_100">#fffeefc3</color>
 <color name="gm_yellow_300">#fffdd663</color>
 <color name="gm_yellow_400">#fffcc934</color>
 <color name="gm_yellow_500">#fffbbc04</color>
 <color name="gm_yellow_600">#fff9ab00</color>
-<color name="sc_accent_primary_dark">#00ff00</color>
+<color name="sc_accent_primary_dark">@*android:color/accent_material_dark</color>
 <color name="sc_accent_primary_light">#ff00ff</color>
 <color name="sc_primary_action_button_text">@*android:color/black</color>
 <color name="sc_semantic_green">#ff0e8435</color>

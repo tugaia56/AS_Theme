@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="48.0dip" android:width="80.0dip" android:viewportWidth="80.0" android:viewportHeight="48.0">
+	<group>
+		<group>
+			<path android:pathData="M54-22v72h-69v-72z" />
+		</group>
+	</group>
+	<path android:pathData="M18 34h-8" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:pathData="M14 30v8" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<group>
+		<path android:fillColor="#fffce76b" android:pathData="M30 11v-1a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4v-1h8a2 2 0 0 1 4 0h2a2 2 0 0 1 4 0h3v-2h2l1-1v-3z" />
+		<path android:pathData="M30 11v-1a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4v-1h8a2 2 0 0 1 4 0h2a2 2 0 0 1 4 0h3v-2h2l1-1v-3z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M46 31v-1a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4v-1h8a2 2 0 0 1 4 0h2a2 2 0 0 1 4 0h3v-2h2l1-1v-3z" />
+		<path android:pathData="M46 31v-1a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4v-1h8a2 2 0 0 1 4 0h2a2 2 0 0 1 4 0h3v-2h2l1-1v-3z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	</group>
+</vector>

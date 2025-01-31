@@ -17,7 +17,7 @@
     <color name="answer_item_background_color">#26ffffff</color>
     <color name="aria_black">@*android:color/background_dark</color>
     <color name="arrow_disabled">#b34a4a4a</color>
-    <color name="arrow_grey">#ff4a4a4a</color>
+    <color name="arrow_grey">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="baseline_error_40">@*android:color/accent_material_dark</color>
     <color name="baseline_error_80">@*android:color/accent_material_dark</color>
@@ -512,7 +512,7 @@
     <color name="edge_grey_40_phoenix">#ff666666</color>
     <color name="edge_grey_42_phoenix">#ff6b6b6b</color>
     <color name="edge_grey_44_phoenix">#ff707070</color>
-    <color name="edge_grey_46_phoenix">#ff757575</color>
+    <color name="edge_grey_46_phoenix">@*android:color/button_material_dark</color>
     <color name="edge_grey_48_phoenix">#ff7a7a7a</color>
     <color name="edge_grey_4_phoenix">#ff0a0a0a</color>
     <color name="edge_grey_50_phoenix">#ff808080</color>
@@ -1069,7 +1069,7 @@
     <color name="tab_group_color_picker_pink_light">#ffff8bcb</color>
     <color name="tab_group_color_picker_purple_dark">#ffa142f4</color>
     <color name="tab_group_color_picker_purple_light">#ffc58af9</color>
-    <color name="tab_group_color_picker_red_dark">#ffd93025</color>
+    <color name="tab_group_color_picker_red_dark">#ffdd0000</color>
     <color name="tab_group_color_picker_red_light">#fff28b82</color>
     <color name="tab_group_color_picker_yellow_dark">#fff9ab00</color>
     <color name="tab_group_color_picker_yellow_light">#fffdd663</color>

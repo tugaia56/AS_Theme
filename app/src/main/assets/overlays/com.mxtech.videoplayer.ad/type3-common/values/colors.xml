@@ -725,7 +725,7 @@
     <color name="list_row_whats_app_bg_color_dark">#ff2d3d52</color>
     <color name="list_row_whats_app_bg_color_light">#fff5faff</color>
     <color name="list_sel_background_black">@*android:color/background_dark</color>
-    <color name="list_sel_background_dark">#ff4a4a4a</color>
+    <color name="list_sel_background_dark">@*android:color/background_dark</color>
     <color name="list_sel_background_light">#ffd0d0d0</color>
     <color name="list_status_background_black">#ff2d3d52</color>
     <color name="list_status_background_dark">#ff2d3d52</color>

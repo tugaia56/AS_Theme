@@ -407,7 +407,7 @@
     <color name="spectrum_dark_fuchsia7">#ffe366ef</color>
     <color name="spectrum_dark_gray1">@*android:color/background_dark</color>
     <color name="spectrum_dark_gray2">#ff3e3e3e</color>
-    <color name="spectrum_dark_gray3">#ff4a4a4a</color>
+    <color name="spectrum_dark_gray3">@*android:color/background_dark</color>
     <color name="spectrum_dark_gray4">#ff5a5a5a</color>
     <color name="spectrum_dark_gray5">#ff6e6e6e</color>
     <color name="spectrum_dark_gray50">#ff252525</color>

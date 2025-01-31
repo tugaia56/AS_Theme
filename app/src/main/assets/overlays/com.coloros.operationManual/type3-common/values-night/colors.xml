@@ -254,7 +254,7 @@
     <color name="coui_color_controls">#40ffffff</color>
     <color name="coui_color_disabled_neutral">#26ffffff</color>
     <color name="coui_color_divider">#33ffffff</color>
-    <color name="coui_color_error">@*android:color/holo_blue_light</color>
+    <color name="coui_color_error">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_text_bg">#ffea3939</color>
     <color name="coui_color_fill_solid">@*android:color/background_leanback_dark</color>
     <color name="coui_color_fill_thin">#14ffffff</color>

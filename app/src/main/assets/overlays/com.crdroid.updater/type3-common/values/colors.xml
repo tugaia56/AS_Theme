@@ -463,5 +463,5 @@
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="tv_background">#ff0e0e0f</color>
     <color name="tv_card_background">#ff222222</color>
-    <color name="user_avatar_color_bg">?android:colorBackgroundFloating</color>
+    <color name="user_avatar_color_bg">@*android:color/background_darkFloating</color>
 </resources>

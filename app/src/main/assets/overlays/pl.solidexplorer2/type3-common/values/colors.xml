@@ -321,7 +321,7 @@
     <color name="md_indigo_800">#ff283593</color>
     <color name="md_indigo_900">#ff1a237e</color>
     <color name="md_indigo_a100">#ff8c9eff</color>
-    <color name="md_indigo_a200">#ff536dfe</color>
+    <color name="md_indigo_a200">@*android:color/ripple_material_dark</color>
     <color name="md_indigo_a400">#ff3d5afe</color>
     <color name="md_indigo_a700">#ff304ffe</color>
     <color name="md_light_blue_100">#ffb3e5fc</color>

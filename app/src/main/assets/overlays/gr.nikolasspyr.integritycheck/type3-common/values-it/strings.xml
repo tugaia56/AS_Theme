@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Info</string>
+    <string name="about_text" formatted="false">"Fatto da: Nikolas Spiridakis
+Versione: %s (%d)"</string>
+    <string name="check">Controlla</string>
+    <string name="check_first">Per favore esegui prima un controllo!</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="copied">Copied to clipboard!</string>
+    <string name="copy_json">Copia JSON</string>
+    <string name="error">Error</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="github">Github</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="json_response">Risposta JSON elaborata</string>
+    <string name="legacy_checks">Controlli ereditati</string>
+    <string name="licenses">Licenze</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
+    <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
+    <string name="mtrl_checkbox_button_path_group_name">button</string>
+    <string name="mtrl_checkbox_button_path_name">button path</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_cancel">Cancel</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to Calendar view</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to year view</string>
+    <string name="new_checks">Nuovi controlli A13+</string>
+    <string name="no_browser_found">No browser found!</string>
+    <string name="no_new_result">Google did not respond with an Android 13+ check result</string>
+    <string name="ok">OK</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searchview_clear_text_content_description">Clear text</string>
+    <string name="searchview_navigation_content_description">Back</string>
+    <string name="show_documentation">Scopri cosa significano i risultati</string>
+    <string name="show_json_response">Show JSON response</string>
+    <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string name="status_fail">Fail</string>
+    <string name="status_pass">Pass</string>
+    <string name="status_unknown">Unknown</string>
+</resources>

@@ -71,7 +71,7 @@
 <color name="assistantSecondary">#ff7fcfff</color>
 <color name="assistantSecondaryContainer">@*android:color/accent_material_dark</color>
 <color name="assistantSecondaryVariant">#ff232b3a</color>
-<color name="assistantSurfaceVariant">#ff00ff</color>
+<color name="assistantSurfaceVariant">@*android:color/accent_material_dark</color>
 <color name="assistant_aag_widget_style_page_bg_color">@*android:color/background_dark</color>
 <color name="assistant_aag_widget_style_page_bg_color_1">#ff053c52</color>
 <color name="assistant_aag_widget_style_page_bg_color_2">#ff011822</color>
@@ -83,7 +83,7 @@
 <color name="assistant_gem_sys_color_error_container">#ff60150f</color>
 <color name="assistant_gem_sys_color_on_error">#ff601410</color>
 <color name="assistant_gem_sys_color_on_error_container">#fff9dedc</color>
-<color name="assistant_gem_sys_color_on_primary">#ff062e6f</color>
+<color name="assistant_gem_sys_color_on_primary">#ffffffff</color>
 <color name="assistant_gem_sys_color_on_primary_container">#ffd3e3fd</color>
 <color name="assistant_gem_sys_color_on_secondary">#ff003355</color>
 <color name="assistant_gem_sys_color_on_secondary_container">#ffc2e7ff</color>
@@ -91,17 +91,17 @@
 <color name="assistant_gem_sys_color_on_surface_variant">#ffe3e5e4</color>
 <color name="assistant_gem_sys_color_on_tertiary">#ff0a3818</color>
 <color name="assistant_gem_sys_color_on_tertiary_container">#ffc4eed0</color>
-<color name="assistant_gem_sys_color_outline">#ff9a9b9c</color>
-<color name="assistant_gem_sys_color_outline_variant">#ff4a5050</color>
+<color name="assistant_gem_sys_color_outline">@*android:color/accent_material_dark</color>
+<color name="assistant_gem_sys_color_outline_variant">@*android:color/accent_material_dark</color>
 <color name="assistant_gem_sys_color_primary">@*android:color/accent_material_dark</color>
 <color name="assistant_gem_sys_color_primary_container">#ff333537</color>
 <color name="assistant_gem_sys_color_secondary">#ff7fcfff</color>
-<color name="assistant_gem_sys_color_secondary_container">#ff3d3f42</color>
-<color name="assistant_gem_sys_color_surface">#ff1b1c1d</color>
+<color name="assistant_gem_sys_color_secondary_container">@*android:color/background_dark</color>
+<color name="assistant_gem_sys_color_surface">@*android:color/background_dark</color>
 <color name="assistant_gem_sys_color_surface_bright">#ff424548</color>
 <color name="assistant_gem_sys_color_surface_container">#ff282a2c</color>
 <color name="assistant_gem_sys_color_surface_container_high">#ff333537</color>
-<color name="assistant_gem_sys_color_surface_container_highest">#ff3d3f42</color>
+<color name="assistant_gem_sys_color_surface_container_highest">@*android:color/background_dark</color>
 <color name="assistant_gem_sys_color_surface_container_low">#ff262627</color>
 <color name="assistant_gem_sys_color_surface_container_lowest">#ff1c1c1c</color>
 <color name="assistant_gem_sys_color_surface_dim">#ff131314</color>
@@ -140,7 +140,7 @@
 <color name="bud_type_6_dark_haze_primary">@*android:color/accent_material_dark</color>
 <color name="bud_type_6_dark_haze_secondary">#ff7fcfff</color>
 <color name="bud_type_6_dark_haze_surface">@*android:color/background_dark</color>
-<color name="bud_type_6_dark_haze_surface_variant">#ff444746</color>
+<color name="bud_type_6_dark_haze_surface_variant">@*android:color/accent_material_dark</color>
 <color name="bud_type_6_mojito_background">#ff121411</color>
 <color name="bud_type_6_mojito_on_background">#ffe3e3de</color>
 <color name="bud_type_6_mojito_on_primary">#ff1a361c</color>
@@ -220,7 +220,6 @@
 <color name="glance_colorWidgetBackground">#ff20333d</color>
 <color name="googleapp_ambient_icon_tint">#ffa0c2f9</color>
 <color name="googleapp_ambient_icon_tint_end">#ff4285f4</color>
-<color name="googleapp_gloyo_til_card_background">#ff20251d</color>
 <color name="googleapp_notificationsurvey_background_fill">#ff313235</color>
 <color name="googleapp_notificationsurvey_background_stroke">#ff424346</color>
 <color name="googleapp_notificationsurvey_smile_survey_body">#ffbdc1c6</color>
@@ -245,7 +244,6 @@
 <color name="lens_suggest_custom_landing_page_on_surface_variant">#ff969ba1</color>
 <color name="lens_suggest_thumbnail_focus_fill">@*android:color/ripple_material_dark</color>
 <color name="lens_suggest_thumbnail_focus_stroke">@*android:color/accent_material_dark</color>
-<color name="lens_text_option_button_ripple_color">#803c4043</color>
 <color name="lensient_translate_button_icon_color">@*android:color/background_dark</color>
 <color name="material_google_red_500">#ffee675c</color>
 <color name="material_grey_white_1000">@*android:color/background_dark</color>
@@ -289,7 +287,6 @@
 <color name="searchbox_rich_answer_headline">#ffe8eaed</color>
 <color name="searchbox_rich_answer_metadata">#ffe8eaed</color>
 <color name="searchbox_rich_answer_subhead">#ff9aa0a6</color>
-<color name="soundsearch_audio_progress_blob_color">@*android:color/keyguard_avatar_frame_pressed_color</color>
 <color name="soundsearch_placeholder_background_color">@*android:color/background_dark</color>
 <color name="survey_disabled_state_color">#61e8eaed</color>
 <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>

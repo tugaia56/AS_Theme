@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size android:height="32.0dip" android:width="32.0dip" />
+            <solid android:color="@*android:color/accent_material_dark" />
+        </shape>
+    </item>
+    <item>
+        <vector android:height="32.0dip" android:width="32.0dip" android:viewportWidth="32.0" android:viewportHeight="32.0">
+            <path android:fillColor="#ffffffff" android:pathData="M7.083,16.006C7.083,11.082 11.075,7.089 16,7.089C17.83,7.089 19.531,7.641 20.947,8.586L16.415,13.119C16.279,13.099 16.141,13.089 16,13.089C14.389,13.089 13.083,14.395 13.083,16.006C13.083,17.617 14.389,18.923 16,18.923C17.611,18.923 18.917,17.617 18.917,16.006C18.917,15.412 18.739,14.859 18.434,14.398L16.413,16.419C16.185,16.646 15.815,16.646 15.588,16.419C15.36,16.191 15.36,15.821 15.588,15.594L21.421,9.76C21.431,9.75 21.441,9.74 21.452,9.731L21.88,9.303C23.742,10.937 24.917,13.334 24.917,16.006C24.917,20.931 20.925,24.923 16,24.923C11.075,24.923 7.083,20.931 7.083,16.006Z" android:fillType="evenOdd" />
+        </vector>
+    </item>
+</layer-list>

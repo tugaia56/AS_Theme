@@ -24,7 +24,7 @@
     <color name="geo_sys_color_aqua_neutral_container">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_neutral_container_variant">#ff303637</color>
     <color name="geo_sys_color_aqua_on_caution_container">#ffe3e3e3</color>
-    <color name="geo_sys_color_aqua_on_disabled_surface">#ff757575</color>
+    <color name="geo_sys_color_aqua_on_disabled_surface">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_aqua_on_info">#ffffffff</color>
     <color name="geo_sys_color_aqua_on_info_container">#ffe3e3e3</color>
     <color name="geo_sys_color_aqua_on_inverse_surface">@*android:color/background_dark</color>
@@ -59,7 +59,7 @@
     <color name="geo_sys_color_aqua_surface">#ff131314</color>
     <color name="geo_sys_color_aqua_surface1">#ff292a2d</color>
     <color name="geo_sys_color_aqua_surface2">@*android:color/button_material_dark</color>
-    <color name="geo_sys_color_aqua_surface3">#00ff00</color>
+    <color name="geo_sys_color_aqua_surface3">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_surface4">#ff32363c</color>
     <color name="geo_sys_color_aqua_surface5">#ff353940</color>
     <color name="geo_sys_color_aqua_surface_bright">#ff393939</color>
@@ -87,7 +87,7 @@
     <color name="geo_sys_color_neutral_container">@*android:color/background_dark</color>
     <color name="geo_sys_color_neutral_container_variant">#ff333537</color>
     <color name="geo_sys_color_on_caution_container">#ffe3e3e3</color>
-    <color name="geo_sys_color_on_disabled_surface">#ff757575</color>
+    <color name="geo_sys_color_on_disabled_surface">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_on_info">#ffffffff</color>
     <color name="geo_sys_color_on_info_container">#ffe3e3e3</color>
     <color name="geo_sys_color_on_inverse_surface">#ff1f1f1f</color>
@@ -135,7 +135,7 @@
     <color name="geo_sys_color_surface_dim">#ff3c4851</color>
     <color name="geo_sys_color_tonal_surface">#fff000</color>
     <color name="google_blue">@*android:color/accent_material_dark</color>
-    <color name="gs_chip_color">@android:color/black</color>
+    <color name="gs_chip_color">@*android:color/black</color>
     <color name="gs_progress_default">#ffffffff</color>
     <color name="gs_progress_heavy_traffic">#ffe46962</color>
     <color name="gs_progress_moderate_traffic">#ffffbb29</color>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="48.0dip" android:width="80.0dip" android:viewportWidth="80.0" android:viewportHeight="48.0">
+	<group>
+		<group>
+			<path android:pathData="M-2 7h77v29H-2z" />
+		</group>
+	</group>
+	<group>
+		<path android:fillColor="#ffb1eefc" android:pathData="M53 40H29V14a12 12 0 0 1 4-8a12 12 0 0 1 8-4a12 12 0 0 1 12 12v26" />
+		<path android:pathData="M53 40H29V14a12 12 0 0 1 4-8a12 12 0 0 1 8-4a12 12 0 0 1 12 12z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M53 40H24v-3a1 1 0 0 1 1-1h28z" />
+		<path android:pathData="M53 40H24v-3a1 1 0 0 1 1-1h28z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M53 36H29v-3a1 1 0 0 1 1-1h23z" />
+		<path android:pathData="M53 36H29v-3a1 1 0 0 1 1-1h23z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M53 32H34v-3a1 1 0 0 1 1-1h18z" />
+		<path android:pathData="M53 32H34v-3a1 1 0 0 1 1-1h18z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M53 28H39v-3a1 1 0 0 1 1-1h13z" />
+		<path android:pathData="M53 28H39v-3a1 1 0 0 1 1-1h13z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M53 24h-9v-3a1 1 0 0 1 1-1h8z" />
+		<path android:pathData="M53 24h-9v-3a1 1 0 0 1 1-1h8z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#ffffffff" android:pathData="M53 20h-4v-3a1 1 0 0 1 1-1h3z" />
+		<path android:pathData="M53 20h-4v-3a1 1 0 0 1 1-1h3z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+		<path android:fillColor="#fffce76b" android:pathData="M57 46a10 10 0 1 1 10-10a10 10 0 0 1-10 10" />
+		<path android:pathData="M57 46a10 10 0 1 1 10-10a10 10 0 0 1-10 10z" android:strokeColor="#ff111111" android:strokeWidth="1.0" android:strokeMiterLimit="10.0" />
+		<path android:fillColor="#ff111111" android:pathData="M58 39a1 1 0 1 1-1-1a1 1 0 0 1 1 1" />
+		<path android:fillColor="#ffffffff" android:pathData="M57 37v-6" />
+		<path android:pathData="M57 37v-6" android:strokeColor="#ff111111" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	</group>
+</vector>

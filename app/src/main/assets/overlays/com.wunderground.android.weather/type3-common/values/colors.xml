@@ -225,7 +225,7 @@
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dew_point_fill">#ffb0ce55</color>
-    <color name="dewpoint_humidity_color">#ff4a4a4a</color>
+    <color name="dewpoint_humidity_color">@*android:color/background_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>

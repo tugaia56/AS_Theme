@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="settingslib_thumb_disabled_color">#ffffffff</color>
+<color name="sud_color_on_surface">@*android:color/bright_foreground_disabled_holo_light</color>
+<color name="settingslib_text_color_primary_device_default">@*android:color/bright_foreground_disabled_holo_light</color>
+<color name="settingslib_text_color_secondary_device_default">@*android:color/btn_colored_borderless_text_material</color>
     <color name="settingslib_thumb_off_color">#ffffffff</color>
     <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>
     <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
+<color name="sud_system_on_primary">@*android:color/background_floating_device_default_light</color>
+<color name="sud_system_sc_highest_dark">@*android:color/bright_foreground_light</color>																				  
     <color name="settingslib_state_on_color">#ffffffff</color>
     <color name="settingslib_thumb_on_color">#ffffffff</color>
 </resources>

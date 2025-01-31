@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="abc_decor_view_status_guard">#00ff00</color>
+    <color name="abc_decor_view_status_guard">@*android:color/accent_material_dark</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
@@ -94,7 +94,7 @@
     <color name="gray_50">#fff1f1f1</color>
     <color name="gray_500">#ff777777</color>
     <color name="gray_550">#ff616161</color>
-    <color name="gray_600">#ff4a4a4a</color>
+    <color name="gray_600">@*android:color/background_dark</color>
     <color name="gray_700">@*android:color/background_dark</color>
     <color name="gray_800">@*android:color/background_dark</color>
     <color name="gray_900">@*android:color/background_dark</color>

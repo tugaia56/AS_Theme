@@ -385,7 +385,7 @@
     <color name="kus_divider">#ffe9eff5</color>
     <color name="kus_grey">#ff3f3f3f</color>
     <color name="kus_light_black">@*android:color/background_dark</color>
-    <color name="kus_light_black_variant">#ff212121</color>
+    <color name="kus_light_black_variant">@*android:color/background_dark</color>
     <color name="kus_light_grey">#ffe2e2e2</color>
     <color name="kus_light_grey_variant">#ffa5a5a5</color>
     <color name="kus_red">#ffff655d</color>
@@ -500,10 +500,10 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">#ff757575</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
-    <color name="material_grey_900">#ff212121</color>
+    <color name="material_grey_900">@*android:color/background_dark</color>
     <color name="material_harmonized_color_error">#ffffffff</color>
     <color name="material_harmonized_color_error_container">#ffffffff</color>
     <color name="material_harmonized_color_on_error">#ffffffff</color>
@@ -700,9 +700,9 @@
     <color name="quantum_googblue500">#ff4285f4</color>
     <color name="quantum_grey100">#fff5f5f5</color>
     <color name="quantum_grey400">#ffbdbdbd</color>
-    <color name="quantum_grey600">#ff757575</color>
+    <color name="quantum_grey600">@*android:color/button_material_dark</color>
     <color name="quantum_grey700">#ff616161</color>
-    <color name="quantum_grey900">#ff212121</color>
+    <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="quantum_white_hint_text">#80ffffff</color>
     <color name="quantum_white_secondary_text">#b3ffffff</color>
     <color name="quantum_white_text">#ffffffff</color>
@@ -798,7 +798,7 @@
     <color name="stripe_paymentsheet_background">#ffffffff</color>
     <color name="stripe_paymentsheet_country_chevron_color">@*android:color/background_dark</color>
     <color name="stripe_paymentsheet_elements_background_disabled">#fff8f8f8</color>
-    <color name="stripe_paymentsheet_form">#ff757575</color>
+    <color name="stripe_paymentsheet_form">@*android:color/button_material_dark</color>
     <color name="stripe_paymentsheet_form_border">#33787880</color>
     <color name="stripe_paymentsheet_form_error">#ffcf6679</color>
     <color name="stripe_paymentsheet_googlepay_divider_background">@*android:color/white</color>

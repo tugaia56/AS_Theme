@@ -17,8 +17,8 @@
     <color name="Blue50Opacity15">#26908dff</color>
     <color name="Blue50Opacity30">#4d908dff</color>
     <color name="Blue50Opacity40">#66908dff</color>
-    <color name="BlueVariant">@*android:color/holo_blue_light</color>
-    <color name="BlueVariantDark">@*android:color/holo_blue_light</color>
+    <color name="BlueVariant">@*android:color/accent_material_dark</color>
+    <color name="BlueVariantDark">@*android:color/accent_material_dark</color>
     <color name="Cyan40">@*android:color/accent_material_dark</color>
     <color name="Cyan50">@*android:color/accent_material_dark</color>
     <color name="CyanVariant">#ff39afbd</color>
@@ -78,7 +78,7 @@
     <color name="Purple50">@*android:color/accent_material_dark</color>
     <color name="PurpleVariant">@*android:color/accent_material_dark</color>
     <color name="PurpleVariantDark">@*android:color/accent_material_dark</color>
-    <color name="Red30">@*android:color/holo_blue_light</color>
+    <color name="Red30">@*android:color/accent_material_dark</color>
     <color name="Red30Opacity40">#66ff6c61</color>
     <color name="Red40">@*android:color/accent_material_dark</color>
     <color name="Red40Opacity20">#33eb493d</color>

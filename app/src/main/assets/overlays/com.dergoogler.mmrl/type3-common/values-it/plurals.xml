@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="search_results">
+        <item quantity="other">"Abbiamo trovato &lt;font color=\"%1$s\">%2$s risultati&lt;/font> che corrispondono alla tua ricerca"</item>
+        <item quantity="one">"Abbiamo trovato &lt;font color=\"%1$s\">%2$s risultato&lt;/font> che corrispondono alla tua ricerca"</item>
+    </plurals>
+</resources>

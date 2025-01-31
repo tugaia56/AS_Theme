@@ -23,7 +23,7 @@
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="design_bottom_navigation_shadow_color">#00ff00</color>
+    <color name="design_bottom_navigation_shadow_color">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>
@@ -237,7 +237,7 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="redirected">#ff536dfe</color>
+    <color name="redirected">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>

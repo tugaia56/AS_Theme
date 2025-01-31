@@ -11,7 +11,7 @@
     <color name="DialogConfirmButtonBackgroundColor">@*android:color/accent_material_dark</color>
     <color name="DialogConfirmButtonTitleColor">#ffffffff</color>
     <color name="DialogLinkColor">@*android:color/accent_material_dark</color>
-    <color name="DialogTextColor">#ff4a4a4a</color>
+    <color name="DialogTextColor">@*android:color/background_dark</color>
     <color name="DialogTitleBackgroundColor">@*android:color/accent_material_dark</color>
     <color name="DialogTitleColor">#ffffffff</color>
     <color name="FastAndFreeGreen">#ff599a0d</color>

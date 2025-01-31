@@ -1161,7 +1161,7 @@
     <color name="palette_green_15">#ff43b031</color>
     <color name="palette_green_16">#ff40bf4d</color>
     <color name="palette_green_17">#ff82c91e</color>
-<color name="palette_green_17_alpha_7">#ac82c91e</color>
+    <color name="palette_green_17_alpha_7">#ac82c91e</color>
     <color name="palette_green_18">#ff0b963f</color>
     <color name="palette_green_3">#ff228400</color>
     <color name="palette_green_3_alpha">#33228400</color>
@@ -1772,7 +1772,7 @@
     <color name="ucrop_color_white">#ffffffff</color>
     <color name="very_dark_gray">@*android:color/background_dark</color>
     <color name="very_dark_gray_2">@*android:color/button_material_dark</color>
-    <color name="very_dark_gray_3">@*android:color/button_material_dark</color>
+    <color name="very_dark_gray_3">@*android:color/holo_light_primary_dark</color>
     <color name="very_light_gray">#ffdcdcdc</color>
     <color name="very_light_gray_2">#ffd8d8d8</color>
     <color name="violet_10_static">#ffed79d5</color>

@@ -9,7 +9,7 @@
     <color name="app_list_divider">#0fffffff</color>
     <color name="app_list_header_color">@*android:color/accent_material_dark</color>
     <color name="app_secondary_background">@*android:color/background_dark</color>
-    <color name="banner_border">#00ff00</color>
+    <color name="banner_border">@*android:color/accent_material_dark</color>
     <color name="base_blue_button_background">#ff3e91ff</color>
     <color name="base_dialog_line_color">#ff484848</color>
     <color name="base_grey_button_background">@*android:color/background_dark</color>
@@ -126,8 +126,8 @@
     <color name="oem_settings_sub_title_color">#ffb7b7b7</color>
     <color name="oem_settings_title_color">#e5ffffff</color>
     <color name="oem_status_bar_background">@*android:color/background_dark</color>
-    <color name="oem_switch_track_checked">#ff4a4a4a</color>
-    <color name="oem_switch_track_unchecked">#ff4a4a4a</color>
+    <color name="oem_switch_track_checked">@*android:color/background_dark</color>
+    <color name="oem_switch_track_unchecked">@*android:color/background_dark</color>
     <color name="organic_gentle_update_banner_background">#ff333333</color>
     <color name="organic_gentle_update_banner_border">#ff3d3d3d</color>
     <color name="organic_gentle_update_banner_icon_foreground">#ffd6d6d6</color>

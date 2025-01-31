@@ -24,7 +24,7 @@
     <color name="black_191919">#ffffffff</color>
     <color name="black_222222">#ff0000</color>
     <color name="black_333333">#ffffffff</color>
-    <color name="black_4A4A4A">#ff4a4a4a</color>
+    <color name="black_4A4A4A">@*android:color/background_dark</color>
     <color name="black_5B5B5B">#ff5b5b5b</color>
     <color name="black_666666">#ffbdbdbd</color>
     <color name="blue">#ff0000ff</color>

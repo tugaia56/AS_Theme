@@ -30,7 +30,7 @@
         <item name="geoColorDarkOnConstantDarkImmersive">#ffffffff</item>
         <item name="geoColorDarkOnConstantDarkSelectedContainer">#ffffffff</item>
         <item name="geoColorDarkOnConstantDarkVariant">#ffffffff</item>
-        <item name="geoColorDarkOnDisabledSurface">#ff757575</item>
+        <item name="geoColorDarkOnDisabledSurface">@*android:color/button_material_dark</item>
         <item name="geoColorDarkOnInfo">#ffffffff</item>
         <item name="geoColorDarkOnInfoContainer">#ffe3e3e3</item>
         <item name="geoColorDarkOnInverseSurface">@*android:color/background_dark</item>

@@ -443,7 +443,7 @@
     <color name="indigo_800">#ff283593</color>
     <color name="indigo_900">#ff1a237e</color>
     <color name="indigo_accent_100">#ff8c9eff</color>
-    <color name="indigo_accent_200">#ff536dfe</color>
+    <color name="indigo_accent_200">@*android:color/ripple_material_dark</color>
     <color name="indigo_accent_300">#ff3d5afe</color>
     <color name="indigo_accent_400">#ff304ffe</color>
     <color name="invalid_chip_bg">#7fa50000</color>
@@ -714,7 +714,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="selected_account_shadow_dark">#ff2f2c30</color>
     <color name="selected_account_shadow_light">#ffe1e2e3</color>
-    <color name="selection">@*android:color/holo_blue_light</color>
+    <color name="selection">@*android:color/accent_material_dark</color>
     <color name="semi_transparent">#66000000</color>
     <color name="setup_notification_color1">#ff4081ff</color>
     <color name="setup_notification_color2">#ff487aa0</color>

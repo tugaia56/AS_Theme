@@ -77,7 +77,7 @@
     <color name="google_marterial_color_secondary_text_dark">#b71c1c</color>
     <color name="google_marterial_color_secondary_text_light">#4e342e</color>
     <color name="google_marterial_color_surface_dark">#d500f9</color>
-    <color name="google_marterial_color_surface_light">#00ff00</color>
+    <color name="google_marterial_color_surface_light">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_neutral0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral100">#1de9b6</color>

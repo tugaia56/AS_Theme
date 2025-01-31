@@ -110,7 +110,7 @@
     <color name="m3_sys_color_dynamic_light_surface_variant">#009688</color>
     <color name="m3_sys_color_dynamic_light_tertiary">#26a69a</color>
     <color name="m3_sys_color_dynamic_light_tertiary_container">#4db6ac</color>
-    <color name="material_dynamic_neutral0">#00ff00</color>
+    <color name="material_dynamic_neutral0">@*android:color/accent_material_dark</color>
     <color name="material_dynamic_neutral10">#b2dfdb</color>
     <color name="material_dynamic_neutral100">#00c853</color>
     <color name="material_dynamic_neutral20">#00e676</color>

@@ -404,7 +404,7 @@
     <color name="white_alpha_087">#deffffff</color>
     <color name="white_alpha_090">#e6ffffff</color>
     <color name="white_dark_grey">@*android:color/white</color>
-    <color name="white_white_005">#00ff00</color>
+    <color name="white_white_005">@*android:color/accent_material_dark</color>
     <color name="yellow_100">#fffff8bf</color>
     <color name="yellow_300">#ffffef67</color>
     <color name="yellow_600">#ffffd300</color>

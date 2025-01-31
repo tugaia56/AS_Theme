@@ -214,7 +214,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="splash_background">?android:colorBackground</color>
+    <color name="splash_background">@*android:color/background_dark</color>
     <color name="su_request_background">#ffffffff</color>
     <color name="switch_state_off">@*android:color/accent_material_dark</color>
     <color name="switch_state_on">@*android:color/accent_material_dark</color>

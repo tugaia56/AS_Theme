@@ -1188,7 +1188,7 @@
     <color name="material_indigo_800">@*android:color/background_dark</color>
     <color name="material_indigo_900">#ff1a237e</color>
     <color name="material_indigo_A100">#ff8c9eff</color>
-    <color name="material_indigo_A200">#ff536dfe</color>
+    <color name="material_indigo_A200">@*android:color/ripple_material_dark</color>
     <color name="material_indigo_A400">#ff3d5afe</color>
     <color name="material_indigo_A700">#ff304ffe</color>
     <color name="material_light_blue_100">@*android:color/accent_material_dark</color>
@@ -2018,7 +2018,7 @@
     <color name="quantum_indigo800">@*android:color/background_dark</color>
     <color name="quantum_indigo900">#ff1a237e</color>
     <color name="quantum_indigoA100">#ff8c9eff</color>
-    <color name="quantum_indigoA200">#ff536dfe</color>
+    <color name="quantum_indigoA200">@*android:color/ripple_material_dark</color>
     <color name="quantum_indigoA400">#ff3d5afe</color>
     <color name="quantum_indigoA700">#ff304ffe</color>
     <color name="quantum_lightblue100">#ffb3e5fc</color>

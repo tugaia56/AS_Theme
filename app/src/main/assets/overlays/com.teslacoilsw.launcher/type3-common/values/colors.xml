@@ -491,10 +491,10 @@
     <color name="quantum_grey400">#ffbdbdbd</color>
     <color name="quantum_grey50">#fffafafa</color>
     <color name="quantum_grey500">#ff9e9e9e</color>
-    <color name="quantum_grey600">#ff757575</color>
+    <color name="quantum_grey600">@*android:color/button_material_dark</color>
     <color name="quantum_grey700">#ff616161</color>
     <color name="quantum_grey800">@*android:color/background_dark</color>
-    <color name="quantum_grey900">#ff212121</color>
+    <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="quantum_greyblack1000">#ff000000</color>
     <color name="quantum_greywhite1000">#ffffffff</color>
     <color name="quantum_indigo100">#ffc5cae9</color>
@@ -508,7 +508,7 @@
     <color name="quantum_indigo800">#ff283593</color>
     <color name="quantum_indigo900">#ff1a237e</color>
     <color name="quantum_indigoA100">#ff8c9eff</color>
-    <color name="quantum_indigoA200">#ff536dfe</color>
+    <color name="quantum_indigoA200">@*android:color/ripple_material_dark</color>
     <color name="quantum_indigoA400">#ff3d5afe</color>
     <color name="quantum_indigoA700">#ff304ffe</color>
     <color name="quantum_lightblue100">#ffb3e5fc</color>

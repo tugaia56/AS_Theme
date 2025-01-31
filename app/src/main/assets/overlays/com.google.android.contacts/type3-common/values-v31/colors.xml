@@ -31,13 +31,12 @@
     <color name="glance_colorSurfaceVariant">#e65100</color>
     <color name="glance_colorTertiary">#ef6c00</color>
     <color name="glance_colorTertiaryContainer">#f57c00</color>
-    <color name="survey_button_background_color">#f06292</color>
-    <color name="survey_button_stroke_color">#f48fb1</color>
-    <color name="survey_button_text_color">#f8bbd0</color>
-    <color name="widget_primary_button_inverted_background_color">#ff9e80</color>
-    <color name="widget_primary_button_inverted_icon_color">#ffccbc</color>
-    <color name="widget_secondary_button_inverted_background_color">#ffab91</color>
-    <color name="widget_secondary_button_inverted_icon_color">#ff8a65</color>
+    <color name="glance_colorWidgetBackground">#f06292</color>
+    <color name="survey_button_background_color">#f48fb1</color>
+    <color name="survey_button_stroke_color">#f8bbd0</color>
+    <color name="survey_button_text_color">#ff9e80</color>
+    <color name="widget_primary_button_inverted_background_color">#ffab91</color>
+    <color name="widget_primary_button_inverted_icon_color">#ff8a65</color>
     <color name="gm3_dynamic_color_dark_error">#ff7043</color>
     <color name="gm3_dynamic_color_dark_error_container">#ff5722</color>
     <color name="gm3_dynamic_color_dark_on_error">#f4511e</color>
@@ -139,7 +138,7 @@
     <color name="gm3_sys_color_dynamic_light_secondary_state_content">#1de9b6</color>
     <color name="gm3_sys_color_dynamic_light_surface">#00bfa5</color>
     <color name="gm3_sys_color_dynamic_light_surface_bright">#b2dfdb</color>
-    <color name="gm3_sys_color_dynamic_light_surface_container">#00ff00</color>
+    <color name="gm3_sys_color_dynamic_light_surface_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_surface_container_high">#4db6ac</color>
     <color name="gm3_sys_color_dynamic_light_surface_container_highest">#26a69a</color>
     <color name="gm3_sys_color_dynamic_light_surface_container_low">#009688</color>
@@ -296,6 +295,7 @@
     <color name="settingslib_state_on_color">#ffffffff</color>
     <color name="settingslib_text_color_preference_category_title">#00b0ff</color>
     <color name="settingslib_text_color_primary_device_default">#40c4ff</color>
+    <color name="settingslib_text_color_secondary_device_default">#00ff00</color>
     <color name="settingslib_thumb_disabled_color">#ffffffff</color>
     <color name="settingslib_thumb_off_color">#ffffffff</color>
     <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>

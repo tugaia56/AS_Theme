@@ -1169,7 +1169,7 @@
     <color name="shelf_card_divider_color">#1f000000</color>
     <color name="shelf_card_huge_image_simple_scrim_end_color">@*android:color/background_dark</color>
     <color name="shelf_card_huge_image_simple_scrim_start_color">#00000000</color>
-    <color name="shelf_coui_common_hint_color">#00ff00</color>
+    <color name="shelf_coui_common_hint_color">@*android:color/accent_material_dark</color>
     <color name="shelf_coui_common_primary_dark_color">#d9ffffff</color>
     <color name="shelf_coui_common_primary_light_color">#ffffffff</color>
     <color name="shelf_coui_common_secondary_light_color">#8c000000</color>

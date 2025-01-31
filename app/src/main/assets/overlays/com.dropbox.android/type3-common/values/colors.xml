@@ -124,7 +124,7 @@
     <color name="default_title_indicator_selected_color">#ffffffff</color>
     <color name="default_title_indicator_text_color">#bbffffff</color>
     <color name="default_underline_indicator_selected_color">#ff33b5e5</color>
-    <color name="design_bottom_navigation_shadow_color">#00ff00</color>
+    <color name="design_bottom_navigation_shadow_color">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>

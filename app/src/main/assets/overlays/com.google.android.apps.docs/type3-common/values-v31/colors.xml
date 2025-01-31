@@ -8,7 +8,7 @@
     <color name="gm3_dynamic_color_dark_on_error">#ffea00</color>
     <color name="gm3_dynamic_color_dark_on_error_container">#f57f17</color>
     <color name="gm3_dynamic_color_light_error">#0091ea</color>
-    <color name="gm3_dynamic_color_light_error_container">#00ff00</color>
+    <color name="gm3_dynamic_color_light_error_container">@*android:color/accent_material_dark</color>
     <color name="gm3_dynamic_color_light_on_error">#0288d1</color>
     <color name="gm3_dynamic_color_light_on_error_container">#40c4ff</color>
     <color name="gm3_ref_palette_dynamic_neutral10">@*android:color/background_dark</color>
@@ -45,7 +45,7 @@
     <color name="gm3_ref_palette_dynamic_tertiary20">#009688</color>
     <color name="gm3_ref_palette_dynamic_tertiary30">#26a69a</color>
     <color name="gm3_ref_palette_dynamic_tertiary40">#4db6ac</color>
-    <color name="gm3_ref_palette_dynamic_tertiary80">#00ff00</color>
+    <color name="gm3_ref_palette_dynamic_tertiary80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_dynamic_tertiary90">#b2dfdb</color>
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/button_material_dark</color>
@@ -75,7 +75,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">#ff0000</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#00ff00</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#00ffff</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_tertiary">#aed581</color>
@@ -205,7 +205,7 @@
     <color name="m3_sys_color_dynamic_light_inverse_on_surface">#009688</color>
     <color name="m3_sys_color_dynamic_light_inverse_primary">#26a69a</color>
     <color name="m3_sys_color_dynamic_light_inverse_surface">#4db6ac</color>
-    <color name="m3_sys_color_dynamic_light_on_background">#00ff00</color>
+    <color name="m3_sys_color_dynamic_light_on_background">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_light_on_primary">#b2dfdb</color>
     <color name="m3_sys_color_dynamic_light_on_primary_container">#2962ff</color>
     <color name="m3_sys_color_dynamic_light_on_secondary">#2979ff</color>
@@ -294,7 +294,7 @@
     <color name="sud_system_neutral2_100">#d500f9</color>
     <color name="sud_system_neutral2_200">#e040fb</color>
     <color name="sud_system_neutral2_300">#ea80fc</color>
-    <color name="sud_system_neutral2_400">#00ff00</color>
+    <color name="sud_system_neutral2_400">@*android:color/accent_material_dark</color>
     <color name="sud_system_neutral2_50">#6a1b9a</color>
     <color name="sud_system_neutral2_500">#fff000</color>
     <color name="sud_system_neutral2_700">#ff0000</color>

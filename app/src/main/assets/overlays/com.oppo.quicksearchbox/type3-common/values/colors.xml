@@ -461,7 +461,7 @@
     <color name="coui_color_assist_azure_light">#ff45abe5</color>
     <color name="coui_color_assist_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_blue_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_assist_blue_light">@*android:color/holo_blue_light</color>
+    <color name="coui_color_assist_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_cyan">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_cyan_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_cyan_light">#ff39afbd</color>

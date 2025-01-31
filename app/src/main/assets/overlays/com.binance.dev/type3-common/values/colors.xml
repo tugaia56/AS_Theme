@@ -1116,7 +1116,7 @@
     <color name="2131102420">@*android:color/background_dark</color>
     <color name="2131102422">#ffffffff</color>
     <color name="2131102425">#ffcccccc</color>
-    <color name="text_title_loading_page">#ff4a4a4a</color>
+    <color name="text_title_loading_page">@*android:color/background_dark</color>
     <color name="2131102431">#ff959eb1</color>
     <color name="2131102432">#ff959eb1</color>
     <color name="2131102437">#ffd8dce1</color>

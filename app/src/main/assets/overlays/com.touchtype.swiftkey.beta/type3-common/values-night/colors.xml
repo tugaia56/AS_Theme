@@ -4,7 +4,7 @@
     <color name="play_store_review_dialog_background">@*android:color/background_dark</color>
     <color name="secondary_button_background_disabled">#ff292929</color>
     <color name="secondary_button_background_focus">#ff777777</color>
-    <color name="secondary_button_background_ripple">#ff4a4a4a</color>
+    <color name="secondary_button_background_ripple">@*android:color/background_dark</color>
     <color name="swiftkey_preference_summary_disabled">#b2b7b7b7</color>
     <color name="swiftkey_preference_tip_text">#ffb7b7b7</color>
     <color name="themes_tab_text">#ffb7b7b7</color>

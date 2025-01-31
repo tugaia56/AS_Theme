@@ -444,7 +444,7 @@
     <color name="fluentui_gray_500">#fff1f1f1</color>
     <color name="fluentui_gray_56">#ff777777</color>
     <color name="fluentui_gray_600">#ff404040</color>
-    <color name="fluentui_gray_700">#ff303030</color>
+    <color name="fluentui_gray_700">@*android:color/background_dark</color>
     <color name="fluentui_gray_800">@*android:color/button_material_dark</color>
     <color name="fluentui_gray_900">@*android:color/background_dark</color>
     <color name="fluentui_gray_950">#ff141414</color>
@@ -594,7 +594,7 @@
     <color name="lenshvc_permission_view_button_text_color">#ffffffff</color>
     <color name="lenshvc_photo_background_color">@*android:color/background_dark</color>
     <color name="lenshvc_photo_background_color_view_fragment">#00ededed</color>
-    <color name="lenshvc_popup_dialog_text_color">#ff4a4a4a</color>
+    <color name="lenshvc_popup_dialog_text_color">@*android:color/background_dark</color>
     <color name="lenshvc_postcapture_close_text">#ffd6d6d6</color>
     <color name="lenshvc_postcapture_dsw_bottom_sheet_icons_text_color">#ffe1e1e1</color>
     <color name="lenshvc_postcapture_edit_control_item_icon_disabled_color">#ff5c5c5c</color>

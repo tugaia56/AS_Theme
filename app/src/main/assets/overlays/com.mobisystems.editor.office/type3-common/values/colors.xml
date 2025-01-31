@@ -365,7 +365,7 @@
     <color name="fab_bottom_picker_item_textColor">@*android:color/background_dark</color>
     <color name="fab_bottom_picker_separator">#ffbebebe</color>
     <color name="fab_button_red">#fff44336</color>
-    <color name="fab_label_bg">#ff4a4a4a</color>
+    <color name="fab_label_bg">@*android:color/background_dark</color>
     <color name="fab_label_bg_dark">#ffbdbdbd</color>
     <color name="fab_label_text">#ffffffff</color>
     <color name="fab_overflow_bg">#e1050505</color>
@@ -458,7 +458,7 @@
     <color name="fb_subheader_text_color">#ffffffff</color>
     <color name="fb_subheader_text_color_dark">#ffe2e2e2</color>
     <color name="fb_textColorHint">#ffd3d3d3</color>
-    <color name="fb_toolbar_separator_line">#ff4a4a4a</color>
+    <color name="fb_toolbar_separator_line">@*android:color/background_dark</color>
     <color name="fb_translucent_dark_grey">#aa000000</color>
     <color name="fb_twopane_shadow">#33000000</color>
     <color name="fb_twopane_shadow_dark">@*android:color/black</color>

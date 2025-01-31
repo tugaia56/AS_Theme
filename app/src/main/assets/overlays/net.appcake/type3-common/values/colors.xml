@@ -212,7 +212,7 @@
     <color name="mintegral_nativex_cta_txt_nor">#ffc3c3c3</color>
     <color name="mintegral_nativex_cta_txt_pre">#ffffffff</color>
     <color name="mintegral_nativex_land_cta_bg_nor">#7f000000</color>
-    <color name="mintegral_nativex_por_cta_bg_nor">#ff4a4a4a</color>
+    <color name="mintegral_nativex_por_cta_bg_nor">@*android:color/background_dark</color>
     <color name="mintegral_nativex_por_cta_bg_pre">#ff4990e2</color>
     <color name="mintegral_nativex_sound_bg">#b3000000</color>
     <color name="mintegral_reward_black">@*android:color/background_dark</color>

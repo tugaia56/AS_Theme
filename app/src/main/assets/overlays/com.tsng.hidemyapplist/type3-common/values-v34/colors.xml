@@ -13,7 +13,7 @@
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#9fa8da</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#c5cae9</color>
-    <color name="m3_sys_color_dynamic_dark_outline">#00c853</color>
+    <color name="m3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">#b9f6ca</color>

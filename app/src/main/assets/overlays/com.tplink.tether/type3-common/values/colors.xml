@@ -88,7 +88,7 @@
     <color name="ac_content">#ff0000</color>
     <color name="ac_select_divider">#ffcecece</color>
     <color name="activity_fragment_white_bg">@*android:color/background_dark</color>
-    <color name="alert_dialog_message_color_no_skin">#00ff00</color>
+    <color name="alert_dialog_message_color_no_skin">@*android:color/accent_material_dark</color>
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="antenna_bottom_sheet_subtitle">#ffffffff</color>
@@ -610,7 +610,7 @@
     <color name="onboarding_bg_color">@*android:color/background_dark</color>
     <color name="onboarding_blue">#ff0bd0e0</color>
     <color name="onboarding_guide_title">#ffffffff</color>
-    <color name="onboarding_text_color_tips">#ff4a4a4a</color>
+    <color name="onboarding_text_color_tips">@*android:color/background_dark</color>
     <color name="onboarding_transition_bg_start_color">#ffd3e5f2</color>
     <color name="onboarding_wireless_router_subtitle_color">#80ffffff</color>
     <color name="onemesh_text_color">#ff005267</color>

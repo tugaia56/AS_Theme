@@ -20,19 +20,21 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 5.0.0</item>
-        <item>ADDED:</item>
-        <item>- - -</item>
+        <item>Version 5.1.0</item>
         <item>UPDATED:</item>
-        <item>Android Auto 13.2.644464</item>
-        <item>Smart Launcher v6.5</item>
-        <item>Home Screen Switcher v1.1</item>
-        <item>pCloud v4.4.2</item>
-        <item>ChatGPT v1.2024.331</item>
         <item>AppBooster v1.0.5</item>
-        <item>Link to Windows v1.24112.138.0</item>
-        <item>Maps v24.49.96</item>
-        <item>Google App v15.50.41</item>
+        <item>Phone Manager v15.14.1</item>
+        <item>OPSynergy v15.5.70</item>
+        <item>Google Contacts BUG FIX</item>
+        <item>Google App BUG FIX</item>
+        <item>Connect IQ v2.33.1</item>
+        <item>Google Installer Package v15.00.12</item>
+        <item>Hide My Applist BUG FIX</item>
+        <item>SAI Split APKs Installer v4.5</item>
+        <item>Screenshot by Mobile Idea v1.3.13</item>
+        <item>Payload Dumper v1.4</item>
+        <item>Payload Dumper Android v3.3</item>
+        <item>Play Integrity API Checker v1.5</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

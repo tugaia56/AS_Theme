@@ -224,7 +224,7 @@
     <color name="event_info_organizer_color_dark">#ff0000</color>
     <color name="fg_black_primary">#ff00ff</color>
     <color name="fg_black_secondary">#99ffffff</color>
-    <color name="fg_dark_primary">#00ff00</color>
+    <color name="fg_dark_primary">@*android:color/accent_material_dark</color>
     <color name="fg_dark_secondary">#00ffff</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>

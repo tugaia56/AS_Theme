@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="popular_settings_border">#00ff00</color>
+    <color name="popular_settings_border">@*android:color/accent_material_dark</color>
     <color name="popular_settings_hint">#ff00ff</color>
     <color name="popular_settings_long_press_text">#fff000</color>
 </resources>

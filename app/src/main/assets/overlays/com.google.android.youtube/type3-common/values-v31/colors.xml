@@ -65,7 +65,7 @@
     <color name="gm3_ref_palette_dynamic_secondary70">#00796b</color>
     <color name="gm3_ref_palette_dynamic_secondary80">#009688</color>
     <color name="gm3_ref_palette_dynamic_secondary90">#26a69a</color>
-    <color name="gm3_ref_palette_dynamic_tertiary10">#00ff00</color>
+    <color name="gm3_ref_palette_dynamic_tertiary10">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_dynamic_tertiary100">#00c853</color>
     <color name="gm3_ref_palette_dynamic_tertiary20">#00e676</color>
     <color name="gm3_ref_palette_dynamic_tertiary30">#69f0ae</color>

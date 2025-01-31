@@ -282,7 +282,7 @@
     <color name="emoji_lightcolor">#ffdcdcdc</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
-    <color name="feed_filter_divice_color">#ff4a4a4a</color>
+    <color name="feed_filter_divice_color">@*android:color/background_dark</color>
     <color name="feed_trending_topic_image_dark_bg">#ff25788a</color>
     <color name="feed_trending_topic_like_background">#ffb8b8b8</color>
     <color name="follow_disable_dark">#ff616263</color>

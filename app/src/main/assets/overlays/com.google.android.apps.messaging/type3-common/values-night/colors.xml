@@ -4,6 +4,8 @@
     <color name="alert_dialog_background_color">@*android:color/background_dark</color>
     <color name="attachment_selected_m2">@*android:color/accent_material_dark</color>
     <color name="avatar_person">@*android:color/background_dark</color>
+<color name="cross_country_avatar_background_color">@*android:color/background_dark</color>
+<color name="cross_country_avatar_foreground_color">#ffe3e3e3</color>
     <color name="go_to_top_button_background">@*android:color/ripple_material_dark</color>
     <color name="go_to_top_button_tint">#ffffffff</color>
     <color name="material_google_red_500">@*android:color/accent_material_dark</color>

@@ -82,7 +82,7 @@
     <color name="gray">#ff607d8b</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="info">@*android:color/accent_material_dark</color>
+    <color name="info">@*android:color/ripple_material_dark</color>
     <color name="invalid">#ff8f6b32</color>
     <color name="legacy_icon_background">#ffffffff</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
@@ -249,7 +249,7 @@
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_500">#ff9e9e9e</color>
     <color name="material_grey_600">@*android:color/button_material_dark</color>
-    <color name="material_grey_700">@*android:color/background_floating_material_dark</color>
+    <color name="material_grey_700">@*android:color/background_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
@@ -268,7 +268,7 @@
     <color name="material_indigo_800">#ff283593</color>
     <color name="material_indigo_900">#ff1a237e</color>
     <color name="material_indigo_A100">#ff8c9eff</color>
-    <color name="material_indigo_A200">#ff536dfe</color>
+    <color name="material_indigo_A200">@*android:color/ripple_material_dark</color>
     <color name="material_indigo_A400">#ff3d5afe</color>
     <color name="material_indigo_A700">#ff304ffe</color>
     <color name="material_light_blue_100">#ffb3e5fc</color>

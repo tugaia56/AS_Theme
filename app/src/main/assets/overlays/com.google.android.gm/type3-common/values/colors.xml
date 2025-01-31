@@ -503,7 +503,7 @@
     <color name="people_chip_selected_state_background_color">#1e3c4043</color>
     <color name="photo_crop_dim_color">#cc000000</color>
     <color name="photo_crop_highlight_color">#ffffffff</color>
-    <color name="photo_picker_banner_background">?android:colorBackground</color>
+    <color name="photo_picker_banner_background">@*android:color/background_dark</color>
     <color name="photo_picker_drop_shadow">#d9000000</color>
     <color name="photo_picker_edit_background">@*android:color/background_dark</color>
     <color name="photo_picker_edit_crop_dim">#99000000</color>

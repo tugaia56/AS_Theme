@@ -48,7 +48,7 @@
     <color name="pw_v2_description_text_color">#ffacacac</color>
     <color name="pw_v2_plan_tab_selected">#ff404040</color>
     <color name="pw_v2_plan_tabs_background">@*android:color/background_dark</color>
-    <color name="pw_v2_plan_tabs_border">#ff303030</color>
+    <color name="pw_v2_plan_tabs_border">@*android:color/background_dark</color>
     <color name="pw_v2_plan_tabs_selected_text_color">#ffffffff</color>
     <color name="pw_v2_plan_tabs_unselected_text_color">#ffacacac</color>
     <color name="pw_v2_title_text_color">#ffe1e1e1</color>

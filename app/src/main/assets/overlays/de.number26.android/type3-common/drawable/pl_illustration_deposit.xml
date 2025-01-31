@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="48.0dip" android:width="80.0dip" android:viewportWidth="80.0" android:viewportHeight="48.0">
+	<path android:pathData="M0 0h80v48H0z" />
+	<path android:fillColor="#ff5befbd" android:pathData="M57 8H13v24h44V8z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:fillColor="#ffffffff" android:pathData="M60 5H16v24h44V5z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:pathData="M25 11h-4v13h4" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:pathData="M51 11h4v13h-4" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:fillColor="#ffffffff" android:pathData="M38 23c3 0 6-3 6-6s-3-6-6-6s-6 3-6 6s3 6 6 6z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:fillColor="#ff5befbd" android:pathData="M60 45c-2 0-4-1-6-2c-1-1-2-2-3-4s-1-4-1-6c1-2 2-4 3-5s3-2 5-3c2 0 4 0 6 1s3 2 4 3c1 2 2 4 2 6c0 3-1 5-3 7s-4 3-7 3z" android:strokeColor="#ff111111" android:strokeWidth="1.0" android:strokeMiterLimit="10.0" />
+	<path android:pathData="M60 31v8l-4-4" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+	<path android:pathData="M64 35l-4 4" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.0" android:strokeLineJoin="round" />
+</vector>
