@@ -361,7 +361,7 @@
     <color name="couiSingleSecondCompatNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatTextHighLight">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>

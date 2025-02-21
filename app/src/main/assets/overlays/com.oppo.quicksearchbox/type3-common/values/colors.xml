@@ -240,7 +240,7 @@
     <color name="couiSingleNinthNormal">#ffc35570</color>
     <color name="couiSingleNinthTextHighLight">#4cc35570</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhBarDisabledColor">#4d007aff</color>
@@ -493,8 +493,8 @@
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_light">#fff3f4f6</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_card_background_light">@*android:color/holo_primary</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
@@ -584,9 +584,9 @@
     <color name="coui_color_ripple_press_background">#1f000000</color>
     <color name="coui_color_ripple_press_background_dark">#1affffff</color>
     <color name="coui_color_ripple_press_background_light">#1f000000</color>
-    <color name="coui_color_secondary_blue">#260066ff</color>
+    <color name="coui_color_secondary_blue">#26908dff</color>
     <color name="coui_color_secondary_blue_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
-    <color name="coui_color_secondary_blue_light">#260066ff</color>
+    <color name="coui_color_secondary_blue_light">#26908dff</color>
     <color name="coui_color_secondary_green">#2600bd13</color>
     <color name="coui_color_secondary_green_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_green_light">#2600bd13</color>

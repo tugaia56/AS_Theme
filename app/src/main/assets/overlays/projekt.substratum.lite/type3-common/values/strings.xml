@@ -60,7 +60,7 @@
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="close">Close</string>
     <string name="color_picker_presets">Presets</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">a58a4cba2f7d4d12bf92524441dc5eb5</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">57ec05485cc542768d8ee9c55054a877</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="compile_bottom_sheet_loading">Preparing %s overlay …</string>
     <string name="compile_bottom_sheet_loading_default">Preparing overlay …</string>

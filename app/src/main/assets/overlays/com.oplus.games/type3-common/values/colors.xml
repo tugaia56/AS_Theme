@@ -1118,7 +1118,7 @@
     <color name="couiSingleNinthNormal">#ffc35570</color>
     <color name="couiSingleNinthTextHighLight">#4cc35570</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhBarDisabledColor">#4d007aff</color>
@@ -1225,8 +1225,8 @@
     <color name="coui_color_background_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#33000000</color>

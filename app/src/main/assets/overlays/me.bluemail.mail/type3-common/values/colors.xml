@@ -640,8 +640,8 @@
     <color name="pink_theme_semi_transparent">#dd7a4882</color>
     <color name="preference_warning_bg">#ffffffd6</color>
     <color name="preference_warning_bg_dark">#ff727256</color>
-    <color name="pressed">#330066ff</color>
-    <color name="pressed_dark">#330066ff</color>
+    <color name="pressed">#33908dff</color>
+    <color name="pressed_dark">#33908dff</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>

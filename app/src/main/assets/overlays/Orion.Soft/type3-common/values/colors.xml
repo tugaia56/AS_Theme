@@ -4,7 +4,7 @@
     <color name="ColorEnlaces">@*android:color/accent_material_dark</color>
     <color name="ColorOscuroEnLightYClaroEnDark">@*android:color/background_dark</color>
     <color name="ColorPrincipal">@*android:color/accent_material_dark</color>
-    <color name="ColorPrincipalAl20pct">@*android:color/car_blue_grey_800</color>
+    <color name="ColorPrincipalAl20pct">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="ColorPrincipalMasOcuro">@*android:color/accent_material_dark</color>
     <color name="ColorPrincipalMenosOcuro">@*android:color/ripple_material_dark</color>
     <color name="FondoAdvertencia">@*android:color/ripple_material_dark</color>
@@ -16,7 +16,7 @@
     <color name="PerfilBloqueado">@*android:color/accent_material_dark</color>
     <color name="PerfilNoSeleccionado">#ffdddddd</color>
     <color name="PerfilSeleccionado">@*android:color/accent_material_dark</color>
-    <color name="Verde_perfil_de_sonido_000">#ff009999</color>
+    <color name="Verde_perfil_de_sonido_000">@*android:color/accent_material_dark</color>
     <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>

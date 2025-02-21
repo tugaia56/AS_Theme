@@ -218,7 +218,7 @@
     <color name="couiSingleNinthPressed">#ffdf0c52</color>
     <color name="couiSingleNinthTextHighLight">#4cf42a6d</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondPressed">@*android:color/accent_material_dark</color>

@@ -904,7 +904,7 @@
     <color name="couiSingleSecondColorFocusNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondColorFocusOutlineNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondCompatTextHighLightRepatchP">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightNormalPatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightNormalRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightPressedPatchP">@*android:color/accent_material_dark</color>
@@ -1495,8 +1495,8 @@
     <color name="coui_color_blue_variant_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
     <color name="coui_color_card">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_card_background_light">@*android:color/holo_primary</color>
     <color name="coui_color_card_dark">@*android:color/holo_primary</color>
     <color name="coui_color_card_light">@*android:color/holo_primary</color>

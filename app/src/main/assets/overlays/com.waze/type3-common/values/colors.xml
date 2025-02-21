@@ -134,7 +134,7 @@
     <color name="DarkShadeAlt">#ff171d22</color>
     <color name="ElectricBlue">#ff1dc4ff</color>
     <color name="FragDimBg">#77000000</color>
-    <color name="GrayTimerColor">#ff383838</color>
+    <color name="GrayTimerColor">@*android:color/background_dark</color>
     <color name="Green100">#ff87f6c2</color>
     <color name="Green100_deprecated">#ffe6faf2</color>
     <color name="Green150_deprecated">#ffbbe5d1</color>

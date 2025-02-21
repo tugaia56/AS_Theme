@@ -73,7 +73,7 @@
     <color name="couiSingleFourthLightPressed">#4d5ba427</color>
     <color name="couiSingleNinthLightNormal">#4d853939</color>
     <color name="couiSingleNinthLightPressed">#4d74d131</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondLightPressed">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhLightNormal">#4d007aff</color>
     <color name="couiSingleSeventhLightPressed">#4d006ee6</color>

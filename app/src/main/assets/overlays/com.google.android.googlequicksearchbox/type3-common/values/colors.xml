@@ -890,7 +890,7 @@
     <color name="googleapp_color_dark_herojourney_surface_container_highest">#ffd3e3fd</color>
     <color name="googleapp_color_dark_herojourney_surface_default">#fffdfdff</color>
     <color name="googleapp_color_dark_magi_logo_primary">@*android:color/accent_material_dark</color>
-    <color name="googleapp_color_light_ambient_searchbox_text">@*android:color/holo_primary</color>
+    <color name="googleapp_color_light_ambient_searchbox_text">@*android:color/button_material_dark</color>
     <color name="googleapp_color_light_herojourney_button">#ff4a607c</color>
     <color name="googleapp_color_light_herojourney_on_surface_default">#ff001d35</color>
     <color name="googleapp_color_light_herojourney_on_surface_highlight">#ff0b57d0</color>
@@ -1451,7 +1451,7 @@
     <color name="sds_sys_color_on_surface_de_emphasis_lavender_vibrant_light">#ff4d444f</color>
     <color name="sds_sys_color_on_surface_de_emphasis_lemon_vibrant_dark">#ffcdc6b1</color>
     <color name="sds_sys_color_on_surface_de_emphasis_lemon_vibrant_light">#ff4a473d</color>
-    <color name="sds_sys_color_on_surface_de_emphasis_light">@*android:color/holo_primary</color>
+    <color name="sds_sys_color_on_surface_de_emphasis_light">@*android:color/button_material_dark</color>
     <color name="sds_sys_color_on_surface_de_emphasis_lime_vibrant_dark">#ffc7c8b2</color>
     <color name="sds_sys_color_on_surface_de_emphasis_lime_vibrant_light">#ff47473d</color>
     <color name="sds_sys_color_on_surface_de_emphasis_mint_vibrant_dark">#ffbdc9c4</color>
@@ -1617,7 +1617,7 @@
     <color name="sds_sys_color_surface_container_high_candy_vibrant_light">#fffde8f3</color>
     <color name="sds_sys_color_surface_container_high_cinnamon_vibrant_dark">#ff382f27</color>
     <color name="sds_sys_color_surface_container_high_cinnamon_vibrant_light">#ffffeee2</color>
-    <color name="sds_sys_color_surface_container_high_dark">@*android:color/holo_primary</color>
+    <color name="sds_sys_color_surface_container_high_dark">@*android:color/button_material_dark</color>
     <color name="sds_sys_color_surface_container_high_evergreen_vibrant_dark">#ff2c322d</color>
     <color name="sds_sys_color_surface_container_high_evergreen_vibrant_light">#ffe7f4e8</color>
     <color name="sds_sys_color_surface_container_high_fallback_brand_dark">#ff2c303d</color>
@@ -1879,7 +1879,7 @@
     <color name="sud_system_neutral1_400">#ff909090</color>
     <color name="sud_system_neutral1_50">#fff0f0f0</color>
     <color name="sud_system_neutral1_500">@*android:color/button_material_dark</color>
-    <color name="sud_system_neutral1_600">@*android:color/holo_primary</color>
+    <color name="sud_system_neutral1_600">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral1_700">@*android:color/background_dark</color>
     <color name="sud_system_neutral1_800">@*android:color/background_dark</color>
     <color name="sud_system_neutral1_900">@*android:color/background_dark</color>

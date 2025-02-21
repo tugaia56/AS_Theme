@@ -52,7 +52,7 @@
     <color name="error_color_material_light">#ffff5722</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
-    <color name="green">@*android:color/accent_material_dark</color>
+    <color name="green">#3ddc84</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="ic_launcher_background">#ff353937</color>
@@ -75,7 +75,7 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="red">@*android:color/ripple_material_dark</color>
+    <color name="red">#dd0000</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -89,5 +89,5 @@
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="white">#ffffffff</color>
-    <color name="yellow">@*android:color/ripple_material_dark</color>
+    <color name="yellow">@*android:color/accent_material_dark</color>
 </resources>

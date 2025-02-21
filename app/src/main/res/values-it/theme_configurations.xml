@@ -20,21 +20,12 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 5.1.0</item>
+        <item>Versione 5.2.0</item>
+        <item>AGGIUNTO:</item>
+        <item>MSN Microsoft v30.5.430123006</item>
+        <item>Riconoscimento schermo v15.3.18</item>
         <item>AGGIORNATO:</item>
-        <item>AppBooster v1.0.5</item>
-        <item>Gestione telefono v15.14.1</item>
-        <item>OPSynergy v15.5.70</item>
-        <item>Google Contacts BUG FIX</item>
-        <item>Google App BUG FIX</item>
-        <item>Connect IQ v2.33.1</item>
-        <item>Google Installazione Pacchetti v15.00.12</item>
-        <item>Hide My Applist BUG FIX</item>
-        <item>SAI Split APKs Installer v4.5</item>
-        <item>Screenshot by Mobile Idea v1.3.13</item>
-        <item>Payload Dumper v1.4</item>
-        <item>Payload Dumper Android v3.3</item>
-        <item>Play Integrity API Checker v1.5</item>
+
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

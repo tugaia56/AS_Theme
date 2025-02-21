@@ -461,7 +461,7 @@
     <color name="coui_panel_bar_view_color">#ccbdbdbd</color>
     <color name="coui_panel_drag_view_color">#ff575757</color>
     <color name="coui_panel_layout_with_shadow_tint">@*android:color/background_dark</color>
-    <color name="coui_popup_list_background_color">#ff242424</color>
+    <color name="coui_popup_list_background_color">@*android:color/background_dark</color>
     <color name="coui_popup_list_background_color_no_blur">@*android:color/background_dark</color>
     <color name="coui_popup_list_blend_blur">@*android:color/button_material_dark</color>
     <color name="coui_popup_list_mix_blur">#cc404040</color>
@@ -498,8 +498,8 @@
     <color name="coui_shape_btn_check_fill_color_off_disabled">#1ae6e6e6</color>
     <color name="coui_simple_lock_filled_rectangle_icon_color">#e6ffffff</color>
     <color name="coui_simple_lock_outlined_rectangle_icon_color">#66ffffff</color>
-    <color name="coui_snack_bar_background">#ff242424</color>
-    <color name="coui_snack_bar_background_color">#ff242424</color>
+    <color name="coui_snack_bar_background">@*android:color/background_dark</color>
+    <color name="coui_snack_bar_background_color">@*android:color/background_dark</color>
     <color name="coui_snackbar_subtitle_color_float">#8cffffff</color>
     <color name="coui_snackbar_subtitle_text_color">#66ffffff</color>
     <color name="coui_snackbar_title_color_float">#d9ffffff</color>
@@ -596,7 +596,7 @@
     <color name="my_page_resource_icon_fill_color">@*android:color/accent_material_dark</color>
     <color name="new_theme_split_list_view_bg_color">@*android:color/button_material_dark</color>
     <color name="no_more_text_color">#66ffffff</color>
-    <color name="opay_paysub_0066ff_5c9dff">@*android:color/accent_material_dark</color>
+    <color name="opay_paysub_908dff_5c9dff">@*android:color/accent_material_dark</color>
     <color name="opay_paysub_0f000000_0fffffff">#0fffffff</color>
     <color name="opay_paysub_1F000000">#33ffffff</color>
     <color name="opay_paysub_66000000_66ffffff">#66ffffff</color>

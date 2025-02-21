@@ -382,10 +382,10 @@
     <color name="zagare_500">@*android:color/accent_material_dark</color>
     <color name="zagare_600">#ff0d3fbd</color>
     <color name="zagare_70">#ff4c94ff</color>
-    <color name="zagare_a05">#0d0066ff</color>
-    <color name="zagare_a10">#1a0066ff</color>
-    <color name="zagare_a20">#330066ff</color>
-    <color name="zagare_a30">#4d0066ff</color>
-    <color name="zagare_a50">#800066ff</color>
-    <color name="zagare_a70">#b30066ff</color>
+    <color name="zagare_a05">#0d908dff</color>
+    <color name="zagare_a10">#1a908dff</color>
+    <color name="zagare_a20">#33908dff</color>
+    <color name="zagare_a30">#4d908dff</color>
+    <color name="zagare_a50">#80908dff</color>
+    <color name="zagare_a70">#b3908dff</color>
 </resources>

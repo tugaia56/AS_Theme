@@ -13,10 +13,10 @@
     <color name="Blue40Opacity30">#4d247cff</color>
     <color name="Blue40Opacity40">#66247cff</color>
     <color name="Blue50">@*android:color/accent_material_dark</color>
-    <color name="Blue50Opacity12">#1f0066ff</color>
-    <color name="Blue50Opacity15">#260066ff</color>
-    <color name="Blue50Opacity30">#4d0066ff</color>
-    <color name="Blue50Opacity40">#660066ff</color>
+    <color name="Blue50Opacity12">#1f908dff</color>
+    <color name="Blue50Opacity15">#26908dff</color>
+    <color name="Blue50Opacity30">#4d908dff</color>
+    <color name="Blue50Opacity40">#66908dff</color>
     <color name="BlueVariant">@*android:color/accent_material_dark</color>
     <color name="BlueVariantDark">@*android:color/accent_material_dark</color>
     <color name="C20">#ff363636</color>
@@ -411,7 +411,7 @@
     <color name="couiSingleSecondColorDisableNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondColorFocusNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondColorFocusOutlineNormal">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhBarDisabledColor">#4d007aff</color>
@@ -617,7 +617,7 @@
     <color name="coui_btn_stress_text_disabled_color">#ffbee2de</color>
     <color name="coui_btn_stress_text_normal_color">@*android:color/accent_material_dark</color>
     <color name="coui_btn_stress_text_pressed_color">@*android:color/accent_material_dark</color>
-    <color name="coui_button_main_disable">#4d0066ff</color>
+    <color name="coui_button_main_disable">#4d908dff</color>
     <color name="coui_button_main_disable_text">#8affffff</color>
     <color name="coui_button_neutral_color">#0f000000</color>
     <color name="coui_button_neutral_color_disable">#0f000000</color>
@@ -715,9 +715,9 @@
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_light">@*android:color/background_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_dark">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background_light">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_light">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>

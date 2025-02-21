@@ -73,7 +73,7 @@
     <color name="couiSingleFirstLightNormal">#4dff6436</color>
     <color name="couiSingleFourthLightNormal">#4d66b92c</color>
     <color name="couiSingleNinthLightNormal">#4dc35570</color>
-    <color name="couiSingleSecondLightNormal">@*android:color/holo_primary_dark</color>
+    <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSeventhLightNormal">#4d007aff</color>
     <color name="couiSingleSixthLightNormal">#4dcd2638</color>
     <color name="couiSingleTenthLightNormal">#4d63e5a7</color>
@@ -158,7 +158,7 @@
     <color name="coui_color_background">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/holo_primary</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_control_highlight">#7f707070</color>
     <color name="coui_color_controls">#4dffffff</color>
