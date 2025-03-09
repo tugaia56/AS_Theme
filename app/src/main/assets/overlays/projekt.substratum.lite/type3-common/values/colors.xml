@@ -100,9 +100,9 @@
     <color name="on_surface">@*android:color/background_dark</color>
     <color name="overlay_installed_invalid">#dd0000</color>				      					<!-- Inattivo (overlay non valido) -->
     <color name="overlay_installed_list_entry">@*android:color/accent_material_dark</color>		<!-- Attivo (abilitato) -->
-    <color name="overlay_installed_not_active">#ff9800</color>									<!-- Inattivo (Riavvia per abilitare) -->
+    <color name="overlay_installed_not_active">#de5100</color>									<!-- Inattivo (Riavvia per abilitare) -->
     <color name="overlay_not_enabled_list_entry">#02fa36</color>                   				<!-- Attivo (disabilitato) -->
-    <color name="overlay_not_installed_list_entry">#ff6d00</color>				     			<!-- Non Installato -->
+    <color name="overlay_not_installed_list_entry">#ffd000</color>				     			<!-- Non Installato -->
     <color name="primary">@*android:color/accent_material_dark</color>
     <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
     <color name="primary_dark_material_light">@*android:color/button_material_dark</color>

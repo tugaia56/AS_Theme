@@ -41,7 +41,13 @@ Please, open app's settings and grant \"Storage\" permission to it."</string>
     <string name="app_info">App Info</string>
     <string name="app_name">Apk Extractor</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="apply">Apply</string>
     <string name="apps_extracted">All selected apk extracted in %s</string>
+    <string name="ask_receiver_to_go_to_receive_apks">Ask the receiver to go to <b>Receive Apks</b> in Apk Extractor and their device will appear here. They will also be able to send apk to your device.</string>
+    <string name="ask_sender_to_go_to_send_apks">Ask the sender to go to <b>Send Apks</b>" and select your device to connect
+
+
+Your device name is this %s"</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
     <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
@@ -49,6 +55,13 @@ Please, open app's settings and grant \"Storage\" permission to it."</string>
     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
     <string name="buy_premium">Buy Premium</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="cancel">Cancel</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
@@ -56,6 +69,7 @@ Please, open app's settings and grant \"Storage\" permission to it."</string>
     <string name="choose_file">Choose a file</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="close_app">Close App</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">5fb7416288a744d097f734db17eccbfd</string>
     <string name="com_iraavanan_apkextractor">com.iraavanan.apkextractor</string>
     <string name="coming_soon">Send and Receive APK from near by device, Coming soon.</string>
     <string name="common_google_play_services_enable_button">Enable</string>
@@ -79,6 +93,7 @@ Please, open app's settings and grant \"Storage\" permission to it."</string>
     <string name="confirm">Confirm</string>
     <string name="copy">Copy</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
+    <string name="default_web_client_id">689491833627-lhkgoia6b09gldeh4pidfm7khf00kcpk.apps.googleusercontent.com</string>
     <string name="delete">Delete</string>
     <string name="demo_video">Watch demo video</string>
     <string name="desc_nightmode">Use night mode for your eye care.</string>
@@ -97,11 +112,18 @@ Enjoy App without any Ads"</string>
     <string name="expand_button_title">Advanced</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="extract">Extract</string>
+    <string name="extract_apk">Extract Apk</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
+    <string name="firebase_database_url">https://barcodereader-503b5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">689491833627</string>
+    <string name="google_api_key">AIzaSyDRilmh2UdetZeuM5UlhnG3xCTb96jPjjk</string>
+    <string name="google_app_id">1:689491833627:android:7f73926dbf610c39</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDRilmh2UdetZeuM5UlhnG3xCTb96jPjjk</string>
+    <string name="google_storage_bucket">barcodereader-503b5.appspot.com</string>
     <string name="grant_permission">Grant Permission</string>
     <string name="grant_permission_msg">For the app to function properly, we need the following permissions.</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
@@ -114,6 +136,7 @@ Enjoy App without any Ads"</string>
     <string name="key_lock_nightmode">night_mode</string>
     <string name="last_modified">Last Modified</string>
     <string name="launch">Launch</string>
+    <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
@@ -187,7 +210,7 @@ Enjoy App without any Ads"</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select Date</string>
     <string name="mtrl_picker_date_header_unselected">Selected date</string>
-    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
     <string name="mtrl_picker_end_date_description">End date %1$s</string>
     <string name="mtrl_picker_invalid_format">Invalid format.</string>
     <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
@@ -224,6 +247,7 @@ Enjoy App without any Ads"</string>
     <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="mtrl_timepicker_cancel">Cancel</string>
     <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="name">Name</string>
     <string name="native_body">Body</string>
     <string name="native_headline">Headline</string>
     <string name="native_media_view">Media View</string>
@@ -232,13 +256,20 @@ Enjoy App without any Ads"</string>
     <string name="new_folder_cancel">Cancel</string>
     <string name="new_folder_ok">OK</string>
     <string name="no">No</string>
+    <string name="no_apk_found">"No apk found.
+Goto Home and Extract Apk Now!"</string>
     <string name="no_thanks">No, Thanks</string>
     <string name="not_really">Not really</string>
     <string name="not_set">Not set</string>
-    <string name="offline_notification_text">Tap to open ad</string>
-    <string name="offline_notification_title">View the ad you saved when you were offline</string>
+    <string name="notifications_permission_confirm">Allow</string>
+    <string name="notifications_permission_decline">"Don't allow"</string>
+    <string name="notifications_permission_title">Allow app to send you notifications?</string>
+    <string name="offline_dialog_image_description">Icon</string>
+    <string name="offline_dialog_text">"Thanks for your interest.
+We will share more once you're back online."</string>
+    <string name="offline_notification_title">"You are back online! Let's pick up where we left off"</string>
+    <string name="offline_notification_title_with_advertiser">You are back online! Continue learning about %s</string>
     <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_confirmation">"You'll get a notification with the link when you're back online"</string>
     <string name="offline_opt_in_decline">No thanks</string>
     <string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
     <string name="offline_opt_in_title">"Open ad when you're back online."</string>
@@ -247,6 +278,7 @@ Enjoy App without any Ads"</string>
     <string name="open_with">Open</string>
     <string name="option_create_folder">New folder</string>
     <string name="options_delete">Delete</string>
+    <string name="package_name">Package Name</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -288,8 +320,10 @@ Enjoy App without any Ads"</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="premium">Premium</string>
     <string name="premium_msg">Buy Premium for ad free subscription.</string>
+    <string name="project_id">barcodereader-503b5</string>
     <string name="query_app_msg">"To show Installed Apps &amp; System Apps, Allow access to your device's QUERY ALL PACKAGES permission."</string>
     <string name="query_apps">Query All Packages</string>
+    <string name="receive_apk">Receive Apk</string>
     <string name="rename">Rename</string>
     <string name="reward">REWARD</string>
     <string name="reward_msg">Earn 1 day no ad subscription by watching reward video</string>
@@ -305,7 +339,10 @@ Enjoy App without any Ads"</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="searchview_clear_text_content_description">Clear text</string>
     <string name="searchview_navigation_content_description">Back</string>
+    <string name="select_a_receiver">Select a receiver</string>
     <string name="select_all">Select All</string>
+    <string name="select_app">Please select app for sending apk</string>
+    <string name="send_apk">Send Apk</string>
     <string name="set_time">Watch Reward Video</string>
     <string name="setting">Setting</string>
     <string name="share">Share</string>
@@ -316,6 +353,7 @@ Enjoy App without any Ads"</string>
     <string name="show_user_app">Show User Apps</string>
     <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
+    <string name="size">Size</string>
     <string name="skip_for_now">Skip for Now</string>
     <string name="sort_by">Sort By:</string>
     <string name="split_apks">Split Apks</string>
@@ -325,6 +363,7 @@ Enjoy App without any Ads"</string>
     <string name="storage_msg">"To download APK file and App Icon, Allow access to your device's Read &amp; write Storage permission."</string>
     <string name="storage_removed">Storage was removed or unmounted.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="text_continue">Continue</string>
     <string name="title_activity_settings">Settings</string>
     <string name="title_choose">Choose</string>
     <string name="title_choose_dict_file">Pick a dictionary</string>
@@ -335,6 +374,7 @@ Enjoy App without any Ads"</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_file">View file</string>
     <string name="view_on_play_store">View on Play store</string>
+    <string name="waiting_for_sender">Waiting for sender...</string>
     <string name="warning">Warning</string>
     <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="yes">Yes</string>

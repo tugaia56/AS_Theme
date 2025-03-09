@@ -40,9 +40,9 @@
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
-    <string name="button_exit">Exit</string>
-    <string name="button_go_to_github">Go to GitHub</string>
-    <string name="button_not_now">Not now</string>
+    <string name="exit">Exit</string>
+    <string name="go_to_github">Go to GitHub</string>
+    <string name="not_now">Not now</string>
     <string name="call_notification_answer_action">Answer</string>
     <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Decline</string>
@@ -67,23 +67,182 @@
     <string name="delete">Delete</string>
     <string name="delete_preset">Delete %s</string>
     <string name="deleted">%s is deleted</string>
-    <string name="description_36868">&lt;p>Enable/disable ViPER sound effects and control the master gate (limiter). It is used to prevent distortion caused by overdriven volume.&lt;/p>&lt;br/> &lt;p>&lt;h5>Output Gain&lt;/h5>&lt;/p>&lt;p>Defines the main output volume&lt;/p>&lt;br/> &lt;p>&lt;h5>Limit Threshold&lt;/h5>&lt;/p>&lt;p>Defines the limit of the waveform amplitude (limiter). 0dB is the maximum value.&lt;br/> The smaller the value, the easier to experience audio frequency compression.&lt;/p>&lt;br/> &lt;p>&lt;h5>Channel Pan&lt;/h5>&lt;/p>&lt;p>Defines the output gain ratio for the left and right channel&lt;/p></string>
+    <string name="description_36868">"&lt;p>Enables or disables the ViPER app's sound effects, which enhance audio quality. Among these effects is the master gate (limiter), used to prevent distortion caused by very high volumes. It helps keep the audio clear by automatically adjusting volume peaks.&lt;/p>
+
+&lt;br>
+&lt;p>&lt;strong>Output gain&lt;/strong>&lt;/p>
+&lt;br>
+
+&lt;p>This setting adjusts the main output volume of your device. Increasing the output gain makes the sound louder, but it is important to do this carefully to avoid distortion. Adjust the gain to achieve the desired volume and provide a more immersive audio experience.&lt;/p>
+
+&lt;br>
+&lt;p>&lt;strong>Channel balance&lt;/strong>&lt;/p>
+&lt;br>
+
+&lt;p>This function adjusts the output gain ratio between the left and right channels. The channel balance allows you to customize the sound distribution, ensuring a personalized audio experience, especially useful for users who use headphones or stereo sound systems.&lt;/p>
+
+&lt;br>
+&lt;p>&lt;strong>Threshold limit&lt;/strong>&lt;/p>
+&lt;br>
+
+&lt;p>The threshold limit defines the maximum amplitude that the waveform can reach, acting as a limiter. The value of 0 dB represents the maximum volume without distortion. Adjusting this limit to lower values results in more aggressive compression of audio frequencies, useful for avoiding unwanted volume peaks and maintaining balanced sound quality.&lt;/p>"</string>
     <string name="description_65538" formatted="false">&lt;p>Once an impulse response has been loaded, music will show the same characteristics as the loaded sample.&lt;/p>&lt;br/> &lt;p>&lt;h5>Crosschannel&lt;/h5>&lt;/p>&lt;p>Upmixes stereo to quad-channel, like this:&lt;/p> &lt;p>Channel 1: Left channel&lt;/p> &lt;p>Channel 2: x% of right channel&lt;/p> &lt;p>Channel 3: x% of left channel&lt;/p> &lt;p>Channel 4: Right channel&lt;/p> &lt;p>(x = crosschannel value)&lt;/p> &lt;br/> &lt;p>This parameter has no effect when using quad-channel impulse responses&lt;/p></string>
     <string name="description_65544">&lt;p>Virtual Headphone Surround effect&lt;/p>&lt;br/> &lt;p>&lt;h5>Level&lt;/h5>&lt;/p>&lt;p>Strength of VHS+&lt;/p></string>
-    <string name="description_65546">&lt;p>This feature allows users to load VDC headset correction files. These files are headphone-specific and are normally used to neutralize the frequency response. This means that the lows, mids and highs are not emphasized over another, which is similar to reference grade headphones. DDCs are based on Parametric EQ filters and can also be used for non-correction purposes.&lt;/p></string>
-    <string name="description_65548">&lt;p>Makes your music sound lossless with enhanced high frequencies.&lt;/p> &lt;p>It calculates what of the frequency spectrum is lost and is useful if you play lossy audio files&lt;/p> &lt;p>If turned on, the audio spectrum will be reconstructed to recover high frequencies (16k~22kHz), just like Sony DSEE. &lt;/p></string>
-    <string name="description_65551">&lt;p>511-order 10 bands FIR linear equalizer&lt;/p> &lt;p>Adjust the levels of amplification and attenuation of all 10 bands&lt;/p></string>
-    <string name="description_65553">&lt;p>Create sound field surround effects.&lt;/p> &lt;p>The sound field can be understood as a mono or stereo field&lt;/p>&lt;br/> &lt;p>&lt;h5>Surround strength&lt;/h5>&lt;/p>&lt;p>Defines the strength of the field surround effects. The stronger, the stereo effect will be more obvious, the sound will come from left and right sides.&lt;/p>&lt;br/> &lt;p>&lt;h5>Mid image strength&lt;/h5>&lt;/p>&lt;p>Defines the central vocal intensity. More strongman sounds more clear, the weaker the more ethereal sound.&lt;/p></string>
-    <string name="description_65557">&lt;p>Also known as the precedence or haas effect.&lt;/p> &lt;p>The law discoved in 1949 states that when one sound is followed by another with a delay time of approximately 40 ms or less (below humans’ echo threshold), the two are perceived as a single sound.&lt;/p> &lt;p>This relates to how we determine spatial location by sound. Because two noises with a very short delay between them are perceived as one, spatial location is determined by the first heard, dominant sound–regardless of where the second came.&lt;/p>&lt;br/> &lt;p>&lt;h5>Delay&lt;/h5>&lt;/p>&lt;p>Defines the delay between left and right. The greater, the wider the sound.&lt;/p></string>
-    <string name="description_65559">&lt;p>Reverberation uses mathematical methods to simulate an environmental feeling. For example, a song can be felt playing inside the auditorium, living room, bathroom, and so on.&lt;/p>&lt;br/> &lt;p>&lt;h5>Room size&lt;/h5>&lt;/p>&lt;p>Defines the virtual environment area size. The larger the value, the wider the sound&lt;/p>&lt;br/> &lt;p>&lt;h5>Sound field&lt;/h5>&lt;/p>&lt;p>Defines the width of the room above, in meters. Assumed that the above room size is 100 square meters, here to set a width of 14 meters, then the length of the room will be 7.14 m.&lt;/p> &lt;p>Therefore, the room size and width defines the aspect ratio of the virtual environment. The larger the value, the sound coming from both sides will felt more obvious.&lt;/p>&lt;br/> &lt;p>&lt;h5>Damping factor&lt;/h5>&lt;/p>&lt;p>Defines the humidity of air in the above virtual environment, the moisture vapor in the air will easily absorb the echoes. The bigger this value, the less echoes heard.&lt;/p>&lt;br/> &lt;p>&lt;h5>Dry signal&lt;/h5>&lt;/p>&lt;p>Defines the volume of the original sound&lt;/p>&lt;br/> &lt;p>&lt;h5>Wet signal&lt;/h5>&lt;/p>&lt;p>Defines the volume of the simulated environment effect&lt;/p>&lt;br/> &lt;p>For environments with low air humidity such as living rooms, auditoriums and other indoor environments, you can use room size and sound field to define the area of ​​the virtual environment: water vapor content values ​​from 0 to 20, the reverb signal values ​​20 to 50, the proportion of the original signal to take value of about 50. For environments with high air humidity such as bathrooms and other indoor environments that contain a lot of moisture, you can use room size and sound field to define the area of ​​the virtual environment: water vapor content values ​​of 50 to 100, the reverb signal values ​​40 to 80, the proportion of the original signal value of about 50.&lt;/p></string>
+    <string name="description_65546">"&lt;p>This feature allows users to load VDC headphone correction files. These files are specific to each headphone model and are used to adjust the frequency response of the audio being played. The goal is to neutralize the headphone's frequency response, ensuring that bass, midrange, and treble are reproduced in a balanced manner without excessive emphasis on any particular range. This results in a sound that is more faithful and similar to reference headphones, which are designed to provide a neutral and accurate sound reproduction.&lt;/p>
+
+&lt;br>
+&lt;p>VDC correction files are based on parametric equalization filters. These filters allow for very precise frequency response adjustments by altering different frequency bands according to the specific needs of the headphone. In addition to frequency response correction, DDC files can also be used for non-corrective adjustments, such as modifying sound characteristics to suit personal preferences or specific environments.&lt;/p>"</string>
+    <string name="description_65548">"&lt;p>This feature enhances the quality of your music, making it sound as if it has \"lossless\" quality, particularly improving high frequencies. This is useful for recovering fine details in music that may be lost in compressed audio files (lossy), such as MP3 or AAC.&lt;/p>
+&lt;br>
+&lt;p>The system calculates the audio spectrum frequencies that were lost due to compression and attempts to reconstruct them. By enabling this feature, the audio spectrum will be rebuilt to recover high frequencies in the range of 16 kHz to 22 kHz that may have been reduced or eliminated by compression. This technique is similar to what is offered by Sony's DSEE (Digital Sound Enhancement Engine), which also aims to improve the quality of compressed audio.&lt;/p>"</string>
+    <string name="description_65551">"&lt;p>The equalizer is a 10-band linear FIR (Finite Impulse Response) filter with an order of 511. This means that the equalizer has 10 adjustable frequency bands, each with precise response, thanks to the use of a high-order FIR filter.&lt;/p>
+&lt;br>
+&lt;p>This equalizer allows you to adjust the amplification and attenuation levels of each of the 10 frequency bands individually. This way, you can customize the frequency response of the audio according to your preferences, emphasizing or reducing specific frequency ranges to achieve the desired sound quality.&lt;/p>"</string>
+    <string name="description_65553">"&lt;p>This feature creates surround sound effects, providing a more immersive listening experience. The sound field can be configured as mono or stereo, depending on your preferences and the type of audio.&lt;/p>
+
+&lt;br>
+&lt;h5>Surround strength&lt;/h5>
+&lt;br>
+
+&lt;p>This setting defines the intensity of the surround sound effects. The higher the intensity, the more pronounced the stereo effect will be, making the sound seem to come from the left and right sides. This creates a sense of spatiality and depth in the audio.&lt;/p>
+
+&lt;br>
+&lt;h5>Mid image strength&lt;/h5>
+&lt;br>
+
+&lt;p>This setting adjusts the clarity of the central vocalization. With a higher intensity, the central sound, such as the main voice in a song or movie, will be clearer and more prominent. With a lower intensity, the central sound will have a more ethereal and diffuse quality.&lt;/p>"</string>
+    <string name="description_65557">"&lt;p>Also known as the precedence effect or Haas effect, this phenomenon was first described in 1949. According to the discovered law, when a sound is followed by another with a delay of approximately 40 ms or less (below the echo threshold perceived by the human ear), both sounds are perceived as a single sound.&lt;/p>
+
+&lt;br>
+&lt;p>This effect is related to how we determine the spatial location of sound. When two noises are presented with a very short delay between them, the brain perceives them as a single sound source. The spatial location is determined based on the first dominant sound that is heard, regardless of the position of the second sound.&lt;/p>
+
+&lt;br>
+&lt;h5>Delay&lt;/h5>
+&lt;br>
+
+&lt;p>This setting defines the delay between the left and right channels. The greater the delay, the wider the spatial effect of the sound, creating a sense of greater depth and separation between the left and right channels.&lt;/p>"</string>
+    <string name="description_65559">"&lt;p>Reverberation is a sound phenomenon that occurs when sound reflects off surfaces in an environment, creating multiple repetitions that reach the ear at slightly different times, giving the impression that the sound persists for a certain period after the original sound source has stopped. In sound engineering, reverb simulation is used to replicate the acoustic sensation of different environments, such as auditoriums, living rooms, bathrooms, among others.&lt;/p>
+
+&lt;br>
+&lt;h5>Room size&lt;/h5>
+&lt;br>
+
+&lt;p>This parameter adjusts the perception of the virtual environment's volume. The larger the value, the longer the reverb time, creating the sensation of a larger space, such as a large auditorium or cathedral.&lt;/p> 
+
+&lt;br>
+&lt;h5>Sound field&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the width of the room in meters, influencing the perception of spatiality. The larger the value, the more immersive the sound experience, simulating an environment where the sound seems to come from different directions.&lt;/p>
+
+&lt;br>
+&lt;h5>Damping factor&lt;/h5>
+&lt;br>
+
+&lt;p>Controls sound absorption, simulating the humidity of the air in the environment. A higher value means that the sound is more absorbed, resulting in fewer echoes and shorter reverb.&lt;/p>
+
+&lt;br>
+&lt;h5>Wet signal&lt;/h5>
+&lt;br>
+
+&lt;p>Adjusts the volume of the sound processed with reverb effects. A higher wet signal intensifies the sense of space, while a lower value preserves the clarity of the original sound.&lt;/p>
+
+&lt;br>
+&lt;h5>Dry signal&lt;/h5>
+&lt;br>
+
+&lt;p>Regulates the volume of the original sound without reverb effects. A higher dry signal maintains the clarity and definition of the sound source.&lt;/p>
+
+&lt;p>For low-humidity environments, such as living rooms or auditoriums, use a low damping factor and adjust the room size and sound field as needed. For high-humidity environments, such as bathrooms, increase the damping factor to simulate greater echo absorption.&lt;/p>"</string>
     <string name="description_65565">&lt;p>Mainly used to dynamically control, amplify or attenuate the audio volume.&lt;/p>&lt;br/> &lt;p>&lt;h5>Gain Ratio&lt;/h5>&lt;/p>&lt;p>Gain Ratio is the speed of amplification or attenuation, the stronger, the faster the speed and the higher the final volume. The weaker, the slower the speed, the closer to the original volume.&lt;/p>&lt;br/> &lt;p>&lt;h5>Max Gain&lt;/h5>&lt;/p>&lt;p>When the volume is too low, use this parameter to uplevel the sound, there may be very large magnification. The higher the value, the louder the volume. But too large will also amplify the noise within the song.&lt;/p>&lt;br/> &lt;p>&lt;h5>Max Output&lt;/h5>&lt;/p>&lt;p>This value defines the maximum volume of the Playback AGC sound in dB, the greater the value the greater the volume; 0 dB is the maximum.&lt;/p></string>
-    <string name="description_65569">&lt;p>Handles the dynamic range of the sound. In other words the bass, treble, and limiting. &lt;/p>&lt;br/> &lt;p>&lt;h5>Device type&lt;/h5>&lt;/p>&lt;p>Defines the headset type connected to the audio jack. If you cannot get the right device for a good bass tone, then select Common earphone.&lt;/p>&lt;br/> &lt;p>&lt;h5>Dynamic bass strength&lt;/h5>&lt;/p>&lt;p>Defines the average dynamic bass. The greater the stronger bass.&lt;/p></string>
-    <string name="description_65574">&lt;p>ViPER bass is a substitution for XHiFi’s Audio Reconstruction. It processes bass boost at lower frequencies&lt;/p>&lt;br/> &lt;p>&lt;h5>Bass mode&lt;/h5>&lt;/p>&lt;p>Defines the bass mode. Natural bass is alike ViPER XHiFi’s Lo Contour, pure bass+ gives clean bass and subwoofer gives huge bass.&lt;/p>&lt;br/> &lt;p>&lt;h5>Bass frequency&lt;/h5>&lt;/p>&lt;p>Defines the bass cut-off frequency&lt;/p>&lt;br/> &lt;p>&lt;h5>Bass gain&lt;/h5>&lt;/p>&lt;p>Defines the volume of ViPER bass&lt;/p></string>
-    <string name="description_65578">&lt;p>ViPER clarity is a substitution for XHiFi’s Audio Reconstruction. It adds clarity to the audio.&lt;/p>&lt;br/> &lt;p>&lt;h5>Clarity mode&lt;/h5>&lt;/p>&lt;p>Defines the clarity mode. Natural has high vocal and treble, Ozone+ offers clean clarity and XHiFi is alike V4A XHiFi’s Hi Clarity.&lt;/p>&lt;br/> &lt;p>&lt;h5>Clarity gain&lt;/h5>&lt;/p>&lt;p>Defines the volume of ViPER clarity&lt;/p></string>
-    <string name="description_65581">&lt;p>Protects auditory system&lt;/p>&lt;br/> &lt;p>&lt;h5>Level&lt;/h5>&lt;/p>&lt;p>Strength of Binaural protection&lt;/p></string>
-    <string name="description_65583">&lt;p>This option defines whether to enable tube simulator effect. Tube simulator uses a simplified mathematical simulation of a tube effect.&lt;/p>&lt;br/> &lt;p>If turned on, it will greatly reduce high-frequency odd harmonic distortions, while it increases even-order harmonic distortions of tube simulators&lt;/p></string>
-    <string name="description_65584">&lt;p>This option defines whether to enable a field effect transistor based amplifier effect.&lt;/p>&lt;br/> &lt;p>AnalogX uses a simplified mathematical simulation of a field effect transistor.&lt;/p></string>
-    <string name="description_65603">&lt;p>Optimize internal speaker audio quality.&lt;br/>Equalizes a general smartphone speaker to sound more neutral&lt;/p></string>
+    <string name="description_65569">"&lt;p>This feature manipulates the dynamic range of sound, meaning it adjusts the amplitude of bass, treble, and overall audio limiting. This helps to balance and control the different sound frequencies, ensuring a more appropriate and consistent playback.&lt;/p>
+
+&lt;br>
+&lt;h5>Device type&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the type of headphones connected to the audio input. If you cannot properly adjust the bass tone for your specific device, select \"Common Headphones\" to get a default setting that should work for most headphones.&lt;/p>
+
+&lt;br>
+&lt;h5>Dynamic bass strength&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the intensity of dynamic bass. The higher the set intensity, the stronger and more pronounced the bass will be. This allows you to adjust the depth and impact of bass sounds in the audio.&lt;/p>"</string>
+    <string name="description_65574">"&lt;p>ViPER Bass replaces the XHiFi Audio Reconstruction functionality, focusing on enhancing bass at lower frequencies. This technology is designed to improve the depth and presence of bass in audio.&lt;/p>
+
+&lt;br>
+&lt;h5>Bass mode&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the bass processing mode. Available options include:&lt;/p>
+
+&lt;br>
+&lt;h5>Natural bass&lt;/h5>
+&lt;p>Similar to the Lo Contour in ViPER XHiFi, it offers a more subtle and natural bass enhancement.&lt;/p>
+
+&lt;br>
+&lt;h5>Pure bass+&lt;/h5>
+&lt;p>Provides cleaner and more defined bass without distortion.&lt;/p>
+
+&lt;br>
+&lt;h5>Subwoofer&lt;/h5>
+&lt;p>Offers deeper and more powerful bass, simulating the presence of a physical subwoofer.&lt;/p>
+
+&lt;br>
+&lt;h5>Bass frequency&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the cutoff frequency for bass in ViPER Bass. Adjust this setting to determine the point at which bass is enhanced or attenuated.&lt;/p>
+
+&lt;br>
+&lt;h5>Bass gain&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the volume of the bass boost provided by ViPER Bass. Adjust this setting to increase or decrease the intensity of the bass in your audio playback.&lt;/p>"</string>
+    <string name="description_65578">"&lt;p>ViPER Clarity replaces the XHiFi Audio Reconstruction functionality, offering an enhancement in audio clarity. This technology aims to improve the definition and sharpness of high frequencies and vocals in the sound.&lt;/p>
+
+&lt;br>
+&lt;h5>Clarity mode&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the clarity mode. Available options include:&lt;/p>
+
+&lt;br>
+&lt;h5>Natural&lt;/h5>
+&lt;p>Provides an increase in vocals and treble, offering a more faithful and clear reproduction.&lt;/p>
+
+&lt;br>
+&lt;h5>OZone+&lt;/h5>
+&lt;p>Offers clean and detailed clarity, highlighting audio nuances without adding distortion.&lt;/p>
+
+&lt;br>
+&lt;h5>XHiFi&lt;/h5>
+&lt;p>Similar to the Hi Clarity in ViPER's V4A XHiFi, it provides an increase in overall audio clarity, focusing on detail definition.&lt;/p>
+
+&lt;br>
+&lt;h5>Clarity gain&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the volume of the clarity effect provided by ViPER Clarity. Adjust this setting to increase or decrease the intensity of clarity in your audio.&lt;/p>"</string>
+    <string name="description_65581">"&lt;p>This option is designed to protect the auditory system by helping to prevent damage caused by high volume levels and prolonged audio exposure.&lt;/p>
+
+&lt;br>
+&lt;h5>Binaural level&lt;/h5>
+&lt;br>
+
+&lt;p>Defines the strength of binaural protection. Adjust this setting to control the level of protection provided to the ears, reducing the potential impact of loud sounds and improving auditory safety.&lt;/p>"</string>
+    <string name="description_65583">"&lt;p>This option defines whether the tube simulator effect is enabled. The tube simulator uses a simplified mathematical simulation to emulate the sound effect of a tube amplifier, known for its distinctive character.&lt;/p>
+
+&lt;br>
+&lt;p>When enabled, the tube simulator will significantly reduce odd-order harmonic distortions at high frequencies, which are generally associated with a rougher and less pleasant sound. In contrast, it will increase even-order harmonic distortions, which are often perceived as smoother and more pleasant, resulting in a warmer and more musical sound.&lt;/p>"</string>
+    <string name="description_65584">"&lt;p>This option defines whether a field-effect transistor (FET) amplifier effect is enabled.&lt;/p>
+
+&lt;br>
+&lt;p>&lt;strong>AnalogX&lt;/strong> uses a simplified mathematical simulation to emulate the behavior of a field-effect transistor. This effect is designed to replicate the typical sound characteristics of FET amplifiers, providing a sound that may include a slight harmonic distortion and a distinct tonal quality.&lt;/p>"</string>
+    <string name="description_65603">"&lt;p>Optimizes the audio quality of the smartphone's internal speaker.&lt;/p>
+
+&lt;br>
+&lt;p>This setting equalizes the internal speaker to provide a more neutral and balanced sound. It adjusts the frequencies to improve clarity and fidelity, reducing distortions and enhancing the overall quality of sound reproduction.&lt;/p>"</string>
     <string name="description_65610">&lt;p>The field-effect transistor (FET) is a type of transistor which uses an electric field to control the flow of current. FETs are devices with three terminals: source, gate, and drain. FETs control the flow of current by the application of a voltage to the gate, which in turn alters the conductivity between the drain and source.&lt;/p> &lt;p>ViPER is capable of simulating this system.&lt;/p>&lt;br/> &lt;p>&lt;h5>Threshold&lt;/h5>&lt;/p>&lt;p>The threshold control sets the level at which the compression effect is engaged. Only when a level passes above the threshold will it be compressed. If the threshold level is set at say -10 dB, only signal peaks that extend above that level will be compressed. The rest of the time, no compression will be taking place.&lt;/p>&lt;br/> &lt;p>&lt;h5>Ratio&lt;/h5>&lt;/p>&lt;p>Compression ratio specifies the amount of attenuation to be applied to the signal.&lt;/p>&lt;br/> &lt;p>&lt;h5>Knee&lt;/h5>&lt;/p>&lt;p>The “knee” refers to how the compressor transitions between the non-compressed and compressed states of an audio signal running through it.&lt;/p>&lt;br/> &lt;p>&lt;h5>Attack&lt;/h5>&lt;/p>&lt;p>This refers to the time it takes for the signal to become fully compressed after exceeding the threshold level.&lt;/p>&lt;br/> &lt;p>&lt;h5>Release&lt;/h5>&lt;/p>&lt;p>This is literally the opposite of attack time. More specifically, it is the time it takes for the signal to go from the compressed — or attenuated — state back to the original non-compressed signal. Release times will be considerably longer than attack times.&lt;/p>&lt;br/> &lt;p>&lt;h5>Gain&lt;/h5>&lt;/p>&lt;p>Raise the volume of the result&lt;/p>&lt;br/> &lt;p>&lt;h5>Crest&lt;/h5>&lt;/p>&lt;p>Distance between the highest and electrically average audio&lt;/p>&lt;br/> &lt;p>&lt;h5>Adapt&lt;/h5>&lt;/p>&lt;p>Time to average&lt;/p>&lt;br/> &lt;p>&lt;h5>Clipping prevention&lt;/h5>&lt;/p>&lt;p>To prevent static-like artifacts when the volume is too high to work with&lt;/p></string>
     <string name="device_bt_a2dp">Bluetooth</string>
     <string name="device_headphone">Headphone</string>
@@ -91,7 +250,7 @@
     <string name="device_speaker">Speaker</string>
     <string name="device_unknown">Unknown</string>
     <string name="device_usb_device">USB</string>
-    <string name="dialog_driver_not_found_text">Make sure you have installed the correct Magisk module for this version of ViPER4Android FX</string>
+    <string name="dialog_driver_not_found_text">Make sure you have installed the correct module for this version of ViPER4Android FX</string>
     <string name="dialog_driver_not_found_title">No driver found</string>
     <string name="dialog_driver_status">Driver status</string>
     <string name="dialog_driver_status_description">"Driver version: %1$s 
@@ -262,7 +421,7 @@ Sampling rate: %5$d"</string>
     <string name="material_timepicker_select_time">Select time</string>
     <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
     <string name="mention">Made possible by</string>
-    <string name="mention_content">ViPER ACOUSTIC, Martmists, Iscle</string>
+    <string name="mention_content">ViPER ACOUSTIC, Martmists, Iscle, Aditya Raj</string>
     <string name="mr_button_content_description">Cast</string>
     <string name="mr_cast_button_connected">Cast. Connected</string>
     <string name="mr_cast_button_connecting">Cast. Connecting</string>
@@ -446,7 +605,7 @@ Sampling rate: %5$d"</string>
     <string name="rename_preset">Rename %s</string>
     <string name="renamed">Renamed to %s</string>
     <string name="request">Request</string>
-    <string name="audio_process_files_download">Download files</string>
+    <string name="audio_process_files_download">Download files pack</string>
     <string name="saved">%s is saved</string>
     <string name="search_menu_title">Search</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
@@ -479,7 +638,7 @@ Sampling rate: %5$d"</string>
     <string name="unsupported">Unsupported</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="audio_process_files_url">https://github.com/WSTxda/ViperFX-RE-Releases/releases/download/1.3/audio_process_files.zip</string>
+    <string name="audio_process_files_url">https://github.com/syntaxticsugr/ViPER4Android-Presets/releases/latest</string>
     <string name="warning_library_null">ViPER4Android FX was unable to instantiate the library</string>
     <string name="yes">Yes</string>
     <string name="config_headlineFontFamily" />
@@ -488,7 +647,7 @@ Sampling rate: %5$d"</string>
     <string name="settingslib_config_headlineFontFamily" />
     <string name="about">About</string>
     <string name="wstxda_desc">Application redesign</string>
-    <string name="wstxda_url">https://linktr.ee/wstxda</string>
+    <string name="wstxda_url">https://github.com/WSTxda</string>
     <string name="viper_devs">ViPER4Android FX</string>
     <string name="wstxda">WSTxda</string>
     <string name="iscle">Iscle</string>
@@ -501,7 +660,7 @@ Sampling rate: %5$d"</string>
     <string name="presets_widget_description">Switch between your preset list on your home screen</string>
     <string name="projectmaterial_desc">Components implementation</string>
     <string name="app_version">Application version</string>
-    <string name="version">6.4</string>
+    <string name="version">7.1 | Glyn Johns</string>
     <string name="projectmaterial_url">https://t.me/projectmaterial</string>
     <string name="audio_settings">Open audio settings</string>
     <string name="audio_settings_summary">Disable audio systems or equalizers that may cause conflicts</string>
@@ -512,9 +671,14 @@ Sampling rate: %5$d"</string>
     <string name="application_updates_url">https://github.com/WSTxda/ViperFX-RE-Releases/releases</string>
     <string name="driver">Driver</string>
     <string name="driver_updates">Check driver updates</string>
-    <string name="driver_updates_url">https://github.com/AndroidAudioMods/ViPER4Android/releases</string>
+    <string name="driver_updates_url">https://github.com/WSTxda/ViPERFX_RE/releases</string>
     <string name="process_files">Audio process files</string>
     <string name="process_files_desc">Import presets, kernel and VDC audio process files</string>
     <string name="import_kernel">Import kernel</string>
     <string name="import_vdc">Import VDC</string>
+    <string name="viper_enabled">Enabled</string>
+    <string name="viper_disabled">Disabled</string>
+    <string name="driver_github_url">https://github.com/WSTxda/ViPERFX_RE</string>
+    <string name="application_github_url">https://github.com/WSTxda/ViperFX-RE-Releases</string>
+    <string name="github_repository">Repository on GitHub</string>
 </resources>

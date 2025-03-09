@@ -1258,7 +1258,7 @@
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="preference_highlight_default">#ffe4e4e4</color>
     <color name="preference_highlight_normal">@*android:color/white</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_bg_disable">#0a000000</color>
     <color name="primary_text_color">@*android:color/background_dark</color>
     <color name="primary_text_color_disable">#42000000</color>

@@ -78,8 +78,8 @@
     <string name="exposed_dropdown_menu_content_description">Mostra menù a tendina</string>
     <string name="fab_menu_compile_enable">Installa &amp; abilita selezionato</string>
     <string name="fab_menu_compile_update">Installa selezionati</string>
-    <string name="fab_menu_disable">Disattiva selezionati</string>
-    <string name="fab_menu_enable">Attiva selezionati</string>
+    <string name="fab_menu_disable">Disabilita selezionati</string>
+    <string name="fab_menu_enable">Abilita selezionati</string>
     <string name="fab_menu_enable_disable">Scambia lo stato di sovrapposizione</string>
     <string name="fab_menu_uninstall">Disinstalla selezionati</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -104,7 +104,7 @@ Attiva la modalità di compatibilità con Substratum per mostrare i temi compati
     <string name="magisk_need_reboot_message">Modulo Magisk overlay senza sistema installato correttamente. Riavvia per continuare.</string>
     <string name="manager_info_dialog_state_disabled">Attivo - Disabilitato</string>
     <string name="manager_info_dialog_state_enabled">Attivo - Abilitato</string>
-    <string name="manager_info_dialog_state_inactive">Inattivo (Riavvia per attivare)</string>
+    <string name="manager_info_dialog_state_inactive">Inattivo (Riavvia per abilitare)</string>
     <string name="manager_info_dialog_state_invalid">Inattivo (Overlay non valido)</string>
     <string name="manager_info_dialog_title">Colori degli overlay</string>
     <string name="manager_theme_name">Tema</string>
@@ -167,7 +167,7 @@ Attiva la modalità di compatibilità con Substratum per mostrare i temi compati
     <string name="priority_systemui_qs_tiles_label">QS Tile Icons</string>
     <string name="priority_systemui_statusbar_label">Status Bar Icons</string>
     <string name="project_id">substratum-lite</string>
-    <string name="reboot_reminder_sheet_message">Riavviare per attivare l\'overlay installato</string>
+    <string name="reboot_reminder_sheet_message">Riavvia per abilitare l\'overlay installato</string>
     <string name="reboot_reminder_sheet_title">Rilevato sistema di sovrapposizione</string>
     <string name="root_needs_permission_message">Si prega di autorizzare l\'accesso al root</string>
     <string name="root_not_supported_message">Il sistema di root installato non è supportato. Substratum supporta solo l\'ultima versione stabile di Magisk.</string>
@@ -185,7 +185,7 @@ Attiva la modalità di compatibilità con Substratum per mostrare i temi compati
     <string name="subs_compat_mode_settings_summary_off">Mostra solo temi compatibili con Substratum</string>
     <string name="subs_compat_mode_settings_summary_on">Mostra tutti i temi compatibili con Substratum (usa a tuo rischio!)</string>
     <string name="subs_compat_mode_settings_title">Compatibilità temi Substratum</string>
-    <string name="subs_service_not_authorized_text">Per continuare, attiva \"Autorizza forzatamente ogni Tema\" nelle Opzioni Sviluppatore. Contatta lo sviluppatore della ROM se manca il pulsante!</string>
+    <string name="subs_service_not_authorized_text">Per continuare, abilita \"Autorizza forzatamente ogni Tema\" nelle Opzioni Sviluppatore. Contatta lo sviluppatore della ROM se manca il pulsante!</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_overlay">Overlay di Sistema</string>
     <string name="systemui_headers_label">System UI Headers</string>

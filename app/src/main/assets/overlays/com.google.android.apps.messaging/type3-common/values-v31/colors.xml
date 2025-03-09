@@ -21,8 +21,8 @@
     <color name="sud_system_neutral1_500">#ff9800</color>
     <color name="sud_system_neutral1_600">#ffa726</color>
     <color name="sud_system_neutral1_700">#ffb74d</color>
-    <color name="sud_system_neutral1_800">#ffcc80</color>
-    <color name="sud_system_neutral1_900">#ffe0b2</color>
+    <color name="sud_system_neutral1_800">@*android:color/button_material_dark</color>
+    <color name="sud_system_neutral1_900">#ffffffff</color>
     <color name="sud_system_neutral2_100">#00c853</color>
     <color name="sud_system_neutral2_200">#00e676</color>
     <color name="sud_system_neutral2_300">#69f0ae</color>

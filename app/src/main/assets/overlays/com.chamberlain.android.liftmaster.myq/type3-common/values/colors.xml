@@ -245,7 +245,7 @@
     <color name="platinum">#ffeaeaea</color>
     <color name="platinum_dark">#ffd0cfcf</color>
     <color name="player_buffered">#ffd9d9d9</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

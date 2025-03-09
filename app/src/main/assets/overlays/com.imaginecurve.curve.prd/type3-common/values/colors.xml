@@ -688,7 +688,7 @@
     <color name="pressed_bg">#64b7b7b7</color>
     <color name="primary_blue">#ff005aba</color>
     <color name="primary_blue_light_alpha">#1f005aba</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

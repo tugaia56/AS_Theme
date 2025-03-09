@@ -1284,7 +1284,7 @@
     <color name="pregnancy_glucose_before_meal">#ff11b886</color>
     <color name="pregnancy_history_sub_text_color">#ffa6a6a6</color>
     <color name="pregnancy_reminders_edittext_background">@*android:color/background_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

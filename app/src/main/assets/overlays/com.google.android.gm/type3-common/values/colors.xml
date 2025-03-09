@@ -517,7 +517,7 @@
     <color name="play_ripple_dark">#20ffffff</color>
     <color name="polls_icon_background_color">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="popup_view_holder_background">#ffdddddd</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

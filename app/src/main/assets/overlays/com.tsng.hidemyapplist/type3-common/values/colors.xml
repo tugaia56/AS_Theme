@@ -2881,7 +2881,7 @@
     <color name="navigation_bar_divider_light">#1f000000</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="primary_dark_dark">@*android:color/background_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

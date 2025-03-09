@@ -233,7 +233,7 @@
     <color name="preview_button_progress_head">#ffffffff</color>
     <color name="preview_button_progress_ring_background">#ffffffff</color>
     <color name="preview_player_image_overlay">#b3000000</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

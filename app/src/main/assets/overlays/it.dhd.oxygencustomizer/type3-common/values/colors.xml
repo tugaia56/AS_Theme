@@ -26,8 +26,8 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="cargingbolt_single_tone">#00000000</color>
-    <color name="colorAccent">@*android:color/system_accent1_300</color>
-    <color name="colorAccentVariant">@*android:color/system_accent3_600</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorAccentVariant">@*android:color/accent_material_dark</color>
     <color name="colorBackground">#fff3f4f6</color>
     <color name="colorBackgroundDarkMedium">#ff171717</color>
     <color name="colorBackgroundDarkSoft">@*android:color/background_dark</color>
@@ -404,7 +404,7 @@
     <color name="preference_background_color_pressed">#ffe6e6e6</color>
     <color name="preference_category_text">#ff6f7071</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

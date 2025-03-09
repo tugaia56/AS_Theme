@@ -951,7 +951,7 @@
     <color name="orange_70_static_opacity_8">#cccf4a06</color>
     <color name="orange_70_static_opacity_9">#e6cf4a06</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

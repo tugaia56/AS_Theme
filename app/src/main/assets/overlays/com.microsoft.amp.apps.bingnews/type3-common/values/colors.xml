@@ -778,7 +778,7 @@
     <color name="pk_white">#ffffffff</color>
     <color name="pk_white_60">#99ffffff</color>
     <color name="preference_fallback_accent_color">#ff008577</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

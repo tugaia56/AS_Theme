@@ -218,7 +218,7 @@
     <color name="Red900">#ff75011d</color>
     <color name="RedS500">#ffff3838</color>
     <color name="RedSweet">#ffff7272</color>
-    <color name="SpotifyGotoButton">#ff1ed760</color>
+    <color name="SpotifyGotoButton">@*android:color/accent_material_dark</color>
     <color name="StarryBrown">#ffd28100</color>
     <color name="TOBlue">#ff8de6ff</color>
     <color name="Traffic1">#ffffc64f</color>
@@ -544,7 +544,7 @@
     <color name="policeReportButtonBackground">#ff86c8cf</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="price_orange">#ffff9900</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

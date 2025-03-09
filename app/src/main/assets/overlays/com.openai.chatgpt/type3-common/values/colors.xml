@@ -205,7 +205,7 @@
     <color name="pi2_review_upload_background">#fff4f4f6</color>
     <color name="primary">@*android:color/background_dark</color>
     <color name="primaryContainer">#ffe6e6e6</color>
-    <color name="primary_dark_material_dark">@*android:color/black</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
