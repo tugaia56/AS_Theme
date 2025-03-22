@@ -371,8 +371,14 @@
     <color name="coui_color_assist_purple">#ffa466cc</color>
     <color name="coui_color_assist_red">#ffcc615a</color>
     <color name="coui_color_assist_yellow">#ffc29427</color>
-    <color name="coui_color_background">@*android:color/background_dark</color>														 
-    <color name="coui_color_background_with_card">#ffffffff</color>
+    <color name="coui_color_azure">#ff209de5</color>
+    <color name="coui_color_azure_variant">#ff3d98cc</color>
+    <color name="coui_color_background_elevated">#00000000</color>
+    <color name="coui_color_background_elevatedWithCard">@*android:color/background_dark</color>
+    <color name="coui_color_background_top">@*android:color/background_dark</color>
+    <color name="coui_color_background_with_card">@*android:color/background_dark</color>
+    <color name="coui_color_bar">#ff1e1e1e</color>
+    <color name="coui_color_blue">#ff247cff</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
     <color name="coui_color_card_background">#1affffff</color>
     <color name="coui_color_card_pressed">#33ffffff</color>

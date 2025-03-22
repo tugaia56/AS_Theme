@@ -23,7 +23,7 @@
     <color name="Cyan50">#ff1dbacc</color>
     <color name="CyanVariant">#ff39afbd</color>
     <color name="CyanVariantDark">#ff329da8</color>
-    <color name="Gray12">#00ff00</color>
+    <color name="Gray12">@*android:color/background_dark</color>
     <color name="Gray15">@*android:color/background_leanback_dark</color>
     <color name="Gray20">@*android:color/button_material_dark</color>
     <color name="Gray92">#ffebebeb</color>
@@ -1616,7 +1616,7 @@
     <color name="coui_color_success_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_success_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">#ffffffff</color>
-    <color name="coui_color_surface_dark">#ff00ff</color>
+    <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_light">#ffffffff</color>
     <color name="coui_color_surface_top">#ffffffff</color>
     <color name="coui_color_surface_top_dark">#ff333333</color>
