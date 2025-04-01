@@ -17,15 +17,11 @@
         Riavvia il dispositivo\ndopo aver installato gli overlay\n\n
         Abilita gli overlay\nnella scheda Gestore\n\n\n
         ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​ ⚠️​\n\n
-        PREFISSO NOME OPZIONI-SCELTE\n\n
         \" Senza Prefisso \"\nFunziona con tutti i Sistemi\n\n
-        \" A 13-14 \"\nÉ solo per Android 13-14\nnon funziona con\nOxygenOS 11-12-13-14\n\n
-        \" OOS \"\nÉ per OxygenOS 11-12-13-14\nnon funziona con Android 13-14\n\n
-        \" OOS 11 \"\nÉ solo per OxygenOS 11\nnon funziona con Android 13-14\ne OxygenOS 12-13-14\n\n
-        \" OOS 11-12 \"\nÉ solo per OxygenOS 11-12\nnon funziona con Android 13-14\ne OxygenOS 13-14\n\n
-        \" OOS 12 \"\nÉ solo per OxygenOS 12\nnon funziona con Android 13-14\ne OxygenOS 11-13-14\n\n
-        \" OOS 13-14 \"\nÉ solo per OxygenOS 13-14\nnon funziona con Android 13-14\ne OxygenOS 11-12\n\n
-        \" OOS 15 \"\nÉ solo per OxygenOS 15\nnon funziona con Android 13-14\ne OxygenOS 11-12\n\n\n
+        \" A 13-14-15 \"\nÉ solo per Android 13-14-15\nnon funziona con\nOxygenOS 12-13-14-15\n\n
+        \" OOS 12 \"\nÉ solo per OxygenOS 12\nnon funziona con Android 13-14-15\ne OxygenOS 13-14-15\n\n
+        \" OOS 12-13-14 \"\nÉ solo per OxygenOS 12-13-14\nnon funziona con Android 13-14-15\ne OxygenOS 15\n\n
+        \" OOS 15 \"\nÉ solo per OxygenOS 15\nnon funziona con Android 13-14-15\ne OxygenOS 12-13-14\n\n\n
         ⚠️​ USA SOLO LE OPZIONI⚠️​\n⚠️​ PER IL TUO SISTEMA⚠️​\n\n\n
         👋 Benvenuto👋\n\n
         ❤️ Grazie per aver scelto❤️\n\n
