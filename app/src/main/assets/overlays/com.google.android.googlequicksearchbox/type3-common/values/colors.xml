@@ -620,7 +620,7 @@
     <color name="fusion_voiceplate_text">#ffffffff</color>
     <color name="general_error_button_background_color">#ff065fd4</color>
     <color name="general_error_button_text_color">@*android:color/white</color>
-    <color name="general_error_message_text_color">#ff282828</color>
+    <color name="general_error_message_text_color">@*android:color/button_material_dark</color>
     <color name="general_error_page_background_color">#fff4f4f4</color>
     <color name="gentle_button_dark">#ffe8eaed</color>
     <color name="ghs_ref_palette_caution_a1_40">#ff895100</color>

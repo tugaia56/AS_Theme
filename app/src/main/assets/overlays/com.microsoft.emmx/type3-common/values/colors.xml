@@ -35,7 +35,7 @@
     <color name="baseline_neutral_10_alpha_12">#1e1f1f1f</color>
     <color name="baseline_neutral_10_alpha_38">#611f1f1f</color>
     <color name="baseline_neutral_10_with_neutral_0_alpha_30">@*android:color/background_dark</color>
-    <color name="baseline_neutral_10_with_neutral_0_alpha_30_with_neutral_variant_60_alpha_15">#ff282828</color>
+    <color name="baseline_neutral_10_with_neutral_0_alpha_30_with_neutral_variant_60_alpha_15">@*android:color/button_material_dark</color>
     <color name="baseline_neutral_10_with_neutral_90_alpha_38">#ff696969</color>
     <color name="baseline_neutral_10_with_surface_tint_dark_alpha_11">#ff313336</color>
     <color name="baseline_neutral_10_with_surface_tint_dark_alpha_12">#ff333539</color>

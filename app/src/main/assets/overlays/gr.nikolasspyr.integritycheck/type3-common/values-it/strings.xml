@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">Info</string>
-    <string name="about_text" formatted="false">"Fatto da: Nikolas Spiridakis
+    <string name="about_text" formatted="false">"Realizzato da Nikolas Spiridakis
 Versione: %s (%d)"</string>
-    <string name="check">Controlla</string>
+    <string name="app_name">Integrity Checker</string>
+    <string name="app_name_short">Integrity Checker</string>
+    <string name="check">Controllo</string>
     <string name="check_first">Per favore esegui prima un controllo!</string>
     <string name="copy_json">Copia JSON</string>
-    <string name="json_response">Risposta JSON</string>
-    <string name="legacy_checks">Controlli\nlegacy</string>
+    <string name="json_response">Risposta JSON non elaborata</string>
+    <string name="legacy_checks">Risposta Legacy (temporanea)</string>
     <string name="licenses">Licenze</string>
-    <string name="new_checks">Controlli\nnuovi</string>
+    <string name="new_checks">Risposta legacy (A13+)</string>
     <string name="show_documentation">Scopri il significato dei risultati</string>
 </resources>

@@ -1069,11 +1069,11 @@
     <color name="coui_color_additional_orange">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_orange_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_purple">@*android:color/accent_material_dark</color>
-    <color name="coui_color_additional_purple_dark">#ff7a38ff</color>
+    <color name="coui_color_additional_purple_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_red_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_additional_violet">#ff5501df</color>
-    <color name="coui_color_additional_violet_dark">#ff9d47ff</color>
+    <color name="coui_color_additional_violet">@*android:color/accent_material_dark</color>
+    <color name="coui_color_additional_violet_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_yellow_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_background">@*android:color/background_dark</color>

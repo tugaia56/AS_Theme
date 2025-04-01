@@ -82,9 +82,9 @@
     <color name="couiOrangeFifthColorFocusNormal">#33fe7848</color>
     <color name="couiOrangeFifthColorFocusOutlineNormal">#66fe7848</color>
     <color name="couiOrangeFifthLightNormal">#40fe7848</color>
-    <color name="couiOrangeFifthNormal">#fffe7848</color>
-    <color name="couiOrangeFifthOnPopupNormal">#fffe7f51</color>
-    <color name="couiOrangeFifthTextNormal">#fffe7848</color>
+    <color name="couiOrangeFifthNormal">@*android:color/accent_material_dark</color>
+    <color name="couiOrangeFifthOnPopupNormal">@*android:color/accent_material_dark</color>
+    <color name="couiOrangeFifthTextNormal">@*android:color/accent_material_dark</color>
     <color name="couiOrangeFirstLightNormal">#4ded6825</color>
     <color name="couiOrangeFirstNormal">#ffed6825</color>
     <color name="couiOrangeFourthColorFocusNormal">#3399725c</color>
@@ -104,7 +104,7 @@
     <color name="couiRedFifthLightNormal">#40ea3939</color>
     <color name="couiRedFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFifthOnPopupNormal">#ffff6b66</color>
-    <color name="couiRedFifthTextNormal">#fff04848</color>
+    <color name="couiRedFifthTextNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFirstLightNormal">#4df23d5b</color>
     <color name="couiRedFourthColorFocusNormal">#339a706c</color>
     <color name="couiRedFourthLightNormal">#4d9a706c</color>
@@ -154,7 +154,7 @@
     <color name="couiSkyBlueFourthColorFocusNormal">#33d7c9af</color>
     <color name="couiSkyBlueFourthLightNormal">#4dd7c9af</color>
     <color name="couiSkyBlueSecondColorFocusNormal">#33ffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueThirdColorFocusNormal">#33ddb4b5</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
     <color name="couiSkyblueTintControlDisabled">#4dffffff</color>
@@ -167,10 +167,10 @@
     <color name="couiYellowFifthColorDisableNormal">#4dfac637</color>
     <color name="couiYellowFifthColorFocusNormal">#33fac637</color>
     <color name="couiYellowFifthColorFocusOutlineNormal">#66fac637</color>
-    <color name="couiYellowFifthLightNormal">#40fac637</color>
-    <color name="couiYellowFifthNormal">#fffac637</color>
-    <color name="couiYellowFifthOnPopupNormal">#fffacb4b</color>
-    <color name="couiYellowFifthTextNormal">#fff2bf30</color>
+    <color name="couiYellowFifthLightNormal">@*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiYellowFifthNormal">@*android:color/accent_material_dark</color>
+    <color name="couiYellowFifthOnPopupNormal">@*android:color/accent_material_dark</color>
+    <color name="couiYellowFifthTextNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowFirstLightNormal">#4df2bf41</color>
     <color name="couiYellowFirstNormal">#fff2bf41</color>
     <color name="couiYellowFourthColorFocusNormal">#3399856b</color>

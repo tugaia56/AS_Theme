@@ -487,10 +487,8 @@
     <color name="station_7">#ffec5a34</color>
     <color name="station_8">#ffdc4953</color>
     <color name="station_9">#ffe8878d</color>
-    <color name="status_bar_dark">@*android:color/background_dark</color>
     <color name="status_bar_large_icon_bg_dark">@*android:color/background_dark</color>
     <color name="status_bar_large_icon_bg_light">#ffffffff</color>
-    <color name="status_bar_light">#fff9f9f9</color>
     <color name="status_bar_text_body_grey">#801e2023</color>
     <color name="strong_color">#ff5d9e4d</color>
     <color name="sun_arc_background">#ffffffff</color>
@@ -564,7 +562,7 @@
     <color name="temp_plots_stroke_color">#ff7f7f7f</color>
     <color name="textDropShadow">#80172432</color>
     <color name="text_body_grey">#ffffffff</color>
-    <color name="text_color_dark">@*android:color/white</color>
+    <color name="text_color_dark">@*android:color/background_dark</color>
     <color name="text_color_dark_secondary">#fff5f5f5</color>
     <color name="text_color_dark_secondary_opacity_50">#80f5f5f5</color>
     <color name="text_color_light">#00000000</color>

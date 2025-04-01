@@ -937,10 +937,10 @@
     <color name="couiSkyBlueFourthTextHighLightPatchR">#4cd7c9af</color>
     <color name="couiSkyBlueFourthTextHighLightRepatchO">#4cd7c9af</color>
     <color name="couiSkyBlueFourthTextHighLightRepatchR">#4cd7c9af</color>
-    <color name="couiSkyBlueSecondBarDisabledColor">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondBarDisabledPatchO">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondBarDisabledPatchR">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondBarDisabledRepatchO">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondBarDisabledColor">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondBarDisabledPatchO">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondBarDisabledPatchR">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondBarDisabledRepatchO">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueSecondBarDisabledRepatchR">#4dff6b2e</color>
     <color name="couiSkyBlueSecondLightNormal">#26ffcb1b</color>
     <color name="couiSkyBlueSecondLightNormalPatchO">#26ffcb1b</color>

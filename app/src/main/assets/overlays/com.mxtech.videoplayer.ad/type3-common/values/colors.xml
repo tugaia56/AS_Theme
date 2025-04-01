@@ -715,7 +715,7 @@
     <color name="indigo_accent">#ff8c9eff</color>
     <color name="indigo_primary">#ff3c4dad</color>
     <color name="list_alt_background_black">#ff2d3d52</color>
-    <color name="list_alt_background_dark">#ff282828</color>
+    <color name="list_alt_background_dark">@*android:color/button_material_dark</color>
     <color name="list_alt_background_light">#ffffffff</color>
     <color name="list_check_background_dark">@*android:color/background_dark</color>
     <color name="list_more_dark">#ffdadde4</color>

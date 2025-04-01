@@ -1497,9 +1497,9 @@
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="icon_black">@*android:color/background_dark</color>
     <color name="icon_tint">@*android:color/background_dark</color>
-    <color name="incallAnswerViewGreenTintControlNormal">#ff33b054</color>
+    <color name="incallAnswerViewGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="incallAsVoiceAnswerViewTranslucentGreenTintControlNormal">#4cffffff</color>
-    <color name="incallGreenTintControlNormal">#ff33b054</color>
+    <color name="incallGreenTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="incallGreenTintControlPressed">#ff249e3d</color>
     <color name="incallYellowTintControlNormal">#fffac000</color>
     <color name="incallYellowTintControlPressed">#ffe1ac00</color>
@@ -1552,10 +1552,10 @@
     <color name="incall_floating_divider_color">#1a000000</color>
     <color name="incall_floating_divider_pressed_color">#00000000</color>
     <color name="incall_floating_incoming_call_location_color">#80ffffff</color>
-    <color name="incall_floating_incoming_mark_number_color">#fffb6a35</color>
+    <color name="incall_floating_incoming_mark_number_color">@*android:color/accent_material_dark</color>
     <color name="incall_floating_window_background_color">#ccffffff</color>
     <color name="incall_floating_window_background_green_color">#ff2da74e</color>
-    <color name="incall_floating_window_background_green_night_color">#ff33b054</color>
+    <color name="incall_floating_window_background_green_night_color">@*android:color/accent_material_dark</color>
     <color name="incall_floating_window_background_night_color">#cc333333</color>
     <color name="incall_floating_window_background_red_color">#ffe32e27</color>
     <color name="incall_floating_window_background_red_night_color">#ffed4040</color>

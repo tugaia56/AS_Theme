@@ -113,7 +113,7 @@
     <color name="couiOrangeFifthColorFocusNormal">#33fe7848</color>
     <color name="couiOrangeFifthColorFocusOutlineNormal">#66fe7848</color>
     <color name="couiOrangeFifthLightNormal">#40fe7848</color>
-    <color name="couiOrangeFifthNormal">#fffe7848</color>
+    <color name="couiOrangeFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiOrangeFirstLightNormal">#4ded6825</color>
     <color name="couiOrangeFirstLightNormalPatchO">#4cff9d42</color>
     <color name="couiOrangeFirstLightNormalPatchR">#4cf6ee2e</color>
@@ -143,7 +143,7 @@
     <color name="couiRedFifthColorFocusNormal">#33ea3939</color>
     <color name="couiRedFifthColorFocusOutlineNormal">#66ea3939</color>
     <color name="couiRedFifthLightNormal">#40ea3939</color>
-    <color name="couiRedFifthNormal">#ffea3939</color>
+    <color name="couiRedFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFirstLightNormal">#4df23d5b</color>
     <color name="couiRedFirstLightNormalPatchO">#4cfa998b</color>
     <color name="couiRedFirstLightNormalPatchR">#4ce93bd7</color>
@@ -233,7 +233,7 @@
     <color name="couiSkyBlueFifthColorFocusNormal">#33a539ff</color>
     <color name="couiSkyBlueFifthColorFocusOutlineNormal">#66a539ff</color>
     <color name="couiSkyBlueFifthLightNormal">#40a539ff</color>
-    <color name="couiSkyBlueFifthNormal">#ffa539ff</color>
+    <color name="couiSkyBlueFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueFirstLightNormal">#4d4696b4</color>
     <color name="couiSkyBlueFirstLightNormalPatchO">#4d4696b4</color>
     <color name="couiSkyBlueFirstLightNormalPatchR">#4d4696b4</color>
@@ -244,10 +244,10 @@
     <color name="couiSkyBlueFourthLightNormalPatchR">#4dd7c9af</color>
     <color name="couiSkyBlueFourthLightNormalRepatchO">#4dd7c9af</color>
     <color name="couiSkyBlueSecondColorFocusNormal">#33ffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormal">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalPatchO">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalPatchR">#4dffcb1b</color>
-    <color name="couiSkyBlueSecondLightNormalRepatchO">#4dffcb1b</color>
+    <color name="couiSkyBlueSecondLightNormal">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalPatchO">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalPatchR">@*android:color/accent_material_dark</color>
+    <color name="couiSkyBlueSecondLightNormalRepatchO">@*android:color/accent_material_dark</color>
     <color name="couiSkyBlueThirdColorFocusNormal">#33ddb4b5</color>
     <color name="couiSkyBlueThirdLightNormal">#4dddb4b5</color>
     <color name="couiSkyBlueThirdLightNormalPatchO">#4dddb4b5</color>
@@ -261,8 +261,8 @@
     <color name="couiYellowFifthColorDisableNormal">#4dfac637</color>
     <color name="couiYellowFifthColorFocusNormal">#33fac637</color>
     <color name="couiYellowFifthColorFocusOutlineNormal">#66fac637</color>
-    <color name="couiYellowFifthLightNormal">#40fac637</color>
-    <color name="couiYellowFifthNormal">#fffac637</color>
+    <color name="couiYellowFifthLightNormal">@*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="couiYellowFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowFirstLightNormal">#4df2bf41</color>
     <color name="couiYellowFirstLightNormalPatchO">#4cd1e889</color>
     <color name="couiYellowFirstLightNormalPatchR">#4c7963ff</color>
@@ -349,7 +349,7 @@
     <color name="coui_color_disabled_neutral">#4dffffff</color>
     <color name="coui_color_divider">#33ffffff</color>
     <color name="coui_color_error">#ffff6c61</color>
-    <color name="coui_color_error_text_bg">#ffea3939</color>
+    <color name="coui_color_error_text_bg">@*android:color/accent_material_dark</color>
     <color name="coui_color_fill_solid">@*android:color/background_leanback_dark</color>
     <color name="coui_color_fill_thin">#14ffffff</color>
     <color name="coui_color_focus_blue">#33247cff</color>

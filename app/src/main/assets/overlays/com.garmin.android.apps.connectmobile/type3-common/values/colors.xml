@@ -1179,7 +1179,7 @@
     <color name="palette_interface_18">@*android:color/background_dark</color>
     <color name="palette_interface_18_alpha">#77121212</color>
     <color name="palette_interface_26">@*android:color/background_dark</color>
-    <color name="palette_interface_40">#ff282828</color>
+    <color name="palette_interface_40">@*android:color/button_material_dark</color>
     <color name="palette_interface_54">#ff363636</color>
     <color name="palette_interface_70">#ff464646</color>
     <color name="palette_mango_0">#ffcc6300</color>

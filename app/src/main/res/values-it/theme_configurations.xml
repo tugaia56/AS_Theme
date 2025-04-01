@@ -1,6 +1,6 @@
 <resources>
     <!-- Theme name and author name -->
-    <string name="ThemeName">Dark Shadow Theme User</string>
+    <string name="ThemeName">Dark Shadow Theme</string>
     <string name="ThemeAuthor">Tullio</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
@@ -22,12 +22,14 @@
     <string-array name="ThemeChangelog">
         <item>Versione 5.2.0</item>
         <item>AGGIUNTO:</item>
+        <item>Spostate tutte le app di Dark Shadow Theme System</item>
         <item>MSN Microsoft v30.5.430123006</item>
         <item>Riconoscimento schermo v15.3.18</item>
         <item>Schermata di blocco Magazine v11.4.5</item>
         <item>AGGIORNATO:</item>
         <item>Spotify v9.0.26.341</item>
         <item>SafeInCloud 2 v25.0.9</item>
+        <item>LogFox v2.0.6</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

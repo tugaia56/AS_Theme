@@ -1034,7 +1034,7 @@
     <color name="coui_color_primary_orange_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_orange_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_purple">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_purple_dark">#ffa539ff</color>
+    <color name="coui_color_primary_purple_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_purple_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_red_dark">@*android:color/accent_material_dark</color>

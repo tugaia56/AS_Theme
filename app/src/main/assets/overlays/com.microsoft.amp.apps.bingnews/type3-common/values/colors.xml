@@ -42,7 +42,7 @@
     <color name="baseline_neutral_900_alpha_12">#1e1f1f1f</color>
     <color name="baseline_neutral_900_alpha_38">#611f1f1f</color>
     <color name="baseline_neutral_900_with_neutral_1000_alpha_30">#ff161616</color>
-    <color name="baseline_neutral_900_with_neutral_1000_alpha_30_with_neutral_variant_400_alpha_15">#ff282828</color>
+    <color name="baseline_neutral_900_with_neutral_1000_alpha_30_with_neutral_variant_400_alpha_15">@*android:color/button_material_dark</color>
     <color name="baseline_neutral_900_with_neutral_100_alpha_38">#ff696969</color>
     <color name="baseline_neutral_900_with_neutral_200_alpha_11_with_primary_200_alpha_2">#ff333435</color>
     <color name="baseline_neutral_900_with_neutral_200_alpha_12_with_primary_200_alpha_2">#ff353637</color>

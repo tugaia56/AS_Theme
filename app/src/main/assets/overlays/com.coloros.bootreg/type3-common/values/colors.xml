@@ -405,7 +405,7 @@
     <color name="coui_color_primary_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_green">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_green_dark">#ff33b054</color>
+    <color name="coui_color_primary_green_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_neutral">#ffffffff</color>
     <color name="coui_color_primary_neutral_dark">#ffffffff</color>
     <color name="coui_color_primary_on_popup_blue">@*android:color/accent_material_dark</color>
@@ -427,7 +427,7 @@
     <color name="coui_color_primary_text_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_blue_dark">#ff5476ff</color>
     <color name="coui_color_primary_text_green">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_text_green_dark">#ff33b054</color>
+    <color name="coui_color_primary_text_green_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_orange">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_orange_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_red">@*android:color/accent_material_dark</color>
@@ -441,7 +441,7 @@
     <color name="coui_color_secondary_blue">@*android:color/ripple_material_dark</color>
     <color name="coui_color_secondary_blue_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_green">#262da74e</color>
-    <color name="coui_color_secondary_green_dark">#4033b054</color>
+    <color name="coui_color_secondary_green_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_neutral">#8c000000</color>
     <color name="coui_color_secondary_neutral_dark">#8cffffff</color>
     <color name="coui_color_secondary_orange">#26fb6a35</color>
@@ -453,7 +453,7 @@
     <color name="coui_color_secondary_yellow">#26ffc014</color>
     <color name="coui_color_secondary_yellow_dark">#40f2bf30</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
-    <color name="coui_color_success_dark">#ff33b054</color>
+    <color name="coui_color_success_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">#fffafafa</color>
     <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_top">#ffffffff</color>

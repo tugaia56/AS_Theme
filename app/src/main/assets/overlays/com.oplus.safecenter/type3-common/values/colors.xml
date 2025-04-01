@@ -864,7 +864,7 @@
     <color name="coui_color_error_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_text_bg">#4de82a18</color>
-    <color name="coui_color_error_text_bg_dark">#ffea3939</color>
+    <color name="coui_color_error_text_bg_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_text_bg_light">#4de82a18</color>
     <color name="coui_color_fill_solid">#ffebebeb</color>
     <color name="coui_color_fill_solid_dark">@*android:color/background_leanback_dark</color>
