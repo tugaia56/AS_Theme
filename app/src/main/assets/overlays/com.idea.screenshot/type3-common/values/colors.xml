@@ -94,7 +94,7 @@
     <color name="divider">#ffbdbdbd</color>
     <color name="eraser_bg">#66000000</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gray">#ff888888</color>

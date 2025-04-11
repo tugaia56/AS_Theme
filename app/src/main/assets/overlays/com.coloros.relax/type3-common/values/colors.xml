@@ -566,7 +566,8 @@
     <color name="coui_page_indicator_trace_dot_dark_color">#ffababab</color>
     <color name="coui_pane_icon_bg_color">#0d000000</color>
     <color name="coui_pane_icon_fill_color">@*android:color/background_dark</color>
-    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>    <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>
     <color name="coui_panel_layout_with_shadow_tint_dark">@*android:color/background_dark</color>

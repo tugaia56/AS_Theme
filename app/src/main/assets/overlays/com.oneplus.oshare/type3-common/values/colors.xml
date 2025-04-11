@@ -1173,9 +1173,9 @@
     <color name="coui_page_indicator_trace_dot_color_light">#ff666666</color>
     <color name="coui_page_indicator_trace_dot_dark_color">#ffababab</color>
     <color name="coui_panel_bar_view_color">#33000000</color>
-    <color name="coui_panel_drag_view_color">#29000000</color>
-    <color name="coui_panel_drag_view_color_dark">#ff585858</color>
-    <color name="coui_panel_drag_view_color_light">#29000000</color>
+    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_light">@*android:color/accent_material_dark</color>
     <color name="coui_panel_follow_hand_spot_shadow_color">#d0000000</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>

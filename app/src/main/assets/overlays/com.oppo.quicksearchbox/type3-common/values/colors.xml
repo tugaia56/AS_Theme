@@ -741,9 +741,9 @@
     <color name="coui_pane_icon_bg_color">#0d000000</color>
     <color name="coui_pane_icon_fill_color">@*android:color/background_dark</color>
     <color name="coui_panel_bar_view_color">#33000000</color>
-    <color name="coui_panel_drag_view_color">#ffc4c4c4</color>
-    <color name="coui_panel_drag_view_color_dark">#ff585858</color>
-    <color name="coui_panel_drag_view_color_light">#ffc4c4c4</color>
+    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_light">@*android:color/accent_material_dark</color>
     <color name="coui_panel_follow_hand_spot_shadow_color">#d0000000</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>
@@ -960,7 +960,7 @@
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="fb_loading_container_background_color">#fff3f4f6</color>
     <color name="feedback_background_color">#fff3f4f6</color>
     <color name="feedback_dialog_bg_night">@*android:color/background_dark</color>

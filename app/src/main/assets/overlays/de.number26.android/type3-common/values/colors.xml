@@ -148,7 +148,7 @@
 <color name="eid_text_link">#ff4285f4</color>
 <color name="eid_title">@*android:color/background_dark</color>
 <color name="error_color_material_dark">#ffff7043</color>
-<color name="error_color_material_light">#ffff5722</color>
+<color name="error_color_material_light">@*android:color/accent_material_dark</color>
 <color name="error_layout_button">#fffdefeb</color>
 <color name="exo_black_opacity_60">#98000000</color>
 <color name="exo_black_opacity_70">#b3000000</color>
@@ -187,7 +187,7 @@
 <color name="gm_ref_palette_green500">#ff34a853</color>
 <color name="gm_ref_palette_green600">#ff1e8e3e</color>
 <color name="gm_ref_palette_green700">#ff188038</color>
-<color name="gm_ref_palette_green800">#ff137333</color>
+<color name="gm_ref_palette_green800">@*android:color/accent_material_dark</color>
 <color name="gm_ref_palette_green900">#ff0d652d</color>
 <color name="gm_ref_palette_grey100">#fff1f3f4</color>
 <color name="gm_ref_palette_grey200">#ffe8eaed</color>
@@ -307,8 +307,8 @@
 <color name="gph_transparent">#00000000</color>
 <color name="gph_white">#ffffffff</color>
 <color name="grey_bd_md_400">#ffbdbdbd</color>
-<color name="highlighted_text_material_dark">#6680cbc4</color>
-<color name="highlighted_text_material_light">#66009688</color>
+<color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+<color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
 <color name="ic_launcher_raven_background">#ff4a494a</color>
 <color name="idnow_10perc_transparent">#e6000000</color>
 <color name="idnow_background_abort">#800f2846</color>

@@ -653,7 +653,7 @@
     <color name="coui_panel_divider_background_color">#1f000000</color>
     <color name="coui_panel_divider_background_color_dark">#1fffffff</color>
     <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
-    <color name="coui_panel_drag_view_color_dark">#ff575757</color>
+    <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
     <color name="coui_panel_layout_tint">#fffafafa</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>

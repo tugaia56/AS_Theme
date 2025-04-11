@@ -1734,9 +1734,9 @@
     <color name="coui_pane_icon_bg_color">#0d000000</color>
     <color name="coui_pane_icon_fill_color">@*android:color/background_dark</color>
     <color name="coui_panel_bar_view_color">#33000000</color>
-    <color name="coui_panel_drag_view_color">#ffc4c4c4</color>
-    <color name="coui_panel_drag_view_color_dark">#ff585858</color>
-    <color name="coui_panel_drag_view_color_light">#ffc4c4c4</color>
+    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_panel_drag_view_color_light">@*android:color/accent_material_dark</color>
     <color name="coui_panel_follow_hand_spot_shadow_color">#d0000000</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>
@@ -1907,7 +1907,7 @@
     <color name="coui_transparence">#00000000</color>
     <color name="custom_color_circle_color">#ff39bf56</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
-    <color name="design_dark_default_color_background">#ff121212</color>
+    <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>
     <color name="design_dark_default_color_on_error">@*android:color/background_dark</color>
@@ -1919,7 +1919,7 @@
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
     <color name="design_dark_default_color_secondary">#ff03dac6</color>
     <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
-    <color name="design_dark_default_color_surface">#ff121212</color>
+    <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
     <color name="design_default_color_on_background">@*android:color/background_dark</color>
@@ -1947,7 +1947,7 @@
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="discolor_shell_drawable_color">#ffeb6a35</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="external_screen_home_item_count_color">#8c000000</color>
     <color name="external_screen_home_item_title_color">#d9000000</color>
     <color name="external_screen_home_photo_color">#d9000000</color>

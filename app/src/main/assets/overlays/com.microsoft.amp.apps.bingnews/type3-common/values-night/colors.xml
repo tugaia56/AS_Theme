@@ -75,7 +75,7 @@
     <color name="ms_pdf_viewer_outline_page_number_color">#ff919191</color>
     <color name="ms_pdf_viewer_outline_text_color">#ffe1e1e1</color>
     <color name="ms_pdf_viewer_outline_text_highlight_color">#ff2899f5</color>
-    <color name="ms_pdf_viewer_search_bar_background_color">#ff303030</color>
+    <color name="ms_pdf_viewer_search_bar_background_color">@*android:color/background_dark</color>
     <color name="ms_pdf_viewer_search_bar_clear_button_color">#ffe1e1e1</color>
     <color name="ms_pdf_viewer_search_bar_foreground_color">#ffffffff</color>
     <color name="ms_pdf_viewer_search_bar_progress_bar_color">#ff838383</color>
@@ -123,7 +123,7 @@
     <color name="pw_v2_description_text_color">#ffacacac</color>
     <color name="pw_v2_plan_tab_selected">@*android:color/background_dark</color>
     <color name="pw_v2_plan_tabs_background">#ff292929</color>
-    <color name="pw_v2_plan_tabs_border">#ff303030</color>
+    <color name="pw_v2_plan_tabs_border">@*android:color/background_dark</color>
     <color name="pw_v2_plan_tabs_selected_text_color">#ffffffff</color>
     <color name="pw_v2_plan_tabs_unselected_text_color">#ffacacac</color>
     <color name="pw_v2_title_text_color">#ffe1e1e1</color>

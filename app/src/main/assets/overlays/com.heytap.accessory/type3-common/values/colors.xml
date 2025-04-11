@@ -1193,7 +1193,7 @@
     <color name="coui_panel_bar_view_color">#33000000</color>
     <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
     <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_panel_drag_view_color_light">#29000000</color>
+    <color name="coui_panel_drag_view_color_light">@*android:color/accent_material_dark</color>
     <color name="coui_panel_follow_hand_spot_shadow_color">#d0000000</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>
@@ -1416,13 +1416,13 @@
     <color name="divider_background_color">#1a000000</color>
     <color name="divider_color">#1a000000</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="grey">#ff999999</color>
     <color name="help_color">#ff2660f5</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="icon_black">@*android:color/background_dark</color>
     <color name="icon_tint">@*android:color/background_dark</color>
     <color name="input_code_text_color">@*android:color/background_dark</color>

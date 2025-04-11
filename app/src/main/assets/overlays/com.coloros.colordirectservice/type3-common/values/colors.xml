@@ -1121,7 +1121,7 @@
     <color name="drag_panel_card_bg_color">#fff5f5f5</color>
     <color name="end_grow">#801183fe</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="generate_copy_writing_card_bg">#ffffffff</color>

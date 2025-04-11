@@ -296,7 +296,7 @@
     <color name="coui_page_indicator_dot_color">#4dffffff</color>
     <color name="coui_page_indicator_trace_dot_color">#ffababab</color>
     <color name="coui_panel_divider_background_color">#33ffffff</color>
-    <color name="coui_panel_drag_view_color">#ff575757</color>
+    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
     <color name="coui_panel_layout_tint">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@*android:color/background_dark</color>
     <color name="coui_panel_navigation_bar_color">@*android:color/background_dark</color>

@@ -345,7 +345,7 @@
     <color name="distance_night">#ffd5e0e5</color>
     <color name="enter_btn_pressed">#ff74bad1</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="etabox_bottom_line_text">#ffe1e1e1</color>
     <color name="etabox_friends_faded">#4c26b5d1</color>
     <color name="etabox_friends_solid">#ff26b5d1</color>
@@ -358,8 +358,8 @@
     <color name="greyBlue">#ff7997a1</color>
     <color name="hazardReportButtonBackground">#ffffc261</color>
     <color name="highlight">#ffd0e5eb</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="histogram_max_bar_color">#ffff7e7d</color>
     <color name="histogram_min_bar_color">#ffffd5b9</color>
     <color name="inbox_item_read_bg">#fff0f5f7</color>

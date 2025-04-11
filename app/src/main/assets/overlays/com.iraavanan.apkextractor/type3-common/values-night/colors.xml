@@ -2,7 +2,6 @@
 <resources>
     <color name="background">@*android:color/background_dark</color>
     <color name="colorBlack">#ffffffff</color>
-    <color name="colorOnSurfaceVariant">#ffffffff</color>
     <color name="colorPrimary">@*android:color/background_dark</color>
     <color name="colorPrimaryDark">@*android:color/background_dark</color>
     <color name="colorUnselect">#ffffffff</color>

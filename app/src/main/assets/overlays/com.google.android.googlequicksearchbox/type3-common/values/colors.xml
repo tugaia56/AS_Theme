@@ -941,8 +941,8 @@
     <color name="grey850">@*android:color/background_dark</color>
     <color name="gsa_dark_gray">#ff707070</color>
     <color name="highlight_fill_color">#99d2e2fc</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="history_divider_text">@*android:color/background_dark</color>
     <color name="horizontal_bar_separator">#ffe5e5e5</color>
     <color name="hotword_enrollment_primary_color_dark">#ff3367d7</color>
@@ -1389,7 +1389,7 @@
     <color name="sds_ref_palette_blue_700">@*android:color/accent_material_dark</color>
     <color name="sds_ref_palette_green_500">@*android:color/accent_material_dark</color>
     <color name="sds_ref_palette_green_700">#ff188038</color>
-    <color name="sds_ref_palette_green_800">#ff137333</color>
+    <color name="sds_ref_palette_green_800">@*android:color/accent_material_dark</color>
     <color name="sds_ref_palette_grey_100">#fff1f3f4</color>
     <color name="sds_ref_palette_grey_150">#ffecedef</color>
     <color name="sds_ref_palette_grey_200">#ffe8eaed</color>

@@ -134,7 +134,7 @@
     <color name="dpc_text_link_color">@*android:color/accent_material_dark</color>
     <color name="dpc_text_primary_color">#ff1f1f1f</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="ext2_dialog_background_transparent">#b3212121</color>
     <color name="ext2_status_bar_background">#fff9f9f9</color>
     <color name="ext_content_line_color">#ffe6e6e6</color>

@@ -247,7 +247,7 @@ If several overlays contain a file with the same name, only the file from the hi
     <string name="theme_launch_failed_message">Failed to open %s. It might be incompatible with substratum lite</string>
     <string name="themes_store_link">https://play.google.com/store/search?q=substratum%20theme&amp;c=apps</string>
     <string name="uninstall_theme">Uninstall</string>
-    <string name="use_aapt2_settings_summary">Compile overlay using AAPT2 compiler (experimental)</string>
+    <string name="use_aapt2_settings_summary">Compile overlay using AAPT2 compiler</string>
     <string name="use_aapt2_settings_title">Use AAPT2</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>

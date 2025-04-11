@@ -11,6 +11,7 @@
     <color name="material_google_red_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
     <color name="message_video_selected_tint">@*android:color/accent_material_dark</color>
+    <color name="on_primary_brand_icon_color">#ffffffff</color>
     <color name="oneplus_unknown_sender_background">@*android:color/accent_material_dark</color>
     <color name="penpal_suggestion_blue1">@*android:color/accent_material_dark</color>
     <color name="penpal_suggestion_blue2">@*android:color/accent_material_dark</color>

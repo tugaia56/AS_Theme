@@ -76,7 +76,7 @@
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gray">#ff607d8b</color>
@@ -203,7 +203,7 @@
     <color name="material_deep_orange_300">#ffff8a65</color>
     <color name="material_deep_orange_400">#ffff7043</color>
     <color name="material_deep_orange_50">#fffbe9a7</color>
-    <color name="material_deep_orange_500">#ffff5722</color>
+    <color name="material_deep_orange_500">@*android:color/accent_material_dark</color>
     <color name="material_deep_orange_600">#fff4511e</color>
     <color name="material_deep_orange_700">#ffe64a19</color>
     <color name="material_deep_orange_800">#ffd84315</color>
@@ -1176,7 +1176,7 @@
     <color name="md_theme_material_deep_orange_palette_primary_30">#ff862200</color>
     <color name="md_theme_material_deep_orange_palette_primary_40">#ffb02f00</color>
     <color name="md_theme_material_deep_orange_palette_primary_50">#ffdb3e03</color>
-    <color name="md_theme_material_deep_orange_palette_primary_60">#ffff5722</color>
+    <color name="md_theme_material_deep_orange_palette_primary_60">@*android:color/accent_material_dark</color>
     <color name="md_theme_material_deep_orange_palette_primary_70">#ffff8b69</color>
     <color name="md_theme_material_deep_orange_palette_primary_80">#ffffb5a0</color>
     <color name="md_theme_material_deep_orange_palette_primary_90">#ffffdbd1</color>

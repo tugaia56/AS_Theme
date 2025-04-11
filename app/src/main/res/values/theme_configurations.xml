@@ -22,14 +22,9 @@
     <string-array name="ThemeChangelog">
         <item>Version 5.2.0</item>
         <item>ADDED:</item>
-        <item>Move all apps from Dark Shadow Theme System</item>
-        <item>MSN Microsoft v30.5.430123006</item>
-        <item>Screen recognition v15.3.18</item>
-        <item>Lockscreen Magazine v11.4.5</item>
+        <item>- - -</item>
         <item>UPDATED:</item>
-        <item>Spotify v9.0.26.341</item>
-        <item>SafeInCloud 2 v25.0.9</item>
-        <item>LogFox v2.0.6</item>
+        <item>Macrodroid v5.52.5</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

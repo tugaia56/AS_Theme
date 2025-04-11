@@ -82,7 +82,7 @@
     <color name="editor_critique_underline_priority_medium">@*android:color/accent_material_dark</color>
     <color name="emoji_highlight_color">#ff28b8ce</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gray_100">#ffe3e3e3</color>

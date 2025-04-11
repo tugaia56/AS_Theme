@@ -8,7 +8,7 @@
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="biometric_error_color">#ffff5722</color>
+    <color name="biometric_error_color">@*android:color/accent_material_dark</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="black05">#0d000000</color>
     <color name="black08">#14000000</color>
@@ -109,7 +109,7 @@
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="error_color">#fffa4545</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="full_battery_remaining_end">#ff02d272</color>

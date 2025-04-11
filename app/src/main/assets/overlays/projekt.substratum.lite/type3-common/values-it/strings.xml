@@ -198,7 +198,7 @@ Attiva la modalità di compatibilità con Substratum per mostrare i temi compati
     <string name="theme_failed_parsing">Impossibile leggere il tema, riprova</string>
     <string name="theme_launch_failed_message">Impossibile aprire %s. Potrebbe essere incompatibile con substratum</string>
     <string name="uninstall_theme">Disinstalla</string>
-    <string name="use_aapt2_settings_summary">Compila l\'overlay utilizzando il compilatore AAPT2 (sperimentale)</string>
+    <string name="use_aapt2_settings_summary">Compila l\'overlay utilizzando il compilatore AAPT2</string>
     <string name="use_aapt2_settings_title">Usa AAPT2</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>

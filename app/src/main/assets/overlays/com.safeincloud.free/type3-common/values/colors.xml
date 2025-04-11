@@ -93,7 +93,7 @@
     <color name="empty_password_cell_dark">#ff858585</color>
     <color name="empty_password_cell_light">#ffc2c2c2</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="favorites_dark">@*android:color/accent_material_dark</color>
     <color name="favorites_light">@*android:color/accent_material_dark</color>
     <color name="floating_action_button_blue">@*android:color/accent_material_dark</color>

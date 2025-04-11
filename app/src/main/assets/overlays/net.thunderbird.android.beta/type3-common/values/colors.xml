@@ -10,7 +10,7 @@
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="biometric_error_color">#ffff5722</color>
+    <color name="biometric_error_color">@*android:color/accent_material_dark</color>
     <color name="blue">@*android:color/ripple_material_dark</color>
     <color name="blue_grey">@*android:color/background_holo_dark</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>

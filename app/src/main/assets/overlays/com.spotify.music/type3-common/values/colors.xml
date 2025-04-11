@@ -303,7 +303,7 @@
     <color name="episodeshortcutcardhome_progress_bar_highlight">@*android:color/accent_material_dark</color>
     <color name="equalizer_background_color_end">@*android:color/transparent</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="expandable_text_color_description">#b3ffffff</color>
     <color name="external_link_icon_tint">#ffa7a7a7</color>
     <color name="fallback_extracted_color">@*android:color/background_dark</color>

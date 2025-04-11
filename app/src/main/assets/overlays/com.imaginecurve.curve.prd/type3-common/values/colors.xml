@@ -183,7 +183,7 @@
     <color name="edit_text_border_unselected">#ff616188</color>
     <color name="edit_text_default_color">#ff222222</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="exo_black_opacity_60">#98000000</color>
     <color name="exo_black_opacity_70">#b3000000</color>
     <color name="exo_bottom_bar_background">#b0000000</color>

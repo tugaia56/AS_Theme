@@ -1236,7 +1236,7 @@
     <color name="coui_panel_bar_view_color">#33000000</color>
     <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
     <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_panel_drag_view_color_light">#29000000</color>
+    <color name="coui_panel_drag_view_color_light">@*android:color/accent_material_dark</color>
     <color name="coui_panel_follow_hand_spot_shadow_color">#d0000000</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>
@@ -1459,7 +1459,7 @@
     <color name="divider_background_color">#1a000000</color>
     <color name="divider_color">#1a000000</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="fb_loading_container_background_color">#fff3f4f6</color>
     <color name="feedback_background_color">#fff0f1f2</color>
     <color name="feedback_dialog_bg_night">#ff1e1e1e</color>
@@ -1475,8 +1475,8 @@
     <color name="follow_popup_media_start_color">#fff4fffa</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="icon_black">@*android:color/background_dark</color>
     <color name="icon_tint">@*android:color/background_dark</color>
     <color name="image_load_fail_bg">#fffafafa</color>
@@ -1595,7 +1595,7 @@
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="navigation_view_bg">#fffafafa</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
-    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="notification_material_background_media_default_color">@*android:color/background_dark</color>
     <color name="nx_color_transparent">#00000000</color>
     <color name="nx_common_primary_light_color">#d9000000</color>
     <color name="nx_message_text_color">#ff898989</color>

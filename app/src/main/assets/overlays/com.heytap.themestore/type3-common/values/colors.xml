@@ -252,7 +252,7 @@
     <color name="bg_omg_big_card_bottom">#ffffffff</color>
     <color name="bg_pull_to_refresh_guide_color">#ff969696</color>
     <color name="bg_theme_guide">#fff2f5ff</color>
-    <color name="biometric_error_color">#ffff5722</color>
+    <color name="biometric_error_color">@*android:color/accent_material_dark</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="black_10">#1a000000</color>
     <color name="black_10_boot">#1a000000</color>
@@ -1550,7 +1550,7 @@
     <color name="coui_panel_bar_view_color">#33000000</color>
     <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
     <color name="coui_panel_drag_view_color_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_panel_drag_view_color_light">#29000000</color>
+    <color name="coui_panel_drag_view_color_light">@*android:color/accent_material_dark</color>
     <color name="coui_panel_follow_hand_spot_shadow_color">#d0000000</color>
     <color name="coui_panel_layout_tint_dark">@*android:color/background_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@null</color>
@@ -1832,7 +1832,7 @@
     <color name="drawer_list_item_pressed_color">#08000000</color>
     <color name="dummy">#00000000</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="et_comment_bg">#0a000000</color>
     <color name="et_comment_text_color">#d9000000</color>
     <color name="expandable_more">@*android:color/accent_material_dark</color>

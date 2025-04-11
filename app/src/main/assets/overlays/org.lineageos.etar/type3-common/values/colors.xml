@@ -195,7 +195,7 @@
     <color name="edit_event_small_black">#fff5f5f5</color>
     <color name="edit_event_small_dark">#fff5f5f5</color>
     <color name="error_color_material_dark">#ffff7043</color>
-    <color name="error_color_material_light">#ffff5722</color>
+    <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="event_background">#ffc3d9ff</color>
     <color name="event_center">#ff6bd697</color>
     <color name="event_info_body_color">#ff666666</color>

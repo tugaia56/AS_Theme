@@ -271,7 +271,7 @@
     <color name="iconSelectedBlue">#ff1b4de4</color>
     <color name="iconWhite">#ffebecee</color>
     <color name="icon_tint_color_dark">#fff5f5f5</color>
-    <color name="icon_tint_color_light">@*android:color/background_dark</color>
+    <color name="icon_tint_color_light">#00ff00</color>
     <color name="inactive_blue">#a62b2b2b</color>
     <color name="inactive_temperature_conditions_text">#ffa1a5a7</color>
     <color name="inapp_track_label_gray">#ff738695</color>
@@ -508,7 +508,7 @@
     <color name="sunset_color">#ffff8833</color>
     <color name="sunset_sunrise_tile_curved_text_color">@*android:color/background_holo_dark</color>
     <color name="swipe_to_refresh_icon_color_dark">#fff5f5f5</color>
-    <color name="swipe_to_refresh_icon_color_light">@*android:color/background_dark</color>
+    <color name="swipe_to_refresh_icon_color_light">#ff0000</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
@@ -562,13 +562,13 @@
     <color name="temp_plots_stroke_color">#ff7f7f7f</color>
     <color name="textDropShadow">#80172432</color>
     <color name="text_body_grey">#ffffffff</color>
-    <color name="text_color_dark">@*android:color/background_dark</color>
+    <color name="text_color_dark">#ffffffff</color>
     <color name="text_color_dark_secondary">#fff5f5f5</color>
     <color name="text_color_dark_secondary_opacity_50">#80f5f5f5</color>
     <color name="text_color_light">#00000000</color>
     <color name="text_color_light_active">@*android:color/accent_material_dark</color>
-    <color name="text_color_light_secondary">@*android:color/background_dark</color>
-    <color name="text_color_light_secondary_opacity_50">#801e2023</color>
+    <color name="text_color_light_secondary">#fff000</color>
+    <color name="text_color_light_secondary_opacity_50">#8000ff00</color>
     <color name="text_color_precip">#ffffffff</color>
     <color name="text_number_light">#ffa3a3a3</color>
     <color name="title_orange">#fff58838</color>

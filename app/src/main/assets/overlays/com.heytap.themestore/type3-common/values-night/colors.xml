@@ -459,7 +459,7 @@
     <color name="coui_pane_icon_bg_color">#1affffff</color>
     <color name="coui_pane_icon_fill_color">#ffffffff</color>
     <color name="coui_panel_bar_view_color">#ccbdbdbd</color>
-    <color name="coui_panel_drag_view_color">#ff575757</color>
+    <color name="coui_panel_drag_view_color">@*android:color/accent_material_dark</color>
     <color name="coui_panel_layout_with_shadow_tint">@*android:color/background_dark</color>
     <color name="coui_popup_list_background_color">@*android:color/background_dark</color>
     <color name="coui_popup_list_background_color_no_blur">@*android:color/background_dark</color>
