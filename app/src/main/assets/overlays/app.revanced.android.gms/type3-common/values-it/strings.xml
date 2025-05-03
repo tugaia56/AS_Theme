@@ -267,7 +267,7 @@ Potrebbe trattarsi di un disservizio temporaneo, oppure il tuo dispositivo Andro
     <string name="pref_gcm_confirm_new_apps_summary">"Chiedi conferma all'utente prima di registrare una nuova applicazione per le notifiche push"</string>
     <string name="pref_gcm_confirm_new_apps_title">Conferma le nuove applicazioni</string>
     <string name="pref_gcm_enable_mcs_summary">Il servizio di messaggistica cloud di Google è un fornitore di notifiche push utilizzato da molte applicazioni di terze parti. Per poterlo utilizzare devi abilitare la registrazione del dispositivo.</string>
-    <string name="pref_hide_launcher_icon">Nascondi icona nel launcher</string>
+    <string name="pref_hide_launcher_icon">Nascondi icona nel drawer</string>
     <string name="pref_info_status">Stato</string>
     <string name="pref_network_google_enabled">Consenti la connessione ai server di Google</string>
     <string name="pref_network_google_enabled_summary">Se disabilitato, tutte le connessioni ai server di Google solitamente effettuate da MicroG verranno negate. Ciò sovrascrive le impostazioni specifiche del servizio</string>

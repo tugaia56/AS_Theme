@@ -18,7 +18,7 @@
     <color name="constraints_primary_dark">@*android:color/holo_light_primary_dark</color>
     <color name="constraints_text_list_item">#ff48ae5c</color>
     <color name="defaultSymbolInputBackgroundColor">@*android:color/background_dark</color>
-    <color name="defaultSymbolInputTextColor">@android:color/white</color>
+    <color name="defaultSymbolInputTextColor">@*android:color/white</color>
     <color name="default_background">@*android:color/background_dark</color>
     <color name="default_text_color">#ffeeeeee</color>
     <color name="default_text_color_full">#ffffffff</color>

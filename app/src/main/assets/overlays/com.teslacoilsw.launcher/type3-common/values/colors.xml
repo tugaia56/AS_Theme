@@ -30,8 +30,8 @@
     <color name="bright_foreground_inverse_material_light">@*android:color/white</color>
     <color name="browser_actions_bg_grey">@*android:color/button_material_dark</color>
     <color name="browser_actions_divider_color">#1effffff</color>
-    <color name="browser_actions_text_color">#9af708</color>
-    <color name="browser_actions_title_color">#35f708</color>
+    <color name="browser_actions_text_color">#de000000</color>
+    <color name="browser_actions_title_color">#ff646464</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">@*android:color/button_material_dark</color>
     <color name="button_material_light_pressed">@*android:color/ripple_material_dark</color>

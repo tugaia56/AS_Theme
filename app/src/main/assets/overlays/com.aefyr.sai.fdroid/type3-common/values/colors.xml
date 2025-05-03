@@ -30,7 +30,7 @@
     <color name="colorAccentRooter">#ff00ff00</color>
     <color name="colorAlmostWhite">#ffe5e5e5</color>
     <color name="colorBackground">#ffff4081</color>
-    <color name="colorCoolBlue">@*android:color/holo_blue_light</color>
+    <color name="colorCoolBlue">@*android:color/accent_material_light</color>
     <color name="colorFineGrey">#ff444444</color>
     <color name="colorGreatGrey">#ffffffff</color>
     <color name="colorGreaterGrey">@*android:color/background_dark</color>
@@ -144,8 +144,8 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>

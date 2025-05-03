@@ -3509,7 +3509,7 @@ This person will no longer have access to Spotify %2$s. We’ll notify them of t
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_cancel">@*android:string/cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
     <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>

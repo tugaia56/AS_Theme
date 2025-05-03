@@ -8,7 +8,7 @@
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="black">@*android:color/black</color>
+    <color name="black">@*android:color/background_dark</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
@@ -105,7 +105,7 @@
     <color name="m3_ref_palette_neutral70">#ffaeaaae</color>
     <color name="m3_ref_palette_neutral80">#ffc9c5ca</color>
     <color name="m3_ref_palette_neutral87">#ffddd8dd</color>
-    <color name="m3_ref_palette_neutral90">#ffe6e1e5</color>
+    <color name="m3_ref_palette_neutral90">#ffffffff</color>
     <color name="m3_ref_palette_neutral92">#ffece7ec</color>
     <color name="m3_ref_palette_neutral94">#fff1ecf1</color>
     <color name="m3_ref_palette_neutral95">#fff4eff4</color>
@@ -121,7 +121,7 @@
     <color name="m3_ref_palette_neutral_variant50">#ff79747e</color>
     <color name="m3_ref_palette_neutral_variant60">#ff938f99</color>
     <color name="m3_ref_palette_neutral_variant70">#ffaea9b4</color>
-    <color name="m3_ref_palette_neutral_variant80">#ffcac4d0</color>
+    <color name="m3_ref_palette_neutral_variant80">#ffffffff</color>
     <color name="m3_ref_palette_neutral_variant90">#ffe7e0ec</color>
     <color name="m3_ref_palette_neutral_variant95">#fff5eefa</color>
     <color name="m3_ref_palette_neutral_variant99">#fffffbfe</color>

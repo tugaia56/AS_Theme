@@ -72,7 +72,7 @@
     <color name="darkSurface">@*android:color/background_dark</color>
     <color name="darkSurfaceBright">#ff39393a</color>
     <color name="darkSurfaceContainer">@*android:color/background_dark</color>
-    <color name="darkSurfaceContainerHigh">@*android:color/ripple_material_dark</color>
+    <color name="darkSurfaceContainerHigh">@*android:color/button_material_dark</color>
     <color name="darkSurfaceContainerHighest">@*android:color/button_material_dark</color>
     <color name="darkSurfaceContainerLow">@*android:color/background_dark</color>
     <color name="darkSurfaceContainerLowest">@*android:color/background_dark</color>

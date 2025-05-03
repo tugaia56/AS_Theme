@@ -12,14 +12,14 @@
     <item android:left="1.5dip" android:top="1.5dip" android:right="1.5dip" android:bottom="1.5dip">
         <shape android:shape="rectangle">
     <corners android:radius="10.0dip" android:topLeftRadius="0.0dip" android:topRightRadius="0.0dip" />
-            <gradient android:startColor="@*android:color/black" android:endColor="@*android:color/black" android:angle="90.0" />
+            <gradient android:startColor="@*android:color/black" android:endColor="@*android:color/black" android:angle="45.0" />
         </shape>
     </item>
 <!-- terzo background sfumatura sotto -->
     <item android:left="1.5dip" android:top="1.5dip" android:right="1.5dip" android:bottom="1.5dip">
         <shape android:shape="rectangle">
     <corners android:radius="10.0dip" android:topLeftRadius="0.0dip" android:topRightRadius="0.0dip" />
-            <gradient android:startColor="@*android:color/transparent" android:endColor="@*android:color/transparent" android:angle="90.0" />
+            <gradient android:startColor="@*android:color/transparent" android:endColor="@*android:color/transparent" android:angle="45.0" />
         </shape>
     </item>
 </layer-list>

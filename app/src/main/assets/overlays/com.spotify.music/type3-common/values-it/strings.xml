@@ -3136,7 +3136,7 @@ Questa persona non avrà più accesso a Spotify %2$s. La avviseremo della modifi
     <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_confirm">@*android:string/ok</string>
     <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
     <string name="mtrl_picker_navigate_to_year_description">"Vai all'anno %1$s"</string>
     <string name="mtrl_picker_save">Salva</string>

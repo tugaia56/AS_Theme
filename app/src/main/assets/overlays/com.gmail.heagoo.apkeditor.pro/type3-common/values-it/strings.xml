@@ -104,7 +104,7 @@ Versione 3.0
     <string name="clean_garbage">Pulisci cestino</string>
     <string name="clean_garbage_summary">Fare clic qui per pulire i file temporanei</string>
     <string name="cleanup">Ripulisci</string>
-    <string name="close">chiuso</string>
+    <string name="close">Chiudi</string>
     <string name="code">Codice:</string>
     <string name="color">Colore</string>
     <string name="colormixer_alpha">A</string>

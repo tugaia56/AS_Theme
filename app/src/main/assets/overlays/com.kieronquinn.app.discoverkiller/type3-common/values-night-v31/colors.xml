@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="icon_background">@*android:color/button_material_dark</color>
+    <color name="icon_background">@*android:color/background_dark</color>
     <color name="licenses_background">@*android:color/background_dark</color>
     <color name="licenses_toolbar">@*android:color/background_dark</color>
     <color name="splash_background">@*android:color/background_dark</color>

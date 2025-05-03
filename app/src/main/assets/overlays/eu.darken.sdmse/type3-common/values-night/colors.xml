@@ -1,4 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorUpgraded">@*android:color/accent_material_dark</color>
+    <color name="md_theme_background">@*android:color/background_dark</color>
+    <color name="md_theme_error">@*android:color/accent_material_dark</color>
+    <color name="md_theme_errorContainer">#ff93000a</color>
+    <color name="md_theme_inverseOnSurface">#ff2d322d</color>
+    <color name="md_theme_inversePrimary">#ff2f6a43</color>
+    <color name="md_theme_inverseSurface">#ffdfe4dc</color>
+    <color name="md_theme_onBackground">#ffdfe4dc</color>
+    <color name="md_theme_onError">#ffffffff</color>
+    <color name="md_theme_onErrorContainer">#ffffdad6</color>
+    <color name="md_theme_onPrimary">#ffffffff</color>
+    <color name="md_theme_onPrimaryContainer">#ffffffff</color>
+    <color name="md_theme_onSecondary">#ff223527</color>
+    <color name="md_theme_onSecondaryContainer">#ffd2e8d4</color>
+    <color name="md_theme_onSurface">#ffdfe4dc</color>
+    <color name="md_theme_onSurfaceVariant">#ffffffff</color>
+    <color name="md_theme_onTertiary">#ff02363f</color>
+    <color name="md_theme_onTertiaryContainer">#ffffffff</color>
+    <color name="md_theme_outline">@*android:color/ripple_material_dark</color>
+    <color name="md_theme_outlineVariant">#ff414941</color>
+    <color name="md_theme_primary">@*android:color/accent_material_dark</color>
+    <color name="md_theme_primaryContainer">@*android:color/accent_material_dark</color>
+    <color name="md_theme_secondary">@*android:color/accent_material_dark</color>
+    <color name="md_theme_secondaryContainer">@*android:color/ripple_material_dark</color>
+    <color name="md_theme_surface">@*android:color/background_dark</color>
+    <color name="md_theme_surfaceBright">#ff353a35</color>
+    <color name="md_theme_surfaceContainer">#ff1c211c</color>
+    <color name="md_theme_surfaceContainerHigh">@*android:color/background_dark</color>
+    <color name="md_theme_surfaceContainerHighest">#ff313631</color>
+    <color name="md_theme_surfaceContainerLow">@*android:color/button_material_dark</color>
+    <color name="md_theme_surfaceContainerLowest">#ff0a0f0b</color>
+    <color name="md_theme_surfaceDim">@*android:color/background_dark</color>
+    <color name="md_theme_surfaceVariant">#ff414941</color>
+    <color name="md_theme_tertiary">#ffa2ceda</color>
+    <color name="md_theme_tertiaryContainer">@*android:color/accent_material_dark</color>
 </resources>

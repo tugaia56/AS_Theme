@@ -20,11 +20,14 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 5.2.0</item>
+        <item>Version 5.2.1</item>
         <item>ADDED:</item>
         <item>- - -</item>
         <item>UPDATED:</item>
         <item>Macrodroid v5.52.5</item>
+        <item>SD Maid SE v1.4.7</item>
+        <item>Smart Sidebar v15.4.5</item>
+        <item>Microsoft OneDrive v7.28.1</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

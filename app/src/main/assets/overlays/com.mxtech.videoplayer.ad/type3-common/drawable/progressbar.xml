@@ -5,7 +5,7 @@
         <clip>
             <shape>
                 <corners android:radius="0.0dip" />
-                <gradient android:startColor="@*android:color/accent_material_dark" android:endColor="@*android:color/accent_material_dark" android:angle="0.0" android:centerY="0.75" android:centerColor="@*android:color/accent_material_dark" />
+                <gradient android:startColor="@*android:color/accent_material_dark" android:endColor="@*android:color/accent_material_light" android:angle="0.0" android:centerY="0.75" android:centerColor="@*android:color/accent_material_dark" />
             </shape>
         </clip>
     </item>

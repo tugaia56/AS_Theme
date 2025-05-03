@@ -160,9 +160,9 @@
     <color name="dark_base_text_warning">#ffffa42b</color>
     <color name="dark_brightaccent_background_base">@*android:color/accent_material_dark</color>
     <color name="dark_brightaccent_background_highlight">#ff3be477</color>
-    <color name="dark_brightaccent_background_press">@*android:color/holo_blue_light</color>
+    <color name="dark_brightaccent_background_press">@*android:color/accent_material_light</color>
     <color name="dark_brightaccent_decorative_base">@*android:color/background_dark</color>
-    <color name="dark_brightaccent_decorative_subdued">@*android:color/holo_blue_light</color>
+    <color name="dark_brightaccent_decorative_subdued">@*android:color/accent_material_light</color>
     <color name="dark_brightaccent_essential_base">@*android:color/background_dark</color>
     <color name="dark_brightaccent_text_base">@*android:color/background_dark</color>
     <color name="dark_inverteddark_background_base">@*android:color/background_dark</color>
@@ -227,9 +227,9 @@
     <color name="dark_overmedia_text_base">#ffffffff</color>
     <color name="dark_positive_background_base">@*android:color/accent_material_dark</color>
     <color name="dark_positive_background_highlight">#ff3be477</color>
-    <color name="dark_positive_background_press">@*android:color/holo_blue_light</color>
+    <color name="dark_positive_background_press">@*android:color/accent_material_light</color>
     <color name="dark_positive_decorative_base">@*android:color/background_dark</color>
-    <color name="dark_positive_decorative_subdued">@*android:color/holo_blue_light</color>
+    <color name="dark_positive_decorative_subdued">@*android:color/accent_material_light</color>
     <color name="dark_positive_essential_base">@*android:color/background_dark</color>
     <color name="dark_positive_text_base">@*android:color/background_dark</color>
     <color name="dark_positivesubdued_background_base">#ff073116</color>
@@ -344,7 +344,7 @@
     <color name="green_dark">@*android:color/accent_material_dark</color>
     <color name="green_focus">@*android:color/accent_material_dark</color>
     <color name="green_light">@*android:color/accent_material_dark</color>
-    <color name="green_trailing_icon">@*android:color/holo_blue_light</color>
+    <color name="green_trailing_icon">@*android:color/accent_material_light</color>
     <color name="header_default_text_color">@*android:color/background_dark</color>
     <color name="header_overlay_end_color">@*android:color/background_dark</color>
     <color name="header_overlay_start_color">#661B2029</color>
@@ -430,9 +430,9 @@
     <color name="light_base_text_warning">#ff955500</color>
     <color name="light_brightaccent_background_base">@*android:color/accent_material_dark</color>
     <color name="light_brightaccent_background_highlight">#ff3be477</color>
-    <color name="light_brightaccent_background_press">@*android:color/holo_blue_light</color>
+    <color name="light_brightaccent_background_press">@*android:color/accent_material_light</color>
     <color name="light_brightaccent_decorative_base">@*android:color/background_dark</color>
-    <color name="light_brightaccent_decorative_subdued">@*android:color/holo_blue_light</color>
+    <color name="light_brightaccent_decorative_subdued">@*android:color/accent_material_light</color>
     <color name="light_brightaccent_essential_base">@*android:color/background_dark</color>
     <color name="light_brightaccent_text_base">@*android:color/background_dark</color>
     <color name="light_inverteddark_background_base">@*android:color/background_dark</color>
@@ -497,9 +497,9 @@
     <color name="light_overmedia_text_base">#ffffffff</color>
     <color name="light_positive_background_base">@*android:color/accent_material_dark</color>
     <color name="light_positive_background_highlight">#ff3be477</color>
-    <color name="light_positive_background_press">@*android:color/holo_blue_light</color>
+    <color name="light_positive_background_press">@*android:color/accent_material_light</color>
     <color name="light_positive_decorative_base">@*android:color/background_dark</color>
-    <color name="light_positive_decorative_subdued">@*android:color/holo_blue_light</color>
+    <color name="light_positive_decorative_subdued">@*android:color/accent_material_light</color>
     <color name="light_positive_essential_base">@*android:color/background_dark</color>
     <color name="light_positive_text_base">@*android:color/background_dark</color>
     <color name="light_positivesubdued_background_base">#ff96f0b6</color>

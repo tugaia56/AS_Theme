@@ -5,14 +5,14 @@
     <item>
         <shape android:shape="rectangle">
             <corners android:radius="0.0dip" />
-            <gradient android:startColor="@*android:color/accent_material_dark" android:endColor="@*android:color/accent_material_dark" android:angle="45.0" />
+            <gradient android:startColor="@*android:color/accent_material_dark" android:endColor="@*android:color/accent_material_light" android:angle="45.0" />
         </shape>
     </item>
 <!-- secondo background visibile -->
     <item android:left="0.0dip" android:top="00.0dip" android:right="0.0dip" android:bottom="2.0dip">
         <shape android:shape="rectangle">
             <corners android:radius="0.0dip" />
-            <gradient android:startColor="@*android:color/black" android:endColor="@*android:color/black" android:angle="90.0" />
+            <gradient android:startColor="@*android:color/black" android:endColor="@*android:color/black" android:angle="45.0" />
         </shape>
     </item>
 </layer-list>

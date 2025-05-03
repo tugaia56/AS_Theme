@@ -7,7 +7,7 @@
             <gradient
                 android:angle="180"
                 android:centerColor="@*android:color/ripple_material_dark"
-                android:endColor="@*android:color/accent_material_dark"
+                android:endColor="@*android:color/accent_material_light"
                 android:startColor="@*android:color/accent_material_light"
                 android:type="linear" />
             <corners

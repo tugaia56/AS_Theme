@@ -853,13 +853,13 @@ Raccogliamo i tuoi dati per adattare i Servizi a te, comprendendo i tuoi gusti e
     <string name="settings_ad_choices">Scelte pubblicitarie</string>
     <string name="settings_ads_purchased_title">Gestisci abbonamento</string>
     <string name="settings_button_title">Impostazioni</string>
-    <string name="settings_community_title">Communità</string>
+    <string name="settings_community_title">Comunità</string>
     <string name="settings_connect">Connettiti con Wunderground</string>
-    <string name="settings_dark_mode">Modalità scura</string>
+    <string name="settings_dark_mode">Tema scuro</string>
     <string name="settings_feedback">Inviaci un feedback</string>
     <string name="settings_feedback_content_description">Inviaci un feedback. Apri nel browser</string>
     <string name="settings_glossary">Glossario</string>
-    <string name="settings_light_mode">Modalità chiara</string>
+    <string name="settings_light_mode">Tema chiaro</string>
     <string name="settings_manage_data_button">Gestisci i dati</string>
     <string name="settings_manage_data_right">Diritti relativi ai dati</string>
 <string name="settings_manage_data_right_desc">Ti abbiamo dato il controllo di quali dati condividi con noi. Per gestire le tue preferenze, richiedere una copia dei dati raccolti da questo dispositivo o richiedere l\'eliminazione dei dati, fai clic su Gestisci dati di seguito.</string>
