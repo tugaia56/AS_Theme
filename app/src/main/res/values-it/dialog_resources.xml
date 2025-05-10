@@ -10,7 +10,7 @@
       ~ Custom dialog message on theme launch.
       ~ Add word in launch_dialog_negative to add a cancel button on the dialog
       -->
-    <string name="launch_dialog_title">Dark Shadow System</string>
+    <string name="launch_dialog_title">Dark Shadow Theme</string>
     <string name="launch_dialog_content">⚠️ Istruzioni⚠️\n\n
         Seleziona il TUO Sistema Android nella parte superiore dell\'elenco overlay per la tua Rom\n\n
         Premi le piccole icone avviso❗​\nper dettagli importanti\n\n

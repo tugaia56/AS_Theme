@@ -181,7 +181,7 @@
     <color name="couiBlueTintColorDisableNormal">#4d006aff</color>
     <color name="couiBlueTintColorFocusNormal">#1f006aff</color>
     <color name="couiBlueTintColorFocusOutlineNormal">#66006aff</color>
-    <color name="couiBlueTintControlNormal">#ff006aff</color>
+    <color name="couiBlueTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintLightNormal">#26007aff</color>
     <color name="couiDefaultBarDisabledColorR">#ffb3d9ff</color>
     <color name="couiDefaultColorDisableNormalR">#4d347cff</color>

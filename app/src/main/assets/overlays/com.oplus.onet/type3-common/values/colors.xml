@@ -63,7 +63,7 @@
     <color name="couiBlueThirdTextHighLight">#4c0055ff</color>
     <color name="couiBlueTintControlDisabled">#26000000</color>
     <color name="couiBlueTintControlNormal">@*android:color/accent_material_dark</color>
-    <color name="couiBlueTintControlNormalPreferenceBg">#ffd7eaff</color>
+    <color name="couiBlueTintControlNormalPreferenceBg">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintControlPressed">#ff0a43d7</color>
     <color name="couiBlueTintLightNormal">#26007aff</color>
     <color name="couiBlueTintLightPressed">#26006ee6</color>

@@ -300,8 +300,8 @@
     <color name="couiBlueThirdTextHighLightRepatchO">#4cff7ba5</color>
     <color name="couiBlueThirdTextHighLightRepatchR">#4cff7ba5</color>
     <color name="couiBlueTintControlDisabled">#26000000</color>
-    <color name="couiBlueTintControlNormal">#ff006aff</color>
-    <color name="couiBlueTintControlNormalPreferenceBg">#ffd7eaff</color>
+    <color name="couiBlueTintControlNormal">@*android:color/accent_material_dark</color>
+    <color name="couiBlueTintControlNormalPreferenceBg">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintControlPressed">#ff005de0</color>
     <color name="couiBlueTintLightNormal">#26007aff</color>
     <color name="couiBlueTintLightPressed">#1e006aff</color>
@@ -1350,9 +1350,9 @@
     <color name="coui_color_container_solid">#ffebebeb</color>
     <color name="coui_color_container_solid_dark">@*android:color/background_leanback_dark</color>
     <color name="coui_color_container_solid_light">#ffebebeb</color>
-    <color name="coui_color_container_theme_blue">#ff0066ff</color>
+    <color name="coui_color_container_theme_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_blue_dark">#ff247cff</color>
-    <color name="coui_color_container_theme_blue_light">#ff0066ff</color>
+    <color name="coui_color_container_theme_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_green">#ff00bd13</color>
     <color name="coui_color_container_theme_green_dark">#ff24b232</color>
     <color name="coui_color_container_theme_green_light">#ff00bd13</color>
@@ -1483,9 +1483,9 @@
     <color name="coui_color_label_tertiary">#42000000</color>
     <color name="coui_color_label_tertiary_dark">#4dffffff</color>
     <color name="coui_color_label_tertiary_light">#42000000</color>
-    <color name="coui_color_label_theme_blue">#ff0066ff</color>
+    <color name="coui_color_label_theme_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_label_theme_blue_dark">#ff5c9dff</color>
-    <color name="coui_color_label_theme_blue_light">#ff0066ff</color>
+    <color name="coui_color_label_theme_blue_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_label_theme_green">#ff00990f</color>
     <color name="coui_color_label_theme_green_dark">#ff24b232</color>
     <color name="coui_color_label_theme_green_light">#ff00990f</color>
@@ -1894,7 +1894,7 @@
     <color name="coui_theme_primary_color">#ffffffff</color>
     <color name="coui_title_text_color_large">@*android:color/background_dark</color>
     <color name="coui_tool_navigation_item_bg_color_dark">#0dffffff</color>
-    <color name="coui_tool_tips_background_color">#ff006aff</color>
+    <color name="coui_tool_tips_background_color">@*android:color/accent_material_dark</color>
     <color name="coui_tool_tips_delete_icon_bg_color">#24ffffff</color>
     <color name="coui_tool_tips_delete_icon_color">#ffffffff</color>
     <color name="coui_tool_tips_shadow_color">#e0000000</color>
@@ -2147,7 +2147,7 @@
     <color name="oplus_setting_bottom_background_color">#ffffffff</color>
     <color name="oplus_setting_bottom_divider_color">#1a000000</color>
     <color name="oplus_setting_subtext_color">#8c000000</color>
-    <color name="page_color_drawable_color">#ff006aff</color>
+    <color name="page_color_drawable_color">@*android:color/accent_material_dark</color>
     <color name="personal_default_theme_gradient_end">#ff12121a</color>
     <color name="personal_default_theme_gradient_start">#ff2d2d40</color>
     <color name="personal_icon_blur_color">#cce7e7e7</color>

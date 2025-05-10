@@ -45,8 +45,8 @@
     <color name="action20_dark">@*android:color/accent_material_dark</color>
     <color name="action30">@*android:color/accent_material_dark</color>
     <color name="action30_dark">@*android:color/accent_material_dark</color>
-    <color name="action40">@*android:color/accent_material_dark</color>
-    <color name="action40_dark">@*android:color/accent_material_dark</color>
+    <color name="action40">#ffffffff</color>
+    <color name="action40_dark">#ffffffff</color>
     <color name="action50">#ffb7d8ea</color>
     <color name="action60">#ffe5f1f7</color>
     <color name="action_20_30">@*android:color/holo_button_normal</color>
@@ -1913,8 +1913,8 @@
     <color name="neutral10_dark">#ffffffff</color>
     <color name="neutral20">#ff5f5f5f</color>
     <color name="neutral20_dark">@*android:color/holo_light_primary_dark</color>
-    <color name="neutral30">#ffffffff</color>
-    <color name="neutral30_dark">#ffffffff</color>
+    <color name="neutral30">@*android:color/ripple_material_dark</color>
+    <color name="neutral30_dark">@*android:color/ripple_material_dark</color>
     <color name="neutral40">#ffdbdcdc</color>
     <color name="neutral40_dark">@*android:color/button_material_dark</color>
     <color name="neutral50">#ffe8e8e8</color>

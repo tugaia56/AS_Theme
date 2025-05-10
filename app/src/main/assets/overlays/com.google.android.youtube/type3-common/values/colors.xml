@@ -24,7 +24,7 @@
     <color name="button_bg">#1affffff</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="callout_drawable_background_color">#f2ffffff</color>
     <color name="callout_drawable_text_color">#ff000000</color>
     <color name="camera_dialog_button_text_color">#ff4285f4</color>
@@ -191,7 +191,7 @@
     <color name="gm_ref_palette_red200">#fff6aea9</color>
     <color name="gm_ref_palette_red300">#fff28b82</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffd93025</color>
+    <color name="gm_ref_palette_red600">#ffdd0000</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
@@ -559,9 +559,9 @@
     <color name="sud_color_accent_glif_v3_dark">#ff8ab4f8</color>
     <color name="sud_color_accent_glif_v3_light">#ff1a73e8</color>
     <color name="sud_color_error_text_dark">#fff28b82</color>
-    <color name="sud_color_error_text_light">#ffd93025</color>
+    <color name="sud_color_error_text_light">#ffdd0000</color>
     <color name="sud_error_warning_default_dark">#ffee675c</color>
-    <color name="sud_error_warning_default_light">#ffd93025</color>
+    <color name="sud_error_warning_default_light">#ffdd0000</color>
     <color name="sud_glif_background_color_dark">#ff000000</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>
