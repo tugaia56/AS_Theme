@@ -15,6 +15,7 @@
         <item name="geoColorDarkImmersive">#ffffffff</item>
         <item name="geoColorDarkInfo">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkInfoContainer">@*android:color/background_dark</item>
+        <item name="geoColorDarkInfoContainerVariant">#ff1c2b42</item>
         <item name="geoColorDarkInversePrimary">#ff006876</item>
         <item name="geoColorDarkInverseSurface">#ffe3e3e3</item>
         <item name="geoColorDarkLocalGuides">#ffe35a1b</item>
@@ -69,7 +70,7 @@
         <item name="geoColorDarkSurface">@*android:color/background_dark</item>
         <item name="geoColorDarkSurface1">#ff292a2d</item>
         <item name="geoColorDarkSurface2">#ff2d2f33</item>
-        <item name="geoColorDarkSurface3">#80000000</item>
+        <item name="geoColorDarkSurface3">#ff31343a</item>
         <item name="geoColorDarkSurface4">#ff32363c</item>
         <item name="geoColorDarkSurface5">#ff353940</item>
         <item name="geoColorDarkSurfaceBright">#ff393939</item>
@@ -81,7 +82,7 @@
         <item name="geoColorDarkSurfaceContainerLowest">@*android:color/background_dark</item>
         <item name="geoColorDarkSurfaceDim">#ff424849</item>
         <item name="geoColorDarkSurfaceImmersive">#99000000</item>
-        <item name="geoColorDarkTonalSurface">#80000000</item>
+        <item name="geoColorDarkTonalSurface">#ff31343a</item>
         <item name="geoColorDarkTransparentSurface">#00ffffff</item>
         <item name="geoColorLightCaution">#ffb26c00</item>
         <item name="geoColorLightCautionContainer">#fffef2e2</item>
@@ -97,13 +98,14 @@
         <item name="geoColorLightImmersive">#ffffffff</item>
         <item name="geoColorLightInfo">@*android:color/accent_material_dark</item>
         <item name="geoColorLightInfoContainer">#fff0f4f9</item>
+        <item name="geoColorLightInfoContainerVariant">#ffd3e3fd</item>
         <item name="geoColorLightInversePrimary">#ff75d4e6</item>
         <item name="geoColorLightInverseSurface">@*android:color/background_dark</item>
         <item name="geoColorLightLocalGuides">#ffe35a1b</item>
         <item name="geoColorLightLocalGuidesVariant">#ffc54105</item>
         <item name="geoColorLightNegative">#ffdc362e</item>
         <item name="geoColorLightNegativeContainer">#fffff0ef</item>
-        <item name="geoColorLightNegativeContainerVariant">#fff9dedc</item>
+        <item name="geoColorLightNegativeContainerVariant">#ffffdad8</item>
         <item name="geoColorLightNeutralContainer">#fff2f2f2</item>
         <item name="geoColorLightNeutralContainerVariant">#ffe3e9ea</item>
         <item name="geoColorLightOnCaution">#ff421f00</item>

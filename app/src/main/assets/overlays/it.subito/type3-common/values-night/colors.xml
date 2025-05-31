@@ -39,4 +39,5 @@
     <color name="outlinePressedCorporate">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="redCorporateL3">@*android:color/keyguard_avatar_frame_pressed_color</color>	
     <color name="textButtons">@*android:color/white</color>
+    <color name="stream_compose_grey_gainsboro">@*android:color/background_dark</color>
 </resources>

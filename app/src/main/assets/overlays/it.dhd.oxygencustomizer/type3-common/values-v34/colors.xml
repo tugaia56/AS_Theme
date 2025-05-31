@@ -12,7 +12,7 @@
     <color name="m3_sys_color_dynamic_dark_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#ffbdbdbd</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#ff00ff</color>
-    <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#00ff00</color>
+    <color name="m3_sys_color_dynamic_dark_on_tertiary_container">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>				<!-- switch disattivato -->
     <color name="m3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>		<!-- bordo dialog -->
     <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>				<!-- slider a sx icone e switch -->

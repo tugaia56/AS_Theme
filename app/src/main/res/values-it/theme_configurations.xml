@@ -20,16 +20,12 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 5.3.0</item>
+        <item>Versione 5.4.0</item>
         <item>AGGIUNTO:</item>
-        <item>Telecomando IR 15.1.20</item>
+        <item>SwitchAI by WSTxda v3.0</item>
         <item>AGGIORNATO:</item>
-        <item>Macrodroid v5.52.5</item>
-        <item>SD Maid SE v1.4.7</item>
-        <item>Barra Laterale Intelligente v15.4.5</item>
-        <item>Microsoft OneDrive v7.28.1</item>
-        <item>Oneplus Orologio v15.6.12</item>
-        <item>Oneplus Note v15.3.38</item>
+        <item>Subito.it v9.18.1</item>
+        <item>Instagram v381.2.0.53.84</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
