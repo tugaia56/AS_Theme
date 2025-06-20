@@ -27,7 +27,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_disabled_color">#613c4043</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="callout_nightmode_background">#ff294362</color>
     <color name="car_card_night">@*android:color/background_dark</color>
     <color name="car_ui_rotary_focus_stroke_color">@*android:color/accent_material_dark</color>
@@ -379,7 +379,7 @@
     <color name="gm_ref_palette_red300">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffdd0000</color>
+    <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
@@ -581,7 +581,7 @@
     <color name="mod_google_red400">@*android:color/accent_material_dark</color>
     <color name="mod_google_red50">#fffce8e6</color>
     <color name="mod_google_red500">#ffea4335</color>
-    <color name="mod_google_red600">#ffdd0000</color>
+    <color name="mod_google_red600">@*android:color/accent_material_light</color>
     <color name="mod_google_red700">#ffc5221f</color>
     <color name="mod_google_red900">#ffa50e0e</color>
     <color name="mod_google_transparent">#00000000</color>
@@ -903,8 +903,8 @@
     <color name="sud_color_accent_glif_v3_light">@*android:color/accent_material_dark</color>
     <color name="sud_color_error_text_dark">@*android:color/accent_material_dark</color>
     <color name="sud_color_error_text_light">@*android:color/accent_material_dark</color>
-    <color name="sud_error_warning_default_dark">#ffee675c</color>
-    <color name="sud_error_warning_default_light">#ffdd0000</color>
+    <color name="sud_error_warning_default_dark">@*android:color/accent_material_dark</color>
+    <color name="sud_error_warning_default_light">@*android:color/accent_material_light</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>

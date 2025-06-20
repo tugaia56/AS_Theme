@@ -19,7 +19,7 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">#ff3f51b5</color>
-    <color name="colorAccentDark2">#ffdd0000</color>
+    <color name="colorAccentDark2">@*android:color/accent_material_light</color>
     <color name="colorAccentFDroid">#ff8bc34a</color>
     <color name="colorAccentFDroidDark">#ff8bc34a</color>
     <color name="colorAccentGold">#ffe9b115</color>

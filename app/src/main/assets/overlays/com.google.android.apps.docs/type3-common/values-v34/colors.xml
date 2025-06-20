@@ -9,12 +9,12 @@
     <color name="settingslib_materialColorPrimaryContainer">#a1887f</color>
     <color name="settingslib_materialColorSecondaryContainer">#dd2c00</color>
     <color name="settingslib_materialColorSurfaceBright">#ff3d00</color>
+    <color name="settingslib_materialColorSurfaceContainer">#ff00ff</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ff6e40</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#ff9e80</color>
-    <color name="settingslib_materialColorSurfaceContainerLowest">#bf360c</color>
-    <color name="settingslib_materialColorSurfaceDim">#d84315</color>
-    <color name="settingslib_materialColorSurfaceVariant">#e64a19</color>
+    <color name="settingslib_materialColorSurfaceVariant">#fff000</color>
     <color name="sud_color_on_surface">#f4511e</color>
+    <color name="sud_dynamic_color_accent_glif_v3_dark">#00ffff</color>
     <color name="sud_system_background_dark">#ff5722</color>
     <color name="sud_system_background_light">#ff7043</color>
     <color name="sud_system_error_container_dark">#ff8a65</color>
@@ -107,7 +107,6 @@
     <color name="sud_system_tertiary_fixed_dim_light">#a7ffeb</color>
     <color name="sud_system_tertiary_fixed_light">#004d40</color>
     <color name="sud_system_tertiary_light">#00695c</color>
-	
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
@@ -271,6 +270,5 @@
     <color name="m3_sys_color_dynamic_light_on_error">#512da8</color>
     <color name="m3_sys_color_dynamic_light_on_error_container">#5e35b1</color>
     <color name="settingslib_thumb_on_color">#673ab7</color>
-    <color name="sud_system_on_primary">#7e57c2</color>
     <color name="sud_system_sc_highest_dark">#00ff00</color>
 </resources>

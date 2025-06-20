@@ -76,7 +76,7 @@
 <color name="settingslib_colorSurfaceHeader">#fdd835</color>
 <color name="settingslib_colorSurfaceVariant">#ffeb3b</color>
 <color name="settingslib_dialog_accent">#ffee58</color>
-<color name="settingslib_dialog_colorError">#ffdd0000</color>
+<color name="settingslib_dialog_colorError">@*android:color/accent_material_light</color>
 <color name="settingslib_primary_dark_device_default_settings">#fff176</color>
 <color name="settingslib_primary_device_default_settings_light">#dd2c00</color>
 <color name="settingslib_ripple_color">#ff3d00</color>

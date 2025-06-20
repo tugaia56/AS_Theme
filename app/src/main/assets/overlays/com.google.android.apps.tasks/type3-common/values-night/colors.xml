@@ -6,7 +6,7 @@
     <color name="bugle_color_selection_surface">#ff30343a</color>
     <color name="go_to_top_button_background">@*android:color/ripple_material_dark</color>
     <color name="go_to_top_button_tint">#ffffffff</color>
-    <color name="material_google_red_500">#ffee675c</color>
+    <color name="material_google_red_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
     <color name="message_video_selected_tint">#b3d2e3fc</color>
     <color name="oneplus_unknown_sender_background">@*android:color/accent_material_dark</color>

@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="bottom_sheet_background_color">@*android:color/background_dark</color>
+    <color name="copilot_system_success">#ff6ccb5f</color>
+    <color name="copilot_xpay_link">#ff82c7ff</color>
+    <color name="copilot_xpay_on_brand">#ff15171e</color>
+    <color name="copilot_xpay_primary">#ffd2d0ce</color>
+    <color name="copilot_xpay_primary_2">#fff3f3f4</color>
+    <color name="copilot_xpay_primary_3">#fff3f3f4</color>
+    <color name="copilot_xpay_primary_balanced">#ffa2b7f4</color>
+    <color name="copilot_xpay_primary_button_disabled_bg">@*android:color/background_dark</color>
+    <color name="copilot_xpay_primary_button_disabled_fg">@*android:color/background_dark</color>
+    <color name="copilot_xpay_secondary">#ffd0d1d2</color>
+    <color name="copilot_xpay_surface_secondary">#ff262933</color>
     <color name="cr_single_product_description_text_color">#ff919191</color>
     <color name="fc_indicator_active">#ffffffff</color>
-    <color name="fc_indicator_inactive">#ff404040</color>
+    <color name="fc_indicator_inactive">@*android:color/background_dark</color>
     <color name="fc_subtle_background">@*android:color/background_dark</color>
     <color name="fc_subtle_description_color">#ffacacac</color>
     <color name="fc_subtle_title_color">#ffe1e1e1</color>
     <color name="feature_content_bg_color">@*android:color/background_dark</color>
     <color name="feature_upsell_card_description">#ffacacac</color>
-    <color name="feature_upsell_card_divider">#ff404040</color>
+    <color name="feature_upsell_card_divider">@*android:color/background_dark</color>
     <color name="feature_upsell_card_title">#fff8f8f8</color>
     <color name="feature_upsell_heading_text_color">#ffe1e1e1</color>
     <color name="feature_upsell_premium_apps_subtitle_text">#ffacacac</color>
@@ -20,7 +31,7 @@
     <color name="fluentui_communication_tint_20">#ff3aa0f3</color>
     <color name="fluentui_communication_tint_40">#ff092c47</color>
     <color name="fre_description_text_color">#ff919191</color>
-    <color name="go_premium_button_disabled">#ff404040</color>
+    <color name="go_premium_button_disabled">@*android:color/background_dark</color>
     <color name="google_logo_tint_color">@*android:color/white</color>
     <color name="inapp_browser_dialog_bg">@*android:color/background_dark</color>
     <color name="inapp_browser_dialog_text_color">#ffffffff</color>
@@ -46,7 +57,7 @@
     <color name="pw_error_title_text">#ffe1e1e1</color>
     <color name="pw_purchase_button_loading_color">#ff004c87</color>
     <color name="pw_v2_description_text_color">#ffacacac</color>
-    <color name="pw_v2_plan_tab_selected">#ff404040</color>
+    <color name="pw_v2_plan_tab_selected">@*android:color/background_dark</color>
     <color name="pw_v2_plan_tabs_background">@*android:color/background_dark</color>
     <color name="pw_v2_plan_tabs_border">@*android:color/background_dark</color>
     <color name="pw_v2_plan_tabs_selected_text_color">#ffffffff</color>
@@ -54,6 +65,9 @@
     <color name="pw_v2_title_text_color">#ffe1e1e1</color>
     <color name="pw_window_background">@*android:color/background_dark</color>
     <color name="saf_bottom_sheet_handle_color">#ff6e6e6e</color>
+    <color name="sapphire_border_danger">#ffff6767</color>
+    <color name="sapphire_navigation_bar">#ff000000</color>
+    <color name="surface_brand_primary">#ff83beec</color>
     <color name="unified_camera_background">@*android:color/black</color>
     <color name="unified_camera_button_background">#ff83beec</color>
     <color name="unified_camera_button_text">@*android:color/background_dark</color>

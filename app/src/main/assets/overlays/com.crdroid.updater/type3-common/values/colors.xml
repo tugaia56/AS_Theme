@@ -40,7 +40,7 @@
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -335,16 +335,16 @@
     <color name="settingslib_color_purple400">#ffaf5cf7</color>
     <color name="settingslib_color_purple600">#ff9334e6</color>
     <color name="settingslib_color_red100">#fffad2cf</color>
-    <color name="settingslib_color_red400">#ffee675c</color>
+    <color name="settingslib_color_red400">@*android:color/accent_material_dark</color>
     <color name="settingslib_color_red50">#fffce8e6</color>
     <color name="settingslib_color_red500">#ffb3261e</color>
-    <color name="settingslib_color_red600">#ffdd0000</color>
+    <color name="settingslib_color_red600">@*android:color/accent_material_light</color>
     <color name="settingslib_color_yellow100">#fffeefc3</color>
     <color name="settingslib_color_yellow400">#fffcc934</color>
     <color name="settingslib_color_yellow50">#fffef7e0</color>
     <color name="settingslib_color_yellow600">#fff9ab00</color>
     <color name="settingslib_dialog_accent">@*android:color/accent_material_dark</color>
-    <color name="settingslib_dialog_colorError">#ffdd0000</color>
+    <color name="settingslib_dialog_colorError">@*android:color/accent_material_light</color>
     <color name="settingslib_material_grey_900">@*android:color/background_dark</color>
     <color name="settingslib_primary_dark_device_default_settings">@*android:color/background_dark</color>
     <color name="settingslib_primary_device_default_settings_light">@*android:color/system_neutral1_50</color>
@@ -376,7 +376,7 @@
     <color name="sud_color_background_dark">@*android:color/background_dark</color>
     <color name="sud_color_background_light">#fffafafa</color>
     <color name="sud_color_error_text_dark">#fff28b82</color>
-    <color name="sud_color_error_text_light">#ffdd0000</color>
+    <color name="sud_color_error_text_light">@*android:color/accent_material_light</color>
     <color name="sud_error_warning_default_dark">#fff28b82</color>
     <color name="sud_error_warning_default_light">#ffea4335</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>

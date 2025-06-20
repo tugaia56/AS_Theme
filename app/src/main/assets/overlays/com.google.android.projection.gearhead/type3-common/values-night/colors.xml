@@ -21,7 +21,7 @@
     <color name="legacy_facet_bar_background">@*android:color/background_dark</color>
     <color name="lens_scrim">#cc000000</color>
     <color name="overview_background_gradient_end_color">@*android:color/button_material_dark</color>
-    <color name="phone_end_call">#ffdd0000</color>
+    <color name="phone_end_call">@*android:color/accent_material_light</color>
     <color name="phone_secondary_call_scrim">#99012c4e</color>
     <color name="separator">#1fffffff</color>
     <color name="settings_icon_color">@*android:color/white</color>

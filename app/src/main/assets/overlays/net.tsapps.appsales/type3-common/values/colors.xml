@@ -114,7 +114,7 @@
     <color name="md_btn_selected">#33969696</color>
     <color name="md_btn_selected_dark">#40cbcbcb</color>
     <color name="md_disabled_text_dark_theme">#ffc2c2c2</color>
-    <color name="md_disabled_text_light_theme">#ff818181</color>
+    <color name="md_disabled_text_light_theme">@*android:color/background_leanback_dark</color>
     <color name="md_divider_dark_theme">#ff3b3c3f</color>
     <color name="md_divider_light_theme">#ffffffff</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>

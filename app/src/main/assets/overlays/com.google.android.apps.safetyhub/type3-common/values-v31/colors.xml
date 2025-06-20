@@ -257,14 +257,14 @@
     <color name="m3_sys_color_dynamic_light_tertiary_container">#ffab40</color>
     <color name="m3_sys_color_dynamic_on_primary_fixed">#ef6c00</color>
     <color name="m3_sys_color_dynamic_on_primary_fixed_variant">#ef6c00</color>
-    <color name="m3_sys_color_dynamic_on_secondary_fixed">#ffdd0000</color>
+    <color name="m3_sys_color_dynamic_on_secondary_fixed">@*android:color/accent_material_light</color>
     <color name="m3_sys_color_dynamic_on_secondary_fixed_variant">#f57c00</color>
     <color name="m3_sys_color_dynamic_on_tertiary_fixed">#3e2723</color>
     <color name="m3_sys_color_dynamic_on_tertiary_fixed_variant">#ffe0b2</color>
     <color name="m3_sys_color_dynamic_primary_fixed">#ffcc80</color>
     <color name="m3_sys_color_dynamic_primary_fixed_dim">#ffb74d</color>
     <color name="m3_sys_color_dynamic_secondary_fixed">#ffa726</color>
-    <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffdd0000</color>
+    <color name="m3_sys_color_dynamic_secondary_fixed_dim">@*android:color/accent_material_light</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#fdd835</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#ff8f00</color>
     <color name="settingslib_accent_device_default_dark">#ffa726</color>

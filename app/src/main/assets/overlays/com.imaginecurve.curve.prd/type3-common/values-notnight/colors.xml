@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="backgroundColor">#fffcfcfc</color>
     <color name="crvColorBackground">#fff5f5f5</color>
     <color name="crvColorButtonBackground">#ffad0b11</color>
     <color name="crvColorButtonCaption">#ff666666</color>
@@ -19,5 +18,4 @@
     <color name="crvColorSuccess">#ff50b554</color>
     <color name="crvColorSurface">#ffffffff</color>
     <color name="launchpad_button_background">#ffffffff</color>
-    <color name="segmentBackgroundColor">#141e1e1e</color>
 </resources>

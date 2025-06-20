@@ -9,10 +9,9 @@
     <color name="settingslib_materialColorPrimaryContainer">#e64a19</color>
     <color name="settingslib_materialColorSecondaryContainer">#f4511e</color>
     <color name="settingslib_materialColorSurfaceBright">#ff5722</color>
+    <color name="settingslib_materialColorSurfaceContainer">#00ff00</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ff6d00</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#aeea00</color>
-    <color name="settingslib_materialColorSurfaceContainerLowest">#c6ff00</color>
-    <color name="settingslib_materialColorSurfaceDim">#eeff41</color>
     <color name="settingslib_materialColorSurfaceVariant">#827717</color>
     <color name="sud_color_on_surface">#9e9d24</color>
     <color name="settingslib_state_on_color">#afb42b</color>
@@ -23,5 +22,4 @@
     <color name="settingslib_track_off_color">#00c853</color>
     <color name="settingslib_track_on_color">#00e676</color>
     <color name="settingslib_thumb_on_color">#1b5e20</color>
-    <color name="sud_system_on_primary">#43a047</color>
 </resources>

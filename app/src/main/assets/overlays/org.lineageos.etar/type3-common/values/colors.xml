@@ -99,7 +99,7 @@
     <color name="calendar_visible_black">#ffffffff</color>
     <color name="calendar_visible_dark">#ffffffff</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>

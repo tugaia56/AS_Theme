@@ -21,7 +21,7 @@
     <color name="lime500_daynight">#ffc4d050</color>
     <color name="link_button_ripple_background">#1effffff</color>
     <color name="loading_gradient_center_color">#bf202124</color>
-    <color name="material_google_red_500">#ffee675c</color>
+    <color name="material_google_red_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
     <color name="normal_banner_background_color">#3dfdd663</color>
     <color name="orange200_daynight">#ffe5bc80</color>

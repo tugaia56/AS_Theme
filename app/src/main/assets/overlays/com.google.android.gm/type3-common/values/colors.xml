@@ -86,7 +86,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="calendar_header">#ff999999</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="candidate_placeholder">#ff999999</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -311,7 +311,7 @@
     <color name="gm_ref_palette_red100">#fffad2cf</color>
     <color name="gm_ref_palette_red200">#fff6aea9</color>
     <color name="gm_ref_palette_red300">#fff28b82</color>
-    <color name="gm_ref_palette_red400">#ffee675c</color>
+    <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red600">@*android:color/accent_material_dark</color>

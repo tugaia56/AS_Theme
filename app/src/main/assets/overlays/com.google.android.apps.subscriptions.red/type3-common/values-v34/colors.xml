@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="settingslib_materialColorOnPrimary">#dd2c00</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">#ff9e80</color>
+    <color name="settingslib_materialColorOnSurface">#bf360c</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">#aeea00</color>
+    <color name="settingslib_materialColorOutline">#d4e157</color>
+    <color name="settingslib_materialColorPrimary">#827717</color>
+    <color name="settingslib_materialColorPrimaryContainer">#00c853</color>
+    <color name="settingslib_materialColorSecondaryContainer">#69f0ae</color>
+    <color name="settingslib_materialColorSurfaceContainer">#b9f6ca</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">#1b5e20</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">#43a047</color>
+    <color name="settingslib_materialColorSurfaceVariant">#0091ea</color>
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>

@@ -299,7 +299,7 @@
     <color name="sud_color_accent_glif_v3_dark">@*android:color/accent_material_dark</color>
     <color name="sud_color_accent_glif_v3_light">@*android:color/accent_material_dark</color>
     <color name="sud_color_error_text_dark">@*android:color/accent_material_dark</color>
-    <color name="sud_color_error_text_light">#ffdd0000</color>
+    <color name="sud_color_error_text_light">@*android:color/accent_material_light</color>
     <color name="sud_flat_button_highlight">#1f000000</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>

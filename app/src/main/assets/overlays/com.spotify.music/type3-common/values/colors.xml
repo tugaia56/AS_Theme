@@ -79,7 +79,7 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="card_subtitle_color">#ff999999</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -419,7 +419,7 @@
     <color name="light_base_essential_brightaccent">#ff159542</color>
     <color name="light_base_essential_negative">#ffe91429</color>
     <color name="light_base_essential_positive">#ff159542</color>
-    <color name="light_base_essential_subdued">#ff818181</color>
+    <color name="light_base_essential_subdued">@*android:color/background_leanback_dark</color>
     <color name="light_base_essential_warning">#ffbf6d00</color>
     <color name="light_base_text_announcement">#ff0064c1</color>
     <color name="light_base_text_base">@*android:color/background_dark</color>

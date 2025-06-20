@@ -17,7 +17,7 @@
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_ripple_background">#1e000000</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="card_background_color">@*android:color/white</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -223,10 +223,10 @@
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="gm_ref_palette_red200">#fff6aea9</color>
     <color name="gm_ref_palette_red300">@*android:color/accent_material_dark</color>
-    <color name="gm_ref_palette_red400">#ffee675c</color>
+    <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffdd0000</color>
+    <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
@@ -466,7 +466,7 @@
     <color name="sud_color_accent_light">@*android:color/accent_material_dark</color>
     <color name="sud_color_background_light">#fffafafa</color>
     <color name="sud_color_error_text_dark">@*android:color/accent_material_dark</color>
-    <color name="sud_color_error_text_light">#ffdd0000</color>
+    <color name="sud_color_error_text_light">@*android:color/accent_material_light</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>

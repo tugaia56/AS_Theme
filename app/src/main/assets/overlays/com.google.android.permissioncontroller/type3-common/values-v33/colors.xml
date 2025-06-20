@@ -10,9 +10,9 @@
 <color name="gm_grey_900">#ffffffff</color>
 <color name="gm_red_100">#fffad2cf</color>
 <color name="gm_red_300">#fff28b82</color>
-<color name="gm_red_400">#ffee675c</color>
+<color name="gm_red_400">@*android:color/accent_material_dark</color>
 <color name="gm_red_500">#ffea4335</color>
-<color name="gm_red_600">#ffdd0000</color>
+<color name="gm_red_600">@*android:color/accent_material_light</color>
 <color name="gm_yellow_100">#fffeefc3</color>
 <color name="gm_yellow_300">#fffdd663</color>
 <color name="gm_yellow_400">#fffcc934</color>

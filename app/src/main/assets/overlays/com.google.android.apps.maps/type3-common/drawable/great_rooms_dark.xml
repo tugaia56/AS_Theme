@@ -33,7 +33,7 @@
             1.26 0
             1 1
             -2.52 0" />
-    <path android:fillColor="#ffdd0000" android:pathData="M8
+    <path android:fillColor="@*android:color/accent_material_light" android:pathData="M8
             19h16v4h-16z" />
     <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M8
             15h16v4h-16z" />

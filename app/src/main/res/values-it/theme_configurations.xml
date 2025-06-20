@@ -1,32 +1,40 @@
 <resources>
-    <!-- Theme name and author name -->
+    <!-- Nome del tema e nome dell'autore -->
     <string name="ThemeName">Dark Shadow Theme</string>
     <string name="ThemeAuthor">Tullio</string>
-    <!-- Your email for bug reports (DEFAULT: empty) -->
-    <!--suppress CheckTagEmptyBody -->
+    <!-- La tua email per segnalazioni di bug (DEFAULT: vuota) -->
+    <!--sopprimi CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail">tugaia56@gmail.com</string>
-    <!-- Theme wallpaper source (must be raw) -->
+    <!-- Fonte dello sfondo del tema (deve essere grezzo) -->
     <string name="ThemeWallpaperSource"></string>
-    <!-- Do your theme support substratum legacy? -->
-    <!-- If you choose not to support legacy, then change the following line from -->
-    <!-- 'true' to 'false' to hide your theme on the Play Store from any stock ROM-->
+    <!-- Il tuo tema supporta substratum legacy? -->
+    <!-- Se si sceglie di non supportare legacy, modificare la seguente riga da -->
+    <!-- Da "true" a "false" per nascondere il tuo tema sul Play Store da qualsiasi ROM stock-->
     <bool name="ThemeSupportLegacy">true</bool>
-    <!-- Does your theme support substratum samsung? -->
+    <!-- Il tuo tema supporta Substratum Samsung? -->
     <bool name="ThemeSupportSamsung">false</bool>
-    <!-- Do you want to override the hero image auto color assignment? -->
-    <!-- Don't force anything? -> auto -->
-    <!-- Force black/dark icons? -> dark -->
-    <!-- Force white/light icons? -> light -->
+    <!-- Vuoi sovrascrivere l'assegnazione automatica del colore all'immagine principale? -->
+    <!-- Non forzare nulla? -> auto -->
+    <!-- Forzare le icone nere/scure? -> scuro -->
+    <!-- Forzare le icone bianche/chiare? -> chiaro -->
     <string name="ThemeHeroOverride">auto</string>
-    <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
+    <!-- Inserisci qui il changelog del tuo tema, ogni elemento sarà un nuovo punto elenco nel foglio -->
     <string-array name="ThemeChangelog">
         <item>Versione 5.4.0</item>
         <item>AGGIUNTO:</item>
-        <item>SwitchAI by WSTxda v3.0</item>
+        <item>SwitchAI by WSTxda v3.0</item>-
+        <item>MobiDrive v4.2.10010</item>
         <item>AGGIORNATO:</item>
         <item>Subito.it v9.18.1</item>
         <item>Instagram v381.2.0.53.84</item>
+        <item>Google App v16.20.49</item>
+        <item>Clona Telefono v15.11.4</item>
+        <item>Sistema Android v15</item>
+        <item>Microsoft Edge v137.0.3296.65</item>
+        <item>F-Droid v1.23</item>
+        <item>OfficeSuite v14.4.51693</item>
+        <item>MacroDroid v5.54.9</item>
+        <item>Telefono Google v180.0.771769344</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
-

@@ -35,7 +35,7 @@
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="clip_card_gradient_end_color">#1a202124</color>
@@ -57,7 +57,7 @@
     <color name="clips_ink_controls_bar_background">#991b1b1b</color>
     <color name="clips_ink_gray">#ff282a2c</color>
     <color name="clips_ink_green">#ff5bb974</color>
-    <color name="clips_ink_orange">#ffee675c</color>
+    <color name="clips_ink_orange">@*android:color/accent_material_dark</color>
     <color name="clips_ink_pink">#ffff63b8</color>
     <color name="clips_ink_purple">#ffaf5cf7</color>
     <color name="clips_ink_red">#ffea4335</color>
@@ -490,7 +490,7 @@
     <color name="sud_color_accent_glif_v3_dark">@*android:color/accent_material_dark</color>
     <color name="sud_color_accent_glif_v3_light">@*android:color/accent_material_dark</color>
     <color name="sud_color_error_text_dark">@*android:color/accent_material_dark</color>
-    <color name="sud_color_error_text_light">#ffdd0000</color>
+    <color name="sud_color_error_text_light">@*android:color/accent_material_light</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>

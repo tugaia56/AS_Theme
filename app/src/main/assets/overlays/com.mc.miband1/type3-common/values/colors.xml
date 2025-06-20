@@ -367,7 +367,7 @@
     <color name="m3_ref_palette_tertiary99">#fffffbfa</color>
     <color name="main_button_icon">#ff0077ff</color>
     <color name="materialGray50">#fffafafa</color>
-    <color name="materialText">#ff818181</color>
+    <color name="materialText">@*android:color/background_leanback_dark</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">@*android:color/background_dark</color>

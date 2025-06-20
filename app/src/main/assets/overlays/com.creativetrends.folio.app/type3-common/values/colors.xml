@@ -451,7 +451,7 @@
     <color name="grey_hex_7e">#ff7e7e7e</color>
     <color name="grey_hex_7f">#ff7f7f7f</color>
     <color name="grey_hex_80">#ff808080</color>
-    <color name="grey_hex_81">#ff818181</color>
+    <color name="grey_hex_81">@*android:color/background_leanback_dark</color>
     <color name="grey_hex_82">#ff828282</color>
     <color name="grey_hex_83">#ff838383</color>
     <color name="grey_hex_84">#ff848484</color>

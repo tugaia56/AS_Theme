@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0">
-	<path android:fillColor="@*android:color/background_dark" android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
-	<path android:fillColor="#ffd9d9d9" android:pathData="M15.5,24H14V19.5C14,18.6716 14.6716,18 15.5,18H32.5C33.3284,18 34,18.6716 34,19.5V28.5C34,29.3284 33.3284,30 32.5,30H22V28.5H32.5V19.5H15.5V24Z" />
-	<path android:fillColor="#ffd9d9d9" android:pathData="M24,26C22.8954,26 22,25.1046 22,24C22,22.8954 22.8954,22 24,22C25.1046,22 26,22.8954 26,24C26,25.1046 25.1046,26 24,26Z" />
-	<path android:fillColor="#ffd9d9d9" android:pathData="M16.5303,32.7803L20.0607,29.25L16.5303,25.7197L15.4697,26.7803L17.1893,28.5H13V30H17.1893L15.4697,31.7197L16.5303,32.7803Z" />
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/button_material_dark" android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+    <path android:fillColor="#ffd9d9d9" android:pathData="M15.5,24H14V19.5C14,18.6716 14.6716,18 15.5,18H32.5C33.3284,18 34,18.6716 34,19.5V28.5C34,29.3284 33.3284,30 32.5,30H22V28.5H32.5V19.5H15.5V24Z" />
+    <path android:fillColor="#ffd9d9d9" android:pathData="M24,26C22.8954,26 22,25.1046 22,24C22,22.8954 22.8954,22 24,22C25.1046,22 26,22.8954 26,24C26,25.1046 25.1046,26 24,26Z" />
+    <path android:fillColor="#ffd9d9d9" android:pathData="M16.5303,32.7803L20.0607,29.25L16.5303,25.7197L15.4697,26.7803L17.1893,28.5H13V30H17.1893L15.4697,31.7197L16.5303,32.7803Z" />
 </vector>

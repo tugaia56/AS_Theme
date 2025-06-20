@@ -159,7 +159,7 @@
     <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffdd0000</color>
+    <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
@@ -290,7 +290,7 @@
     <color name="sud_color_background_dark">@*android:color/button_material_dark</color>
     <color name="sud_color_background_light">#fffafafa</color>
     <color name="sud_color_error_text_dark">@*android:color/accent_material_dark</color>
-    <color name="sud_color_error_text_light">#ffdd0000</color>
+    <color name="sud_color_error_text_light">@*android:color/accent_material_light</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">#ffffffff</color>

@@ -14,7 +14,7 @@
     <color name="bright_foreground_material_light">@*android:color/background_dark</color>
     <color name="button_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_floating_material_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="common_nexus_primary">@*android:color/background_dark</color>
@@ -244,7 +244,7 @@
     <color name="gm_ref_palette_red200">#fff6aea9</color>
     <color name="gm_ref_palette_red300">#fff28b82</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
-    <color name="gm_ref_palette_red600">#ffdd0000</color>
+    <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>

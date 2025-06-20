@@ -1530,7 +1530,7 @@
     <color name="coui_color_primary_green_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_neutral">#e6000000</color>
     <color name="coui_color_primary_neutral_dark">#e6ffffff</color>
-    <color name="coui_color_primary_neutral_light">#ff000000</color>
+    <color name="coui_color_primary_neutral_light">@*android:color/background_dark</color>
     <color name="coui_color_primary_on_popup_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_on_popup_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_on_popup_blue_light">@*android:color/accent_material_dark</color>

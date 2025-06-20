@@ -9,7 +9,7 @@
     <color name="duffy_survey_red_background_color">#ff25bcc9</color>
     <color name="elevation_1dp_surface">#ff28292c</color>
     <color name="elevation_6dp_surface">#ff323336</color>
-    <color name="material_google_red_500">#ffee675c</color>
+    <color name="material_google_red_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
     <color name="multipinning_edu_color_1">@*android:color/background_dark</color>
     <color name="multipinning_edu_color_2">@*android:color/accent_material_dark</color>

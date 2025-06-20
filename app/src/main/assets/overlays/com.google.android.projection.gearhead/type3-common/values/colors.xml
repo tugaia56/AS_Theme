@@ -207,7 +207,7 @@
     <color name="call_history_received_icon">#ff41af6a</color>
     <color name="call_history_voicemail_icon">@*android:color/accent_material_dark</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="callout_nightmode_background">#ff294362</color>
     <color name="carColorBlue">@*android:color/accent_material_dark</color>
     <color name="carColorGreen">@*android:color/accent_material_dark</color>
@@ -1516,10 +1516,10 @@
     <color name="mod_google_red100">@*android:color/accent_material_dark</color>
     <color name="mod_google_red200">#fff6aea9</color>
     <color name="mod_google_red300">@*android:color/accent_material_dark</color>
-    <color name="mod_google_red400">#ffee675c</color>
+    <color name="mod_google_red400">@*android:color/accent_material_dark</color>
     <color name="mod_google_red50">#fffce8e6</color>
     <color name="mod_google_red500">#ffea4335</color>
-    <color name="mod_google_red600">#ffdd0000</color>
+    <color name="mod_google_red600">@*android:color/accent_material_light</color>
     <color name="mod_google_red700">#ffc5221f</color>
     <color name="mod_google_red800">#ffb31412</color>
     <color name="mod_google_red900">#ffa50e0e</color>

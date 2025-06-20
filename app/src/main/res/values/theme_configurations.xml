@@ -22,10 +22,19 @@
     <string-array name="ThemeChangelog">
         <item>Version 5.4.0</item>
         <item>ADDED:</item>
-        <item>- - -</item>
+        <item>SwitchAI by WSTxda v3.0</item>
+        <item>MobiDrive v4.2.10010</item>
         <item>UPDATED:</item>
         <item>Subito.it v9.18.1</item>
         <item>Instagram v381.2.0.53.84</item>
+        <item>Google App v16.20.49</item>
+        <item>Clone Phone v15.11.4</item>
+        <item>Android System v15</item>
+        <item>Microsoft Edge v137.0.3296.65</item>
+        <item>F-Droid v1.23</item>
+        <item>OfficeSuite v14.4.51693</item>
+        <item>MacroDroid v5.54.9</item>
+        <item>Google Dialer v180.0.771769344</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

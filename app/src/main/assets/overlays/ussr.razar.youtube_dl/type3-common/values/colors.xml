@@ -240,7 +240,7 @@
     <color name="md_deep_purple_A400">#ff651fff</color>
     <color name="md_deep_purple_A700">#ff6200ea</color>
     <color name="md_disabled_text_dark_theme">#ffc2c2c2</color>
-    <color name="md_disabled_text_light_theme">#ff818181</color>
+    <color name="md_disabled_text_light_theme">@*android:color/background_leanback_dark</color>
     <color name="md_divider_dark_theme">#ff3b3c3f</color>
     <color name="md_divider_light_theme">#ffffffff</color>
     <color name="md_green_100">#ffc8e6c9</color>

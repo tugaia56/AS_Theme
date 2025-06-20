@@ -150,7 +150,7 @@
     <color name="color_action_bar_press">#ff252e3a</color>
     <color name="color_bg_item_expand_app">#ffe1e1e0</color>
     <color name="color_bg_pref_disable">#ffcbcbcb</color>
-    <color name="color_bg_prefernce">@*android:color/background_floating_material_dark</color>
+    <color name="color_bg_prefernce">@*android:color/background_dark</color>
     <color name="color_bg_prefernce_press">#ff252e3a</color>
     <color name="color_bg_purchase_press">#ffcccccc</color>
     <color name="color_bg_title_dialog">#ff24272f</color>
@@ -167,12 +167,12 @@
     <color name="color_item_slide">@*android:color/background_dark</color>
     <color name="color_item_slide_press">#ff252e3a</color>
     <color name="color_red">#ffed1b24</color>
-    <color name="color_tab">@*android:color/background_floating_material_dark</color>
+    <color name="color_tab">@*android:color/background_dark</color>
     <color name="color_text_item_pref">#ffffffff</color>
     <color name="color_text_item_pref_sum">#ffaeafb0</color>
     <color name="color_text_pref_header">@*android:color/accent_material_dark</color>
     <color name="color_tran_item_selected">#ff252e3a</color>
-    <color name="color_window">@*android:color/background_floating_material_dark</color>
+    <color name="color_window">@*android:color/background_dark</color>
     <color name="color_window_background">@*android:color/background_dark</color>
     <color name="color_window_quickstart">#cc000000</color>
     <color name="colourful_background_linked">#1affffff</color>

@@ -3,7 +3,7 @@
     <string name="about">Info</string>
     <string name="about_text" formatted="false">"Realizzato da Nikolas Spiridakis
 Versione: %s (%d)"</string>
-    <string name="app_name">Integrity Checker</string>
+    <string name="app_name">Play Integrity API Checker</string>
     <string name="app_name_short">Integrity Checker</string>
     <string name="check">Controllo</string>
     <string name="check_first">Per favore esegui prima un controllo!</string>

@@ -343,7 +343,7 @@
     <color name="safety_center_recommend">#fff9ab00</color>
     <color name="safety_center_secondary">#ff777777</color>
     <color name="safety_center_status_unfilled_wedge">#ffdadce0</color>
-    <color name="safety_center_warn">#ffdd0000</color>
+    <color name="safety_center_warn">@*android:color/accent_material_light</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>

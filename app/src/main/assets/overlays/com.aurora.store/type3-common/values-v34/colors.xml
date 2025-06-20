@@ -72,7 +72,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#cddc39</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#d4e157</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dce775</color>
-    <color name="m3_sys_color_dynamic_dark_error">#ff0000</color>
+    <color name="m3_sys_color_dynamic_dark_error">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_error_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_error">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_error_container">@*android:color/accent_material_dark</color>

@@ -275,7 +275,7 @@
     <color name="google_green_300">@*android:color/accent_material_dark</color>
     <color name="google_green_600">#ff1e8e3e</color>
     <color name="google_red_300">@*android:color/accent_material_dark</color>
-    <color name="google_red_600">#ffdd0000</color>
+    <color name="google_red_600">@*android:color/accent_material_light</color>
     <color name="grid_game_mode_stroke_color">#ff292937</color>
     <color name="highlight_color_on_dark_text">#ff6aa4f0</color>
     <color name="highlight_color_on_light_text">#ff5a7198</color>

@@ -113,7 +113,7 @@
     <color name="gm_ref_palette_red200">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red300">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffdd0000</color>
+    <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
@@ -200,7 +200,7 @@
     <color name="google_red200">@*android:color/accent_material_dark</color>
     <color name="google_red300">@*android:color/accent_material_dark</color>
     <color name="google_red500">#ffea4335</color>
-    <color name="google_red600">#ffdd0000</color>
+    <color name="google_red600">@*android:color/accent_material_light</color>
     <color name="google_red700">#ffc5221f</color>
     <color name="google_red800">#ffb31412</color>
     <color name="google_red900">#ffa50e0e</color>
@@ -365,7 +365,7 @@
     <color name="shutter_on">@*android:color/background_dark</color>
     <color name="status_bar_translucent_background">@*android:color/background_dark</color>
     <color name="sud_color_accent_glif_light">@*android:color/white</color>
-    <color name="sud_color_error_text_light">#ffdd0000</color>
+    <color name="sud_color_error_text_light">@*android:color/accent_material_light</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_list_item_icon_color_light">#89000000</color>
     <color name="sud_navbar_bg_dark">@*android:color/background_dark</color>

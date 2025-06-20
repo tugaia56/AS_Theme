@@ -19,10 +19,10 @@
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="carColorBlue">@*android:color/accent_material_dark</color>
     <color name="carColorGreen">#ff61ac70</color>
-    <color name="carColorRed">#ffee675c</color>
+    <color name="carColorRed">@*android:color/accent_material_dark</color>
     <color name="carColorYellow">#ffe9a240</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>

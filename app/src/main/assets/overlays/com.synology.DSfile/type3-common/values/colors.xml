@@ -9,7 +9,7 @@
     <color name="ItemTitleColor">#ffffffff</color>
     <color name="LightBlue">#ff3278ff</color>
     <color name="LightGray">#ffcccccc</color>
-    <color name="LightRed">#ffdd0000</color>
+    <color name="LightRed">@*android:color/accent_material_light</color>
     <color name="LoginPageCaptionColor">@*android:color/background_dark</color>
     <color name="MainPageBackgroundColor">#ffeaeaea</color>
     <color name="PieFree">#9a829fd9</color>

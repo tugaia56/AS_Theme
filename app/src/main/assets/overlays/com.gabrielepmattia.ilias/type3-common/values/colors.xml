@@ -17,7 +17,7 @@
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -247,7 +247,7 @@
     <color name="md_theme_dark_error">#ffffb4ab</color>
     <color name="md_theme_dark_errorContainer">#ff93000a</color>
     <color name="md_theme_dark_inverseOnSurface">@*android:color/background_dark</color>
-    <color name="md_theme_dark_inversePrimary">#ffc00000</color>
+    <color name="md_theme_dark_inversePrimary">@*android:color/accent_material_dark</color>
     <color name="md_theme_dark_inverseSurface">#ffffffff</color>
     <color name="md_theme_dark_onBackground">#ffffffff</color>
     <color name="md_theme_dark_onError">#ff690005</color>
@@ -290,14 +290,14 @@
     <color name="md_theme_light_onTertiary">#ffffffff</color>
     <color name="md_theme_light_onTertiaryContainer">#ff002118</color>
     <color name="md_theme_light_outline">#ff857370</color>
-    <color name="md_theme_light_primary">#ffc00000</color>
+    <color name="md_theme_light_primary">@*android:color/accent_material_dark</color>
     <color name="md_theme_light_primaryContainer">#ffffdad4</color>
     <color name="md_theme_light_secondary">#ff9c4239</color>
     <color name="md_theme_light_secondaryContainer">#ffffffff</color>
     <color name="md_theme_light_shadow">@*android:color/background_dark</color>
     <color name="md_theme_light_surface">#fffffbff</color>
-    <color name="md_theme_light_surfaceTint">#ffc00000</color>
-    <color name="md_theme_light_surfaceTintColor">#ffc00000</color>
+    <color name="md_theme_light_surfaceTint">@*android:color/accent_material_dark</color>
+    <color name="md_theme_light_surfaceTintColor">@*android:color/accent_material_dark</color>
     <color name="md_theme_light_surfaceVariant">#fff5ddda</color>
     <color name="md_theme_light_tertiary">#ff006b55</color>
     <color name="md_theme_light_tertiaryContainer">#ff7ff8d3</color>
@@ -322,7 +322,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="seed">#ffc00000</color>
+    <color name="seed">@*android:color/accent_material_dark</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>

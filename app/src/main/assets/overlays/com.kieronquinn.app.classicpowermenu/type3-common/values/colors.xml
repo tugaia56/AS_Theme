@@ -19,7 +19,7 @@
     <color name="GM2_grey_900">@*android:color/background_dark</color>
     <color name="GM2_red_200">#fff6aea9</color>
     <color name="GM2_red_300">@*android:color/accent_material_dark</color>
-    <color name="GM2_red_400">#ffee675c</color>
+    <color name="GM2_red_400">@*android:color/accent_material_dark</color>
     <color name="GM2_red_50">#fffce8e6</color>
     <color name="GM2_red_500">#ffb71c1c</color>
     <color name="GM2_red_700">#ffc5221f</color>
@@ -45,7 +45,7 @@
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
