@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="letter_tile_color_list">
-        <item>@*android:color/car_blue_grey_900</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-    </array>
-    <array name="letter_tile_colors_oneplus_dark">
+    <array name="alternative_letter_tile_color_list">
         <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/accent_material_dark</item>
@@ -18,7 +9,7 @@
         <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/accent_material_dark</item>
     </array>
-    <array name="letter_tile_colors_oneplus_light">
+    <array name="alternative_letter_tile_color_list_dark">
         <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/accent_material_dark</item>
@@ -27,4 +18,22 @@
         <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/accent_material_dark</item>
     </array>
+    <array name="alternative_letter_tile_icon_color_list">
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+    </array>
+    <array name="alternative_letter_tile_icon_color_list_dark">
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+    </array>	
 </resources>
