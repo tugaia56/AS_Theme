@@ -58,6 +58,8 @@
     <color name="bt_window_background">#00ffffff</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
+    <color name="call_notification_decline_color">#ffdd0000</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -158,8 +160,11 @@
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="didomi_dark_bottom_divider">#b34c4c4c</color>
     <color name="didomi_dark_divider">#33ffffff</color>
+    <color name="didomi_dark_logo">#ffffffff</color>
     <color name="didomi_light_bottom_divider">#334c4c4c</color>
     <color name="didomi_light_divider">#3322262a</color>
+    <color name="didomi_light_logo">#ff1d4153</color>
+    <color name="didomi_retention_time_background">#ffe2f5f9</color>
     <color name="didomi_scroll_indicator_background">#e6696969</color>
     <color name="didomi_toggle_disabled">#ffe60000</color>
     <color name="didomi_toggle_enabled">#ff3d8548</color>
@@ -172,7 +177,10 @@
     <color name="didomi_tv_button_text">#fff9fafa</color>
     <color name="didomi_tv_checkbox">#ffffffff</color>
     <color name="didomi_tv_common_text">#fff9fafa</color>
+    <color name="didomi_tv_common_text_with_alpha">#80f9fafa</color>
     <color name="didomi_tv_focused">#ff2fabd5</color>
+    <color name="didomi_tv_info_tag">@*android:color/button_material_dark</color>
+    <color name="didomi_tv_info_tag_selected">@*android:color/background_leanback_dark</color>
     <color name="didomi_tv_neutrals">#fff9fafa</color>
     <color name="didomi_tv_neutrals_25">#40f9fafa</color>
     <color name="didomi_tv_neutrals_50">#80f9fafa</color>
@@ -189,6 +197,14 @@
     <color name="edit_text_default_color">@*android:color/background_dark</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
+    <color name="exo_black_opacity_60">#98000000</color>
+    <color name="exo_black_opacity_70">#b3000000</color>
+    <color name="exo_bottom_bar_background">#b0000000</color>
+    <color name="exo_edit_mode_background_color">#fff4f3f0</color>
+    <color name="exo_error_message_background_color">#aa000000</color>
+    <color name="exo_styled_error_message_background">#80808080</color>
+    <color name="exo_white">#ffffffff</color>
+    <color name="exo_white_opacity_70">#b3ffffff</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gray_1">#ff3c4858</color>
@@ -215,7 +231,7 @@
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
-    <color name="m3_ref_palette_neutral20">#ff313033</color>
+    <color name="m3_ref_palette_neutral20">#ff322f35</color>
     <color name="m3_ref_palette_neutral87">#ffded8e1</color>
     <color name="m3_ref_palette_neutral90">#ffe6e0e9</color>
     <color name="m3_ref_palette_neutral92">#ffece6f0</color>
@@ -508,7 +524,7 @@
     <color name="wallet_hint_foreground_holo_dark">#ff808080</color>
     <color name="wallet_hint_foreground_holo_light">#ff808080</color>
     <color name="wallet_holo_blue_light">@*android:color/accent_material_dark</color>
-    <color name="wallet_link_text_light">#ff0000ee</color>
+    <color name="wallet_link_text_light">@*android:color/accent_material_dark</color>
     <color name="white_100">#ffffffff</color>
     <color name="white_25">#40ffffff</color>
     <color name="white_45">#73ffffff</color>

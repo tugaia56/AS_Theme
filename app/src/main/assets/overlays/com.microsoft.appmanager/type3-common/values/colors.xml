@@ -50,7 +50,7 @@
     <color name="camera_button_disabled_color">@*android:color/accent_material_dark</color>
     <color name="camera_button_pressed_color">@*android:color/accent_material_dark</color>
     <color name="camera_button_rest_color">@*android:color/accent_material_dark</color>
-    <color name="camera_effects_dialog_background_color">#ff141414</color>
+    <color name="camera_effects_dialog_background_color">@*android:color/background_dark</color>
     <color name="camera_effects_dialog_item_button_tint">@*android:color/accent_material_dark</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -114,7 +114,7 @@
     <color name="devices_popup_stroke_color">#24000000</color>
     <color name="devices_poup_background">#e5efefef</color>
     <color name="devices_row_item_description">#ff6e6e6e</color>
-    <color name="devices_row_item_title">#ff141414</color>
+    <color name="devices_row_item_title">@*android:color/background_dark</color>
     <color name="dialogButtonText">@*android:color/accent_material_dark</color>
     <color name="dialogErrorText">#ffd92c2c</color>
     <color name="dialogMessageText">#ff919191</color>

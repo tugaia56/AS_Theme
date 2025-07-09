@@ -39,7 +39,6 @@ Per favore, apri le impostazioni dell\'app e concedi l\'autorizzazione \"Archivi
     <string name="apk_info">Apk Info</string>
     <string name="app_icon">Salva Icona App</string>
     <string name="app_info">Informazioni App</string>
-    <string name="app_name">Estrattore Package</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply">Domanda a</string>
     <string name="apps_extracted">Tutti gli apk selezionati estratti in %s</string>

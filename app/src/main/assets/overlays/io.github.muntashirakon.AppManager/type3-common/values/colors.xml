@@ -336,7 +336,7 @@
     <color name="salem_green">#ff1b8654</color>
     <color name="sand_tan">#ffe1b382</color>
     <color name="sand_tan_shadow">#ffc89666</color>
-    <color name="sd_label_text_color">#ff757575</color>
+    <color name="sd_label_text_color">@*android:color/button_material_dark</color>
     <color name="sd_overlay_color">#aaffffff</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>

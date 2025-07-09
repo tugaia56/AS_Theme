@@ -2,7 +2,7 @@
 <resources>
     <color name="Accent">@*android:color/button_material_dark</color>
     <color name="Background">#ffffffff</color>
-    <color name="TextColor">#ff242424</color>
+    <color name="TextColor">@*android:color/background_dark</color>
     <color name="TextPrimaryInverse">#ffffffff</color>
     <color name="TextSecondaryInverse">#ffffffff</color>
     <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
@@ -115,7 +115,7 @@
     <color name="comm_blue_30">#ffdeecf9</color>
     <color name="comm_blue_40">#ff092c47</color>
     <color name="comment_big_bubble_color">#ffa7cbf6</color>
-    <color name="comment_body_text_color">#ff404040</color>
+    <color name="comment_body_text_color">@*android:color/background_dark</color>
     <color name="comment_bubble_color">#fff8f8f8</color>
     <color name="comment_bubble_lines_color">#ffffffff</color>
     <color name="comment_bubble_overlay_color">#ff72acf1</color>
@@ -138,7 +138,7 @@
     <color name="content_card_action_text_background_color">#b2242424</color>
     <color name="content_card_ripple">#1a000000</color>
     <color name="content_card_text_shadow">#80000000</color>
-    <color name="current_plan_card_text">#ff404040</color>
+    <color name="current_plan_card_text">@*android:color/background_dark</color>
     <color name="danger_primary">#ffd92c2c</color>
     <color name="default_circle_indicator_fill_color">#ffffffff</color>
     <color name="default_circle_indicator_page_color">#00000000</color>
@@ -240,7 +240,7 @@
     <color name="fab_ripple_color">#ffaaaaaa</color>
     <color name="favorites_album_empty_background_color">#fffcf0d3</color>
     <color name="favorites_album_empty_icon_color">#fffabe14</color>
-    <color name="feedback_text_hint">#ff404040</color>
+    <color name="feedback_text_hint">@*android:color/background_dark</color>
     <color name="fluent_card_bg_empty_gradient_color_center">#247f85f5</color>
     <color name="fluent_card_bg_empty_gradient_color_end">#0f7f85f5</color>
     <color name="fluent_card_bg_empty_gradient_color_start">#33479ef5</color>
@@ -328,12 +328,12 @@
     <color name="fluent_global_brand_teams_100_14">#1f3e45c9</color>
     <color name="fluent_global_grey_10">#ff1a1a1a</color>
     <color name="fluent_global_grey_12">@*android:color/background_dark</color>
-    <color name="fluent_global_grey_14">#ff242424</color>
+    <color name="fluent_global_grey_14">@*android:color/background_dark</color>
     <color name="fluent_global_grey_16">#ff292929</color>
     <color name="fluent_global_grey_18">#ff2e2e2e</color>
-    <color name="fluent_global_grey_2">#ff050505</color>
-    <color name="fluent_global_grey_20">#ff333333</color>
-    <color name="fluent_global_grey_22">#ff383838</color>
+    <color name="fluent_global_grey_2">@*android:color/background_dark</color>
+    <color name="fluent_global_grey_20">@*android:color/button_material_dark</color>
+    <color name="fluent_global_grey_22">@*android:color/background_dark</color>
     <color name="fluent_global_grey_24">@*android:color/button_material_dark</color>
     <color name="fluent_global_grey_26">@*android:color/background_dark</color>
     <color name="fluent_global_grey_28">#ff474747</color>
@@ -364,7 +364,7 @@
     <color name="fluent_global_grey_74">#ffbdbdbd</color>
     <color name="fluent_global_grey_76">#ffc2c2c2</color>
     <color name="fluent_global_grey_78">#ffc7c7c7</color>
-    <color name="fluent_global_grey_8">#ff141414</color>
+    <color name="fluent_global_grey_8">@*android:color/background_dark</color>
     <color name="fluent_global_grey_80">#ffcccccc</color>
     <color name="fluent_global_grey_82">#ffd1d1d1</color>
     <color name="fluent_global_grey_84">#ffd6d6d6</color>
@@ -496,7 +496,7 @@
     <color name="fluent_global_shared_burgundy_tint_50">#fff0d3d4</color>
     <color name="fluent_global_shared_burgundy_tint_60">#fffbf4f4</color>
     <color name="fluent_global_shared_charcoal_primary">#ff393939</color>
-    <color name="fluent_global_shared_charcoal_shade_10">#ff333333</color>
+    <color name="fluent_global_shared_charcoal_shade_10">@*android:color/button_material_dark</color>
     <color name="fluent_global_shared_charcoal_shade_20">#ff2b2b2b</color>
     <color name="fluent_global_shared_charcoal_shade_30">#ff202020</color>
     <color name="fluent_global_shared_charcoal_shade_40">#ff111111</color>
@@ -1004,11 +1004,11 @@
     <color name="fluentui_gray_50">#fff1f1f1</color>
     <color name="fluentui_gray_500">#ff6e6e6e</color>
     <color name="fluentui_gray_56">#ff777777</color>
-    <color name="fluentui_gray_600">#ff404040</color>
+    <color name="fluentui_gray_600">@*android:color/background_dark</color>
     <color name="fluentui_gray_700">@*android:color/background_dark</color>
     <color name="fluentui_gray_800">#ff292929</color>
     <color name="fluentui_gray_900">@*android:color/button_material_dark</color>
-    <color name="fluentui_gray_950">#ff141414</color>
+    <color name="fluentui_gray_950">@*android:color/background_dark</color>
     <color name="fluentui_red">#ffd92c2c</color>
     <color name="fluentui_transparent">#00000000</color>
     <color name="fluentui_white">#ffffffff</color>
@@ -1023,7 +1023,7 @@
     <color name="global_alpha_brand_comm_60_50">#800f548c</color>
     <color name="global_transparent">#00000000</color>
     <color name="grid_view_comment_icon">#ff0078d4</color>
-    <color name="gridview_header_background_color_dark">#ff333333</color>
+    <color name="gridview_header_background_color_dark">@*android:color/button_material_dark</color>
     <color name="gridview_header_background_color_light">#fff4f4f4</color>
     <color name="header_subtext">#ff717171</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
@@ -1041,7 +1041,7 @@
     <color name="icon_color_monochrome">#ff6e6e6e</color>
     <color name="icon_color_primary">#ff919191</color>
     <color name="icon_shadow_stroke">#7a000000</color>
-    <color name="in_app_review_color_tint">#ff242424</color>
+    <color name="in_app_review_color_tint">@*android:color/background_dark</color>
     <color name="intune_default_background">#ffebebeb</color>
     <color name="intune_default_button_color">#ff024d89</color>
     <color name="invite_people_send_button_disable_color">#4dffffff</color>
@@ -1055,7 +1055,7 @@
     <color name="lenshvc_bell_teal">#ff28b8ce</color>
     <color name="lenshvc_black">@*android:color/background_dark</color>
     <color name="lenshvc_bottom_bar_color">#ffffffff</color>
-    <color name="lenshvc_bottom_bar_icon_text_color">#ff404040</color>
+    <color name="lenshvc_bottom_bar_icon_text_color">@*android:color/background_dark</color>
     <color name="lenshvc_bottom_sheet_black">#99000000</color>
     <color name="lenshvc_bulk_capture_button_description">@*android:color/button_material_dark</color>
     <color name="lenshvc_button_color">#ffffffff</color>
@@ -1157,7 +1157,7 @@
     <color name="lenshvc_reorder_loading_icon">@*android:color/button_material_dark</color>
     <color name="lenshvc_ripple_color">#ffaeaeae</color>
     <color name="lenshvc_ripple_color_with_transparency">#99aeaeae</color>
-    <color name="lenshvc_sample_doc_background_color">#ff141414</color>
+    <color name="lenshvc_sample_doc_background_color">@*android:color/background_dark</color>
     <color name="lenshvc_sample_doc_description_color">#ff919191</color>
     <color name="lenshvc_sample_doc_skip_button_color">#ff919191</color>
     <color name="lenshvc_save_button_background">#ff292929</color>

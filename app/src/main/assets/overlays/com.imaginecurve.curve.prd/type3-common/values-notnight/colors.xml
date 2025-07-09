@@ -11,8 +11,8 @@
     <color name="crvColorOnSurface">@*android:color/background_dark</color>
     <color name="crvColorPrimary">@*android:color/accent_material_dark</color>
     <color name="crvColorRipple">#ffb4b4b4</color>
-    <color name="crvColorSecondary">#ff1e1e1e</color>
-    <color name="crvColorSecondaryVariant">#ff1e1e1e</color>
+    <color name="crvColorSecondary">@*android:color/background_dark</color>
+    <color name="crvColorSecondaryVariant">@*android:color/background_dark</color>
     <color name="crvColorStatusBarColor">#fff5f5f5</color>
     <color name="crvColorStatusBarSurfaceColor">#ffffffff</color>
     <color name="crvColorSuccess">#ff50b554</color>

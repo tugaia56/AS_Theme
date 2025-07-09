@@ -685,7 +685,7 @@
     <color name="ms_pdf_viewer_annotation_color_signature_toolbar_save_button_disable">#ffacacac</color>
     <color name="ms_pdf_viewer_annotation_color_signature_toolbar_save_button_enabled">#ff0078d4</color>
     <color name="ms_pdf_viewer_annotation_color_white">#ffffffff</color>
-    <color name="ms_pdf_viewer_date_time_picker_background">#ff333333</color>
+    <color name="ms_pdf_viewer_date_time_picker_background">@*android:color/button_material_dark</color>
     <color name="ms_pdf_viewer_image_select_background">#ffffffff</color>
     <color name="ms_pdf_viewer_image_select_button_background">@*android:color/background_dark</color>
     <color name="ms_pdf_viewer_image_select_text">#ffffffff</color>
@@ -695,7 +695,7 @@
     <color name="ms_pdf_viewer_outline_page_number_color">#ff6e6e6e</color>
     <color name="ms_pdf_viewer_outline_text_color">@*android:color/background_dark</color>
     <color name="ms_pdf_viewer_outline_text_highlight_color">#ff0078d4</color>
-    <color name="ms_pdf_viewer_password_dialogUI_background_color">#ff333333</color>
+    <color name="ms_pdf_viewer_password_dialogUI_background_color">@*android:color/button_material_dark</color>
     <color name="ms_pdf_viewer_password_dialogUI_button_disable_color">#4dffffff</color>
     <color name="ms_pdf_viewer_password_dialogUI_button_focused_color">#33cccccc</color>
     <color name="ms_pdf_viewer_password_dialogUI_button_pressed_color">#40cccccc</color>
@@ -1014,7 +1014,7 @@
     <color name="sapphire_tab_preview_icon">#fff3f2f1</color>
     <color name="sapphire_tabs_accent_private">@*android:color/accent_material_dark</color>
     <color name="sapphire_tabs_background_private">@*android:color/background_dark</color>
-    <color name="sapphire_tabs_circle_private">#ff333333</color>
+    <color name="sapphire_tabs_circle_private">@*android:color/button_material_dark</color>
     <color name="sapphire_tabs_create_button_private">@*android:color/background_dark</color>
     <color name="sapphire_tabs_item_header_private">#ff3b3a39</color>
     <color name="sapphire_template_background_weather_color">#ff09081c</color>

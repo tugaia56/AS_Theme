@@ -418,7 +418,7 @@
     <color name="fluent_grey50">#ff808080</color>
     <color name="fluent_grey52">#ff858585</color>
     <color name="fluent_grey68">#ffadadad</color>
-    <color name="fluent_grey8">#ff141414</color>
+    <color name="fluent_grey8">@*android:color/background_dark</color>
     <color name="fluent_grey82">#ffd1d1d1</color>
     <color name="fluent_grey84">#ffd6d6d6</color>
     <color name="fluent_grey88">#ffe0e0e0</color>
@@ -443,11 +443,11 @@
     <color name="fluentui_gray_50">#fff1f1f1</color>
     <color name="fluentui_gray_500">#fff1f1f1</color>
     <color name="fluentui_gray_56">#ff777777</color>
-    <color name="fluentui_gray_600">#ff404040</color>
+    <color name="fluentui_gray_600">@*android:color/background_dark</color>
     <color name="fluentui_gray_700">@*android:color/background_dark</color>
     <color name="fluentui_gray_800">@*android:color/button_material_dark</color>
     <color name="fluentui_gray_900">@*android:color/background_dark</color>
-    <color name="fluentui_gray_950">#ff141414</color>
+    <color name="fluentui_gray_950">@*android:color/background_dark</color>
     <color name="fluentui_red">#ffd92c2c</color>
     <color name="fluentui_transparent">#00000000</color>
     <color name="fluentui_white">#ffffffff</color>
@@ -612,7 +612,7 @@
     <color name="lenshvc_reorder_loading_icon">@*android:color/background_dark</color>
     <color name="lenshvc_ripple_color">#ffaeaeae</color>
     <color name="lenshvc_ripple_color_with_transparency">#99aeaeae</color>
-    <color name="lenshvc_sample_doc_background_color">#ff141414</color>
+    <color name="lenshvc_sample_doc_background_color">@*android:color/background_dark</color>
     <color name="lenshvc_sample_doc_description_color">#ff919191</color>
     <color name="lenshvc_sample_doc_skip_button_color">#ff919191</color>
     <color name="lenshvc_save_button_background">@*android:color/button_material_dark</color>
@@ -863,7 +863,7 @@
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">@*android:color/button_material_dark</color>
     <color name="oaf_edittext_hint_color_light">#ff737373</color>
-    <color name="oaf_web_interface_dark_theme_bg_color">#ff141414</color>
+    <color name="oaf_web_interface_dark_theme_bg_color">@*android:color/background_dark</color>
     <color name="oaf_web_interface_light_theme_bg_color">#ffffffff</color>
     <color name="oc_attach_button_background_color">@*android:color/background_dark</color>
     <color name="oc_audio_meter_circle">#ff0772ca</color>

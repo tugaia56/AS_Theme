@@ -19,7 +19,7 @@
     <color name="consent_profile_email">#ffc8c8c8</color>
     <color name="consent_profile_name">#ffffffff</color>
     <color name="consent_scroll_bar_color">@*android:color/background_dark</color>
-    <color name="consent_terms_update_banner_background">#ff333333</color>
+    <color name="consent_terms_update_banner_background">@*android:color/button_material_dark</color>
     <color name="consent_terms_update_banner_border">#ff3d3d3d</color>
     <color name="consent_terms_update_banner_text_color">#ffe1e1e1</color>
     <color name="content_description_color">#ff999999</color>
@@ -45,7 +45,7 @@
     <color name="file_transfer_device_item_bgd_color">@*android:color/background_dark</color>
     <color name="file_transfer_device_item_card_bgd_color">@*android:color/background_dark</color>
     <color name="file_transfer_device_item_mask_color">#4dffffff</color>
-    <color name="file_transfer_sheet_divider_color">#ff333333</color>
+    <color name="file_transfer_sheet_divider_color">@*android:color/button_material_dark</color>
     <color name="file_transfer_sheet_primary_text_color">#fff0f0f0</color>
     <color name="file_transfer_sheet_progress_bar_primary_color">#ff83beec</color>
     <color name="file_transfer_sheet_secondary_text_color">#ffd6d6d6</color>
@@ -128,10 +128,10 @@
     <color name="oem_status_bar_background">@*android:color/background_dark</color>
     <color name="oem_switch_track_checked">@*android:color/background_dark</color>
     <color name="oem_switch_track_unchecked">@*android:color/background_dark</color>
-    <color name="organic_gentle_update_banner_background">#ff333333</color>
+    <color name="organic_gentle_update_banner_background">@*android:color/button_material_dark</color>
     <color name="organic_gentle_update_banner_border">#ff3d3d3d</color>
     <color name="organic_gentle_update_banner_icon_foreground">#ffd6d6d6</color>
-    <color name="organic_link_to_account_migration_banner_background">#ff333333</color>
+    <color name="organic_link_to_account_migration_banner_background">@*android:color/button_material_dark</color>
     <color name="organic_link_to_account_migration_banner_border">#ff3d3d3d</color>
     <color name="oss_license_text_color">#ffffffff</color>
     <color name="pfao_fre_account_item_login_status_color">@*android:color/accent_material_dark</color>
@@ -167,7 +167,7 @@
     <color name="startup_activity_background">@*android:color/background_dark</color>
     <color name="surface_brand_primary">#ff83beec</color>
     <color name="surface_secondary">#ff292929</color>
-    <color name="surface_tertiary">#ff333333</color>
+    <color name="surface_tertiary">@*android:color/button_material_dark</color>
     <color name="switch_divider_line_color">#ffd4d4d4</color>
     <color name="text_link_color">@*android:color/accent_material_dark</color>
     <color name="theme_color">@*android:color/background_dark</color>

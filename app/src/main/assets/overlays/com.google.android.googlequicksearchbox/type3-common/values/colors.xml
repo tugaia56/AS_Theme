@@ -820,7 +820,7 @@
     <color name="gm3_ref_palette_neutral_variant90">#ffe1e3e1</color>
     <color name="gm3_ref_palette_primary10">#ff041e49</color>
     <color name="gm3_ref_palette_primary100">#ffffffff</color>
-    <color name="gm3_ref_palette_primary20">#ff0000</color>
+    <color name="gm3_ref_palette_primary20">#ffffffff</color>
     <color name="gm3_ref_palette_primary30">#ff0842a0</color>
     <color name="gm3_ref_palette_primary40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary50">#ff1b6ef3</color>
@@ -942,7 +942,7 @@
     <color name="google_grey_100">#fff1f3f4</color>
     <color name="google_grey_200">#ffe8eaed</color>
     <color name="google_grey_300">#ffdcdce0</color>
-    <color name="google_grey_600">#ff0000</color>
+    <color name="google_grey_600">@*android:color/button_material_dark</color>
     <color name="google_grey_700">@*android:color/background_dark</color>
     <color name="google_grey_800">@*android:color/background_dark</color>
     <color name="google_grey_900">@*android:color/background_dark</color>

@@ -174,7 +174,7 @@
     <color name="colorGradientEnd">#fff51a52</color>
     <color name="colorGradientStart">@*android:color/background_dark</color>
     <color name="colorSelectedThumbnailBg">#ffffffff</color>
-    <color name="colorVideoLengthBg">#ff333333</color>
+    <color name="colorVideoLengthBg">@*android:color/button_material_dark</color>
     <color name="color_filter_tray_button_off">#9a000000</color>
     <color name="cta_highlight_background_color">#ff9480c3</color>
     <color name="cyan_5">#ff27c4f5</color>
@@ -294,7 +294,7 @@
     <color name="fbui_grey_50">#ff7f7f7f</color>
     <color name="fbui_grey_60">#ff666666</color>
     <color name="fbui_grey_70">#ff4c4c4c</color>
-    <color name="fbui_grey_80">#ff333333</color>
+    <color name="fbui_grey_80">@*android:color/button_material_dark</color>
     <color name="fbui_light_blue">#ffafc6f0</color>
     <color name="fbui_list_item_bg">#fffafafa</color>
     <color name="fbui_pressed_list_item_bg_opaque">#fff1f1f3</color>
@@ -437,7 +437,7 @@
     <color name="grey_13">#ffebf7fe</color>
     <color name="grey_14">#ff6a717a</color>
     <color name="grey_15">#ffa2aab4</color>
-    <color name="grey_16">#ff1e1e1e</color>
+    <color name="grey_16">@*android:color/background_dark</color>
     <color name="grey_18">#fff3f5f7</color>
     <color name="grey_1_15_transparent">#26efefef</color>
     <color name="grey_1_30_transparent">#4defefef</color>
@@ -470,7 +470,7 @@
     <color name="grey_8_30_transparent">#4d363636</color>
     <color name="grey_8_40_transparent">#66363636</color>
     <color name="grey_8_70_transparent">#b3363636</color>
-    <color name="grey_9">#ff262626</color>
+    <color name="grey_9">@*android:color/background_leanback_dark</color>
     <color name="grey_9_10_transparent">#e6262626</color>
     <color name="grey_9_20_transparent">#33262626</color>
     <color name="grey_9_30_transparent">#4d262626</color>
@@ -708,7 +708,7 @@
     <color name="rp_default_accent_color">#ff0a7cff</color>
     <color name="sc_default_button_background_color">#ff3578e5</color>
     <color name="sc_default_button_pressed_background_color">#ff2851a3</color>
-    <color name="sc_fds_gray_00">#ff050505</color>
+    <color name="sc_fds_gray_00">@*android:color/background_dark</color>
     <color name="sc_fds_gray_100">#fff7f8fa</color>
     <color name="sc_fds_gray_40">#ff65676b</color>
     <color name="sc_fds_gray_90">#ffe4e6eb</color>
@@ -770,7 +770,7 @@
     <color name="xav_netego_profile_banner_background">#ff00125a</color>
     <color name="yellow_10">#fffffc00</color>
     <color name="yellow_11">#fffee500</color>
-    <color name="zero_rating_data_banner_color">#ff262626</color>
+    <color name="zero_rating_data_banner_color">@*android:color/background_leanback_dark</color>
     <color name="zero_rating_video_settings_drawer_cancel_button_color">#ff272727</color>
     <color name="zero_rating_video_settings_drawer_confirm_background_color">#ff3897f0</color>
     <color name="zero_rating_video_settings_drawer_subtitle_color">#ff999999</color>

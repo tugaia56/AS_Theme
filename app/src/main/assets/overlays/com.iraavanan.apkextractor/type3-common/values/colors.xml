@@ -43,7 +43,7 @@
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>
     <color name="design_dark_default_color_on_error">@*android:color/background_dark</color>
-    <color name="design_dark_default_color_on_primary">@*android:color/background_dark</color>
+    <color name="design_dark_default_color_on_primary">@*android:color/white</color>
     <color name="design_dark_default_color_on_secondary">@*android:color/background_dark</color>
     <color name="design_dark_default_color_on_surface">#ffffffff</color>
     <color name="design_dark_default_color_primary">#ffba86fc</color>

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accentCorporate">@*android:color/accent_material_dark</color>
     <color name="activeCorporate">#26feeceb</color>
     <color name="activeJob">#26e6f8f5</color>
     <color name="activeMarket">#26fdf6e5</color>
     <color name="activeMotors">#26e9edff</color>
     <color name="activeRealEstate">#26f4e9ff</color>
-    <color name="backdropCorporate">@*android:color/background_leanback_dark</color>	
-    <color name="complementaryIconSelected">@*android:color/accent_material_dark</color>
-    <color name="complementaryIcon">#ffffffff</color>
     <color name="mc_auto_reply_config_timeframe_item_time_select_text_color">#ffaaaaaa</color>
     <color name="mc_color_primary">@*android:color/background_dark</color>
     <color name="mc_color_primary_dark">@*android:color/background_dark</color>
@@ -36,8 +32,5 @@
     <color name="mc_system_message_link_background_color">@*android:color/background_dark</color>
     <color name="mc_system_message_link_pressed_background_color">@*android:color/background_dark</color>
     <color name="mc_text_color">@*android:color/white</color>
-    <color name="outlinePressedCorporate">@*android:color/keyguard_avatar_frame_pressed_color</color>
-    <color name="redCorporateL3">@*android:color/keyguard_avatar_frame_pressed_color</color>	
-    <color name="textButtons">@*android:color/white</color>
     <color name="stream_compose_grey_gainsboro">@*android:color/background_dark</color>
 </resources>

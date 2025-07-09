@@ -135,7 +135,7 @@
     <color name="androidx_core_ripple_material_light">#1f000000</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="answer_green_color">#ff00bd13</color>
-    <color name="answer_green_color_night">#ff24b232</color>
+    <color name="answer_green_color_night">@*android:color/accent_material_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="blur_cover_color">#e6ffffff</color>
@@ -1419,7 +1419,7 @@
     <color name="country_search_view_bg">#7576c1aa</color>
     <color name="country_white">#ffffffff</color>
     <color name="decline_red_color">#ffeb3b2f</color>
-    <color name="decline_red_color_night">#ffeb493d</color>
+    <color name="decline_red_color_night">@*android:color/accent_material_dark</color>
     <color name="default_panel_background">#ffffffff</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
@@ -1459,7 +1459,7 @@
     <color name="dialer_theme_color">#ff0288d1</color>
     <color name="dialer_theme_color_dark">#ff0277bd</color>
     <color name="dialog_verify_title">#ff363636</color>
-    <color name="dialpad_digits_text_color">#ff333333</color>
+    <color name="dialpad_digits_text_color">@*android:color/button_material_dark</color>
     <color name="dialtacts_theme_color">#ff0288d1</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -1520,7 +1520,7 @@
     <color name="incall_background_mark_color">#ffffddb9</color>
     <color name="incall_background_normal_color">#ff80ffaf</color>
     <color name="incall_banner_secondary_background_color">#fff5f5f5</color>
-    <color name="incall_banner_secondary_text_color">#ff333333</color>
+    <color name="incall_banner_secondary_text_color">@*android:color/button_material_dark</color>
     <color name="incall_black_color">@*android:color/background_dark</color>
     <color name="incall_btn_disabled_color">#4dffffff</color>
     <color name="incall_btn_enabled_color">#d9ffffff</color>

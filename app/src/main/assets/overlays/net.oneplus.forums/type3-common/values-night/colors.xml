@@ -31,7 +31,7 @@
     <color name="couiBlueFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueFifthOnPopupNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueFifthTextNormal">@*android:color/accent_material_dark</color>
-    <color name="couiBlueFirstLightNormal">#4d00bfc0</color>
+    <color name="couiBlueFirstLightNormal">@*android:color/ripple_material_dark</color>
     <color name="couiBlueFirstNormal">#ff00bfc0</color>
     <color name="couiBlueFourthLightNormal">#4d738099</color>
     <color name="couiBlueSecondLightNormal">#4d3662a8</color>
@@ -221,7 +221,7 @@
     <color name="coui_lock_pattern_success_color">#ffffffff</color>
     <color name="coui_navigation_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_divider_color">#33ffffff</color>
-    <color name="coui_navigation_enlarge_default_bg">#ff141414</color>
+    <color name="coui_navigation_enlarge_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_rail_icon_unselected_color">#ffffffff</color>
     <color name="coui_navigation_tool_color_disabled">#4dffffff</color>
     <color name="coui_navigation_tool_color_normal">#ffffffff</color>

@@ -28,12 +28,12 @@
         <item>@*android:color/accent_material_dark</item>
     </array>
     <array name="alternative_letter_tile_icon_color_list_dark">
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
-        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/white</item>
+        <item>@*android:color/white</item>
+        <item>@*android:color/white</item>
+        <item>@*android:color/white</item>
+        <item>@*android:color/white</item>
+        <item>@*android:color/white</item>
+        <item>@*android:color/white</item>
     </array>	
 </resources>

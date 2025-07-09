@@ -12,7 +12,7 @@
     <color name="oneplus_tab_layout_stroke_color_default">#33ffffff</color>
     <color name="oos11_active_progress_color">#ffaefef7</color>
     <color name="oos11_background_cardview1">@*android:color/background_dark</color>
-    <color name="oos11_background_color_selected">#ff1e1e1e</color>
+    <color name="oos11_background_color_selected">@*android:color/background_dark</color>
     <color name="oos11_bubble_color_grey">@*android:color/background_dark</color>
     <color name="oos11_checked_background_color">#ffffffff</color>
     <color name="oos11_checked_marker_color">@*android:color/background_dark</color>

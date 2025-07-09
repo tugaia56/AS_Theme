@@ -352,7 +352,7 @@
     <color name="grey_hex_1b">@*android:color/background_dark</color>
     <color name="grey_hex_1c">@*android:color/background_dark</color>
     <color name="grey_hex_1d">@*android:color/background_dark</color>
-    <color name="grey_hex_1e">#ff1e1e1e</color>
+    <color name="grey_hex_1e">@*android:color/background_dark</color>
     <color name="grey_hex_1f">@*android:color/background_dark</color>
     <color name="grey_hex_20">@*android:color/background_dark</color>
     <color name="grey_hex_21">@*android:color/background_dark</color>

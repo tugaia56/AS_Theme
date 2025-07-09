@@ -115,7 +115,7 @@
     <color name="full_battery_remaining_end">#ff02d272</color>
     <color name="full_battery_remaining_start">#ff11db85</color>
     <color name="gray1A">@*android:color/background_dark</color>
-    <color name="gray40">#ff404040</color>
+    <color name="gray40">@*android:color/background_dark</color>
     <color name="grayCC">#ffcccccc</color>
     <color name="grayE0">#ffe0e0e0</color>
     <color name="grayEE">#ffeeeeee</color>

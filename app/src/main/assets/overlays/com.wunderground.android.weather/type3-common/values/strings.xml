@@ -77,6 +77,8 @@
     <string name="ad_free_upsell_image_description">Enjoy uninterrupted video content. Go Ad Free.</string>
     <string name="ad_lotame_domain">https://bcp.crwdcntrl.net</string>
     <string name="ad_wfx_domain">http://triggers.wfxtriggers.com</string>
+    <string name="adobe_app_id_dev">ddcf247e4bf5/a4517f7f3424/launch-be6764b42bcf-development</string>
+    <string name="adobe_app_id_prod">ddcf247e4bf5/a4517f7f3424/launch-e5d7ef3bbc08</string>
     <string name="ads_short_desc">Giving this app permission to serve advertisements based on your interests provides a better ad experience that is more personalized.</string>
     <string name="ads_title">Personalized Advertising</string>
     <string name="air_quality_index">air quality index</string>
@@ -107,7 +109,6 @@
     <string name="announced_for_accessibility_event_advertisement">Advertisement. Open in browser</string>
     <string name="announced_for_accessibility_event_location_added_to_favorites">Location added to favorites</string>
     <string name="announced_for_accessibility_event_location_removed_from_favorites">Location removed from favorites</string>
-    <string name="announced_for_accessibility_ibm_logo">IBM Logo</string>
     <string name="announced_for_accessibility_minutes">Minutes</string>
     <string name="app_name">Weather</string>
     <string name="app_name_wunderground">Wunderground</string>
@@ -125,6 +126,7 @@ The AQI ranges from 0 to 500. The higher the AQI value, the greater the level of
     <string name="aqi_link_sensor_connect">https://www.purpleair.com/register</string>
     <string name="aqi_screen_today">TODAY</string>
     <string name="aqi_source">Source:</string>
+    <string name="assurance_title">Assurance</string>
     <string name="available_on_google_play_label">AVAILABLE ON GOOGLE PLAY</string>
     <string name="back_button_content_description">back</string>
     <string name="background_color">Background Color</string>
@@ -159,7 +161,7 @@ The AQI ranges from 0 to 500. The higher the AQI value, the greater the level of
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="close">Close</string>
     <string name="close_btn">Close</string>
-    <string name="com.crashlytics.android.build_id">5a203f4301294c5496add913ba1a95b1</string>
+    <string name="com.crashlytics.android.build_id">30eb92d12ca04bc09148ff3fe9f490c4</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -583,8 +585,8 @@ wherever you go"</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
-    <string name="mtrl_picker_cancel">@*android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@*android:string/ok</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select a Date</string>
     <string name="mtrl_picker_date_header_unselected">Selected date</string>
@@ -810,6 +812,11 @@ We gather your data to tailor the Services to you, understanding your likes and 
     <string name="project_id">wu-flagship-app</string>
     <string name="purposes_loading_error">Unable to load Privacy Settings</string>
     <string name="pws_title">Weather Station</string>
+    <string name="quick_connect_button_cancel">Cancel</string>
+    <string name="quick_connect_button_connect">Connect</string>
+    <string name="quick_connect_button_retry">Retry</string>
+    <string name="quick_connect_button_waiting">Waiting..</string>
+    <string name="quick_connect_description">"Confirm connection by visiting your session's connection detail screen"</string>
     <string name="radar_image_base_url_1">http://api-ak1.wunderground.com/api/%1$s/radar/image.png</string>
     <string name="radar_image_base_url_2">http://api-ak2.wunderground.com/api/%1$s/radar/image.png</string>
     <string name="radar_image_base_url_3">http://api-ak3.wunderground.com/api/%1$s/radar/image.png</string>

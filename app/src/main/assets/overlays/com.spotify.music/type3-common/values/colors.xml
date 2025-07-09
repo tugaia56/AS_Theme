@@ -322,7 +322,7 @@
     <color name="gradient_start_color_playing">#b3000000</color>
     <color name="gray_10">@*android:color/background_dark</color>
     <color name="gray_15">@*android:color/background_dark</color>
-    <color name="gray_20">#ff333333</color>
+    <color name="gray_20">@*android:color/button_material_dark</color>
     <color name="gray_30">@*android:color/background_dark</color>
     <color name="gray_50">#ff7f7f7f</color>
     <color name="gray_7">@*android:color/background_dark</color>

@@ -365,7 +365,7 @@
     <color name="inbox_item_read_bg">#fff0f5f7</color>
     <color name="inbox_item_text">#ff5e5e5e</color>
     <color name="inbox_item_time">#ffbdbdbd</color>
-    <color name="inbox_item_title">#ff333333</color>
+    <color name="inbox_item_title">@*android:color/button_material_dark</color>
     <color name="informaticalText">#ffa2a1a1</color>
     <color name="lightBlue">#ffd2e8f0</color>
     <color name="light_gray">#ffa9a9a9</color>

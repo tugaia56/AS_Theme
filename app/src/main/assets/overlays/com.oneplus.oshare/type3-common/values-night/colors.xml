@@ -9,7 +9,7 @@
     <color name="chip_checked_text_disable_color">#29ffffff</color>
     <color name="chip_unchecked_background_color">#1affffff</color>
     <color name="common_background_color">@*android:color/background_dark</color>
-    <color name="couiBlueColorDisableNormal">#4d00bfc0</color>
+    <color name="couiBlueColorDisableNormal">@*android:color/ripple_material_dark</color>
     <color name="couiBlueColorFocusNormal">#3300bfc0</color>
     <color name="couiBlueColorFocusOutlineNormal">#6600bfc0</color>
     <color name="couiBlueFifthColorDisableNormal">#4d24b232</color>
@@ -19,7 +19,7 @@
     <color name="couiBlueFifthNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueFifthOnPopupNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueFifthTextNormal">@*android:color/accent_material_dark</color>
-    <color name="couiBlueFirstLightNormal">#4d00bfc0</color>
+    <color name="couiBlueFirstLightNormal">@*android:color/ripple_material_dark</color>
     <color name="couiBlueFirstNormal">#ff00bfc0</color>
     <color name="couiBlueFourthColorFocusNormal">#33738099</color>
     <color name="couiBlueFourthLightNormal">#4d738099</color>
@@ -96,7 +96,7 @@
     <color name="couiOrangeTintColorDisableNormal">#4dfe7c48</color>
     <color name="couiOrangeTintColorFocusNormal">#1ffe7c48</color>
     <color name="couiOrangeTintColorFocusOutlineNormal">#66fe7c48</color>
-    <color name="couiOrangeTintControlNormal">#fffe7c48</color>
+    <color name="couiOrangeTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedColorFocusNormal">#33f23d5b</color>
     <color name="couiRedFifthColorDisableNormal">#4dea3939</color>
     <color name="couiRedFifthColorFocusNormal">#33ea3939</color>
@@ -119,7 +119,7 @@
     <color name="couiRedTintColorFocusNormal">#1fed413b</color>
     <color name="couiRedTintColorFocusOutlineNormal">#66ed413b</color>
     <color name="couiRedTintControlDisabled">#33ffffff</color>
-    <color name="couiRedTintControlNormal">#ffed413b</color>
+    <color name="couiRedTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedTintLightNormal">#33ea3447</color>
     <color name="couiRedTintLightPressed">#33e81d32</color>
     <color name="couiSingleEighthColorFocusNormal">#337e70ff</color>
@@ -183,8 +183,8 @@
     <color name="couiYellowTintColorFocusNormal">#1fffba19</color>
     <color name="couiYellowTintColorFocusOutlineNormal">#66ffba19</color>
     <color name="couiYellowTintControlDisabled">#33ffffff</color>
-    <color name="couiYellowTintControlNormal">#ffffba19</color>
-    <color name="couiYellowTintControlPressed">#ffcc9514</color>
+    <color name="couiYellowTintControlNormal">@*android:color/accent_material_dark</color>
+    <color name="couiYellowTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiYellowTintLightNormal">#4dfac000</color>
     <color name="couiYellowTintLightPressed">#33ffba19</color>
     <color name="coui_alert_dialog_background_tint">@*android:color/background_dark</color>
@@ -359,7 +359,7 @@
     <color name="coui_color_secondary_yellow">#40e5a100</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">@*android:color/background_dark</color>
-    <color name="coui_color_surface_top">#ff333333</color>
+    <color name="coui_color_surface_top">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_color_violet">@*android:color/accent_material_dark</color>

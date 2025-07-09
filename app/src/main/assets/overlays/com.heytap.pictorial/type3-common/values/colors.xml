@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="Azure40">#ff209de5</color>
+    <color name="Azure40">@*android:color/accent_material_dark</color>
     <color name="Azure50">@*android:color/accent_material_dark</color>
     <color name="AzureVariant">#ff45abe5</color>
     <color name="AzureVariantDark">#ff3d98cc</color>
@@ -690,7 +690,7 @@
     <color name="coui_clickable_text_color_selected">@*android:color/ripple_material_dark</color>
     <color name="coui_code_input_security_circle_color">#d8000000</color>
     <color name="coui_color_additional_azure">@*android:color/accent_material_dark</color>
-    <color name="coui_color_additional_azure_dark">#ff209de5</color>
+    <color name="coui_color_additional_azure_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_azure_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_blue_dark">@*android:color/accent_material_dark</color>
@@ -750,7 +750,7 @@
     <color name="coui_color_assist_yellow_dark">#ffc29427</color>
     <color name="coui_color_assist_yellow_light">#ffe5af2e</color>
     <color name="coui_color_azure">@*android:color/accent_material_dark</color>
-    <color name="coui_color_azure_dark">#ff209de5</color>
+    <color name="coui_color_azure_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure_variant">#ff45abe5</color>
     <color name="coui_color_azure_variant_dark">#ff3d98cc</color>
@@ -1462,7 +1462,7 @@
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="fb_loading_container_background_color">#fff3f4f6</color>
     <color name="feedback_background_color">#fff0f1f2</color>
-    <color name="feedback_dialog_bg_night">#ff1e1e1e</color>
+    <color name="feedback_dialog_bg_night">@*android:color/background_dark</color>
     <color name="feedback_dialog_separator_line_light">#1f000000</color>
     <color name="feedback_dialog_separator_line_night">#1fffffff</color>
     <color name="feedback_green">#ff3de092</color>

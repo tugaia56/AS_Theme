@@ -15,7 +15,7 @@
     <color name="glance_colorOnSecondary">#ff332d41</color>
     <color name="glance_colorOnSecondaryContainer">#ffe8def8</color>
     <color name="glance_colorOnSurface">#ffe6e1e5</color>
-    <color name="glance_colorOnSurfaceInverse">#ff313033</color>
+    <color name="glance_colorOnSurfaceInverse">@*android:color/button_material_dark</color>
     <color name="glance_colorOnSurfaceVariant">#ffcac4d0</color>
     <color name="glance_colorOnTertiary">#ff492532</color>
     <color name="glance_colorOnTertiaryContainer">#ffffd8e4</color>
@@ -31,10 +31,23 @@
     <color name="glance_colorTertiary">#ffefb8c8</color>
     <color name="glance_colorTertiaryContainer">#ff633b48</color>
     <color name="glance_colorWidgetBackground">#ff20333d</color>
-    <color name="nest_aware_current_plan_banner">#2e8ab4f8</color>
     <color name="nest_aware_plan_background_selected">#2e8ab4f8</color>
-    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
+    <color name="settingslib_materialColorOnPrimary">#ff003730</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">#ffa1f1e2</color>
+    <color name="settingslib_materialColorOnSurface">#ffe5e2e1</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">#ffc7c7c7</color>
+    <color name="settingslib_materialColorOutline">#ff919191</color>
+    <color name="settingslib_materialColorPrimary">#ff83d6c7</color>
+    <color name="settingslib_materialColorPrimaryContainer">#ff005047</color>
+    <color name="settingslib_materialColorSecondaryContainer">#ff334c47</color>
+    <color name="settingslib_materialColorSurfaceContainer">#ff1f1f1f</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">#ff2a2a2a</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">#ff343434</color>
+    <color name="settingslib_materialColorSurfaceVariant">#ff474747</color>
+    <color name="survey_disabled_state_color">#61e8eaed</color>
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
     <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
     <color name="swipe_refresh_progress_background">#ff35363a</color>
+    <color name="top_label_background_color">#ffa8c7fa</color>
+    <color name="top_label_text_color">#ff0a3818</color>
 </resources>

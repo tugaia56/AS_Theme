@@ -74,7 +74,7 @@
     <color name="com_braze_inappmessage_button_text_light">@*android:color/white</color>
     <color name="com_braze_inappmessage_chevron">#ff9b9b9b</color>
     <color name="com_braze_inappmessage_frame_light">#c0333333</color>
-    <color name="com_braze_inappmessage_header_text">#ff333333</color>
+    <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
     <color name="com_braze_inappmessage_text">#ff555555</color>
@@ -338,7 +338,7 @@
     <color name="idnow_ocr_result_rounded_background">#ffc9c9c9</color>
     <color name="idnow_overlay_gray_background">#f2777777</color>
     <color name="idnow_popup_background_color">#e61e1e1e</color>
-    <color name="idnow_popup_background_color_solid">#ff333333</color>
+    <color name="idnow_popup_background_color_solid">@*android:color/button_material_dark</color>
     <color name="idnow_progress_end_color">#26000000</color>
     <color name="idnow_seach_field_bg">#ffeeeeee</color>
     <color name="idnow_semi_transparent">#50000000</color>

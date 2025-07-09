@@ -132,7 +132,7 @@
     <color name="gray_line">#ffeeeef5</color>
     <color name="gray_text">#ff505050</color>
     <color name="gray_text2">#ffa0a0a0</color>
-    <color name="gray_text_pressed">#ff404040</color>
+    <color name="gray_text_pressed">@*android:color/background_dark</color>
     <color name="gray_white">#ffe0e0e0</color>
     <color name="gray_white_pressed">#ffd0d0d0</color>
     <color name="green1">#ff0099cc</color>
@@ -316,7 +316,7 @@
     <color name="m3_sys_color_secondary_fixed_dim">#ffee58</color>
     <color name="m3_sys_color_tertiary_fixed">#fff176</color>
     <color name="m3_sys_color_tertiary_fixed_dim">#fff59d</color>
-    <color name="main_backgroud">#ff333333</color>
+    <color name="main_backgroud">@*android:color/button_material_dark</color>
     <color name="main_blue">#ff00a9ec</color>
     <color name="main_blue2">#ff006688</color>
     <color name="main_blue3">#ff0caded</color>
@@ -441,7 +441,7 @@
     <color name="tt_black">@*android:color/background_dark</color>
     <color name="tt_cancle_bg">#fddcdcdc</color>
     <color name="tt_divider">#ffdcdcdc</color>
-    <color name="tt_download_app_name">#ff333333</color>
+    <color name="tt_download_app_name">@*android:color/button_material_dark</color>
     <color name="tt_download_bar_background">#c21e1e1e</color>
     <color name="tt_download_bar_background_new">#e4ffffff</color>
     <color name="tt_download_text_background">#ff4a90e2</color>

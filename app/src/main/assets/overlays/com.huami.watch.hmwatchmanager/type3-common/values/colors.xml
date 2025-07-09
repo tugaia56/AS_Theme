@@ -308,7 +308,7 @@
     <color name="cl_fbfbfb">#fffbfbfb</color>
     <color name="cl_ff000000">@*android:color/background_dark</color>
     <color name="cl_ff191919">#ff191919</color>
-    <color name="cl_ff333333">@*android:color/holo_light_primary_dark</color>
+    <color name="cl_@*android:color/button_material_dark">@*android:color/holo_light_primary_dark</color>
     <color name="cl_ff388AFF">#ff388aff</color>
     <color name="cl_ff4393f9">#ff4393f9</color>
     <color name="cl_ff4c4c4c">#ff4c4c4c</color>

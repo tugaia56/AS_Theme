@@ -58,7 +58,7 @@
     <string name="accessibility_tues">MAR</string>
     <string name="accessibility_tuesday">Martedì</string>
     <string name="accessibility_wed">MER</string>
-    <string name="accessibility_wednesday">Mercoledì</string>													   
+    <string name="accessibility_wednesday">Mercoledì</string>
 	<string name="ack_apache">&amp;#8226; Licenza Apache, versione 2.0 &lt;br/>&lt;br/> ©Copyright 2019 The Weather Company, LLC &lt;br/>&lt;br/> Concesso in licenza ai sensi della licenza Apache, versione 2.0 (la Licenza); non è possibile utilizzare questo file se non in conformità con la Licenza. È possibile ottenere una copia della licenza all\'indirizzo &lt;br/>&lt;br/> http://www.apache.org/licenses/LICENSE-2.0 &lt;br/>&lt;br/> A meno che non sia richiesto dalla legge applicabile o concordato per iscritto, il software &lt;br/> distribuito sotto la Licenza è distribuito COSÌ COM\'È,&lt;br/> SENZA GARANZIE O CONDIZIONI DI ALCUN TIPO, esplicite o implicite.&lt;br/> Consultare la Licenza per la lingua specifica che regola le autorizzazioni e le&lt;br/> limitazioni previste dalla licenza.</string>
     <string name="action_gps">GPS</string>
     <string name="action_gps_dsc">Seleziona posizione GPS</string>
@@ -74,6 +74,7 @@
     <string name="ad_factual_domain">https://location.wfxtriggers.com</string>
     <string name="ad_factual_key">7620026f-cfb6-4d0c-9f8e-434ff0cd34d0</string>
 	<string name="ad_free_terms_usage">"Questo abbonamento Premium Pro è solo per questa app Android. Gli abbonamenti per altre app e per il sito web meteo.com sono venduti separatamente. Per le offerte di prova gratuita, non ti verrà addebitato alcun costo e il tuo abbonamento non verrà iniziare se lo annulli 24 ore prima della scadenza del periodo di prova gratuito. Puoi annullare il rinnovo dell\'abbonamento in qualsiasi momento tramite le impostazioni dell\'account Play Store oppure si rinnoverà automaticamente. Questa operazione deve essere eseguita 24 ore prima della fine di qualsiasi periodo di abbonamento per evitare di essere addebitata un\'altra tariffa indicata nel pulsante in alto. Non sono previsti rimborsi o accrediti per periodi di fatturazione parziali. I pagamenti dell\'abbonamento verranno addebitati sul tuo account Play Store alla conferma dell\'acquisto e all\'inizio di ciascun periodo di rinnovo. Per ulteriori informazioni, consulta la nostra &lt;a href=\'https://weather.com/en-US/twc/privacy-policy\'>Informativa sulla privacy&lt;/a> e &lt;a href=\'https://weather.com/legal\'>Termini di utilizzo&lt;/a>."</string>
+    <string name="ad_free_upsell_image_description">Goditi contenuti video senza interruzioni. Senza pubblicità.</string>
     <string name="ads_short_desc">Concedere a questa app l\'autorizzazione a pubblicare annunci pubblicitari in base ai propri interessi offre un\'esperienza pubblicitaria migliore e più personalizzata.</string>
     <string name="ads_title">Pubblicità Personalizzata</string>
     <string name="air_quality_index">"indice di qualità dell\'aria"</string>
@@ -95,18 +96,13 @@
     <string name="alerts_for_location_already_exists">Già esistente.</string>
     <string name="alerts_for_location_not_available">Gli avvisi non sono disponibili per questa posizione.</string>
     <string name="allow_alerts_item">Consenti</string>
-																		  
-    <string name="android_item_touch_helper">• Android ItemTouchHelper - Paul Burke</string>
     <string name="announce_for_accessibility_ideal_smart_forecast_times">Tempi ideali prossimi per %1$s sono %2$s</string>
     <string name="announced_for_accessibility_event_advertisement">Annuncio pubblicitario. Apri nel browser</string>
     <string name="announced_for_accessibility_event_location_added_to_favorites">Posizione aggiunta ai preferiti</string>
     <string name="announced_for_accessibility_event_location_removed_from_favorites">Posizione rimossa dai preferiti</string>
-    <string name="announced_for_accessibility_ibm_logo">IBM Logo</string>
-    <string name="announced_for_accessibility_minutes">Minuti</string>																										  
+    <string name="announced_for_accessibility_minutes">Minuti</string>
     <string name="app_name">Meteo</string>
     <string name="app_name_wunderground">Wunderground</string>
-																																
-																 
     <string name="aqi_category_good">Buono</string>
     <string name="aqi_category_hazardous">Pericoloso</string>
 <string name="aqi_dialog_text">"Monitiamo sei criteri inquinanti considerati dannosi per la salute pubblica e l'ambiente. Questi includono monossido di carbonio, biossido di azoto, ozono, particolato (10 µm o meno e 2,5 µm o meno), nonché zolfo biossido.
@@ -116,10 +112,10 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="aqi_disclaimer">Dichiarazione:</string>
     <string name="aqi_screen_today">OGGI</string>
     <string name="aqi_source">Fonte:</string>
+    <string name="assurance_title">Garanzia</string>
     <string name="available_on_google_play_label">DISPONIBILE SU GOOGLE PLAY</string>
     <string name="back_button_content_description">indietro</string>
     <string name="background_color">Colore Sfondo</string>
-																											 
     <string name="branch_is_empty">Il ramo Airlock non è definito nel sistema.</string>
     <string name="branches_list_header">Seleziona un ramo per questo dispositivo. Un ramo potrebbe sovrascrivere la configurazione del matser airlock. Fare clic sul pulsante per cancellare la selezione del ramo.</string>																			
     <string name="buy_sensor">acquista il sensore</string>
@@ -140,15 +136,11 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="cc_weather_quickie_warmer">PIÙ CALDA</string>
     <string name="cc_wind">Vento</string>
     <string name="chance_of_precipitation">Possibilità di precipitazioni</string>
+    <string name="change_to_opt_out">Modifica per disattivare</string>
     <string name="character_counter_content_description">Limite di caratteri superato %1$d DI %2$d</string>
     <string name="children_list_header">Elenco delle funzionalità secondarie in ordine calcolato</string>
-															   
-																						
-											   
     <string name="close">Chiudi</string>
     <string name="close_btn">Chiudi</string>
-										   
-																							 
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
     <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
@@ -167,7 +159,6 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="common_open_on_phone">Apri sul telefono</string>
     <string name="common_signin_button_text">Accedi</string>
     <string name="common_signin_button_text_long">Accedi con Google</string>
-															  
     <string name="connect_an_air_quality_sensor">"Collega un sensore della qualità dell\'aria"</string>
     <string name="connect_wu_follow_us_on_instagram">Seguici su Instagram</string>
     <string name="connect_wu_follow_us_on_pinterest">Seguici su Pinterest</string>
@@ -182,29 +173,40 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="current_location_label">Posizione attuale</string>
     <string name="daily_forecast_error_mode_label">Modalità Previsione giornaliera errore API</string>
     <string name="daily_history_error_mode_label">Modalità cronologia quotidiana errore API</string>
+    <string name="data_inventory_adId">ID annuncio</string>
+    <string name="data_inventory_airlytics">airlytics</string>
+    <string name="data_inventory_appId">ID applicazione</string>
+    <string name="data_inventory_application_ids">ID applicazione</string>
+    <string name="data_inventory_appsflyer">volantino delle applicazioni</string>
+    <string name="data_inventory_apptentive">apprendista</string>
+    <string name="data_inventory_braze">braze</string>
+    <string name="data_inventory_cookie">cookie</string>
+    <string name="data_inventory_country_code">country code</string>
+    <string name="data_inventory_endpointId">endpointId</string>
+    <string name="data_inventory_firebaseanalytics">firebaseanalytics</string>
+    <string name="data_inventory_language">lingua</string>
+    <string name="data_inventory_lotame">lotame</string>
+    <string name="data_inventory_mParticle">mParticle</string>
     <string name="data_inventory_page_explainer">Di seguito è riportato un elenco di dati archiviati nella memoria locale o nelle intestazioni di privacy associate a questo dispositivo.</string>
     <string name="data_inventory_page_title">Inventario dei dati</string>
+    <string name="data_inventory_partners">Partner</string>
+    <string name="data_inventory_regime">regime</string>
+    <string name="data_inventory_userId">ID utente</string>
+    <string name="data_inventory_version">versione</string>
     <string name="data_loading_error">Dati di previsione temporaneamente non disponibili.</string>
     <string name="day">giorno</string>
     <string name="day_tab_desc">Scheda Giorno</string>
     <string name="daylight_capital">DURATA GIORNO</string>
     <string name="daypart_forecast">"Previsione %s "</string>
     <string name="default_gps_station">Più vicino a me</string>
-												
     <string name="default_ongoing_channel_id">ongoing_channel</string>
     <string name="default_ongoing_channel_name">"Il tempo di Oggi"</string>
     <string name="default_station">Più vicina al centro della città</string>
-																														  
-											   
-												  
     <string name="dew_point">Punto di rugiada</string>
     <string name="display">SCHERMO</string>
     <string name="double_dash">--</string>
-												   
     <string name="drawer_closed_content_desc">Premere per aprire il gestore delle posizioni.</string>
-    <string name="drawer_opened_content_desc">Premere per chiudere il gestore delle posizioni.</string>																					  
-														   
-																	  
+    <string name="drawer_opened_content_desc">Premere per chiudere il gestore delle posizioni.</string>
     <string name="edit_location_desc">Modifica</string>
     <string name="edit_locations_screen_confirmation_dialog_discard">SCARTA</string>
     <string name="edit_locations_screen_confirmation_dialog_title">Non salvare le modifiche?</string>
@@ -218,7 +220,6 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="edit_locations_screen_snackbar_location_restore_message">La posizione è stata ripristinata</string>
     <string name="edit_locations_screen_snackbar_undo_action">UNDO</string>
     <string name="elevation">Elevazione</string>
-								  
     <string name="english">Imperiale</string>
     <string name="english_description">°F / mph / miglia / pollici</string>
     <string name="entitlements_list_activity_title">Diritti</string>
@@ -261,9 +262,6 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="exo_track_unknown">Sconosciuta</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a discesa</string>
-																																	   
-																																	   
-															
     <string name="favorite_button_desc">Aggiungi %s ai Preferiti</string>
     <string name="favorite_locations_title">Preferiti</string>
     <string name="fcm_fallback_notification_channel_label">Varie</string>
@@ -279,16 +277,12 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
     <string name="feature_header">Dettagli sulle funzionalità:</string>
     <string name="features_header">Seleziona la funzione Airlock per il debug.</string>
     <string name="feedback_send_email">Invia una email…</string>
-																						
     <string name="first_light_title">Prime Luci</string>
-																 
     <string name="flu">Infl.</string>
     <string name="follow_me_prompt">Per abilitare le Segnalazioni sulla pressione attiva i Servizi di localizzazione nelle Impostazioni sulla privacy</string>
 <string name="follow_me_short_desc">"Consentire l\'accesso alla posizione del tuo dispositivo ti fornisce previsioni meteo, avvisi gravi, annunci e contenuti geograficamente rilevanti più accurati. Potremmo anche condividere i dati sulla posizione con i partner, come descritto nella nostra informativa sulla privacy." </string>
     <string name="follow_me_title">Servizi di localizzazione</string>
     <string name="forecast_card_title">Previsioni giornaliere</string>
-													   
-															  
     <string name="forecast_feels_like">percepiti</string>
     <string name="forecast_humidity">umidità</string>
     <string name="forecast_more">Altro</string>
@@ -297,24 +291,13 @@ L\'AQI varia da 0 a 500. Maggiore è il valore AQI, maggiore è il livello di in
 <string name="forecast_precipitation_amount">Accumulo</string>
     <string name="forecast_sun">alba e tramonto</string>
     <string name="forecast_temperature">temperatura</string>
-															
     <string name="gcm_fallback_notification_channel_label">Varie</string>
 <string name="gdpr_dsr_settings_description">Ti abbiamo dato il controllo di quali dati condividi con noi. Per gestire le tue preferenze, richiedere una copia di determinati dati raccolti da questo dispositivo o richiedere che determinati dati vengano eliminati, fai clic su Gestisci dati di seguito.</string>																																																																			 
     <string name="gdpr_dsr_settings_privacy_rights">Gestisci dati</string>
     <string name="gdpr_dsr_settings_title">Gestisci diritti sui dati</string>
-												  
 <string name="global_alerts_description_text">Pioggia, neve, ghiaccio, vento forte, nebbia, caldo estremo, freddo estremo, temporale</string>
     <string name="global_alerts_label_text">8 globali</string>
     <string name="go_ad_free_text">Vai annuncio gratuito</string>
-																	
-																	  
-																				  
-																				 
-																								  
-																							
-																						 
-																																																																																																													
-																			 
     <string name="gps_notification_description">"Avvisi in tempo reale per pioggia
 fulmini e maltempo
 ovunque tu vada"</string>
@@ -348,8 +331,7 @@ ovunque tu vada"</string>
 <string name="health_uv_moderate_desc">Rischio moderato di danni derivanti dall\'esposizione al sole non protetta. Rimani all\'ombra verso mezzogiorno. Indossa indumenti protettivi, un cappello a tesa larga, occhiali da sole con protezione UV e applica una protezione solare SPF 30+ ogni 2 ore.</string>
     <string name="health_uv_very_high">%1$d - Rischio molto alto</string>
 <string name="health_uv_very_high_desc">Alto rischio di danni derivanti dall\'esposizione al sole non protetta. Prendere ulteriori precauzioni poiché la pelle e gli occhi non protetti verranno danneggiati e potrebbero bruciarsi rapidamente. Ridurre al minimo l\'esposizione al sole tra le 10:00 e le 16:00. Indossa indumenti protettivi, un cappello a tesa larga, occhiali da sole con protezione UV e applica una protezione solare SPF 30+ ogni 2 ore.</string>
-																																   
-									 
+    <string name="high">Alto</string>
     <string name="hour">ora</string>
     <string name="hour_tab_desc">Scheda Ora</string>
     <string name="hourly_calm_label">CALMO</string>
@@ -400,7 +382,6 @@ ovunque tu vada"</string>
     <string name="login_statement">Accedi a Google Play per visualizzare le opzioni di abbonamento.</string>
     <string name="logo_icon_content_description">Logo icon</string>
     <string name="low">Basso</string>
-																																																											  
     <string name="map_card_title">MAPPA METEO</string>
     <string name="map_layer_menu_dewpoint_humidity">Punto di rugiada &amp; Umidità</string>
     <string name="map_layer_menu_infrared_subtitle">Mostra la copertura nuvolosa per il giorno &amp; notte</string>
@@ -420,15 +401,15 @@ ovunque tu vada"</string>
     <string name="map_layers_us_fronts">Fronti Superficie</string>
     <string name="map_layers_us_hurricanes">Uragani</string>
     <string name="map_layers_weather_stations">Stazioni Meteo</string>
-    <string name="map_layers_webcams">Webcams</string>
+    <string name="map_layers_webcams">Webcam</string>
     <string name="map_layers_webcams_pws">Stazioni Meteo Personali</string>
     <string name="map_layers_webcams_traffic">Mostra Camre del Traffico</string>
     <string name="map_legend_103_degree">50°</string>
     <string name="map_legend_severe_flood_flash_flood_warning">Pericolo Inondazioni Improvvise</string>
     <string name="map_legend_severe_flood_warning">Pericolo Inondazioni</string>
-    <string name="map_legend_severe_flood_watch">Flood Watch</string>
+    <string name="map_legend_severe_flood_watch">Allerta alluvione</string>
     <string name="map_legend_severe_other_advisory_air_quality">Qualità dell\'aria &amp; Inquinamento</string>
-    <string name="map_legend_severe_other_advisory_fire_weather">Fire Weather</string>
+    <string name="map_legend_severe_other_advisory_fire_weather">Meteo di fuoco</string>
     <string name="map_legend_severe_other_advisory_fog">Nebbia</string>
     <string name="map_legend_severe_other_advisory_small_craft_advisory">Consulenza per piccole imbarcazioni</string>
     <string name="map_legend_severe_other_advisory_special_weather">Dichiarazioni meteorologiche speciali</string>
@@ -436,31 +417,31 @@ ovunque tu vada"</string>
     <string name="map_legend_severe_storms_thunder_storm_warning">Avvertimento Temporale Forte</string>
     <string name="map_legend_severe_storms_thunder_storm_watch">Temporale Forte</string>
     <string name="map_legend_severe_storms_tornado_warning">Avviso Tornado</string>
-    <string name="map_legend_severe_storms_tornado_watch">Tornado</string>
-    <string name="map_legend_severe_temperatures_excessive_heat_warning">Excessive Heat Warning</string>
-    <string name="map_legend_severe_temperatures_excessive_heat_watch">Excessive Heat Watch</string>
-    <string name="map_legend_severe_temperatures_heat_advisory">Heat Advisory</string>
-    <string name="map_legend_severe_temperatures_wind_chill_advisory">Wind Chill Advisory</string>
-    <string name="map_legend_severe_temperatures_wind_chill_warning">Wind Chill Warning</string>
-    <string name="map_legend_severe_temperatures_wind_chill_watch">Wind Chill Watch</string>
-    <string name="map_legend_severe_title_flood">Flood</string>
-    <string name="map_legend_severe_title_other_advisory_types">OTHER ADVISORY TYPES</string>
-    <string name="map_legend_severe_title_storms_and_tornadoes">Severe Storms &amp; Tornadoes</string>
-    <string name="map_legend_severe_title_temperatures">Temperatures</string>
-    <string name="map_legend_severe_title_tropical_cyclones">Tropical Cyclones &amp; Hurricanes</string>
-    <string name="map_legend_severe_title_winter_storms">Winter Storms</string>
-    <string name="map_legend_severe_tropical_cyclones_hurricane_statement">Hurricane Statement</string>
-    <string name="map_legend_severe_tropical_cyclones_hurricane_warning">Hurricane Warning</string>
-    <string name="map_legend_severe_tropical_cyclones_hurricane_watch">Hurricane Watch</string>
-    <string name="map_legend_severe_tropical_cyclones_tropical_statement">Tropical Storm Statement</string>
-    <string name="map_legend_severe_tropical_cyclones_tropical_warning">Tropical Storm Warning</string>
-    <string name="map_legend_severe_tropical_cyclones_tropical_watch">Tropical Storm Watch</string>
-    <string name="map_legend_severe_winter_storms_blizzard_warning">Blizzard Warning</string>
-    <string name="map_legend_severe_winter_storms_blizzard_watch">Blizzard Watch</string>
-    <string name="map_legend_severe_winter_storms_ice_storm_warning">Ice Storm Warning</string>
-    <string name="map_legend_severe_winter_storms_winter_storm_warning">Winter Storm Warning</string>
-    <string name="map_legend_severe_winter_storms_winter_storm_watch">Winter Storm Watch</string>
-    <string name="map_legend_severe_winter_storms_winter_weather_advisory">Winter Weather Advisory</string>
+    <string name="map_legend_severe_storms_tornado_watch">Osservazione Tornado</string>
+    <string name="map_legend_severe_temperatures_excessive_heat_warning">Avviso di calore eccessivo</string>
+    <string name="map_legend_severe_temperatures_excessive_heat_watch">Attenzione al caldo eccessivo</string>
+    <string name="map_legend_severe_temperatures_heat_advisory">Avviso di caldo</string>
+    <string name="map_legend_severe_temperatures_wind_chill_advisory">Avviso di vento gelido</string>
+    <string name="map_legend_severe_temperatures_wind_chill_warning">Avviso di vento gelido</string>
+    <string name="map_legend_severe_temperatures_wind_chill_watch">Osservazione vento gelido</string>
+    <string name="map_legend_severe_title_flood">Alluvione</string>
+    <string name="map_legend_severe_title_other_advisory_types">ALTRI TIPI DI CONSULENZA</string>
+    <string name="map_legend_severe_title_storms_and_tornadoes">Forti Eempeste &amp; Tornado</string>
+    <string name="map_legend_severe_title_temperatures">Temperature</string>
+    <string name="map_legend_severe_title_tropical_cyclones">Cicloni tropicali &amp; Uragani</string>
+    <string name="map_legend_severe_title_winter_storms">Tempeste invernali</string>
+    <string name="map_legend_severe_tropical_cyclones_hurricane_statement">Dichiarazione sull\'uragano</string>
+    <string name="map_legend_severe_tropical_cyclones_hurricane_warning">Avviso uragano</string>
+    <string name="map_legend_severe_tropical_cyclones_hurricane_watch">Allerta uragano</string>
+    <string name="map_legend_severe_tropical_cyclones_tropical_statement">Dichiarazione sulla tempesta tropicale</string>
+    <string name="map_legend_severe_tropical_cyclones_tropical_warning">Avviso di tempesta tropicale</string>
+    <string name="map_legend_severe_tropical_cyclones_tropical_watch">Allerta tempesta tropicale</string>
+    <string name="map_legend_severe_winter_storms_blizzard_warning">Avviso di bufera di neve</string>
+    <string name="map_legend_severe_winter_storms_blizzard_watch">Avviso bufera di neve</string>
+    <string name="map_legend_severe_winter_storms_ice_storm_warning">Avviso di tempesta di ghiaccio</string>
+    <string name="map_legend_severe_winter_storms_winter_storm_warning">Avviso di tempesta invernale</string>
+    <string name="map_legend_severe_winter_storms_winter_storm_watch">Allerta tempesta invernale</string>
+    <string name="map_legend_severe_winter_storms_winter_weather_advisory">Avviso di maltempo invernale</string>
     <string name="map_legend_station_80_percent">80%</string>
     <string name="map_legend_station_dew_point">Punto di rugiada -</string>
     <string name="map_legend_station_dew_point_humidity">Punto di rugiada &amp; Umidità</string>
@@ -504,7 +485,6 @@ ovunque tu vada"</string>
     <string name="map_toolbar_radar">Radar</string>
     <string name="map_toolbar_satellite">Satellite</string>
     <string name="map_toolbar_temp">Temperature</string>
-																																	
     <string name="mapbox_attributionErrorNoBrowser">"No web browser installed on device, can\'t open web page."</string>
     <string name="mapbox_attributionTelemetryMessage">You are helping to make OpenStreetMap and Mapbox maps better by contributing anonymous usage data.</string>
     <string name="mapbox_attributionTelemetryNegative">Disagree</string>
@@ -517,19 +497,10 @@ ovunque tu vada"</string>
     <string name="mapbox_mapActionDescription">Showing a Map created with Mapbox. Scroll by dragging two fingers. Zoom by pinching two fingers.</string>
     <string name="mapbox_myLocationViewContentDescription">Location View. This shows your location on the map.</string>
     <string name="mapbox_offline_error_region_definition_invalid">"Provided OfflineRegionDefinition doesn\'t fit the world bounds: %s"</string>
-																			 
-																			   
-																						  
-																					 
-																					  
-																									   
-																						  
-																							  
     <string name="mapbox_telemetryImproveMap">Migliora questa mappa</string>
-																				  
     <string name="mapbox_telemetrySettings">Impostazioni Telemetria</string>
     <string name="material_slider_range_end">Fine intervallo</string>
-    <string name="material_slider_range_start">Inizio intervallo</string>																	
+    <string name="material_slider_range_start">Inizio intervallo</string>
     <string name="metric">Metrico</string>
     <string name="metric_description">°C / km/h / km / millimetri / millibar</string>
     <string name="midnight_capital">MEZZANOTTE</string>
@@ -541,12 +512,9 @@ ovunque tu vada"</string>
     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
-																		
     <string name="mtrl_picker_a11y_next_month">Passa al mese prossimo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
-																	 
-																  
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleziona una data</string>
     <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
@@ -578,7 +546,7 @@ ovunque tu vada"</string>
     <string name="mugginess_slightly_muggy">Leggermente afoso</string>
     <string name="mugginess_unbearably_muggy">Insopportabilimente afoso</string>
     <string name="mugginess_very_muggy">Molto_afoso</string>
-<string name="my_privacy_choice">La mia scelta sulla privacy -</string>																																		  
+<string name="my_privacy_choice">La mia scelta sulla privacy -</string>
 <string name="my_privacy_choice_opt_in">Accetto la vendita o la condivisione delle mie informazioni personali, come definito dal CPRA.</string>																																		   
 <string name="my_privacy_choice_opt_in_location">Acconsento all\'utilizzo della mia posizione precisa per scopi di segmentazione del pubblico.</string>
 <string name="my_privacy_choice_opt_out">Non desidero che le mie informazioni personali vengano vendute o condivise, come definito dal CPRA.</string>
@@ -592,14 +560,14 @@ ovunque tu vada"</string>
     <string name="no_data_desc">Nessun dato disponibile.</string>
 <string name="no_identifier_available">Nessun identificatore disponibile</string>
     <string name="no_internet_connection_message">Nessuna connessione Internet</string>
-    <string name="no_legend_title">Please select a layer under the Layers menu.</string>
+    <string name="no_legend_title">Selezionare un livello nel menu Livelli.</string>
     <string name="no_suggestions_data">Nessun risultato</string>
     <string name="noon_capital">MEZZOGIORNO</string>
     <string name="not_allow_alerts_item">Non consentire</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_lightning_strike_title">Fulmine</string>
-    <string name="notification_not_available">Notification [%1$s] is not available. The remote configuration has to be retrieved before</string>
-    <string name="notification_process_failed">Notification are not in the required JSON format.</string>
+    <string name="notification_not_available">La notifica [%1$s] non è disponibile. La configurazione remota deve essere prima recuperata</string>
+    <string name="notification_process_failed">Le notifiche non sono nel formato JSON richiesto.</string>
     <string name="notification_realtime_rain_title">Avviso di pioggia in tempo reale</string>
     <string name="notification_subtitle">Max: %1$d° Min: %2$d° Precip: %3$.0f%%</string>
     <string name="notifications_densefog_title">%1$d Avvisi nebbia fitta</string>
@@ -609,13 +577,13 @@ ovunque tu vada"</string>
     <string name="notifications_heavysnow_title">%1$d Avvisi forti nevicate</string>
     <string name="notifications_highwind_title">%1$d Avvisi vento forte</string>
     <string name="notifications_ice_title">%1$d Avvisi ghiaccio</string>
-    <string name="notifications_is_empty">Airlock notifications are not defined in the system.</string>
+    <string name="notifications_is_empty">Le notifiche Airlock non sono definite nel sistema.</string>
     <string name="notifications_lightning_strike_title">%1$d Avvisi fulmini</string>
-    <string name="notifications_list_header">Select a notification you want to debug</string>
+    <string name="notifications_list_header">Seleziona una notifica di cui vuoi eseguire il debug</string>
     <string name="notifications_severe_title">%1$d Avvisi maltempo</string>
     <string name="notifications_thunderstorm_title">%1$d Avvisi temporali</string>
-    <string name="now_label">NOW</string>
-    <string name="number_and_degrees_symbol">%1$s°</string>
+    <string name="now_label">Adesso</string>
+    <string name="number_and_degrees_symbol">%1$s</string>
     <string name="number_and_percent_symbol">%1$s%%</string>
     <string name="objectbox_objectBrowserNotificationText">"Running on port %1$d. Tap to open in the device\'s browser. Or run adb forward tcp:%1$d tcp:%1$d to forward the port to your host."</string>
     <string name="objectbox_objectBrowserNotificationTitle">ObjectBox Browser</string>
@@ -632,7 +600,6 @@ ovunque tu vada"</string>
     <string name="open_location_settings">Impostazioni</string>
 <string name="open_privacy_policy">Apri l\'Informativa sulla privacy.</string>
     <string name="outdoor_monitor">"Monitora l\'aria esterna con un dispositivo di monitoraggio dell\'inquinamento dell\'aria."</string>
-																								   
     <string name="pangea_map_card_title">Radar &amp; Mappa</string>
     <string name="password_toggle_content_description">Visualizza password</string>
     <string name="pause_button_content_description">Metti in pausa l\'animazione dei livelli della mappa.</string>
@@ -716,14 +683,13 @@ Weather Underground segnala le misurazioni della pressione regolate in base ai l
 <string name="privacy_card_personal_information_japan">Scopri di più su come utilizziamo queste informazioni per servirti meglio, visita Scopi dei dati</string>																														  
     <string name="privacy_card_personal_information_japan_only">お客様により良いサービスを提供するためにこの情報がどのように使用されるかについて詳しくは、「データの目的」をご覧ください。</string>
 <string name="privacy_card_personal_information_location">Limita l\'uso delle mie informazioni personali sensibili - Controlla le impostazioni di posizione</string>																														  
-
 <string name="privacy_card_personal_information_location_CCPA">Limita l\'uso delle mie informazioni personali sensibili</string>
 <string name="privacy_card_privacy_text">Per personalizzare la tua esperienza con il prodotto, raccogliamo dati dal tuo dispositivo. Potremmo anche utilizzare o divulgare a fornitori di dati specifici i tuoi dati precisi di geolocalizzazione per fornire i Servizi. Per saperne di più, consulta la nostra {{ privacy_policy | Informativa sulla privacy }}</string>
     <string name="privacy_card_privacy_text_CCPA">Si prega di fare riferimento alla {{ section_12 | Avviso CCPA }} nella nostra {{ privacy_policy | Informativa sulla privacy }} per conoscere i tipi di dati che raccogliamo e come li utilizziamo e condividiamo. Raccogliamo dati dal tuo dispositivo per personalizzare il tuo meteo e gli annunci che vedi.</string>
 <string name="privacy_card_privacy_text_CCPA_subscribe_user">Raccogliamo dati dal tuo dispositivo per personalizzare la tua esperienza con il prodotto e potremmo utilizzare o condividere i tuoi dati con i nostri fornitori di dati. Potremmo anche utilizzare o divulgare i tuoi dati di geolocalizzazione precisi a fornitori di dati specifici per fornire i nostri prodotti e Servizi. Questi dati sono considerati informazioni personali sensibili ai sensi del CPRA. Fare riferimento alla {{ sezione_12 | Avviso CPRA }} nella nostra {{ privacy_policy | Informativa sulla privacy }} per saperne di più.</string>																																																																																																																																					  
     <string name="privacy_card_privacy_text_japan">お客様の製品エクスペリエンスをパーソナライズするために、当社はお客様のデバイスからデータを収集します。また、当社は、サービスを提供するためにお客様の正確な地理位置情報データを使用したり、特定のデータベンダーに開示したりする場合があります。詳細については、こちらを参照してください。 {{ privacy_policy | プライバシーポリシー }}</string>
-    <string name="privacy_card_title">"Privacy. Hai delle opzioni."</string>
 <string name="privacy_card_review_all">Rivedi tutte le impostazioni sulla privacy e sugli annunci</string>																																																																																																																																					  
+    <string name="privacy_card_title">"Privacy. Hai delle opzioni."</string>
 <string name="privacy_consent_opt_in_body">Il tuo account è impostato su \"attiva\" per le impostazioni pubblicitarie standard e questa impostazione è diversa dallo stato di disattivazione selezionato in precedenza. Ciò significa che accetti di ricevere pubblicità mirata e la vendita dei tuoi dati personali (come definito nelle Impostazioni sulla privacy). Puoi recedere in qualsiasi momento. Per saperne di più, visualizza il nostro %1$s</string>																																																																																																
 <string name="privacy_consent_opt_in_body_ccpa">Il tuo account è impostato su \"attiva\" per le impostazioni pubblicitarie standard e questa impostazione è diversa dallo stato di disattivazione selezionato in precedenza. Ciò significa che accetti la vendita o la condivisione delle tue informazioni personali ai sensi del CPRA. Puoi recedere in qualsiasi momento. Per saperne di più, visualizza il nostro %1$s</string>																																																																																									
 <string name="privacy_consent_opt_in_title">Hai attivato le Impostazioni annunci standard</string>
@@ -768,9 +734,6 @@ Raccogliamo i tuoi dati per adattare i Servizi a te, comprendendo i tuoi gusti e
     <string name="project_id">wu-flagship-app</string>
     <string name="purposes_loading_error">Impossibile caricare le impostazioni sulla privacy</string>
     <string name="pws_title">Stazione Metereologica</string>
-																										   
-																										   
-																										   
     <string name="radar_layer_name">Radar</string>
     <string name="radar_smoothing_layer_name">Livellamento Radar</string>
     <string name="rain_accum">Accum. pioggia</string>
@@ -801,9 +764,6 @@ Raccogliamo i tuoi dati per adattare i Servizi a te, comprendendo i tuoi gusti e
     <string name="s6">Consentire ad AdMob di creare un evento di calendario?</string>
     <string name="s7">Annuncio di test</string>
     <string name="san_serif_medium">sans-serif</string>
-																												   
-																												   
-																												   
     <string name="satellite_layer_name">Satellite</string>
     <string name="save_failed">La tua selezione non può essere salvata.</string>
     <string name="sb_settings_dark_theme">Tema Scuro</string>
@@ -843,7 +803,6 @@ Raccogliamo i tuoi dati per adattare i Servizi a te, comprendendo i tuoi gusti e
     <string name="search_location_desc">Cerca posizione</string>
     <string name="search_menu_title">Cerca</string>
     <string name="selected_location">Posizione selezionata</string>
-																			 
     <string name="sensor_buying_title">Acquista il sensore</string>
     <string name="sensor_registration_title">Registra il sensore</string>
     <string name="server_list_activity_title">Server</string>
@@ -886,7 +845,6 @@ Raccogliamo i tuoi dati per adattare i Servizi a te, comprendendo i tuoi gusti e
     <string name="severe_alerts_label_text">Avvisi maltempo</string>
     <string name="severe_weather_layer_name">Vedi Avviso Globale</string>
     <string name="sharing_body_links">"%1$s
-
 View on the web: https://www.wunderground.com/cgi-bin/findweather/getForecast?query=%2$s
 Download Weather Underground app: https://www.wunderground.com/download"</string>
     <string name="sharing_chooser_title">Condividi</string>
@@ -1138,8 +1096,6 @@ Download Weather Underground app: https://www.wunderground.com/download"</string
     <string name="toolbar_title_severe_notifications">Notifiche Meteo</string>
     <string name="total_precip_six_hrs">Totali nelle prossime 6 ore</string>
     <string name="tropical_depression_description_value">&lt; %1$s %2$s</string>
-														   
-																   
     <string name="upsApiKey">ea15a98f-4707-4a4d-8bba-d483e37d76dc</string>
     <string name="ups_sync_attribution">App meteo: %1$s</string>
     <string name="ups_sync_failed">Sincronizzazione profilo non riuscita. Riproveremo più tardi.</string>
@@ -1170,7 +1126,6 @@ Download Weather Underground app: https://www.wunderground.com/download"</string
     <string name="welcome_screen_text">Dove vorresti visualizzare il meteo?</string>
     <string name="welcome_screen_title">Benvenuto</string>
     <string name="welcome_search_location_item">Ricerca della posizione</string>
-												 
     <string name="widget_1x1_title">1x1 Meteo</string>
     <string name="widget_2x1_title">2x1 Meteo</string>
     <string name="widget_2x2_title">2x2 Meteo</string>
@@ -1199,7 +1154,6 @@ da %s"</string>
     <string name="wind_gusts_template">Vento &amp; Raffiche</string>
     <string name="wind_speed">Velocità vento</string>
     <string name="wind_speed_direction">velocità e direzione del vento</string>
-													   
     <string name="yesterday">Ieri</string>
 <string name="you_are_opted_out">Sei stato escluso</string>
      <string name="you_opt_in">Hai aderito</string>

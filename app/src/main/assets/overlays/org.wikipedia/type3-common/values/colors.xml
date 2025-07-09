@@ -40,7 +40,7 @@
     <color name="chip_color_dark">#ff767577</color>
     <color name="chip_color_light">#ffe0dfe1</color>
     <color name="chip_text_color_dark">@*android:color/white</color>
-    <color name="chip_text_color_light">#ff1e1e1e</color>
+    <color name="chip_text_color_light">@*android:color/background_dark</color>
     <color name="common_google_signin_btn_text_dark_default">@*android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@*android:color/black</color>

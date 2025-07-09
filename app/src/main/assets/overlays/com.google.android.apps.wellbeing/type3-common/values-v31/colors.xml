@@ -55,7 +55,7 @@
     <color name="gm3_ref_palette_dynamic_neutral90">#d32f2f</color>
     <color name="gm3_ref_palette_dynamic_neutral95">#e53935</color>
     <color name="gm3_ref_palette_dynamic_neutral99">#f44336</color>
-    <color name="gm3_ref_palette_dynamic_neutral_variant10">#cccfff</color>
+    <color name="gm3_ref_palette_dynamic_neutral_variant10">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant100">#e57373</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant30">@*android:color/accent_material_dark</color>		<!-- bordi -->
     <color name="gm3_ref_palette_dynamic_neutral_variant50">#c51162</color>

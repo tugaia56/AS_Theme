@@ -641,7 +641,7 @@
     <color name="coui_preference_title_color_selected">@*android:color/background_dark</color>
     <color name="coui_primary_text_color">@*android:color/background_dark</color>
     <color name="coui_primary_text_color_dark">#e6ffffff</color>
-    <color name="coui_primary_text_disable_only">#ff141414</color>
+    <color name="coui_primary_text_disable_only">@*android:color/background_dark</color>
     <color name="coui_progress_spinner_background_color">#1e000000</color>
     <color name="coui_progressbar_background_color_disabled">#08000000</color>
     <color name="coui_progressbar_background_color_normal">#1f000000</color>

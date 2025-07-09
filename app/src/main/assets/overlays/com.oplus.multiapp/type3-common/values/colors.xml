@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="Azure40">#ff209de5</color>
+    <color name="Azure40">@*android:color/accent_material_dark</color>
     <color name="Azure50">#ff00a1ff</color>
     <color name="AzureVariant">#ff45abe5</color>
     <color name="AzureVariantDark">#ff3d98cc</color>
     <color name="Black">@*android:color/background_dark</color>
-    <color name="Blue30">#ff5c9dff</color>
+    <color name="Blue30">@*android:color/accent_material_dark</color>
     <color name="Blue30Opacity40">#665c9dff</color>
     <color name="Blue40">@*android:color/accent_material_dark</color>
     <color name="Blue40Opacity20">#33247cff</color>
@@ -19,11 +19,11 @@
     <color name="Blue50Opacity40">#66908dff</color>
     <color name="BlueVariant">@*android:color/accent_material_dark</color>
     <color name="BlueVariantDark">@*android:color/accent_material_dark</color>
-    <color name="Cyan40">#ff25a9b8</color>
+    <color name="Cyan40">@*android:color/accent_material_dark</color>
     <color name="Cyan50">#ff1dbacc</color>
     <color name="CyanVariant">#ff39afbd</color>
     <color name="CyanVariantDark">#ff329da8</color>
-    <color name="Gray12">#ff1e1e1e</color>
+    <color name="Gray12">@*android:color/background_dark</color>
     <color name="Gray15">@*android:color/background_leanback_dark</color>
     <color name="Gray20">@*android:color/button_material_dark</color>
     <color name="Gray92">#ffebebeb</color>
@@ -55,13 +55,13 @@
     <color name="Green60Opacity40">#6600990f</color>
     <color name="GreenVariant">#ff4bbd57</color>
     <color name="GreenVariantDark">#ff43a84e</color>
-    <color name="Mint40">#ff1ab883</color>
+    <color name="Mint40">@*android:color/accent_material_dark</color>
     <color name="Mint50">#ff00cc88</color>
     <color name="MintVariant">#ff39bd91</color>
     <color name="MintVariantDark">#ff32a881</color>
-    <color name="Orange30">#fff08222</color>
+    <color name="Orange30">@*android:color/accent_material_dark</color>
     <color name="Orange30Opacity40">#66f08222</color>
-    <color name="Orange40">#fff08222</color>
+    <color name="Orange40">@*android:color/accent_material_dark</color>
     <color name="Orange40Opacity20">#33f08222</color>
     <color name="Orange40Opacity25">#40f08222</color>
     <color name="Orange40Opacity40">#66f08222</color>
@@ -74,13 +74,13 @@
     <color name="Orange60Opacity40">#66eb6e00</color>
     <color name="OrangeVariant">#ffe58f45</color>
     <color name="OrangeVariantDark">#ffcc7f3d</color>
-    <color name="Purple40">#ffac33ff</color>
+    <color name="Purple40">@*android:color/accent_material_dark</color>
     <color name="Purple50">#ffa723ff</color>
     <color name="PurpleVariant">#ffb873e5</color>
     <color name="PurpleVariantDark">#ffa466cc</color>
     <color name="Red30">@*android:color/accent_material_dark</color>
     <color name="Red30Opacity40">#66ff6c61</color>
-    <color name="Red40">#ffeb493d</color>
+    <color name="Red40">@*android:color/accent_material_dark</color>
     <color name="Red40Opacity20">#33eb493d</color>
     <color name="Red40Opacity25">#40eb493d</color>
     <color name="Red40Opacity30">#4deb493d</color>
@@ -94,7 +94,7 @@
     <color name="Red60Opacity40">#66db382c</color>
     <color name="RedVariant">#ffe56e65</color>
     <color name="RedVariantDark">#ffcc615a</color>
-    <color name="Violet40">#ff7161ff</color>
+    <color name="Violet40">@*android:color/accent_material_dark</color>
     <color name="Violet50">#ff5a47ff</color>
     <color name="VioletVariant">#ff7e73e5</color>
     <color name="VioletVariantDark">#ff7e73e5</color>
@@ -108,9 +108,9 @@
     <color name="WhiteOpacity54">#8affffff</color>
     <color name="WhiteOpacity8">#14ffffff</color>
     <color name="WhiteOpacity90">#e6ffffff</color>
-    <color name="Yellow30">#ffe5a100</color>
+    <color name="Yellow30">@*android:color/accent_material_dark</color>
     <color name="Yellow30Opacity40">#66e5a100</color>
-    <color name="Yellow40">#ffe5a100</color>
+    <color name="Yellow40">@*android:color/accent_material_dark</color>
     <color name="Yellow40Opacity20">#33e5a100</color>
     <color name="Yellow40Opacity25">#40e5a100</color>
     <color name="Yellow40Opacity40">#66e5a100</color>

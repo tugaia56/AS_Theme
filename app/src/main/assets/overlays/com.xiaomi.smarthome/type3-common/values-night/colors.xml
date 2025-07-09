@@ -25,7 +25,7 @@
     <color name="mibi_dialog_btn_bg_color_pressed">@*android:color/background_dark</color>
     <color name="mibi_divider_color">@*android:color/button_material_dark</color>
     <color name="mibi_hyperlink_text_color">#ffe98b16</color>
-    <color name="mibi_line_color">#ff1e1e1e</color>
+    <color name="mibi_line_color">@*android:color/background_dark</color>
     <color name="mibi_progress_dialog_bg_color">#ff070707</color>
     <color name="mibi_progress_message_bg_color">#ff2d015f</color>
     <color name="mibi_text_color_black">#ccffffff</color>

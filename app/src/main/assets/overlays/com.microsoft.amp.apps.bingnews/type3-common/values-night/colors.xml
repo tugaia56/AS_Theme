@@ -46,7 +46,7 @@
     <color name="loss_aversion_plan_detail_text_color">#ff919191</color>
     <color name="loss_aversion_plan_feature_text_color">#ffe1e1e1</color>
     <color name="ms_pdf_annotation_calendar_accent">#ff0086f0</color>
-    <color name="ms_pdf_annotation_calendar_body">#ff333333</color>
+    <color name="ms_pdf_annotation_calendar_body">@*android:color/button_material_dark</color>
     <color name="ms_pdf_bottom_sheet_dialog_background">@*android:color/background_dark</color>
     <color name="ms_pdf_bottom_sheet_dialog_handle">#ff6e6e6e</color>
     <color name="ms_pdf_bottom_sheet_dialog_title">#ffe1e1e1</color>
@@ -115,7 +115,7 @@
     <color name="pw_error_description_text">#ff919191</color>
     <color name="pw_error_title_text">#ffe1e1e1</color>
     <color name="pw_okay_button_color">#ff479ef5</color>
-    <color name="pw_price_change_table_background_color">#ff333333</color>
+    <color name="pw_price_change_table_background_color">@*android:color/button_material_dark</color>
     <color name="pw_price_change_table_content_color">#ff3d3d3d</color>
     <color name="pw_price_change_window_background">#ff1f1f1f</color>
     <color name="pw_purchase_button_loading_color">#ff004c87</color>
@@ -161,7 +161,7 @@
     <color name="sapphire_card_rewards_spotify_line_color">@*android:color/accent_material_dark</color>
     <color name="sapphire_card_rewards_spotify_text_background_color">#1a83beec</color>
     <color name="sapphire_card_rewards_spotify_text_color">#4d83beec</color>
-    <color name="sapphire_color_primary">#ff333333</color>
+    <color name="sapphire_color_primary">@*android:color/button_material_dark</color>
     <color name="sapphire_color_primary_dark">@*android:color/background_dark</color>
     <color name="sapphire_commute_glance_main_text">#ffffffff</color>
     <color name="sapphire_commute_incident_pill_fill_color">#ff330808</color>

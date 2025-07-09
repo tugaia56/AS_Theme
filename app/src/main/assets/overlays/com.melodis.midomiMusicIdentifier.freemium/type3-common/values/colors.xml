@@ -47,7 +47,7 @@
     <color name="button_material_dark">@*android:color/button_material_dark</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="cardBackgroundColor">@*android:color/background_dark</color>
-    <color name="card_item_divider">#ff404040</color>
+    <color name="card_item_divider">@*android:color/background_dark</color>
     <color name="card_text_color_inactive">#ff8a8a8a</color>
     <color name="card_text_color_main">#ffcccccc</color>
     <color name="card_text_color_secondary">#ffffffff</color>
@@ -143,14 +143,14 @@
     <color name="grey100">@*android:color/background_dark</color>
     <color name="grey70">#ff4d4d4d</color>
     <color name="grey80">@*android:color/background_dark</color>
-    <color name="grey90">#ff141414</color>
+    <color name="grey90">@*android:color/background_dark</color>
     <color name="greyPrimary">#fff2f2f2</color>
     <color name="greyPrimary_alpha_60">#99f2f2f2</color>
     <color name="greySecondary">#ffffffff</color>
     <color name="greyTertiary">#ff666666</color>
     <color name="grey_02">@*android:color/background_dark</color>
     <color name="grey_70">#ffb2b2b2</color>
-    <color name="grey_8">#ff141414</color>
+    <color name="grey_8">@*android:color/background_dark</color>
     <color name="grey_80">#ffcccccc</color>
     <color name="grey_85">#ffd9d9d9</color>
     <color name="grey_primary">#fff3f3f3</color>
@@ -241,7 +241,7 @@
     <color name="progress_gray">#ffd8d8d8</color>
     <color name="progress_gray_dark">@*android:color/background_dark</color>
     <color name="progress_ring_background">#ffffffff</color>
-    <color name="queue_list_divider">#ff404040</color>
+    <color name="queue_list_divider">@*android:color/background_dark</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -264,7 +264,7 @@
     <color name="sh_grey_02">@*android:color/background_dark</color>
     <color name="sh_grey_03">@*android:color/background_dark</color>
     <color name="sh_grey_04">@*android:color/button_material_dark</color>
-    <color name="sh_grey_05">#ff404040</color>
+    <color name="sh_grey_05">@*android:color/background_dark</color>
     <color name="sh_grey_06">#ff666666</color>
     <color name="sh_grey_07">#ffffffff</color>
     <color name="sh_grey_08">#ffcccccc</color>

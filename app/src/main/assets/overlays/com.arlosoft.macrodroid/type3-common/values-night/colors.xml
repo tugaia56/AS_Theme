@@ -62,7 +62,7 @@
     <color name="macro_list_switch_on_thumb">@*android:color/accent_material_dark</color>
     <color name="option_dialog_block_bg">#ff151515</color>
     <color name="plugins_accent">#ffffffff</color>
-    <color name="plugins_dark">#ff404040</color>
+    <color name="plugins_dark">@*android:color/background_dark</color>
     <color name="plugins_primary">#ff484848</color>
     <color name="plugins_user_bar">#ff3f3f3f</color>
     <color name="primary">@*android:color/ripple_material_dark</color>

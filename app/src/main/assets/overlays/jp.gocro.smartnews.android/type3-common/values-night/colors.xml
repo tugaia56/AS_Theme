@@ -131,7 +131,7 @@
     <color name="notification_lock_screen_mock_device_time_text_color">#4dffffff</color>
     <color name="notification_preview_item_divider">#33ffffff</color>
     <color name="notification_preview_item_ripple_color">#33ffffff</color>
-    <color name="pageCurl1">#ff1e1e1e</color>
+    <color name="pageCurl1">@*android:color/background_dark</color>
     <color name="pb_slider_tutorial_grad_start">#00212121</color>
     <color name="politics_grey_border">#32ffffff</color>
     <color name="premium_landingPage_bottomSheet_elevation">#9f000000</color>

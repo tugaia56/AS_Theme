@@ -69,7 +69,7 @@
     <color name="subThirdBackgroundColor">@*android:color/button_material_dark</color>
     <color name="textFieldBackgroundColor">#1affffff</color>
     <color name="thirdBackgroundColor">@*android:color/button_material_dark</color>
-    <color name="thumbBackgroundColor">#ff1e1e1e</color>
+    <color name="thumbBackgroundColor">@*android:color/background_dark</color>
     <color name="titlebarIconColor">#ff9b9b9b</color>
     <color name="titlebarIconDisabledColor">#339b9b9b</color>
     <color name="titlebarIconPressedColor">#669b9b9b</color>

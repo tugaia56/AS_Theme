@@ -912,7 +912,7 @@
     <color name="coui_color_disabled_neutral_dark">#4dffffff</color>
     <color name="coui_color_divider">#1f000000</color>
     <color name="coui_color_error">#ffdb382c</color>
-    <color name="coui_color_error_dark">#ffff6c61</color>
+    <color name="coui_color_error_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_error_text_bg">#4de82a18</color>
     <color name="coui_color_fill_solid">#ffebebeb</color>
     <color name="coui_color_fill_solid_dark">@*android:color/background_leanback_dark</color>

@@ -20,7 +20,7 @@
     <color name="oplusColorSurfaces">@*android:color/button_material_dark</color>
     <color name="oplus_color_container_solid">@*android:color/background_leanback_dark</color>
     <color name="oplus_color_controls">#40ffffff</color>
-    <color name="oplus_color_error_text_bg">#ffea3939</color>
+    <color name="oplus_color_error_text_bg">@*android:color/accent_material_dark</color>
     <color name="oplus_color_fill_solid">@*android:color/background_leanback_dark</color>
     <color name="oplus_color_hint_neutral">#4dffffff</color>
     <color name="oplus_color_label_tertiary">#4dffffff</color>
@@ -29,7 +29,7 @@
     <color name="oplus_seekbar_background_color_normal">#1affffff</color>
     <color name="oplus_seekbar_progress_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="oplus_seekbar_progress_color_normal">#ff999999</color>
-    <color name="oplus_seekbar_thumb_color_disabled">#ff404040</color>
+    <color name="oplus_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
     <color name="oplus_seekbar_thumb_shadow_color">#33ffffff</color>
     <color name="oplus_seekbar_tick_mark_color">#ff595959</color>
     <color name="oplus_textinput_stroke_color_disabled">#19ffffff</color>
