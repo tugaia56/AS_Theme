@@ -11,7 +11,7 @@
     <color name="ag_abs_white">#ffffffff</color>
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
-    <color name="annotation_color_black">#ff3c4043</color>
+    <color name="annotation_color_black">@*android:color/background_dark</color>
     <color name="annotation_color_blue">#ff00acc1</color>
     <color name="annotation_color_green">#ff689f38</color>
     <color name="annotation_color_red">#ffdb4437</color>

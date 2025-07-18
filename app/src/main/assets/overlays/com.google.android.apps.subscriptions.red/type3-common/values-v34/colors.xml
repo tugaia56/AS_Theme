@@ -153,7 +153,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed">#2962ff</color>
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
-    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">@*android:color/holo_red_dark</color>
     <color name="settingslib_text_color_primary_device_default">#ff6d00</color>
     <color name="settingslib_text_color_secondary_device_default">#ff9100</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>

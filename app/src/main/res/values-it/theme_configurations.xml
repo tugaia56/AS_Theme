@@ -20,13 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Inserisci qui il changelog del tuo tema, ogni elemento sarà un nuovo punto elenco nel foglio -->
     <string-array name="ThemeChangelog">
-        <item>Versione 5.5.0</item>
+        <item>Versione 5.6.0</item>
         <item>AGGIUNTO:</item>
-        <item>KsuWebUI v1.0</item>
+        <item>- - -</item>
         <item>AGGIORNATO:</item>
-        <item>Oneplus Registratore v15.1.11</item>
-        <item>Telefono Google BUG FIX</item>
-        <item>SwitchI di wstxda v3.1</item>
+        <item>- - -</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

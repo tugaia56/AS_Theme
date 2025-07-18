@@ -21,7 +21,7 @@
     <color name="badge_color">@*android:color/accent_material_dark</color>
     <color name="basel_bottom_sheet_background_color">#ff1c1f24</color>
     <color name="basel_purple_5_strong">#ff5806e0</color>
-    <color name="basel_track_background_color">#1affffff</color>
+    <color name="basel_track_background_color">#ff191c1f</color>
     <color name="baseline_neutral_0_alpha_10">#19000000</color>
     <color name="baseline_neutral_10">#ff1f1f1f</color>
     <color name="baseline_neutral_100_with_surface_tint_light_alpha_12">#ffedf2fa</color>
@@ -29,6 +29,7 @@
     <color name="baseline_neutral_10_with_surface_tint_dark_alpha_11">#ff313336</color>
     <color name="baseline_neutral_10_with_surface_tint_dark_alpha_14">#ff37393d</color>
     <color name="baseline_neutral_10_with_surface_tint_dark_alpha_5">#ff28282a</color>
+    <color name="baseline_neutral_20">@*android:color/background_dark</color>
     <color name="baseline_neutral_70">#ffababab</color>
     <color name="baseline_neutral_80">#ffc7c7c7</color>
     <color name="baseline_neutral_90">#ffe3e3e3</color>
@@ -96,12 +97,12 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_disabled_color">#663897f0</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="camera_gradient_center">#80d73889</color>
     <color name="camera_gradient_end">#80fd8d32</color>
     <color name="camera_gradient_start">#80a307ba</color>
     <color name="capture_textview_text_color">#feffffff</color>
-    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cds_black_a05">#0c000000</color>
     <color name="cds_black_a60">#99000000</color>
     <color name="cds_blue_11">#ff429aff</color>
@@ -187,6 +188,7 @@
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
     <color name="design_dark_default_color_secondary">#ff03dac6</color>
     <color name="design_fab_stroke_end_inner_color">#0a000000</color>
+    <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">#ff323232</color>
     <color name="dialog_button_text">#ff0866ff</color>
@@ -194,7 +196,7 @@
     <color name="disabled_overlay">#b3cbd2d9</color>
     <color name="disabled_text_off_white">#50ffffff</color>
     <color name="disabled_track_text_color">#ff505356</color>
-    <color name="divider">#4ddbdbdb</color>
+    <color name="divider_view">#4ddbdbdb</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="exo_black_opacity_60">#98000000</color>
@@ -544,7 +546,7 @@
     <color name="igds_prism_gray_08">#ff2b3036</color>
     <color name="igds_prism_gray_08_alpha_05">#0d2b3036</color>
     <color name="igds_prism_gray_08_alpha_80">#cc2b3036</color>
-    <color name="igds_prism_gray_09">#ff25292e</color>
+    <color name="igds_prism_gray_09">@*android:color/button_material_dark</color>
     <color name="igds_prism_gray_09_alpha_95">#f225292e</color>
     <color name="igds_prism_gray_10">#ff212328</color>
     <color name="igds_prism_gray_1000">#ff57606b</color>
@@ -587,14 +589,14 @@
     <color name="igds_prism_purple_05">#ff7638fa</color>
     <color name="igds_prism_purple_06">#ff5806e0</color>
     <color name="igds_prism_red_04_ax">#fffe6172</color>
-    <color name="igds_prism_red_05">#fffe1d37</color>
+    <color name="igds_prism_red_05">@*android:color/accent_material_dark</color>
     <color name="igds_prism_red_06">#ffe4010d</color>
     <color name="igds_prism_white_alpha_35">#59ffffff</color>
     <color name="igds_prism_white_alpha_95">#f2ffffff</color>
     <color name="igds_prism_yellow_04">#ffffe335</color>
     <color name="igds_prism_yellow_05">#ffffd600</color>
-    <color name="igds_search_meta_ai_send_button_icon_color">#ff005ff5</color>
-    <color name="igds_search_meta_ai_send_button_outside_icon_color">#ff005ff5</color>
+    <color name="igds_search_meta_ai_send_button_icon_color">@*android:color/accent_material_dark</color>
+    <color name="igds_search_meta_ai_send_button_outside_icon_color">@*android:color/accent_material_dark</color>
     <color name="igds_search_meta_ai_send_button_outside_icon_color_disabled">#ffd9d9d9</color>
     <color name="igds_transparent_navigation_bar">#01000000</color>
     <color name="iglive_ssi_banner_gradient_end">#99585bc2</color>

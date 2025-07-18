@@ -429,7 +429,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="slicer_default_background_color">#ff3c4043</color>
+    <color name="slicer_default_background_color">@*android:color/background_dark</color>
     <color name="slicer_default_font_color">#ffffffff</color>
     <color name="sud_color_accent_glif_dark">@*android:color/accent_material_dark</color>
     <color name="sud_color_accent_glif_light">@*android:color/accent_material_dark</color>

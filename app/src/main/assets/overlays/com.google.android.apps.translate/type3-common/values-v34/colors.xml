@@ -24,7 +24,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#ffd740</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_tertiary">#ff8f00</color>
@@ -141,7 +141,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed">#2962ff</color>
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
-    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">@*android:color/holo_red_dark</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
     <color name="settingslib_track_off_color">#1a237e</color>
     <color name="gm3_sys_color_dynamic_dark_error">@*android:color/keyguard_avatar_frame_pressed_color</color>

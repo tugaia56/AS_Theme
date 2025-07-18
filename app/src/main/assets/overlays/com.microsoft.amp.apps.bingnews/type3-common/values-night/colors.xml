@@ -138,7 +138,7 @@
     <color name="sapphire_amp_sync_disabled">#ffeeeeee</color>
     <color name="sapphire_amp_sync_enabled">#ff34e36f</color>
     <color name="sapphire_app_starter_back_button_color">@*android:color/accent_material_dark</color>
-    <color name="sapphire_app_starter_ic_divide_line">#ff555555</color>
+    <color name="sapphire_app_starter_ic_divide_line">@*android:color/button_material_dark</color>
     <color name="sapphire_app_starter_ic_interest_color">@*android:color/accent_material_dark</color>
     <color name="sapphire_app_starter_ic_rewards_tip_color">#ffcccccc</color>
     <color name="sapphire_apps_icon_background">@*android:color/background_dark</color>

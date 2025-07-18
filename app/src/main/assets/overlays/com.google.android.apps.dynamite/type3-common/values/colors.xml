@@ -180,7 +180,7 @@
     <color name="gm_ref_palette_grey500">#ffffffff</color>
     <color name="gm_ref_palette_grey600">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_grey700">@*android:color/accent_material_dark</color>
-    <color name="gm_ref_palette_grey800">#ff3c4043</color>
+    <color name="gm_ref_palette_grey800">@*android:color/background_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="gm_ref_palette_red200">@*android:color/ripple_material_dark</color>
     <color name="gm_ref_palette_red300">@*android:color/accent_material_dark</color>

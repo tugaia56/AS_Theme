@@ -78,7 +78,7 @@
     <color name="info_window_timestamp_text">#ff616161</color>
     <color name="introduction_atlas_color_background_elevation">@*android:color/background_dark</color>
     <color name="introduction_disclaimer_text_color">#61ffffff</color>
-    <color name="introduction_dummy_permission_bg_color">#ff3c4043</color>
+    <color name="introduction_dummy_permission_bg_color">@*android:color/background_dark</color>
     <color name="introduction_dummy_permission_button_color">#0dffffff</color>
     <color name="introduction_follow_action_button_inactive">#ff69696e</color>
     <color name="introduction_follow_action_text_disable">@*android:color/white</color>

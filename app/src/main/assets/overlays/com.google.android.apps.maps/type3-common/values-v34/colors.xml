@@ -23,7 +23,7 @@
     <color name="sud_system_on_background_light">#ffab91</color>
     <color name="sud_system_on_error_container_dark">#ffccbc</color>
     <color name="sud_system_on_error_container_light">#aeea00</color>
-    <color name="sud_system_on_error_dark">#c6ff00</color>
+    <color name="sud_system_on_error_dark">@*android:color/holo_red_dark</color>
     <color name="sud_system_on_error_light">#eeff41</color>
     <color name="sud_system_on_primary_container_dark">#f4ff81</color>
     <color name="sud_system_on_primary_container_light">#827717</color>
@@ -246,7 +246,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed">#2962ff</color>
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
-    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">@*android:color/holo_red_dark</color>
     <color name="settingslib_text_color_primary_device_default">@*android:color/accent_material_dark</color>
     <color name="settingslib_text_color_secondary_device_default">@*android:color/accent_material_dark</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>

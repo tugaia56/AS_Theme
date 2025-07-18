@@ -120,7 +120,7 @@
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="exo_edit_mode_background_color">#fff4f3f0</color>
     <color name="exo_error_message_background_color">#aa000000</color>
-    <color name="fab_dark">#ff3c4043</color>
+    <color name="fab_dark">@*android:color/background_dark</color>
     <color name="fab_light">#fff2f3f5</color>
     <color name="falcons">#ffa71930</color>
     <color name="foreground_material_dark">@*android:color/white</color>

@@ -46,7 +46,7 @@
     <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">#ccccbb</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface_variant">#8c9eff</color>								<!-- Descrizione principale utente -navbar -->
     <color name="gm3_sys_color_dynamic_dark_on_surface_variant_state_content">#1976d2</color>
-    <color name="gm3_sys_color_dynamic_dark_on_tertiary">#dd0000</color>
+    <color name="gm3_sys_color_dynamic_dark_on_tertiary">@*android:color/holo_red_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary_container">#8c9eff</color>
 	<color name="gm3_sys_color_dynamic_dark_outline">#5c6bc0</color>
     <color name="gm3_sys_color_dynamic_dark_outline_variant">#ddffff</color>

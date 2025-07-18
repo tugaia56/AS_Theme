@@ -101,7 +101,7 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="card_bg_1">@*android:color/background_leanback_dark</color>
     <color name="card_bg_2">@*android:color/button_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
@@ -309,7 +309,7 @@
     <color name="home_forum_gradient_2">#ff039be5</color>
     <color name="home_macros_gradient_1">#ff2e4668</color>
     <color name="home_macros_gradient_2">#ff4a6075</color>
-    <color name="home_screen_background">#ff555555</color>
+    <color name="home_screen_background">@*android:color/button_material_dark</color>
     <color name="home_screen_tile_border">#66222222</color>
     <color name="home_screen_tile_last_edited_macro">#ff93748a</color>
     <color name="home_screen_tile_quick_run_macro">#ff6457a6</color>
@@ -411,7 +411,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>

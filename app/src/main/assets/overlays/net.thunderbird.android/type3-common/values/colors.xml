@@ -44,11 +44,11 @@
     <color name="darkOnError">#ff690005</color>
     <color name="darkOnErrorContainer">#ffffdad6</color>
     <color name="darkOnPrimary">#ff003549</color>
-    <color name="darkOnPrimaryContainer">#ff002e41</color>
+    <color name="darkOnPrimaryContainer">#ffffffff</color>
     <color name="darkOnPrimaryFixed">#ff001e2c</color>
     <color name="darkOnPrimaryFixedVariant">#ff004c68</color>
     <color name="darkOnSecondary">#ff003352</color>
-    <color name="darkOnSecondaryContainer">#ff001423</color>
+    <color name="darkOnSecondaryContainer">#ffffffff</color>
     <color name="darkOnSecondaryFixed">#ff001d32</color>
     <color name="darkOnSecondaryFixedVariant">#ff004b74</color>
     <color name="darkOnSurface">#ffe5e2e3</color>
@@ -314,8 +314,6 @@
     <color name="material_deep_purple_900">#ff311b92</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
-    <color name="material_drawer_divider">#1f000000</color>
-    <color name="material_drawer_selected">@*android:color/ripple_material_dark</color>
     <color name="material_gray_100">@*android:color/accent_material_dark</color>
     <color name="material_gray_200">#ffeeeeee</color>
     <color name="material_gray_300">#ffe0e0e0</color>

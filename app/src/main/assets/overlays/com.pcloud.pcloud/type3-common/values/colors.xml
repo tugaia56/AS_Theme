@@ -232,7 +232,7 @@
     <color name="material_personalized_color_text_primary_inverse_disable_only">#ffffffff</color>
     <color name="material_personalized_color_text_secondary_and_tertiary_inverse">#ffffffff</color>
     <color name="material_personalized_color_text_secondary_and_tertiary_inverse_disabled">#ffffffff</color>
-    <color name="md_theme_background">#fffffffev</color>
+    <color name="md_theme_background">#ffffffff</color>
     <color name="md_theme_background_highContrast">#fff5fafb</color>
     <color name="md_theme_background_mediumContrast">#fff5fafb</color>
     <color name="md_theme_error">#ffba1a1a</color>

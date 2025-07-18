@@ -218,7 +218,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="calendar_picker_day_hint_color">#33000000</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="card_blue_text">#ff36abff</color>
     <color name="card_default_divider">#ffebebeb</color>
     <color name="card_default_white">#ffffffff</color>
@@ -1796,7 +1796,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>

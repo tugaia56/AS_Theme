@@ -83,7 +83,7 @@
     <color name="geo_sys_color_inverse_primary">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_inverse_surface">#ffe3e3e3</color>
     <color name="geo_sys_color_local_guides_variant">#fff16b2d</color>
-    <color name="geo_sys_color_negative">#fff2b8b5</color>
+    <color name="geo_sys_color_negative">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_negative_container">#ff281d1c</color>
     <color name="geo_sys_color_negative_container_variant">#ff43211f</color>
     <color name="geo_sys_color_neutral_container">@*android:color/background_dark</color>
@@ -115,7 +115,7 @@
     <color name="geo_sys_color_primary_container">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_saved_custom_list">#ff7fcfff</color>
     <color name="geo_sys_color_saved_default">@*android:color/accent_material_dark</color>
-    <color name="geo_sys_color_saved_favorite">#fff2b8b5</color>
+    <color name="geo_sys_color_saved_favorite">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_saved_starred">#ffffbb29</color>
     <color name="geo_sys_color_saved_want_to_go">#ff6dd58c</color>
     <color name="geo_sys_color_secondary_container">@*android:color/accent_material_dark</color>

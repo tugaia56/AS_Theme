@@ -303,7 +303,7 @@
     <color name="material_dynamic_color_dark_on_error">#1565c0</color>
     <color name="material_dynamic_color_dark_on_error_container">#0d47a1</color>
     <color name="material_dynamic_color_light_error">#8c9eff</color>
-    <color name="material_dynamic_color_light_error_container">#dd0000</color>
+    <color name="material_dynamic_color_light_error_container">@*android:color/holo_red_dark</color>
     <color name="material_dynamic_color_light_on_error">#3d5afe</color>
     <color name="material_dynamic_color_light_on_error_container">#ffffffff</color>
     <color name="settingslib_colorSurfaceVariant">#ff0000</color>

@@ -3,7 +3,7 @@
     <color name="about_page_background">@*android:color/background_dark</color>
     <color name="about_page_card_normal">@*android:color/button_material_dark</color>
     <color name="about_page_card_text_color">#deffffff</color>
-    <color name="about_page_category_text_color">#ffabaaaa</color>
+    <color name="about_page_category_text_color">@*android:color/accent_material_dark</color>	<!-- ffabaaaa -->
     <color name="about_page_hint">#80ffffff</color>
     <color name="about_page_line">@*android:color/background_dark</color>
     <color name="about_page_link_text_color">@*android:color/accent_material_dark</color>

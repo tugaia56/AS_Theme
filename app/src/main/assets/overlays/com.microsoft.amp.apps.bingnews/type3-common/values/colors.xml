@@ -11,7 +11,7 @@
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="appointment_icon_color">#ff00809d</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="baseline_error_200">#fff2b8b5</color>
+    <color name="baseline_error_200">@*android:color/accent_material_dark</color>
     <color name="baseline_error_600">#ffb3261e</color>
     <color name="baseline_neutral_0">@*android:color/white</color>
     <color name="baseline_neutral_0_with_neutral_600_alpha_11_with_primary_600_2">#ffe8eaec</color>
@@ -455,7 +455,7 @@
     <color name="lb_search_bar_text_speech_mode">#ff444444</color>
     <color name="lb_search_plate_hint_text_color">#ffcccccc</color>
     <color name="lb_speech_orb_not_recording">#ffcccccc</color>
-    <color name="lb_speech_orb_not_recording_icon">#ff555555</color>
+    <color name="lb_speech_orb_not_recording_icon">@*android:color/button_material_dark</color>
     <color name="lb_speech_orb_not_recording_pulsed">#ffeeeeee</color>
     <color name="lb_speech_orb_recording">#ffff4343</color>
     <color name="lb_tv_white">#ffcccccc</color>
@@ -476,7 +476,7 @@
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
     <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>

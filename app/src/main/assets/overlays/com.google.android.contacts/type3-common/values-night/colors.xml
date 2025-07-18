@@ -38,13 +38,12 @@
     <color name="settingslib_materialColorPrimary">#ff83d6c7</color>
     <color name="settingslib_materialColorPrimaryContainer">#ff005047</color>
     <color name="settingslib_materialColorSecondaryContainer">#ff334c47</color>
+    <color name="settingslib_materialColorSurfaceContainer">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">@*android:color/background_dark</color>
-    <color name="settingslib_materialColorSurfaceContainerLowest">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceVariant">@*android:color/background_dark</color>
     <color name="spark_active_background_color">@*android:color/ripple_material_dark</color>
     <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
     <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
-    <color name="translucent_navigation_bar_color">@*android:color/car_blue_grey_800</color>
 </resources>

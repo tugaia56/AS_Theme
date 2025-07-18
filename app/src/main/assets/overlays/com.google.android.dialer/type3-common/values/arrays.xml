@@ -36,4 +36,31 @@
         <item>@*android:color/white</item>
         <item>@*android:color/white</item>
     </array>	
+    <array name="letter_tile_color_list">
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+    </array>
+    <array name="letter_tile_colors_oneplus_dark">
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+        <item>@*android:color/accent_material_dark</item>
+    </array>
+    <array name="letter_tile_colors_oneplus_light">
+        <item>@*android:color/accent_material_light</item>
+        <item>@*android:color/accent_material_light</item>
+        <item>@*android:color/accent_material_light</item>
+        <item>@*android:color/accent_material_light</item>
+        <item>@*android:color/accent_material_light</item>
+        <item>@*android:color/accent_material_light</item>
+        <item>@*android:color/accent_material_light</item>
+    </array>	
 </resources>

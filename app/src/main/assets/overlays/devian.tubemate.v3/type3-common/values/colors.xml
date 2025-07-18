@@ -255,7 +255,7 @@
     <color name="holo_light_blue">@*android:color/accent_material_dark</color>
     <color name="holo_light_blue_trans">#5033b5e5</color>
     <color name="holo_purple_dark">#ff9933cc</color>
-    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_red_dark">#ffDD0000</color>
     <color name="holo_yellow_dark">#ffff8800</color>
     <color name="light_grey_transparent">#11777777</color>
     <color name="light_transparent">#22ffffff</color>

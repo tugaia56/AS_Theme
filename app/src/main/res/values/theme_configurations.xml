@@ -20,13 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 5.5.0</item>
+        <item>Version 5.6.0</item>
         <item>ADDED:</item>
-        <item>KsuWebUI v1.0</item>
+        <item>- - -</item>
         <item>UPDATED:</item>
-        <item>Oneplus Sound Recorder v15.1.11</item>
-        <item>Google Dialer BUG FIX</item>
-        <item>SwitchAI by wstxda v3.1</item>
+        <item>- - -</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

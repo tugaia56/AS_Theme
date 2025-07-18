@@ -311,7 +311,7 @@
     <color name="settingslib_color_grey500">#ff9aa0a6</color>
     <color name="settingslib_color_grey600">#ff80868b</color>
     <color name="settingslib_color_grey700">#ff5f6368</color>
-    <color name="settingslib_color_grey800">#ff3c4043</color>
+    <color name="settingslib_color_grey800">@*android:color/background_dark</color>
     <color name="settingslib_color_grey900">@*android:color/background_dark</color>
     <color name="settingslib_color_orange100">#fffedfc8</color>
     <color name="settingslib_color_orange300">@*android:color/accent_material_dark</color>

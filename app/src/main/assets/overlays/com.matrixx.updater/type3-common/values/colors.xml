@@ -5,7 +5,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="advanced_icon_color">#ff3c4043</color>
+    <color name="advanced_icon_color">@*android:color/background_dark</color>
     <color name="advanced_outline_color">#ffbdc1c6</color>
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
@@ -321,7 +321,7 @@
     <color name="settingslib_color_grey500">#ff9aa0a6</color>
     <color name="settingslib_color_grey600">#ff80868b</color>
     <color name="settingslib_color_grey700">#ff5f6368</color>
-    <color name="settingslib_color_grey800">#ff3c4043</color>
+    <color name="settingslib_color_grey800">@*android:color/background_dark</color>
     <color name="settingslib_color_grey900">#ff202124</color>
     <color name="settingslib_color_orange100">#fffedfc8</color>
     <color name="settingslib_color_orange300">#fffcad70</color>
@@ -383,7 +383,7 @@
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_glif_edit_text_bg_dark_color">#ff202124</color>
     <color name="sud_glif_edit_text_bg_light_color">#0a000000</color>
-    <color name="sud_glif_v3_dialog_background_color_dark">#ff3c4043</color>
+    <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_v3_dialog_background_color_light">#fff1f3f4</color>
     <color name="sud_glif_v3_nav_bar_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_v3_nav_bar_color_light">#ffffffff</color>

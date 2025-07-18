@@ -8,7 +8,7 @@
     <color name="ad_content_bg_color">@*android:color/background_dark</color>
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
-    <color name="app_window_background">@*android:color/button_material_dark</color>
+    <color name="app_window_background">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="belvedere_floating_action_menu_icon_color">#ffffffff</color>
     <color name="belvedere_floating_action_menu_item_background">#ffffffff</color>

@@ -8,6 +8,7 @@
     <color name="settingslib_materialColorPrimary">#8d6e63</color>
     <color name="settingslib_materialColorPrimaryContainer">#a1887f</color>
     <color name="settingslib_materialColorSecondaryContainer">#dd2c00</color>
+    <color name="settingslib_materialColorSecondaryFixed">#00ff00</color>
     <color name="settingslib_materialColorSurfaceBright">#ff3d00</color>
     <color name="settingslib_materialColorSurfaceContainer">#ff00ff</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ff6e40</color>
@@ -25,7 +26,7 @@
     <color name="sud_system_on_background_light">#eeff41</color>
     <color name="sud_system_on_error_container_dark">#f4ff81</color>
     <color name="sud_system_on_error_container_light">#827717</color>
-    <color name="sud_system_on_error_dark">#9e9d24</color>
+    <color name="sud_system_on_error_dark">@*android:color/holo_red_dark</color>
     <color name="sud_system_on_error_light">#afb42b</color>
     <color name="sud_system_on_primary_container_dark">#c0ca33</color>
     <color name="sud_system_on_primary_container_light">#cddc39</color>
@@ -40,7 +41,7 @@
     <color name="sud_system_on_secondary_dark">#388e3c</color>
     <color name="sud_system_on_secondary_fixed_dark">#4caf50</color>
     <color name="sud_system_on_secondary_fixed_light">#66bb6a</color>
-    <color name="sud_system_on_secondary_fixed_variant_dark">#81c784</color>
+    <color name="sud_system_on_secondary_fixed_variant_dark">#ffffffff</color>
     <color name="sud_system_on_secondary_fixed_variant_light">#a5d6a7</color>
     <color name="sud_system_on_secondary_light">#d50000</color>
     <color name="sud_system_on_surface_dark">#ff1744</color>
@@ -128,10 +129,10 @@
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">#ff8a65</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/background_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#ffd740</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_tertiary">#ff8f00</color>
@@ -140,7 +141,7 @@
     <color name="gm3_sys_color_dynamic_light_inverse_on_surface">#ffc107</color>
     <color name="gm3_sys_color_dynamic_light_inverse_surface">#ffca28</color>
     <color name="gm3_sys_color_dynamic_light_on_background">#ffd54f</color>
-    <color name="gm3_sys_color_dynamic_light_on_primary">#ffe082</color>
+    <color name="gm3_sys_color_dynamic_light_on_primary">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_light_on_primary_container">#ffecb3</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary">#ffd600</color>
     <color name="gm3_sys_color_dynamic_light_on_secondary_container">#ffea00</color>
@@ -190,7 +191,7 @@
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#388e3c</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#43a047</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#4caf50</color>
-    <color name="m3_sys_color_dynamic_dark_outline">@*android:color/background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_outline">#00ff00</color>
     <color name="m3_sys_color_dynamic_dark_outline_variant">#81c784</color>
     <color name="m3_sys_color_dynamic_dark_primary">#a5d6a7</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">#c8e6c9</color>
@@ -248,7 +249,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed">#2962ff</color>
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
-    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#dd0000</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">@*android:color/holo_red_dark</color>
     <color name="settingslib_text_color_primary_device_default">#00ffff</color>
     <color name="settingslib_text_color_secondary_device_default">#ff00ff</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>

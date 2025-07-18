@@ -63,7 +63,7 @@
     <color name="gm3_ref_palette_dynamic_neutral95">#d1c4e9</color>
     <color name="gm3_ref_palette_dynamic_neutral99">#ffffffff</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant0">#3d5afe</color>
-    <color name="gm3_ref_palette_dynamic_neutral_variant10">#dd0000</color>
+    <color name="gm3_ref_palette_dynamic_neutral_variant10">@*android:color/holo_red_dark</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant100">#8c9eff</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant20">#1a237e</color>
     <color name="gm3_ref_palette_dynamic_neutral_variant30">#283593</color>

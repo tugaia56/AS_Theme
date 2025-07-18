@@ -85,7 +85,7 @@
     <color name="gm3_sys_color_dynamic_dark_on_background">#bfdbbd</color>						<!-- numeri dialpad -->
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#7e57c2</color>
     <color name="gm3_sys_color_dynamic_dark_on_surface_state_content">#ccccbb</color>
-    <color name="gm3_sys_color_dynamic_dark_on_tertiary">#dd0000</color>
+    <color name="gm3_sys_color_dynamic_dark_on_tertiary">@*android:color/holo_red_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary_container">#8c9eff</color>
     <color name="gm3_sys_color_dynamic_dark_outline_variant">#ddffff</color>
     <color name="gm3_sys_color_dynamic_dark_primary_state_layer">#3f51b5</color>

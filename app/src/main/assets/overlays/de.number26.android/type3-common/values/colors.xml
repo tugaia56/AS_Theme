@@ -77,8 +77,8 @@
     <color name="com_braze_inappmessage_header_text">@*android:color/button_material_dark</color>
     <color name="com_braze_inappmessage_icon">@*android:color/white</color>
     <color name="com_braze_inappmessage_icon_background">#ff0073d5</color>
-    <color name="com_braze_inappmessage_text">#ff555555</color>
-    <color name="com_braze_inappmessage_text_slideup">#ff555555</color>
+    <color name="com_braze_inappmessage_text">@*android:color/button_material_dark</color>
+    <color name="com_braze_inappmessage_text_slideup">@*android:color/button_material_dark</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_1">#fff33e3e</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_2">#ff1bbdf2</color>
     <color name="com_braze_newsfeed_swipe_refresh_color_3">#ff2f3436</color>
@@ -197,7 +197,7 @@
     <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
     <color name="gm_ref_palette_grey600">#ff80868b</color>
     <color name="gm_ref_palette_grey700">#ff5f6368</color>
-    <color name="gm_ref_palette_grey800">#ff3c4043</color>
+    <color name="gm_ref_palette_grey800">@*android:color/background_dark</color>
     <color name="gm_ref_palette_grey900">#ff202124</color>
     <color name="gm_ref_palette_red100">#fffad2cf</color>
     <color name="gm_ref_palette_red200">#fff6aea9</color>
@@ -455,7 +455,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>

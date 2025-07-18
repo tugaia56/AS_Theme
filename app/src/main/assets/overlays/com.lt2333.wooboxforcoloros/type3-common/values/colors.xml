@@ -56,8 +56,8 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="purple_700">@*android:color/accent_material_dark</color>
-    <color name="red">@*android:color/accent_material_dark</color>
+    <color name="purple_700">@*android:color/white</color>
+    <color name="red">@*android:color/white</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="rounded_pop">#ffffffff</color>

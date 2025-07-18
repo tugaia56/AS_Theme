@@ -20,7 +20,7 @@
         <item name="geoColorDarkInverseSurface">#ffe3e3e3</item>
         <item name="geoColorDarkLocalGuides">#ffe35a1b</item>
         <item name="geoColorDarkLocalGuidesVariant">#fff16b2d</item>
-        <item name="geoColorDarkNegative">#fff2b8b5</item>
+        <item name="geoColorDarkNegative">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkNegativeContainer">#ff281d1c</item>
         <item name="geoColorDarkNegativeContainerVariant">#ff43211f</item>
         <item name="geoColorDarkNeutralContainer">@*android:color/background_dark</item>
@@ -59,7 +59,7 @@
         <item name="geoColorDarkPrimaryContainer">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkSavedCustomList">#ff9bd0db</item>
         <item name="geoColorDarkSavedDefault">#ff75d4e6</item>
-        <item name="geoColorDarkSavedFavorite">#fff2b8b5</item>
+        <item name="geoColorDarkSavedFavorite">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkSavedStarred">#ffffbb29</item>
         <item name="geoColorDarkSavedWantToGo">#ff6dd58c</item>
         <item name="geoColorDarkSecondaryContainer">#ff00363e</item>

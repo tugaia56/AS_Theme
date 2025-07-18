@@ -4,9 +4,9 @@
     <color name="basicNavStepOff">#ff55585f</color>
     <color name="basicNavStepOn">#ff51535d</color>
     <color name="black">@*android:color/background_dark</color>
-    <color name="com_braze_content_card_background">#ff555555</color>
-    <color name="com_braze_content_card_background_border">#ff555555</color>
-    <color name="com_braze_content_card_background_shadow">#ff555555</color>
+    <color name="com_braze_content_card_background">@*android:color/button_material_dark</color>
+    <color name="com_braze_content_card_background_border">@*android:color/button_material_dark</color>
+    <color name="com_braze_content_card_background_shadow">@*android:color/button_material_dark</color>
     <color name="com_braze_content_card_empty_text_color">@*android:color/white</color>
     <color name="com_braze_content_cards_action_hint_text_color">#ff8ac7ff</color>
     <color name="com_braze_content_cards_description">@*android:color/white</color>

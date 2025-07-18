@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
-    <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
@@ -96,7 +94,7 @@
     <color name="gm3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral100">#ffffffff</color>
     <color name="gm3_ref_palette_neutral20">@*android:color/background_dark</color>
-    <color name="gm3_ref_palette_neutral6">@*android:color/background_dark</color>
+    <color name="gm3_ref_palette_neutral6">@*android:color/button_material_dark</color>
     <color name="gm3_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gm3_ref_palette_neutral95">#fff2f2f2</color>
     <color name="gm3_ref_palette_neutral_variant20">@*android:color/background_dark</color>
@@ -110,6 +108,7 @@
     <color name="gm3_ref_palette_primary20">#ffffffff</color>
     <color name="gm3_ref_palette_primary30">#ff0842a0</color>
     <color name="gm3_ref_palette_primary40">#ff0b57d0</color>
+    <color name="gm3_ref_palette_primary50">#ff1b6ef3</color>
     <color name="gm3_ref_palette_primary60">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary70">#ff7cacf8</color>
     <color name="gm3_ref_palette_primary80">#ffffffff</color>
@@ -131,6 +130,8 @@
     <color name="gm3_ref_palette_tertiary80">#ff6dd58c</color>
     <color name="gm3_ref_palette_tertiary90">#ffc4eed0</color>
     <color name="gm3_ref_palette_white">#ffffffff</color>
+    <color name="gm3_ref_palette_yellow70">#ffef9800</color>
+    <color name="gm3_ref_palette_yellow90">#ffffe07c</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_high">@*android:color/background_dark</color>
@@ -184,15 +185,33 @@
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
     <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="gmp_ref_palette_neutral10">@*android:color/background_dark</color>
+    <color name="gmp_ref_palette_neutral20">@*android:color/background_dark</color>
+    <color name="gmp_ref_palette_neutral30">#ff474747</color>
     <color name="gmp_ref_palette_neutral40">#ff5e5e5e</color>
+    <color name="gmp_ref_palette_neutral6">@*android:color/button_material_dark</color>
+    <color name="gmp_ref_palette_neutral70">#ffababab</color>
     <color name="gmp_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gmp_ref_palette_neutral95">#fff2f2f2</color>
     <color name="gmp_ref_palette_neutral_tint100">#ffffffff</color>
+    <color name="gmp_ref_palette_primary40">#ff006876</color>
+    <color name="gmp_ref_palette_primary80">#ff75d4e6</color>
+    <color name="gmp_ref_palette_primary90">#ff9fefff</color>
+    <color name="gmp_ref_palette_primary95">#ffd2f7ff</color>
+    <color name="gmp_ref_palette_primary_tonal">#ff1c2b42</color>
+    <color name="gmp_ref_palette_red50">#ffdc362e</color>
+    <color name="gmp_ref_palette_red80">@*android:color/accent_material_dark</color>
+    <color name="gmp_ref_palette_tertiary50">#ff198639</color>
+    <color name="gmp_ref_palette_tertiary80">#ff6dd58c</color>
+    <color name="gmp_ref_palette_tertiary90">#ffc4eed0</color>
+    <color name="gmp_ref_palette_tertiary_tonal">#ff1f3f28</color>
+    <color name="gmp_sys_color_dark_surface_immersive">#99000000</color>
     <color name="google_cyan400">#ff4ecde6</color>
     <color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
     <color name="google_dark_yellow300">#fff9dc74</color>
     <color name="google_dark_yellow600">#fff3b713</color>
     <color name="google_default_color_on_surface_disabled">#603c4043</color>
+    <color name="google_maps_logo_dark_gray">@*android:color/background_dark</color>
+    <color name="google_maps_logo_white">#ffffffff</color>
     <color name="google_orange400">#fffa903e</color>
     <color name="google_pink400">#ffff63b8</color>
     <color name="google_purple400">#ffaf5cf7</color>
@@ -274,12 +293,17 @@
     <color name="photo_picker_edit_background">@*android:color/background_dark</color>
     <color name="photo_picker_edit_crop_dim">#99000000</color>
     <color name="photo_picker_edit_crop_highlight">#6bffffff</color>
+    <color name="photo_viewer_gradient_dark">#66000000</color>
+    <color name="photo_viewer_indicator_unselected_color">#99ffffff</color>
+    <color name="place_details_attribution_color_black">#ff1f1f1f</color>
+    <color name="place_details_attribution_color_gray">#ff5e5e5e</color>
+    <color name="place_details_attribution_color_white">#ffffffff</color>
     <color name="places_autocomplete_fullscreen_background">#fff1f1f1</color>
     <color name="places_autocomplete_progress_tint">#ff4184f3</color>
     <color name="places_autocomplete_separator">#1f000000</color>
-    <color name="places_text_black_alpha_26">#42010000</color>
+    <color name="places_text_black_alpha_60">#99000000</color>
     <color name="places_text_black_alpha_87">#de000000</color>
-    <color name="places_text_white_alpha_26">#42ffffff</color>
+    <color name="places_text_white_alpha_60">#99ffffff</color>
     <color name="places_text_white_alpha_87">#deffffff</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -306,9 +330,10 @@
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorPrimaryContainer">#ffc5eae2</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>
+    <color name="settingslib_materialColorSecondaryFixed">#ffcce8e2</color>
+    <color name="settingslib_materialColorSurfaceContainer">#ffeeeeee</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ffe8e8e8</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#ffe3e3e3</color>
-    <color name="settingslib_materialColorSurfaceContainerLowest">#ffffffff</color>
     <color name="settingslib_materialColorSurfaceVariant">#ffe3e3e3</color>
     <color name="spark_active_background_color">#ffe5fafa</color>
     <color name="survey_question_highlight_color_tv">#26ffffff</color>
@@ -318,6 +343,5 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
-    <color name="translucent_navigation_bar_color">#b3ffffff</color>
     <color name="white">#ffffffff</color>
 </resources>
