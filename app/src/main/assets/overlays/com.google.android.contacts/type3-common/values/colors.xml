@@ -89,12 +89,13 @@
     <color name="gm3_ref_palette_error60">#ffe46962</color>
     <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
+    <color name="gm3_ref_palette_green50">#ff128937</color>
     <color name="gm3_ref_palette_grey30">#ff474747</color>
     <color name="gm3_ref_palette_grey50">@*android:color/button_material_dark</color>
     <color name="gm3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral100">#ffffffff</color>
     <color name="gm3_ref_palette_neutral20">@*android:color/background_dark</color>
-    <color name="gm3_ref_palette_neutral6">@*android:color/button_material_dark</color>
+    <color name="gm3_ref_palette_neutral6">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gm3_ref_palette_neutral95">#fff2f2f2</color>
     <color name="gm3_ref_palette_neutral_variant20">@*android:color/background_dark</color>
@@ -188,7 +189,7 @@
     <color name="gmp_ref_palette_neutral20">@*android:color/background_dark</color>
     <color name="gmp_ref_palette_neutral30">#ff474747</color>
     <color name="gmp_ref_palette_neutral40">#ff5e5e5e</color>
-    <color name="gmp_ref_palette_neutral6">@*android:color/button_material_dark</color>
+    <color name="gmp_ref_palette_neutral6">@*android:color/background_dark</color>
     <color name="gmp_ref_palette_neutral70">#ffababab</color>
     <color name="gmp_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gmp_ref_palette_neutral95">#fff2f2f2</color>

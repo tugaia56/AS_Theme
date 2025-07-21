@@ -10,7 +10,7 @@
     <color name="on_background">#ffffffff</color>
     <color name="on_error">@*android:color/background_dark</color>
     <color name="on_primary">@*android:color/background_dark</color>
-    <color name="on_secondary">@*android:color/background_dark</color>
+    <color name="on_secondary">#ffffffff</color>
     <color name="on_surface">#ffffffff</color>
     <color name="overlay_installed_invalid">@*android:color/holo_red_dark</color>				<!-- Inattivo (overlay non valido) -->
     <color name="overlay_installed_list_entry">@*android:color/accent_material_dark</color>		<!-- Attivo (abilitato) -->
