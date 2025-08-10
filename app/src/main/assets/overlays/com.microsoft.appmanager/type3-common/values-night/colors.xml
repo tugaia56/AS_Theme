@@ -45,9 +45,9 @@
     <color name="file_transfer_device_item_bgd_color">@*android:color/background_dark</color>
     <color name="file_transfer_device_item_card_bgd_color">@*android:color/background_dark</color>
     <color name="file_transfer_device_item_mask_color">#4dffffff</color>
+    <color name="file_transfer_sheet_accent_color">@*android:color/accent_material_dark</color>
     <color name="file_transfer_sheet_divider_color">@*android:color/button_material_dark</color>
     <color name="file_transfer_sheet_primary_text_color">#fff0f0f0</color>
-    <color name="file_transfer_sheet_progress_bar_primary_color">#ff83beec</color>
     <color name="file_transfer_sheet_secondary_text_color">#ffd6d6d6</color>
     <color name="file_transfer_sheet_tertiary_text_color">#ffbdbdbd</color>
     <color name="file_transfer_snackbar_error_bg_color">#ff331a00</color>
@@ -68,6 +68,7 @@
     <color name="fre_fluent_tertiary_button_default_text_color">@*android:color/accent_material_dark</color>
     <color name="fre_fluent_tertiary_button_default_text_color_sa">#ff83beec</color>
     <color name="fre_fluent_tertiary_button_pressed_text_color">@*android:color/accent_material_dark</color>
+    <color name="fre_primary_header_text_color">#ffffffff</color>
     <color name="fre_primary_text_color">#ffe1e1e1</color>
     <color name="fre_tab_navigator">#ffffffff</color>
     <color name="fre_tab_selector">#ff6e6e6e</color>
@@ -145,6 +146,7 @@
     <color name="pfao_sso_sign_in_option_selection_button_text_color">#ff479ef5</color>
     <color name="pfao_sso_sign_in_option_selection_subtitle_text_color">#ffd6d6d6</color>
     <color name="pfao_sso_sign_in_option_selection_title_text_color">#ffffffff</color>
+    <color name="pfao_sso_subtitle_text">#ffd6d6d6</color>
     <color name="pfao_welcome_bottom_menu_background">@*android:color/background_dark</color>
     <color name="pfao_welcome_popup_menu_background">@*android:color/background_dark</color>
     <color name="primary_btn_text_color">#ff479ef5</color>
@@ -159,6 +161,8 @@
     <color name="ring_my_phone_text_color">#fff0f0f0</color>
     <color name="sdk_negative_button_text_color">#ffffffff</color>
     <color name="secondary_text_color">#ff919191</color>
+    <color name="setup_content_color">#ffd6d6d6</color>
+    <color name="setup_title_color">#fffafaff</color>
     <color name="share_accent_text_color">@*android:color/accent_material_dark</color>
     <color name="share_background">@*android:color/background_dark</color>
     <color name="share_message_text_color">#ffe1e1e1</color>

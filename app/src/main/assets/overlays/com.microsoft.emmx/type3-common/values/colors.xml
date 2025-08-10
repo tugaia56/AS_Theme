@@ -247,8 +247,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -260,7 +260,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -317,7 +317,7 @@
     <color name="dewey_grey_24">@*android:color/background_dark</color>
     <color name="dewey_grey_26">@*android:color/accent_material_dark</color>
     <color name="dewey_grey_28">#ff474747</color>
-    <color name="dewey_grey_30">#ff4d4d4d</color>
+    <color name="dewey_grey_30">@*android:color/background_leanback_dark</color>
     <color name="dewey_grey_32">@*android:color/accent_material_dark</color>
     <color name="dewey_grey_34">#ff575757</color>
     <color name="dewey_grey_36">#ff5c5c5c</color>
@@ -1207,7 +1207,7 @@
     <color name="unified_camera_receipt_scan_unclickable_color">#ffbdbdbd</color>
     <color name="unified_camera_request_storage_permission_background">#ffffffff</color>
     <color name="unified_camera_result_panel_handle_bar_color">#ff919191</color>
-    <color name="unified_camera_result_panel_text_color_light">#ff222222</color>
+    <color name="unified_camera_result_panel_text_color_light">@*android:color/background_dark</color>
     <color name="unified_camera_selected_tab_background">#ff464feb</color>
     <color name="unified_camera_selected_tab_text">#ffffffff</color>
     <color name="unified_camera_transparent">@*android:color/transparent</color>

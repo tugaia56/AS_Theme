@@ -22,8 +22,8 @@
     <color name="design_dark_default_color_on_secondary">@*android:color/background_dark</color>
     <color name="design_dark_default_color_on_surface">#ffffffff</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -33,7 +33,7 @@
     <color name="design_default_color_on_secondary">@*android:color/background_dark</color>
     <color name="design_default_color_on_surface">@*android:color/background_dark</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>

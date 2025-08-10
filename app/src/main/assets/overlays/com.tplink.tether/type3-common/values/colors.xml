@@ -75,7 +75,7 @@
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
-    <color name="about_black">#ff222222</color>
+    <color name="about_black">@*android:color/background_dark</color>
     <color name="about_blue">#ff4b96f0</color>
     <color name="about_copyright_color">#ff999b9e</color>
     <color name="about_deep_blue_title">#ff10abe1</color>
@@ -286,8 +286,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -299,7 +299,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -646,7 +646,7 @@
     <color name="parent_ctrl_title_normal">#ffffffff</color>
     <color name="parent_ctrl_title_press">#fff7f7f7</color>
     <color name="parent_ctrl_website_color">#ff1c748c</color>
-    <color name="parent_ctrl_website_textcolor">#ff222222</color>
+    <color name="parent_ctrl_website_textcolor">@*android:color/background_dark</color>
     <color name="parental_control_app_block_paid_text">#ffb98450</color>
     <color name="parental_control_chart_text_color">#ffffffff</color>
     <color name="parental_control_v13_client_belonged_dot_color">#ff0dc901</color>

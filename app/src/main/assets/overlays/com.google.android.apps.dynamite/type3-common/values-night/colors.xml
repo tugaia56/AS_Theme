@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="navigation_bar_default">@*android:color/background_dark</color>
-    <color name="ag_hbn_background_color">@*android:color/background_dark</color>
-    <color name="ag_white">@*android:color/background_dark</color>
-    <color name="ag_grey700">#ffffffff</color>
-    <color name="ag_grey100">@*android:color/holo_light_primary_dark</color>
-    <color name="ag_grey800">#ffffffff</color>
-    <color name="ag_grey900">#ffffffff</color>
-    <color name="survey_primary_text_color">@*android:color/accent_material_dark</color>
-    <color name="ag_blue600">@*android:color/white</color>
-    <color name="ag_green600">@*android:color/accent_material_dark</color>
-    <color name="ag_grey300">@*android:color/background_dark</color>
-    <color name="ag_grey500">#00000000</color>
+    <color name="account_disabled_compose_blocker">#ffc7c7c7</color>
+    <color name="account_disabled_description_text_color">@*android:color/background_dark</color>
+    <color name="ag_nv_200_700">#ff8e918f</color>
+    <color name="banner_background_color">#ff6d3a01</color>
     <color name="elevation_1dp_surface">@*android:color/background_dark</color>
     <color name="elevation_6dp_surface">@*android:color/background_dark</color>
+    <color name="on_yellow_fill">#ff402d00</color>
+    <color name="quoted_message_chip_title_color">#ffc4c7c5</color>
+    <color name="quoted_message_text">#ffe1e3e1</color>
     <color name="rte_black_20">#33f1f3f4</color>
     <color name="rte_button_background_off_pressed">#66666666</color>
     <color name="rte_button_background_on_default">#33ffffff</color>
@@ -21,9 +16,24 @@
     <color name="rte_button_background_ripple">#bbffffff</color>
     <color name="rte_fade_edge_end_color">#1bbbbbbb</color>
     <color name="rte_toolbar_separator_background">#1bbbbbbb</color>
+    <color name="service_restricted_block_button_text_color">#ffffe07c</color>
+    <color name="service_restricted_compose_blocker_background">#ff8f4e06</color>
+    <color name="settingslib_materialColorOnPrimary">#ff003730</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">#ffa1f1e2</color>
+    <color name="settingslib_materialColorOnSurface">#ffe5e2e1</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">#ffc7c7c7</color>
+    <color name="settingslib_materialColorOutline">#ff919191</color>
+    <color name="settingslib_materialColorPrimary">#ff83d6c7</color>
+    <color name="settingslib_materialColorPrimaryContainer">#ff005047</color>
+    <color name="settingslib_materialColorSecondaryContainer">#ff334c47</color>
+    <color name="settingslib_materialColorSurfaceContainer">#ff1f1f1f</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">#ff2a2a2a</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">#ff343434</color>
+    <color name="settingslib_materialColorSurfaceVariant">#ff474747</color>
     <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
-    <color name="survey_surface_color_elevation_3">@*android:color/button_material_dark</color>
-    <color name="tasks_elevation_3">@*android:color/button_material_dark</color>
+    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
+    <color name="tasks_elevation_3">@*android:color/background_dark</color>
     <color name="yellow_fill">#ffffdea0</color>
 </resources>
+

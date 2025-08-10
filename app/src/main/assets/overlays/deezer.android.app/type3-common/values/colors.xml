@@ -313,7 +313,7 @@
     <color name="login_texts_color_OR_separator_lignes">#4cffffff</color>
     <color name="login_toaster_text_color">#ff72727a</color>
     <color name="long_button_focused_background_color">#ffe8eaed</color>
-    <color name="long_button_focused_text_color">#ff0e0e0f</color>
+    <color name="long_button_focused_text_color">@*android:color/background_dark</color>
     <color name="long_button_pressed_background_color">#ff9aa0a6</color>
     <color name="long_button_pressed_text_color">@*android:color/background_dark</color>
     <color name="long_button_unfocused_background_color">#0fe8eaed</color>

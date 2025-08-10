@@ -10,7 +10,7 @@
     <color name="band_freq_label">#ffffffff</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="cb">#88ffffff</color>
     <color name="cb_shader">#ffffffff</color>
     <color name="cb_shader_alpha">#22ffffff</color>

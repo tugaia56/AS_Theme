@@ -27,7 +27,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text_disabled_color">#613c4043</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="callout_nightmode_background">#ff294362</color>
     <color name="car_card_night">@*android:color/background_dark</color>
     <color name="car_ui_rotary_focus_stroke_color">@*android:color/accent_material_dark</color>
@@ -996,7 +996,7 @@
     <color name="sud_system_on_secondary_fixed_variant_light">#ff334c47</color>
     <color name="sud_system_on_secondary_light">#ffffffff</color>
     <color name="sud_system_on_surface_dark">#ffe5e2e1</color>
-    <color name="sud_system_on_surface_inverse_dark">#ff303030</color>
+    <color name="sud_system_on_surface_inverse_dark">@*android:color/background_dark</color>
     <color name="sud_system_on_surface_inverse_light">#fff1f1f1</color>
     <color name="sud_system_on_surface_light">#ff1b1b1b</color>
     <color name="sud_system_on_surface_variant_dark">#ffc7c7c7</color>
@@ -1047,7 +1047,7 @@
     <color name="sud_system_surface_dim_dark">#ff131313</color>
     <color name="sud_system_surface_dim_light">#ffdadada</color>
     <color name="sud_system_surface_inverse_dark">#ffe5e2e1</color>
-    <color name="sud_system_surface_inverse_light">#ff303030</color>
+    <color name="sud_system_surface_inverse_light">@*android:color/background_dark</color>
     <color name="sud_system_surface_light">#fff9faf8</color>
     <color name="sud_system_surface_variant_dark">#ff474747</color>
     <color name="sud_system_surface_variant_light">#ffe3e3e3</color>

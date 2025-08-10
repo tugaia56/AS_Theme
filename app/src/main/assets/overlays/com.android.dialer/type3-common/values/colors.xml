@@ -21,7 +21,7 @@
     <color name="call_accept_background">@*android:color/accent_material_dark</color>
     <color name="call_hangup_background">#ffdf0000</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="call_record_playback_icon_color">#8a000000</color>
     <color name="call_stats_bar_background">#88888888</color>
     <color name="call_subject_button">@*android:color/accent_material_dark</color>
@@ -32,7 +32,7 @@
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="conference_call_manager_caller_name_text_color">#ff4d4d4d</color>
+    <color name="conference_call_manager_caller_name_text_color">@*android:color/background_leanback_dark</color>
     <color name="conference_call_manager_secondary_text_color">#ff999999</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
@@ -45,8 +45,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -58,7 +58,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -75,7 +75,7 @@
     <color name="dialer_call_icon_color">@*android:color/white</color>
     <color name="dialer_dark_theme_color">@*android:color/accent_material_dark</color>
     <color name="dialer_dark_theme_color_20pct">#335195ea</color>
-    <color name="dialer_dark_theme_color_dark">#ff2374ce</color>
+    <color name="dialer_dark_theme_color_dark">@*android:color/accent_material_dark</color>
     <color name="dialer_divider_line_color">#ffd8d8d8</color>
     <color name="dialer_end_call_button_color">#ffdc362e</color>
     <color name="dialer_fab_icon_color">#ffffffff</color>

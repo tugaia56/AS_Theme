@@ -37,7 +37,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="button_text">@*android:color/background_dark</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="camera_button_container_background">#80000000</color>
     <color name="chip_background">#fff6f6f6</color>
     <color name="chip_background_invalid">@*android:color/accent_material_dark</color>

@@ -139,6 +139,7 @@
     <color name="animation_text_color">#ff2d40e9</color>
     <color name="appearance_statusbar_color">#ffffffff</color>
     <color name="assignment_color">#8a000000</color>
+    <color name="back_dialog_banner_shadow_color">#ffc0c0c0</color>
     <color name="background_floating_material_light">@*color/white</color>
     <color name="bg_card">#ffffffff</color>
     <color name="bg_card_land">#ffffffff</color>
@@ -149,6 +150,7 @@
     <color name="bg_clear_card">#ffedf0f5</color>
     <color name="bg_clear_card_end">#ffedf0f5</color>
     <color name="bg_clear_card_start">#ffedf0f5</color>
+    <color name="bg_clear_dialog_bottom">#21000000</color>
     <color name="bg_clear_look_button">@*android:color/accent_material_dark</color>
     <color name="bg_clear_progress_default">#ffcfd8e7</color>
     <color name="bg_color_danger_five">#ffe6e6e6</color>
@@ -201,7 +203,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="calendar_picker_day_hint_color">#33000000</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="card_charging_completed_color">@*android:color/accent_material_dark</color>
     <color name="card_color_back">#ffedf0f5</color>
     <color name="card_color_no_dark_back">#ff282929</color>
@@ -305,7 +307,7 @@
     <color name="common_C16">#ff999999</color>
     <color name="common_C17">#ff898989</color>
     <color name="common_C18">#ff666666</color>
-    <color name="common_C19">#ff4d4d4d</color>
+    <color name="common_C19">@*android:color/background_leanback_dark</color>
     <color name="common_C20">#ff363636</color>
     <color name="common_C21">@*android:color/background_dark</color>
     <color name="common_C22">#ff3388ff</color>
@@ -359,6 +361,8 @@
     <color name="common_top_tip_red">@*android:color/accent_material_dark</color>
     <color name="common_transparent_color">#00000000</color>
     <color name="common_white_color">#ffffffff</color>
+    <color name="compose_widget_closed_background_color">#ffedf0f5</color>
+    <color name="compose_widget_sub_card_background_color">#0a000000</color>
     <color name="couiBlueColorDisableNormal">#4d36d9d9</color>
     <color name="couiBlueColorFocusNormal">#1f36d9d9</color>
     <color name="couiBlueColorFocusOutlineNormal">#6636d9d9</color>
@@ -2008,6 +2012,14 @@
     <color name="coui_dialog_content_text_color_large">#ff363636</color>
     <color name="coui_dialog_content_text_color_small">#ff898989</color>
     <color name="coui_dialog_follow_hand_spot_shadow_color">#52000000</color>
+    <color name="coui_dialog_list_background_color_above_blur">@*android:color/transparent</color>
+    <color name="coui_dialog_list_background_color_no_blur">#ffffffff</color>
+    <color name="coui_dialog_list_blend_blur">#ff4d4d4d</color>
+    <color name="coui_dialog_list_blend_blur_dark">#ff737373</color>
+    <color name="coui_dialog_list_blend_blur_light">#ff333333</color>
+    <color name="coui_dialog_list_mix_blur">#ccb2b2b2</color>
+    <color name="coui_dialog_list_mix_blur_dark">#cc404040</color>
+    <color name="coui_dialog_list_mix_blur_light">#e6c1c1c1</color>
     <color name="coui_dialog_title_text_color">#ff363636</color>
     <color name="coui_divider_background_color">#0f000000</color>
     <color name="coui_edit_text_color_focused_black">#ffffffff</color>
@@ -2037,7 +2049,7 @@
     <color name="coui_icon_seekbar_background_color_normal_dark">#1affffff</color>
     <color name="coui_icon_seekbar_def_progress_color">#d8ffffff</color>
     <color name="coui_icon_seekbar_progress_color_disabled">#ffe6e6e6</color>
-    <color name="coui_icon_seekbar_progress_color_normal">#ff4d4d4d</color>
+    <color name="coui_icon_seekbar_progress_color_normal">@*android:color/background_leanback_dark</color>
     <color name="coui_icon_seekbar_thumb_shadow_color">#0f000000</color>
     <color name="coui_input_lock_screen_pwd_view_bg_color_desktop">#33ffffff</color>
     <color name="coui_input_lock_screen_pwd_view_edittext_text_color_desktop">#e6ffffff</color>
@@ -2049,6 +2061,8 @@
     <color name="coui_jump_preference_normal_color">@*android:color/background_dark</color>
     <color name="coui_light_btn_drawable_color_disabled">#ffe5e5e5</color>
     <color name="coui_list_color_pressed">@*android:color/background_dark</color>
+    <color name="coui_list_dialog_background_color_above_blur">@*android:color/transparent</color>
+    <color name="coui_list_dialog_background_color_no_blur">#ffffffff</color>
     <color name="coui_list_overscroll_background_color">#ffffffff</color>
     <color name="coui_list_selector_color_disabled">#00000000</color>
     <color name="coui_list_selector_color_pressed">#0f000000</color>
@@ -2131,11 +2145,13 @@
     <color name="coui_popup_list_background_color">#ffffffff</color>
     <color name="coui_popup_list_background_color_above_blur">@*android:color/transparent</color>
     <color name="coui_popup_list_background_color_no_blur">#ffffffff</color>
-    <color name="coui_popup_list_blend_blur">#ff4d4d4d</color>
+    <color name="coui_popup_list_blend_blur">@*android:color/background_leanback_dark</color>
     <color name="coui_popup_list_blend_blur_dark">#ff737373</color>
+    <color name="coui_popup_list_blend_blur_light">#ff4d4d4d</color>
     <color name="coui_popup_list_group_divider_color">#14000000</color>
     <color name="coui_popup_list_mix_blur">#ccb2b2b2</color>
     <color name="coui_popup_list_mix_blur_dark">#cc404040</color>
+    <color name="coui_popup_list_mix_blur_light">#ccb2b2b2</color>
     <color name="coui_popup_list_selected_text_color">#ff39bf56</color>
     <color name="coui_popup_list_selector_color_disable">#00000000</color>
     <color name="coui_popup_list_selector_color_normal">#00000000</color>
@@ -2172,7 +2188,7 @@
     <color name="coui_progressbar_background_light_color_disabled">#08000000</color>
     <color name="coui_progressbar_background_light_color_normal">#1f000000</color>
     <color name="coui_progressbar_color_disabled">#ffe6e6e6</color>
-    <color name="coui_progressbar_dark_color_disabled">#ff4d4d4d</color>
+    <color name="coui_progressbar_dark_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_progressbar_light_color_disabled">#ffe6e6e6</color>
     <color name="coui_progressbar_progress_color_disabled">#ffe6e6e6</color>
     <color name="coui_progressbar_progress_dark_color_disabled">#ffe6e6e6</color>
@@ -2222,9 +2238,9 @@
     <color name="coui_seekbar_progress_color_disabled">#ffebebeb</color>
     <color name="coui_seekbar_progress_color_disabled_dark">@*android:color/background_leanback_dark</color>
     <color name="coui_seekbar_progress_color_disabled_light">#ffebebeb</color>
-    <color name="coui_seekbar_progress_color_normal">#ff4d4d4d</color>
+    <color name="coui_seekbar_progress_color_normal">@*android:color/background_leanback_dark</color>
     <color name="coui_seekbar_progress_color_normal_dark">#ff999999</color>
-    <color name="coui_seekbar_progress_dark_color_disabled">#ff4d4d4d</color>
+    <color name="coui_seekbar_progress_dark_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_seekbar_progress_light_color_disabled">#ffe6e6e6</color>
     <color name="coui_seekbar_secondary_progress_color">#4dffffff</color>
     <color name="coui_seekbar_shadow_color">#1e000000</color>
@@ -2314,8 +2330,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -2327,7 +2343,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -2373,6 +2389,7 @@
     <color name="ic_ai_optimize_color">#ff2d40e9</color>
     <color name="ic_app_default">#ffe5e5e5</color>
     <color name="icon_black">@*android:color/background_dark</color>
+    <color name="icon_booting">@*android:color/background_dark</color>
     <color name="icon_tint">@*android:color/background_dark</color>
     <color name="item_split_color">#1f000000</color>
     <color name="land_card_title">#8cffffff</color>
@@ -2380,71 +2397,6 @@
     <color name="load_progress_bg">#1afd8326</color>
     <color name="lock_color_transparent">#11000000</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
-																							  
-																							  
-																							 
-																							  
-																							  
-																							  
-																							  
-																							  
-																							  
-																							  
-																							  
-																							 
-																							 
-																									  
-																									  
-																									 
-																									  
-																									  
-																									  
-																									  
-																									  
-																									  
-																									  
-																									  
-																									 
-																									 
-																							 
-																							 
-																							
-																							 
-																							 
-																							 
-																							 
-																							 
-																							 
-																							 
-																							 
-																							
-																							
-																							   
-																							   
-																							  
-																							   
-																							   
-																							   
-																							   
-																							   
-																							   
-																							   
-																							   
-																							  
-																							  
-																							  
-																							  
-																							 
-																							  
-																							  
-																							  
-																							  
-																							  
-																							  
-																							  
-																							  
-																							 
-																							 
     <color name="m3_ref_palette_error0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
     <color name="m3_ref_palette_error100">#ffffffff</color>
@@ -2461,16 +2413,27 @@
     <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral10">#ff1c1b1f</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
-    <color name="m3_ref_palette_neutral20">#ff313033</color>
-    <color name="m3_ref_palette_neutral30">#ff484649</color>
-    <color name="m3_ref_palette_neutral40">#ff605d62</color>
-    <color name="m3_ref_palette_neutral50">#ff787579</color>
-    <color name="m3_ref_palette_neutral60">#ff939094</color>
-    <color name="m3_ref_palette_neutral70">#ffaeaaae</color>
-    <color name="m3_ref_palette_neutral80">#ffc9c5ca</color>
-    <color name="m3_ref_palette_neutral90">#ffe6e1e5</color>
-    <color name="m3_ref_palette_neutral95">#fff4eff4</color>
-    <color name="m3_ref_palette_neutral99">#fffffbfe</color>
+    <color name="m3_ref_palette_neutral12">#ff211f26</color>
+    <color name="m3_ref_palette_neutral17">#ff2b2930</color>
+    <color name="m3_ref_palette_neutral20">#ff322f35</color>
+    <color name="m3_ref_palette_neutral22">#ff36343b</color>
+    <color name="m3_ref_palette_neutral24">#ff3b383e</color>
+    <color name="m3_ref_palette_neutral30">#ff48464c</color>
+    <color name="m3_ref_palette_neutral4">#ff0f0d13</color>
+    <color name="m3_ref_palette_neutral40">#ff605d64</color>
+    <color name="m3_ref_palette_neutral50">#ff79767d</color>
+    <color name="m3_ref_palette_neutral6">#ff141218</color>
+    <color name="m3_ref_palette_neutral60">#ff938f96</color>
+    <color name="m3_ref_palette_neutral70">#ffaea9b1</color>
+    <color name="m3_ref_palette_neutral80">#ffcac5cd</color>
+    <color name="m3_ref_palette_neutral87">#ffded8e1</color>
+    <color name="m3_ref_palette_neutral90">#ffe6e0e9</color>
+    <color name="m3_ref_palette_neutral92">#ffece6f0</color>
+    <color name="m3_ref_palette_neutral94">#fff3edf7</color>
+    <color name="m3_ref_palette_neutral95">#fff5eff7</color>
+    <color name="m3_ref_palette_neutral96">#fff7f2fa</color>
+    <color name="m3_ref_palette_neutral98">#fffef7ff</color>
+    <color name="m3_ref_palette_neutral99">#fffffbff</color>
     <color name="m3_ref_palette_neutral_variant0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral_variant10">#ff1d1a22</color>
     <color name="m3_ref_palette_neutral_variant100">#ffffffff</color>
@@ -2570,6 +2533,48 @@
     <color name="material_harmonized_color_error_container">#ffffffff</color>
     <color name="material_harmonized_color_on_error">#ffffffff</color>
     <color name="material_harmonized_color_on_error_container">#ffffffff</color>
+    <color name="material_personalized_color_background">#ffffffff</color>
+    <color name="material_personalized_color_control_activated">#ffffffff</color>
+    <color name="material_personalized_color_control_highlight">#ffffffff</color>
+    <color name="material_personalized_color_control_normal">#ffffffff</color>
+    <color name="material_personalized_color_error">#ffffffff</color>
+    <color name="material_personalized_color_error_container">#ffffffff</color>
+    <color name="material_personalized_color_on_background">#ffffffff</color>
+    <color name="material_personalized_color_on_error">#ffffffff</color>
+    <color name="material_personalized_color_on_error_container">#ffffffff</color>
+    <color name="material_personalized_color_on_primary">#ffffffff</color>
+    <color name="material_personalized_color_on_primary_container">#ffffffff</color>
+    <color name="material_personalized_color_on_secondary">#ffffffff</color>
+    <color name="material_personalized_color_on_secondary_container">#ffffffff</color>
+    <color name="material_personalized_color_on_surface">#ffffffff</color>
+    <color name="material_personalized_color_on_surface_inverse">#ffffffff</color>
+    <color name="material_personalized_color_on_surface_variant">#ffffffff</color>
+    <color name="material_personalized_color_on_tertiary">#ffffffff</color>
+    <color name="material_personalized_color_on_tertiary_container">#ffffffff</color>
+    <color name="material_personalized_color_outline">#ffffffff</color>
+    <color name="material_personalized_color_outline_variant">#ffffffff</color>
+    <color name="material_personalized_color_primary">#ffffffff</color>
+    <color name="material_personalized_color_primary_container">#ffffffff</color>
+    <color name="material_personalized_color_primary_inverse">#ffffffff</color>
+    <color name="material_personalized_color_secondary">#ffffffff</color>
+    <color name="material_personalized_color_secondary_container">#ffffffff</color>
+    <color name="material_personalized_color_surface">#ffffffff</color>
+    <color name="material_personalized_color_surface_bright">#ffffffff</color>
+    <color name="material_personalized_color_surface_container">#ffffffff</color>
+    <color name="material_personalized_color_surface_container_high">#ffffffff</color>
+    <color name="material_personalized_color_surface_container_highest">#ffffffff</color>
+    <color name="material_personalized_color_surface_container_low">#ffffffff</color>
+    <color name="material_personalized_color_surface_container_lowest">#ffffffff</color>
+    <color name="material_personalized_color_surface_dim">#ffffffff</color>
+    <color name="material_personalized_color_surface_inverse">#ffffffff</color>
+    <color name="material_personalized_color_surface_variant">#ffffffff</color>
+    <color name="material_personalized_color_tertiary">#ffffffff</color>
+    <color name="material_personalized_color_tertiary_container">#ffffffff</color>
+    <color name="material_personalized_color_text_hint_foreground_inverse">#ffffffff</color>
+    <color name="material_personalized_color_text_primary_inverse">#ffffffff</color>
+    <color name="material_personalized_color_text_primary_inverse_disable_only">#ffffffff</color>
+    <color name="material_personalized_color_text_secondary_and_tertiary_inverse">#ffffffff</color>
+    <color name="material_personalized_color_text_secondary_and_tertiary_inverse_disabled">#ffffffff</color>
     <color name="more_apps_text_color">#4d000000</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>
     <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>

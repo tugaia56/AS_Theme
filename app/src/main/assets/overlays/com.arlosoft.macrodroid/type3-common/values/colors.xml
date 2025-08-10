@@ -143,7 +143,7 @@
     <color name="cyan_a200">#ff18ffff</color>
     <color name="cyan_a400">#ff00e5ff</color>
     <color name="cyan_a700">#ff00b8d4</color>
-    <color name="dark_window_background">#ff303030</color>
+    <color name="dark_window_background">@*android:color/background_dark</color>
     <color name="darker_gray">#ffaaaaaa</color>
     <color name="darker_white">#ffeeeeee</color>
     <color name="deep_orange_100">#ffffccbc</color>
@@ -199,8 +199,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">#ff121212</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -212,7 +212,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -295,7 +295,7 @@
     <color name="grey_600">@*android:color/button_material_dark</color>
     <color name="grey_700">#ff616161</color>
     <color name="grey_800">@*android:color/background_dark</color>
-    <color name="grey_900">#ff212121</color>
+    <color name="grey_900">@*android:color/background_dark</color>
     <color name="hairline">#00000000</color>
     <color name="hairline_header">#33ffffff</color>
     <color name="header_view_divider">#ffdadada</color>
@@ -480,8 +480,8 @@
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
-    <color name="material_grey_850">#ff303030</color>
-    <color name="material_grey_900">#ff212121</color>
+    <color name="material_grey_850">@*android:color/background_dark</color>
+    <color name="material_grey_900">@*android:color/background_dark</color>
     <color name="material_harmonized_color_error">#ffffffff</color>
     <color name="material_harmonized_color_error_container">#ffffffff</color>
     <color name="material_harmonized_color_on_error">#ffffffff</color>
@@ -610,7 +610,7 @@
     <color name="md_grey_700">#ff616161</color>
     <color name="md_grey_750">#ff525252</color>
     <color name="md_grey_800">@*android:color/background_dark</color>
-    <color name="md_grey_900">#ff212121</color>
+    <color name="md_grey_900">@*android:color/background_dark</color>
     <color name="md_indigo_100">#ffc5cae9</color>
     <color name="md_indigo_200">#ff9fa8da</color>
     <color name="md_indigo_300">#ff7986cb</color>
@@ -754,11 +754,11 @@
     <color name="pink_a200">#ffff4081</color>
     <color name="pink_a400">#fff50057</color>
     <color name="pink_a700">#ffc51162</color>
-    <color name="place_autocomplete_prediction_primary_text">#ff212121</color>
+    <color name="place_autocomplete_prediction_primary_text">@*android:color/background_dark</color>
     <color name="place_autocomplete_prediction_primary_text_highlight">@*android:color/button_material_dark</color>
     <color name="place_autocomplete_prediction_secondary_text">@*android:color/button_material_dark</color>
     <color name="place_autocomplete_search_hint">#ffbdbdbd</color>
-    <color name="place_autocomplete_search_text">#ff212121</color>
+    <color name="place_autocomplete_search_text">@*android:color/background_dark</color>
     <color name="place_autocomplete_separator">#1f000000</color>
     <color name="plugins_accent">#ff3b3b3b</color>
     <color name="plugins_dark">#ff3b3b3b</color>

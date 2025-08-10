@@ -52,8 +52,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -65,7 +65,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -149,7 +149,7 @@
     <color name="groupsTitleDivider">#1a000000</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="imgly_actionBar_background_color">#ff222222</color>
+    <color name="imgly_actionBar_background_color">@*android:color/background_dark</color>
     <color name="imgly_audio_selection_background_color">#d9000000</color>
     <color name="imgly_background_color">@*android:color/background_dark</color>
     <color name="imgly_brush_preview_background_color">#dd1c1c1c</color>
@@ -174,7 +174,7 @@
     <color name="imgly_icon_color_on_canvas">#ffffffff</color>
     <color name="imgly_icon_color_on_canvas_disabled">#66ffffff</color>
     <color name="imgly_icon_color_secondary">#99ffffff</color>
-    <color name="imgly_optionToolBar_background_color">#ff1c1c1c</color>
+    <color name="imgly_optionToolBar_background_color">@*android:color/background_dark</color>
     <color name="imgly_quickOptionToolBar_background_color">#4d000000</color>
     <color name="imgly_shuffle_icon_overlay_color">#dd1c1c1c</color>
     <color name="imgly_slider_thumb_color_disabled">#66ffffff</color>

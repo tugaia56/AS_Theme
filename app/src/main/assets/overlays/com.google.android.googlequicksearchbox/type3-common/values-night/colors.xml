@@ -322,7 +322,7 @@
     <color name="settingslib_materialColorOnPrimaryContainer">#ffa1f1e2</color>
     <color name="settingslib_materialColorOnSecondaryContainer">#ffcce8e2</color>
     <color name="settingslib_materialColorOnSurface">#ffe5e2e1</color>
-    <color name="settingslib_materialColorOnSurfaceInverse">#ff303030</color>
+    <color name="settingslib_materialColorOnSurfaceInverse">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOnSurfaceVariant">#ffc7c7c7</color>
     <color name="settingslib_materialColorOutline">#ff919191</color>
     <color name="settingslib_materialColorOutlineVariant">#ff474747</color>

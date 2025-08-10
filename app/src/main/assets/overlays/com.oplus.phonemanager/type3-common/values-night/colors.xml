@@ -3,6 +3,10 @@
     <color name="ad_background_color">#1affffff</color>
     <color name="ai_optimize_divider_color">#22ffffff</color>
     <color name="animation_text_color">#fffafafa</color>
+    <color name="app_usage_card_bg_color">@*android:color/button_material_dark</color>
+    <color name="app_usage_period_tab_indicator_bg_color">#19ffffff</color>
+    <color name="app_usage_tab_text_color_selected">#e6000000</color>
+    <color name="back_dialog_banner_shadow_color">#80000000</color>
     <color name="bg_card">@*android:color/background_dark</color>
     <color name="bg_card_land">@*android:color/background_dark</color>
     <color name="bg_card_oos">#ff323739</color>
@@ -15,7 +19,6 @@
     <color name="bg_progress_bar">#1fffffff</color>
     <color name="black">#ffffffff</color>
     <color name="black_land_des">#4dffffff</color>
-    <color name="black_percent_12">#1f000000</color>
     <color name="black_percent_26">#43ffffff</color>
     <color name="black_percent_30">#4dffffff</color>
     <color name="black_percent_50">#8affffff</color>
@@ -70,6 +73,8 @@
     <color name="common_black_text_color">#ffffffff</color>
     <color name="common_card_layout_background_color">@*android:color/button_material_dark</color>
     <color name="common_line_color">#ff252525</color>
+    <color name="compose_widget_closed_background_color">#00000000</color>
+    <color name="compose_widget_sub_card_background_color">#0affffff</color>
     <color name="couiBlueColorDisableNormal">@*android:color/ripple_material_dark</color>
     <color name="couiBlueColorFocusNormal">#3300bfc0</color>
     <color name="couiBlueColorFocusOutlineNormal">#6600bfc0</color>

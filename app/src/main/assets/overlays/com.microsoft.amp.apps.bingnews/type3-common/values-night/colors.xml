@@ -166,7 +166,7 @@
     <color name="sapphire_commute_glance_main_text">#ffffffff</color>
     <color name="sapphire_commute_incident_pill_fill_color">#ff330808</color>
     <color name="sapphire_commute_incident_slowdown">#ffff6767</color>
-    <color name="sapphire_commute_incident_time_stroke">#ff4d4d4d</color>
+    <color name="sapphire_commute_incident_time_stroke">@*android:color/background_leanback_dark</color>
     <color name="sapphire_commute_incident_time_text">#ffd6d6d6</color>
     <color name="sapphire_divider_primary">#ff2d3240</color>
     <color name="sapphire_divider_secondary">#ff3a3f4d</color>

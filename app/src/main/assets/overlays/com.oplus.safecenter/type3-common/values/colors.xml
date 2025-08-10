@@ -46,7 +46,7 @@
     <color name="Green40Opacity25">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="Green40Opacity30">#4deb493d</color>
     <color name="Green40Opacity40">#4d24b232</color>
-    <color name="Green50">#ff00bd13</color>
+    <color name="Green50">@*android:color/accent_material_dark</color>
     <color name="Green50Opacity12">#1f00bd13</color>
     <color name="Green50Opacity15">#2600bd13</color>
     <color name="Green50Opacity30">#4d00bd13</color>
@@ -1211,7 +1211,7 @@
     <color name="coui_popup_list_background_color">#ffffffff</color>
     <color name="coui_popup_list_background_color_above_blur">@*android:color/transparent</color>
     <color name="coui_popup_list_background_color_no_blur">#ffffffff</color>
-    <color name="coui_popup_list_blend_blur">#ff4d4d4d</color>
+    <color name="coui_popup_list_blend_blur">@*android:color/background_leanback_dark</color>
     <color name="coui_popup_list_blend_blur_dark">#ff737373</color>
     <color name="coui_popup_list_group_divider_color">#14000000</color>
     <color name="coui_popup_list_mix_blur">#ccb2b2b2</color>
@@ -1252,7 +1252,7 @@
     <color name="coui_progressbar_background_light_color_disabled">#08000000</color>
     <color name="coui_progressbar_background_light_color_normal">#1f000000</color>
     <color name="coui_progressbar_color_disabled">#ffe6e6e6</color>
-    <color name="coui_progressbar_dark_color_disabled">#ff4d4d4d</color>
+    <color name="coui_progressbar_dark_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_progressbar_light_color_disabled">#ffe6e6e6</color>
     <color name="coui_progressbar_progress_color_disabled">#ffe6e6e6</color>
     <color name="coui_progressbar_progress_dark_color_disabled">#ffe6e6e6</color>
@@ -1390,8 +1390,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -1403,7 +1403,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>

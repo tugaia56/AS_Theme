@@ -448,7 +448,7 @@
     <color name="oplus_toast_text_color">#d9ffffff</color>
     <color name="place_holder_color">#33ffffff</color>
     <color name="pop_menu_icon_color">#ffffffff</color>
-    <color name="preference_highlight_default">#ff4d4d4d</color>
+    <color name="preference_highlight_default">@*android:color/background_leanback_dark</color>
     <color name="preference_highlight_normal">#ff1a1a1a</color>
     <color name="primary_text_bg_disable">#0affffff</color>
     <color name="primary_text_color">#ffffffff</color>

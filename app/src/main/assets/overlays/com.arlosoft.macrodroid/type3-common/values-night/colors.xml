@@ -69,7 +69,7 @@
     <color name="primary_dark">#ff26395b</color>
     <color name="primary_transparent">#002b4263</color>
     <color name="profile_avatar_border">@*android:color/background_dark</color>
-    <color name="profile_edit_icon_bg_stroke">#ff303030</color>
+    <color name="profile_edit_icon_bg_stroke">@*android:color/background_dark</color>
     <color name="quick_settings_config_primary">#ff626262</color>
     <color name="quick_settings_config_primary_dark">#ff595959</color>
     <color name="report_bug_blocker">#ee151515</color>

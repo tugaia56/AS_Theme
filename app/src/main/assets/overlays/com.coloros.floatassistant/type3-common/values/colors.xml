@@ -740,7 +740,7 @@
     <color name="coui_progressbar_color_default_night_bg">@*android:color/background_leanback_dark</color>
     <color name="coui_progressbar_color_disabled">#ffe6e6e6</color>
     <color name="coui_progressbar_color_error_bg">@*android:color/accent_material_dark</color>
-    <color name="coui_progressbar_dark_color_disabled">#ff4d4d4d</color>
+    <color name="coui_progressbar_dark_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="coui_progressbar_light_color_disabled">#ffe6e6e6</color>
     <color name="coui_progressbar_on_image_color_black_15">#26000000</color>
     <color name="coui_progressbar_on_image_color_white_40">#66ffffff</color>
@@ -877,8 +877,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -890,7 +890,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>

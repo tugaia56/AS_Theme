@@ -91,8 +91,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -104,7 +104,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -141,7 +141,7 @@
     <color name="gallery_progress_ring_background">#ffffffff</color>
     <color name="grey">#ff7a7a7a</color>
     <color name="grey100">@*android:color/background_dark</color>
-    <color name="grey70">#ff4d4d4d</color>
+    <color name="grey70">@*android:color/background_leanback_dark</color>
     <color name="grey80">@*android:color/background_dark</color>
     <color name="grey90">@*android:color/background_dark</color>
     <color name="greyPrimary">#fff2f2f2</color>
@@ -221,7 +221,7 @@
     <color name="orange">@*android:color/accent_material_dark</color>
     <color name="overlay_background">#dd000000</color>
     <color name="overlay_background_gray">#cd323332</color>
-    <color name="page_track_background_overlay">#ff0e0e0f</color>
+    <color name="page_track_background_overlay">@*android:color/background_dark</color>
     <color name="page_track_background_overlay_center">#bb0e0e0e</color>
     <color name="permission_dialog_bg_color">@*android:color/background_dark</color>
     <color name="playerButtonOverlayBgColor">#b3000000</color>
@@ -300,7 +300,7 @@
     <color name="snap_connect_core_yellow">#fffffc00</color>
     <color name="soundbiteNibbleImageOverlayColor">#4d000000</color>
     <color name="soundbiteProgressColor">@*android:color/accent_material_dark</color>
-    <color name="soundbiteViewedColor">#ff4d4d4d</color>
+    <color name="soundbiteViewedColor">@*android:color/background_leanback_dark</color>
     <color name="soundhound_dialog_window_background">#88000000</color>
     <color name="source_green_01">#ff2ebd59</color>
     <color name="source_pink_01">#ffff2d55</color>

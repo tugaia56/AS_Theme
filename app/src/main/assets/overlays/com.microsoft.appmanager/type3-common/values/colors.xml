@@ -46,7 +46,7 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">@*android:color/accent_material_light</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="camera_button_disabled_color">@*android:color/accent_material_dark</color>
     <color name="camera_button_pressed_color">@*android:color/accent_material_dark</color>
     <color name="camera_button_rest_color">@*android:color/accent_material_dark</color>
@@ -87,8 +87,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -100,7 +100,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
@@ -161,15 +161,14 @@
     <color name="file_transfer_notification_positive_button_color">#ff005fb8</color>
     <color name="file_transfer_notification_progress_bar_indicator_color">#ff0f6cbd</color>
     <color name="file_transfer_notification_progress_bar_track_color">#ffd1d1d1</color>
+    <color name="file_transfer_sheet_accent_color">#ff005fb8</color>
     <color name="file_transfer_sheet_avatar_placeholder_color_organic">#fff0f0f0</color>
     <color name="file_transfer_sheet_avatar_placeholder_color_samsung">#fff3f3f3</color>
     <color name="file_transfer_sheet_background_organic">#ccffffff</color>
     <color name="file_transfer_sheet_background_samsung">#fff7f7f7</color>
-    <color name="file_transfer_sheet_blue_text_color">#ff3d6cdc</color>
     <color name="file_transfer_sheet_divider_color">#ffe0e0e0</color>
     <color name="file_transfer_sheet_error_text_color">#ffd13438</color>
     <color name="file_transfer_sheet_primary_text_color">#ff1f1f1f</color>
-    <color name="file_transfer_sheet_progress_bar_primary_color">#ff005fb8</color>
     <color name="file_transfer_sheet_secondary_text_color">#ff616161</color>
     <color name="file_transfer_sheet_tertiary_text_color">#ff808080</color>
     <color name="file_transfer_snackbar_error_bg_color">#fffff9f5</color>
@@ -198,6 +197,7 @@
     <color name="fre_hyperlinks">@*android:color/accent_material_dark</color>
     <color name="fre_primary_button_background">@*android:color/accent_material_dark</color>
     <color name="fre_primary_button_disabled_background">#66000000</color>
+    <color name="fre_primary_header_text_color">@*android:color/background_dark</color>
     <color name="fre_primary_text_color">@*android:color/background_dark</color>
     <color name="fre_progress_bar_grey">#ff8f8f8f</color>
     <color name="fre_qrcode_scanner_text_background">#ff070707</color>
@@ -363,7 +363,7 @@
     <color name="oem_about_activity_blue_button_color">#ff387aff</color>
     <color name="oem_about_activity_button_text_color">#ff256fff</color>
     <color name="oem_about_activity_grey_button_color">#ffe9e9ec</color>
-    <color name="oem_about_activity_text_color">#ff010102</color>
+    <color name="oem_about_activity_text_color">@*android:color/background_dark</color>
     <color name="oem_about_activity_version_text_color">#ff8c8c91</color>
     <color name="oem_background_color">#fff5f5f5</color>
     <color name="oem_banner_background">#ffffffff</color>
@@ -454,7 +454,6 @@
     <color name="pfao_item_primary_text_color_sa">#ff1f1f1f</color>
     <color name="pfao_item_secondary_text_color_sa">#ff616161</color>
     <color name="pfao_permission_primer_icon">#ff1f1f1f</color>
-    <color name="pfao_sso_account_list_stroke">#ffd6d6d6</color>
     <color name="pfao_sso_bottom_background">#ffffffff</color>
     <color name="pfao_sso_bottom_line_color">#ffe1e1e1</color>
     <color name="pfao_sso_sign_in_option_selection_button_text_color">#ff0f6cbd</color>
@@ -497,6 +496,8 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="setup_content_color">#ff616161</color>
+    <color name="setup_title_color">@*android:color/background_dark</color>
     <color name="share_accent_text_color">@*android:color/accent_material_dark</color>
     <color name="share_background">#ffffffff</color>
     <color name="share_black_opacity_20">#34000000</color>

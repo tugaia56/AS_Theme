@@ -7,8 +7,8 @@
     <color name="about_page_card_normal">#ffffffff</color>
     <color name="about_page_card_ripple">#33000000</color>
     <color name="about_page_card_text_color">#de000000</color>
-    <color name="about_page_category_text_color">#ff757575</color>
-    <color name="about_page_hint">#ff757575</color>
+    <color name="about_page_category_text_color">@*android:color/button_material_dark</color>
+    <color name="about_page_hint">@*android:color/button_material_dark</color>
     <color name="about_page_line">#ffeae9e9</color>
     <color name="about_page_link_text_color">@*android:color/black</color>
     <color name="about_page_navigationBarColor">#e6ffffff</color>
@@ -22,8 +22,8 @@
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="debug">@*android:color/background_dark</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
@@ -36,8 +36,8 @@
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_dark">@*android:color/background_dark</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_dark_default_color_secondary">#ff03dac6</color>
-    <color name="design_dark_default_color_secondary_variant">#ff03dac6</color>
+    <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
+    <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
@@ -49,7 +49,7 @@
     <color name="design_default_color_primary">#ff6200ee</color>
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
-    <color name="design_default_color_secondary">#ff03dac6</color>
+    <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_snackbar_background_color">#ff323232</color>
@@ -119,7 +119,7 @@
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_500">#ff9e9e9e</color>
-    <color name="material_grey_600">#ff757575</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
