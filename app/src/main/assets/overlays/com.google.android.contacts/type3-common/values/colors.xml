@@ -176,7 +176,7 @@
     <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
     <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
-    <color name="gm_ref_palette_red700">#ffc5221f</color>
+    <color name="gm_ref_palette_red700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
     <color name="gm_ref_palette_yellow300">#fffdd663</color>
@@ -205,6 +205,7 @@
     <color name="gmp_ref_palette_tertiary80">#ff6dd58c</color>
     <color name="gmp_ref_palette_tertiary90">#ffc4eed0</color>
     <color name="gmp_ref_palette_tertiary_tonal">#ff1f3f28</color>
+    <color name="gmp_ref_palette_yellow80">#ffffbb29</color>
     <color name="gmp_sys_color_dark_surface_immersive">#99000000</color>
     <color name="google_cyan400">#ff4ecde6</color>
     <color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
@@ -220,7 +221,6 @@
     <color name="google_transparent">#00000000</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="letter_tile_person_backgound_color_oneplus">#ffa0a8b9</color>
     <color name="libraries_material_featurehighlight_text_body_color">#ffffffff</color>
     <color name="libraries_material_featurehighlight_text_dismiss_action_color">#ffffffff</color>
     <color name="libraries_material_featurehighlight_text_header_color">#ffffffff</color>
@@ -281,6 +281,7 @@
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
+    <color name="monogram_background_color_oneplus_default">#00ff00</color>
     <color name="mtrl_scrim_color">#52000000</color>
     <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
     <color name="mtrl_textinput_disabled_color">#1f000000</color>

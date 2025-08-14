@@ -19,8 +19,8 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_accept_background">@*android:color/accent_material_dark</color>
     <color name="call_hangup_background">@*android:color/accent_material_dark</color>
-    <color name="call_notification_decline_color">#ffdd0000</color>
-    <color name="call_recording_indicator_color">#ffdd0000</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
+    <color name="call_recording_indicator_color">@*android:color/holo_red_dark</color>
     <color name="cardview_dark_background">@*android:color/button_material_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="comms_ic_voicemail_error_color_error">@*android:color/accent_material_dark</color>
@@ -180,8 +180,8 @@
     <color name="gm_ref_palette_red300">#fff28b82</color>
     <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
-    <color name="gm_ref_palette_red600">#ffdd0000</color>
-    <color name="gm_ref_palette_red700">#ffc5221f</color>
+    <color name="gm_ref_palette_red600">@*android:color/holo_red_dark</color>
+    <color name="gm_ref_palette_red700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
     <color name="gm_ref_palette_yellow300">#fffdd663</color>
@@ -282,8 +282,8 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="spam_contact_background">#ffdd0000</color>
-    <color name="spam_contact_primary">#ffc5221f</color>
+    <color name="spam_contact_background">@*android:color/holo_red_dark</color>
+    <color name="spam_contact_primary">@*android:color/accent_material_dark</color>
     <color name="spam_notification_icon_bc_color">#ffa52714</color>
     <color name="survey_question_highlight_color_tv">#26ffffff</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>

@@ -224,7 +224,7 @@
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
     <color name="gm_ref_palette_red600">@*android:color/accent_material_light</color>
-    <color name="gm_ref_palette_red700">#ffc5221f</color>
+    <color name="gm_ref_palette_red700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>

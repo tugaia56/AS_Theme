@@ -8,7 +8,7 @@
     <color name="boardwalk_secondary_screen_card_text_color">#ccffffff</color>
     <color name="carColorBlue">#ff3674e0</color>
     <color name="carColorGreen">#ff448b47</color>
-    <color name="carColorRed">#ffc5221f</color>
+    <color name="carColorRed">@*android:color/accent_material_dark</color>
     <color name="carColorYellow">#ffd5792d</color>
     <color name="contact_badge">#fff57f17</color>
     <color name="demand_space_background">@*android:color/background_dark</color>

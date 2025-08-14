@@ -22,7 +22,7 @@
     <color name="GM2_red_400">@*android:color/accent_material_dark</color>
     <color name="GM2_red_50">#fffce8e6</color>
     <color name="GM2_red_500">#ffb71c1c</color>
-    <color name="GM2_red_700">#ffc5221f</color>
+    <color name="GM2_red_700">@*android:color/accent_material_dark</color>
     <color name="GM2_yellow_200">#fffde293</color>
     <color name="GM2_yellow_50">#fffef7e0</color>
     <color name="GM2_yellow_500">#fffbbc04</color>

@@ -343,7 +343,7 @@
     <color name="quoted_message_attachment_container_outline">#ffc4c7c5</color>
     <color name="quoted_message_chip_icon_filter">#ff8f8f8f</color>
     <color name="quoted_message_chip_title_color">#ff5e5e5e</color>
-    <color name="red700ForWarningBanners">#ffc5221f</color>
+    <color name="red700ForWarningBanners">@*android:color/accent_material_dark</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="rte_black_20">#33000000</color>

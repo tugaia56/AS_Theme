@@ -28,8 +28,8 @@
     <color name="glance_colorTertiary">#ffefb8c8</color>
     <color name="glance_colorTertiaryContainer">#ff633b48</color>
     <color name="glance_colorWidgetBackground">@*android:color/background_dark</color>
-    <color name="letter_tile_person_backgound_color_oneplus">@*android:color/holo_light_primary_dark</color>
-    <color name="letter_tile_text_color_oneplus">#d9ffffff</color>
+    <color name="monogram_background_color_oneplus_default">@*android:color/holo_light_primary_dark</color>
+    <color name="monogram_text_color_oneplus">#d9ffffff</color>
     <color name="settingslib_materialColorOnPrimary">#ff003730</color>
     <color name="settingslib_materialColorOnPrimaryContainer">#ffa1f1e2</color>
     <color name="settingslib_materialColorOnSurface">#ffe5e2e1</color>

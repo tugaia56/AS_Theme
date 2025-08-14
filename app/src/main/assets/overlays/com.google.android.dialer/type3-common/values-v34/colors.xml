@@ -159,7 +159,7 @@
     <color name="m3_sys_color_dynamic_dark_on_error">#d50000</color>
     <color name="m3_sys_color_dynamic_dark_on_error_container">#ff1744</color>
     <color name="m3_sys_color_dynamic_light_error">#ff5252</color>
-    <color name="m3_sys_color_dynamic_light_error_container">#ff8a80</color>
+    <color name="m3_sys_color_dynamic_light_error_container">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_light_on_error">#b71c1c</color>
     <color name="m3_sys_color_dynamic_light_on_error_container">#c62828</color>
     <color name="settingslib_thumb_on_color">#0d47a1</color>
