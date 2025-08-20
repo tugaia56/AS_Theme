@@ -25,12 +25,15 @@
         <item>Blocca e filtra v15.45.0</item>
         <item>Protezione pagamento v15.9.0</item>
         <item>FairEmail v1.2286</item>
+        <item>Screen Master v1.8.0.31</item>
         <item>AGGIORNATO:</item>
         <item>Orologio Google v7.14771143455</item>
         <item>Oneplus Messaggi v15.72.20</item>
         <item>Oneplus Telefono v15.31.5</item>
         <item>Oneplus Contatti v15.90.5</item>
         <item>Gestione Autorizzazioni v15.2.12</item>
+        <item>MicroG Services by WSTxda v5.12</item>
+        <item>Find Hub v3.1.399-3</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

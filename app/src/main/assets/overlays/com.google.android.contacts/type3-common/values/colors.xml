@@ -211,7 +211,7 @@
     <color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
     <color name="google_dark_yellow300">#fff9dc74</color>
     <color name="google_dark_yellow600">#fff3b713</color>
-    <color name="google_default_color_on_surface_disabled">#603c4043</color>
+    <color name="google_default_color_on_surface_disabled">#00ff00</color>
     <color name="google_maps_logo_dark_gray">@*android:color/background_dark</color>
     <color name="google_maps_logo_white">#ffffffff</color>
     <color name="google_orange400">#fffa903e</color>
@@ -281,7 +281,7 @@
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
-    <color name="monogram_background_color_oneplus_default">#00ff00</color>
+    <color name="monogram_background_color_oneplus_default">#ff0000</color>
     <color name="mtrl_scrim_color">#52000000</color>
     <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
     <color name="mtrl_textinput_disabled_color">#1f000000</color>

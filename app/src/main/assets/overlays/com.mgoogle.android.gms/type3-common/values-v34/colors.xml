@@ -18,7 +18,7 @@
     <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_secondary">#ff8f00</color>
-    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/ripple_material_dark</color>
+    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_bright">#ffc107</color>
     <color name="m3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>
@@ -46,7 +46,7 @@
     <color name="m3_sys_color_dynamic_light_outline">#2e7d32</color>
     <color name="m3_sys_color_dynamic_light_outline_variant">#388e3c</color>
     <color name="m3_sys_color_dynamic_light_primary">#43a047</color>
-    <color name="m3_sys_color_dynamic_light_primary_container">#4caf50</color>
+    <color name="m3_sys_color_dynamic_light_primary_container">#ffffff</color>
     <color name="m3_sys_color_dynamic_light_secondary">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_light_secondary_container">#2962ff</color>
     <color name="m3_sys_color_dynamic_light_surface">#2979ff</color>

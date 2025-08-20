@@ -130,7 +130,7 @@
     <color name="gm3_ref_palette_neutral60">#ff8f8f8f</color>
     <color name="gm3_ref_palette_neutral70">#ffababab</color>
     <color name="gm3_ref_palette_neutral80">#ffc7c7c7</color>
-    <color name="gm3_ref_palette_neutral90">#ffe3e3e3</color>
+    <color name="gm3_ref_palette_neutral90">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_neutral95">#fff2f2f2</color>
     <color name="gm3_ref_palette_neutral99">#ffffffff</color>
     <color name="gm3_ref_palette_neutral_variant10">#ff191d1c</color>
