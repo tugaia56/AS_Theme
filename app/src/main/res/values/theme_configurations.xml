@@ -20,20 +20,14 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 5.6.0</item>
+        <item>Version 5.7.0</item>
         <item>ADDED:</item>
-        <item>Block &amp; filter v15.45.0</item>
-        <item>Payment protection v15.9.0</item>
-        <item>FairEmail v1.2291</item>
-        <item>Screen Master v1.8.0.31</item>
+        <item>- - -</item>
         <item>UPDATED:</item>
-        <item>Google Clock v7.14771143455</item>
-        <item>Oneplus Messages v15.72.20</item>
-        <item>Oneplus Dialer v15.31.5</item>
-        <item>Oneplus Contacts v15.90.5</item>
-        <item>Permission Manager v15.2.12</item>
-        <item>MicroG Services by WSTxda v5.12</item>
-        <item>Find Hub v3.1.399-3</item>
+        <item>Safe v26.1.7</item>
+        <item>Oneplus Photo to v15.72.20</item>
+        <item>Google Photo v7.42.0</item>
+        <item>Google Dialer v188.0</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
