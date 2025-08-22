@@ -6,7 +6,6 @@
     <!--sopprimi CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail">tugaia56@gmail.com</string>
     <!-- Fonte dello sfondo del tema (deve essere grezzo) -->
-    <string name="ThemeWallpaperSource"></string>
     <!-- Il tuo tema supporta substratum legacy? -->
     <!-- Se si sceglie di non supportare legacy, modificare la seguente riga da -->
     <!-- Da "true" a "false" per nascondere il tuo tema sul Play Store da qualsiasi ROM stock-->
