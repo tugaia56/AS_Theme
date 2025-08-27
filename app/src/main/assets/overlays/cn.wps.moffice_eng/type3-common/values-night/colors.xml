@@ -12,12 +12,12 @@
     <color name="bannerBackgroundColor">#e62d2d2d</color>
     <color name="boldLineColor">@*android:color/background_floating_material_dark</color>
     <color name="borderLineColor">#00d9d9d9</color>
-    <color name="buttonFourthColor">#ff434343</color>
+    <color name="buttonFourthColor">@*android:color/background_dark</color>
     <color name="buttonFourthDisableColor">#33434343</color>
     <color name="buttonFourthPressedColor">#66434343</color>
     <color name="buttonMainColor">#e6ff4e37</color>
     <color name="buttonSecondaryColor">#e6417ff9</color>
-    <color name="buttonThirdColor">#ff434343</color>
+    <color name="buttonThirdColor">@*android:color/background_dark</color>
     <color name="buttonThirdDisableColor">#33434343</color>
     <color name="buttonThirdPressedColor">#66434343</color>
     <color name="cellSelectedColor">#0dffffff</color>
@@ -34,7 +34,7 @@
     <color name="grayGradientBGStartColor">#001e1e1e</color>
     <color name="home_pay_member_yellow">#e6fe9a0d</color>
     <color name="keyboardBackgroundColor">#ff313131</color>
-    <color name="keyboardButtonNormalColor">#ff434343</color>
+    <color name="keyboardButtonNormalColor">@*android:color/background_dark</color>
     <color name="keyboardButtonSelectedColor">@*android:color/background_dark</color>
     <color name="largeIconSelectedBackgroundColor">@*android:color/background_dark</color>
     <color name="lineColor">#26ffffff</color>
@@ -47,8 +47,8 @@
     <color name="normalIconColor">#ff9b9b9b</color>
     <color name="normalIconDisabledColor">#339b9b9b</color>
     <color name="normalIconPressedColor">#669b9b9b</color>
-    <color name="ovsAdViewBgColor">#ff343434</color>
-    <color name="ovsNoAdsLargePanelBgColor">#ff343434</color>
+    <color name="ovsAdViewBgColor">@*android:color/background_dark</color>
+    <color name="ovsNoAdsLargePanelBgColor">@*android:color/background_dark</color>
     <color name="phoneHomeCreateSceanColor">#e62d2d2d</color>
     <color name="phoneSearchThinkTagColor">@*android:color/button_material_dark</color>
     <color name="phoneWriterRightPanelColor">@*android:color/background_floating_material_dark</color>

@@ -29,7 +29,7 @@
     <color name="gm3_sys_color_dynamic_dark_outline_variant">#c0ca33</color>
     <color name="gm3_sys_color_dynamic_dark_primary">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_primary_container">#b9f6ca</color>
-    <color name="gm3_sys_color_dynamic_dark_secondary">#f4511e</color>
+    <color name="gm3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_secondary_container">#1b5e20</color>
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">#ff8a65</color>

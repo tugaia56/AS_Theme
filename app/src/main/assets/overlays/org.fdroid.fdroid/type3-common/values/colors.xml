@@ -38,7 +38,7 @@
     <color name="category_time">#ffff7043</color>
     <color name="category_writing">#fff2e9ce</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
-    <color name="design_dark_default_color_background">#ff121212</color>
+    <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_on_background">#ffffffff</color>
     <color name="design_dark_default_color_on_error">@*android:color/background_dark</color>
@@ -50,7 +50,7 @@
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
     <color name="design_dark_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_dark_default_color_secondary_variant">@*android:color/accent_material_dark</color>
-    <color name="design_dark_default_color_surface">#ff121212</color>
+    <color name="design_dark_default_color_surface">@*android:color/background_dark</color>
     <color name="design_default_color_background">#ffffffff</color>
     <color name="design_default_color_error">#ffb00020</color>
     <color name="design_default_color_on_background">@*android:color/background_dark</color>
@@ -71,11 +71,11 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
-    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="fdroid_blue">#ff1976d2</color>
@@ -84,8 +84,8 @@
     <color name="fdroid_red">#ffb00020</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
-    <color name="highlighted_text_material_dark">#6680cbc4</color>
-    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
     <color name="m3_ref_palette_error0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
@@ -101,7 +101,7 @@
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
     <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>
@@ -179,7 +179,7 @@
     <color name="m3_ref_palette_white">#ffffffff</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
@@ -291,7 +291,7 @@
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="panic_destructive">#fffff0f0</color>
-    <color name="perms_costs_money">#fff4511e</color>
+    <color name="perms_costs_money">@*android:color/accent_material_dark</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="primary_dark_material_dark">@*android:color/black</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>

@@ -459,7 +459,7 @@
     <color name="edge_29FFFFFF">#29ffffff</color>
     <color name="edge_2B88D8">#ff2b88d8</color>
     <color name="edge_333333">@*android:color/button_material_dark</color>
-    <color name="edge_343434">#ff343434</color>
+    <color name="edge_343434">@*android:color/background_dark</color>
     <color name="edge_343D46">#ff343d46</color>
     <color name="edge_393939">#ff393939</color>
     <color name="edge_3AA0F3">#ff3aa0f3</color>
@@ -692,7 +692,7 @@
     <color name="fluentui_gray_400">#ffffffff</color>
     <color name="fluentui_gray_50">#fff1f1f1</color>
     <color name="fluentui_gray_500">#ff6e6e6e</color>
-    <color name="fluentui_gray_56">#ff777777</color>
+    <color name="fluentui_gray_56">@*android:color/button_material_dark</color>
     <color name="fluentui_gray_600">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="fluentui_gray_700">@*android:color/background_dark</color>
     <color name="fluentui_gray_800">@*android:color/background_dark</color>
@@ -706,13 +706,13 @@
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="fre_description_text_color">#ff6e6e6e</color>
     <color name="gm3_baseline_surface_bright_dark">#ff37393b</color>
-    <color name="gm3_baseline_surface_container_dark">#ff1e1f20</color>
-    <color name="gm3_baseline_surface_container_high_dark">#ff282a2c</color>
+    <color name="gm3_baseline_surface_container_dark">@*android:color/background_dark</color>
+    <color name="gm3_baseline_surface_container_high_dark">@*android:color/button_material_dark</color>
     <color name="gm3_baseline_surface_container_high_light">#ffe9eef6</color>
-    <color name="gm3_baseline_surface_container_highest_dark">#ff333537</color>
+    <color name="gm3_baseline_surface_container_highest_dark">@*android:color/background_dark</color>
     <color name="gm3_baseline_surface_container_highest_light">#ffdde3ea</color>
     <color name="gm3_baseline_surface_container_light">#fff0f4f9</color>
-    <color name="gm3_baseline_surface_container_low_dark">#ff1b1b1b</color>
+    <color name="gm3_baseline_surface_container_low_dark">@*android:color/background_dark</color>
     <color name="gm3_baseline_surface_container_low_light">#fff8fafd</color>
     <color name="gm3_baseline_surface_dark">@*android:color/background_dark</color>
     <color name="gm3_baseline_surface_dim_light">#ffd3dbe5</color>

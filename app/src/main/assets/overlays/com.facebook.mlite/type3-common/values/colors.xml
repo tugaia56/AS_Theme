@@ -59,7 +59,7 @@
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="message_audio_inbound_progress_background">#ffe5e5e5</color>
     <color name="message_audio_inbound_progress_foreground">#ffd3d3d3</color>
-    <color name="message_audio_inbound_tint">#ff2a2a2a</color>
+    <color name="message_audio_inbound_tint">@*android:color/background_dark</color>
     <color name="message_audio_inbound_tint_diminished">#ff848484</color>
     <color name="message_audio_outbound_progress_background">@*android:color/accent_material_dark</color>
     <color name="message_audio_outbound_progress_foreground">@*android:color/accent_material_dark</color>

@@ -43,7 +43,7 @@
             19.196l0.127
             -0.002h319.997l3.5
             -56.002L-53.411
-            128.544z" android:strokeColor="#ff343434" android:strokeWidth="6.5" android:fillType="evenOdd" />
+            128.544z" android:strokeColor="@*android:color/background_dark" android:strokeWidth="6.5" android:fillType="evenOdd" />
         <path android:fillColor="#ffcf0400" android:pathData="M-14.9
             151.2L64.3
             151.2A1.1
@@ -92,7 +92,7 @@
             169.205v-1.528L130.5
             167.677v1.528L129
             169.205z" android:fillType="nonZero" />
-        <path android:fillColor="#ff343434" android:pathData="M132.474
+        <path android:fillColor="@*android:color/background_dark" android:pathData="M132.474
             161.39L133.474
             161.39L133.474
             165.39L132.474

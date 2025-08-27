@@ -142,7 +142,7 @@
     <color name="gm_ref_palette_white">#ffffffff</color>
     <color name="gm_ref_palette_yellow600">#fff9ab00</color>
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
-    <color name="gm_sys_color_dark_secondary_variant">#ff212b3c</color>
+    <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="google_scrim">#99000000</color>
     <color name="google_transparent">#00000000</color>
     <color name="graph_date_range_bg">#00000000</color>

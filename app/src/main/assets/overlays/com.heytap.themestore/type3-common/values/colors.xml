@@ -355,7 +355,7 @@
     <color name="color_40caba">#ff40caba</color>
     <color name="color_416CFB">#ff416cfb</color>
     <color name="color_424242">@*android:color/background_dark</color>
-    <color name="color_434343">#ff434343</color>
+    <color name="color_434343">@*android:color/background_dark</color>
     <color name="color_454545">#ff454545</color>
     <color name="color_461015">#ff461015</color>
     <color name="color_476CFF">@*android:color/accent_material_dark</color>
@@ -1994,7 +1994,7 @@
     <color name="mask_black">#80000000</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>

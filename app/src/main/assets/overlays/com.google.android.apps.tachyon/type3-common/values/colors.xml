@@ -57,7 +57,7 @@
     <color name="clips_ink_black">@*android:color/background_dark</color>
     <color name="clips_ink_blue">#ff4ecde6</color>
     <color name="clips_ink_controls_bar_background">#991b1b1b</color>
-    <color name="clips_ink_gray">#ff282a2c</color>
+    <color name="clips_ink_gray">@*android:color/button_material_dark</color>
     <color name="clips_ink_green">#ff5bb974</color>
     <color name="clips_ink_orange">@*android:color/accent_material_dark</color>
     <color name="clips_ink_pink">#ffff63b8</color>
@@ -179,7 +179,7 @@
     <color name="gm3_ref_palette_yellow90">#ffffe07c</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_container_high">#ff282a2c</color>
+    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/background_dark</color>
@@ -462,9 +462,9 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="settingslib_materialColorOnPrimary">#ffffffff</color>
     <color name="settingslib_materialColorOnPrimaryContainer">#ff00201c</color>
-    <color name="settingslib_materialColorOnSurface">#ff1b1b1b</color>
+    <color name="settingslib_materialColorOnSurface">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOnSurfaceVariant">#ff474747</color>
-    <color name="settingslib_materialColorOutline">#ff777777</color>
+    <color name="settingslib_materialColorOutline">@*android:color/button_material_dark</color>
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorPrimaryContainer">#ffc5eae2</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>
@@ -541,7 +541,7 @@
     <color name="sud_system_neutral1_50">#fff0f0f0</color>
     <color name="sud_system_neutral1_500">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral1_600">#ff5e5e5e</color>
-    <color name="sud_system_neutral1_700">#ff464646</color>
+    <color name="sud_system_neutral1_700">@*android:color/button_material_light</color>
     <color name="sud_system_neutral1_800">@*android:color/background_dark</color>
     <color name="sud_system_neutral1_900">@*android:color/background_dark</color>
     <color name="sud_system_neutral2_100">#ffe2e2e2</color>
@@ -552,7 +552,7 @@
     <color name="sud_system_neutral2_500">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral2_700">@*android:color/background_dark</color>
     <color name="sud_system_on_background_dark">#ffe5e2e1</color>
-    <color name="sud_system_on_background_light">#ff1b1b1b</color>
+    <color name="sud_system_on_background_light">@*android:color/background_dark</color>
     <color name="sud_system_on_error_container_dark">#fff9dedc</color>
     <color name="sud_system_on_error_container_light">#ff3a0a08</color>
     <color name="sud_system_on_error_dark">#ff601410</color>
@@ -576,7 +576,7 @@
     <color name="sud_system_on_surface_dark">#ffe5e2e1</color>
     <color name="sud_system_on_surface_inverse_dark">@*android:color/background_dark</color>
     <color name="sud_system_on_surface_inverse_light">#fff1f1f1</color>
-    <color name="sud_system_on_surface_light">#ff1b1b1b</color>
+    <color name="sud_system_on_surface_light">@*android:color/background_dark</color>
     <color name="sud_system_on_surface_variant_dark">#ffc7c7c7</color>
     <color name="sud_system_on_surface_variant_light">#ff474747</color>
     <color name="sud_system_on_tertiary_container_dark">#ffcee7ff</color>
@@ -588,7 +588,7 @@
     <color name="sud_system_on_tertiary_fixed_variant_light">#ff2d4a60</color>
     <color name="sud_system_on_tertiary_light">#ffffffff</color>
     <color name="sud_system_outline_dark">#ff919191</color>
-    <color name="sud_system_outline_light">#ff777777</color>
+    <color name="sud_system_outline_light">@*android:color/button_material_dark</color>
     <color name="sud_system_outline_variant_dark">#ff474747</color>
     <color name="sud_system_outline_variant_light">#ffc7c6c5</color>
     <color name="sud_system_primary_container_dark">#ff005047</color>
@@ -612,14 +612,14 @@
     <color name="sud_system_surface_bright_dark">#ff393939</color>
     <color name="sud_system_surface_bright_light">#fff9faf8</color>
     <color name="sud_system_surface_container_dark">@*android:color/background_dark</color>
-    <color name="sud_system_surface_container_high_dark">#ff2a2a2a</color>
+    <color name="sud_system_surface_container_high_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_container_high_light">#ffe8e8e8</color>
-    <color name="sud_system_surface_container_highest_dark">#ff343434</color>
+    <color name="sud_system_surface_container_highest_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_container_highest_light">#ffe3e3e3</color>
     <color name="sud_system_surface_container_light">#ffeeeeee</color>
-    <color name="sud_system_surface_container_low_dark">#ff1b1b1b</color>
+    <color name="sud_system_surface_container_low_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_container_low_light">#fff4f4f4</color>
-    <color name="sud_system_surface_container_lowest_dark">#ff0e0e0e</color>
+    <color name="sud_system_surface_container_lowest_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_container_lowest_light">#ffffffff</color>
     <color name="sud_system_surface_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_dim_dark">@*android:color/background_dark</color>

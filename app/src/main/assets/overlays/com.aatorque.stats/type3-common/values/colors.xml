@@ -387,7 +387,7 @@
     <color name="quantum_deeporange400">@*android:color/accent_material_dark</color>
     <color name="quantum_deeporange50">#fffbe9e7</color>
     <color name="quantum_deeporange500">@*android:color/accent_material_dark</color>
-    <color name="quantum_deeporange600">#fff4511e</color>
+    <color name="quantum_deeporange600">@*android:color/accent_material_dark</color>
     <color name="quantum_deeporange700">#ffe64a19</color>
     <color name="quantum_deeporange800">#ffd84315</color>
     <color name="quantum_deeporange900">#ffbf360c</color>

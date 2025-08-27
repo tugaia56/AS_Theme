@@ -1313,8 +1313,8 @@
     <color name="wl_white_60">#aaffffff</color>
     <color name="x_recycler_color_loading_color1">#55777777</color>
     <color name="x_recycler_color_loading_color2">#b1777777</color>
-    <color name="x_recycler_color_loading_color3">#ff777777</color>
-    <color name="x_recycler_color_text_gray">#ff777777</color>
+    <color name="x_recycler_color_loading_color3">@*android:color/button_material_dark</color>
+    <color name="x_recycler_color_text_gray">@*android:color/button_material_dark</color>
     <color name="xima_actionbar_bg">#ffeaeaea</color>
     <color name="xima_album_button_text_color">#ffdc2b0b</color>
     <color name="xima_album_intruduce_bg_color">#ffffffff</color>

@@ -40,7 +40,7 @@
     <color name="gm3_ref_palette_dynamic_secondary80">#bf360c</color>
     <color name="gm3_ref_palette_dynamic_secondary90">#d84315</color>
     <color name="gm3_ref_palette_dynamic_tertiary10">@*android:color/accent_material_dark</color>
-    <color name="gm3_ref_palette_dynamic_tertiary100">#f4511e</color>
+    <color name="gm3_ref_palette_dynamic_tertiary100">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_dynamic_tertiary20">#ff5722</color>
     <color name="gm3_ref_palette_dynamic_tertiary30">#ff7043</color>
     <color name="gm3_ref_palette_dynamic_tertiary40">#ff8a65</color>

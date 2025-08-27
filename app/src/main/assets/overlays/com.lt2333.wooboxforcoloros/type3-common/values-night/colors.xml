@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="LButtonDisable">@*android:color/background_dark</color>
-    <color name="RButtonDisable">#ff343434</color>
+    <color name="RButtonDisable">@*android:color/background_dark</color>
     <color name="author_tips">#ffacacac</color>
     <color name="colorTrack">@*android:color/background_leanback_dark</color>
     <color name="foreground">@*android:color/background_dark</color>

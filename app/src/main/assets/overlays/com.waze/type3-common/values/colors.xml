@@ -333,12 +333,12 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dictationRed">#33ff6d66</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
-    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="disabled_white">#ff454545</color>
     <color name="disabled_white_soft">#88888888</color>
     <color name="distance_day">#ff99fbfe</color>
@@ -466,7 +466,7 @@
     <color name="m3_ref_palette_white">#ffffffff</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
@@ -535,7 +535,7 @@
     <color name="notification_material_background_media_default_color">@*android:color/background_dark</color>
     <color name="panel_gray">#ff2f2f2f</color>
     <color name="pastrami_pink">#ffff8383</color>
-    <color name="pay_button_generic_background_color_dark">#ff1f1f1f</color>
+    <color name="pay_button_generic_background_color_dark">@*android:color/background_dark</color>
     <color name="pay_button_generic_background_color_light">#ffffffff</color>
     <color name="pay_button_generic_background_outline_color_dark">#ff5e5e5e</color>
     <color name="pay_button_generic_background_outline_color_light">#ff5f6368</color>

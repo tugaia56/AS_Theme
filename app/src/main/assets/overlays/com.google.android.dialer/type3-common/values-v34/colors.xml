@@ -13,7 +13,7 @@
     <color name="settingslib_materialColorSurfaceContainerHigh">#ff6e40</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#ff9e80</color>
     <color name="settingslib_materialColorSurfaceVariant">#fff000</color>
-    <color name="sud_color_on_surface">#f4511e</color>
+    <color name="sud_color_on_surface">@*android:color/accent_material_dark</color>
     <color name="sud_system_background_dark">#ff5722</color>
     <color name="sud_system_background_light">#ff7043</color>
     <color name="sud_system_error_container_dark">#ff8a65</color>

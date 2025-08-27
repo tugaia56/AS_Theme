@@ -23,7 +23,7 @@
     <color name="basel_purple_5_strong">#ff5806e0</color>
     <color name="basel_track_background_color">#ff191c1f</color>
     <color name="baseline_neutral_0_alpha_10">#19000000</color>
-    <color name="baseline_neutral_10">#ff1f1f1f</color>
+    <color name="baseline_neutral_10">@*android:color/background_dark</color>
     <color name="baseline_neutral_100_with_surface_tint_light_alpha_12">#ffedf2fa</color>
     <color name="baseline_neutral_10_alpha_38">#611f1f1f</color>
     <color name="baseline_neutral_10_with_surface_tint_dark_alpha_11">#ff313336</color>
@@ -41,7 +41,7 @@
     <color name="baseline_neutral_variant_90_alpha_20">#33e1e3e1</color>
     <color name="baseline_primary_20">#ff062e6f</color>
     <color name="baseline_primary_40">#ff0b57d0</color>
-    <color name="baseline_primary_80">#ffa8c7fa</color>
+    <color name="baseline_primary_80">@*android:color/accent_material_dark</color>
     <color name="black_0_transparent">#00000000</color>
     <color name="black_10">#1a000000</color>
     <color name="black_12_transparent">#1f000000</color>
@@ -182,7 +182,7 @@
     <color name="cyan_6">#ff03a1d1</color>
     <color name="debug_overlay_pause_button_tint">#ffdfdfdf</color>
     <color name="debug_overlay_white_70_transparent">#b3ffffff</color>
-    <color name="design_dark_default_color_background">#ff121212</color>
+    <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>
     <color name="design_dark_default_color_primary">#ffba86fc</color>
     <color name="design_dark_default_color_primary_variant">#ff3700b3</color>
@@ -190,7 +190,7 @@
     <color name="design_fab_stroke_end_inner_color">#0a000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dialog_button_text">#ff0866ff</color>
     <color name="direct_light_mode_composer_hint_text_color">#ff6b6b6b</color>
     <color name="disabled_overlay">#b3cbd2d9</color>
@@ -601,7 +601,7 @@
     <color name="igds_transparent_navigation_bar">#01000000</color>
     <color name="iglive_ssi_banner_gradient_end">#99585bc2</color>
     <color name="iglive_ssi_banner_gradient_start">#99a02ea2</color>
-    <color name="igvr_modal_background">#ff0e0e0e</color>
+    <color name="igvr_modal_background">@*android:color/background_dark</color>
     <color name="igvr_modal_shadow_color">#aa000000</color>
     <color name="igvr_modal_stroke_gradient_stop_one">#47ffffff</color>
     <color name="igvr_modal_stroke_gradient_stop_three">#0dffffff</color>

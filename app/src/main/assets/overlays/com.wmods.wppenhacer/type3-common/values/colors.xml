@@ -197,7 +197,7 @@
     <color name="material_blue_grey_700">#ff455a64</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_brown_100">#ffd7ccc8</color>
     <color name="material_brown_200">#ffbcaaa4</color>
     <color name="material_brown_300">#ffa1887f</color>
@@ -228,7 +228,7 @@
     <color name="material_deep_orange_400">#ffff7043</color>
     <color name="material_deep_orange_50">#fffbe9a7</color>
     <color name="material_deep_orange_500">@*android:color/accent_material_dark</color>
-    <color name="material_deep_orange_600">#fff4511e</color>
+    <color name="material_deep_orange_600">@*android:color/accent_material_dark</color>
     <color name="material_deep_orange_A100">#ffff9e80</color>
     <color name="material_deep_orange_A200">#ffff6e40</color>
     <color name="material_deep_orange_A400">#ffff3d00</color>

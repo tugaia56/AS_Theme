@@ -377,7 +377,7 @@
     <color name="style_guide_color_primary_dark">@*android:color/white</color>
     <color name="style_guide_color_secondary">#ffd9d9d9</color>
     <color name="style_guide_dark_blue">#ff091c6b</color>
-    <color name="style_guide_dark_gray">#ff777777</color>
+    <color name="style_guide_dark_gray">@*android:color/button_material_dark</color>
     <color name="style_guide_darker_gray">@*android:color/button_material_dark</color>
     <color name="style_guide_g1">#ffccfdce</color>
     <color name="style_guide_g2">#ff9ef4a6</color>

@@ -84,7 +84,7 @@
     <color name="square_forum_border">#ff1298e1</color>
     <color name="square_list_macros_border">#ff54697e</color>
     <color name="square_settings_border">#ff00796c</color>
-    <color name="square_view_templates_border">#ff777777</color>
+    <color name="square_view_templates_border">@*android:color/button_material_dark</color>
     <color name="subscribe_button_bg">#ffffffff</color>
     <color name="subscribe_button_text">@*android:color/background_dark</color>
     <color name="subscribe_prepay_button_bg">#ffa8e92d</color>

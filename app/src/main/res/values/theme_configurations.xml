@@ -28,6 +28,7 @@
         <item>Oneplus Photo to v15.72.20</item>
         <item>Google Photo v7.42.0</item>
         <item>Google Dialer v188.0</item>
+        <item>Google Gmail v2025.08.11</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

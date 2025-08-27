@@ -2,11 +2,11 @@
 <resources>
     <color name="dls_background">@*android:color/background_dark</color>
     <color name="dls_primary">#ffffffff</color>
-    <color name="dls_secondary1">#ffa9a9a9</color>
-    <color name="dls_secondary2">#ff7a7a7a</color>
-    <color name="dls_secondary3">#ff4b4b4b</color>
+    <color name="dls_secondary1">@*android:color/darker_gray</color>
+    <color name="dls_secondary2">@*android:color/button_material_light</color>
+    <color name="dls_secondary3">@*android:color/background_holo_dark</color>
     <color name="dls_secondary4">@*android:color/button_material_dark</color>
     <color name="dls_secondary5">@*android:color/background_dark</color>
     <color name="dls_warning">#fffad000</color>
-    <color name="switch_unchecked">#ff747474</color>
+    <color name="switch_unchecked">@*android:color/ripple_material_dark</color>
 </resources>

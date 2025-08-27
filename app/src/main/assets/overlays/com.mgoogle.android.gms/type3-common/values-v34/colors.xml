@@ -7,7 +7,7 @@
     <color name="m3_sys_color_dynamic_dark_on_background">#bf360c</color>
     <color name="m3_sys_color_dynamic_dark_on_primary">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_primary_container">@*android:color/accent_material_dark</color>
-    <color name="m3_sys_color_dynamic_dark_on_secondary">#f4511e</color>
+    <color name="m3_sys_color_dynamic_dark_on_secondary">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_secondary_container">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#ffffffff</color>

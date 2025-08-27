@@ -107,7 +107,7 @@
     <color name="cam_edit_device_name_color">#ff2fa2f9</color>
     <color name="cam_fingerprint_hint_color">#42000000</color>
     <color name="cam_fingerprint_success_color">#ff009688</color>
-    <color name="cam_fingerprint_warning_color">#fff4511e</color>
+    <color name="cam_fingerprint_warning_color">@*android:color/accent_material_dark</color>
     <color name="cam_header_light_grey">#66898989</color>
     <color name="cam_header_text">#ffffffff</color>
     <color name="cam_insight_app_type_color">#808829c1</color>

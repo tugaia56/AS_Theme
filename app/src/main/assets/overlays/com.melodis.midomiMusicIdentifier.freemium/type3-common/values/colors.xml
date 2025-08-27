@@ -181,7 +181,7 @@
     <color name="lightDividerColor">#ffaeaeae</color>
     <color name="list_item_background">#c1000000</color>
     <color name="live_lyrics_highlight">#ffcc9955</color>
-    <color name="live_lyrics_line_color">#ff777777</color>
+    <color name="live_lyrics_line_color">@*android:color/button_material_dark</color>
     <color name="live_lyrics_line_highlight">#ffffffff</color>
     <color name="live_lyrics_tag_color">@*android:color/accent_material_dark</color>
     <color name="live_lyrics_unhighlight">#ff66553d</color>

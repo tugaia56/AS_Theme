@@ -62,8 +62,8 @@
     <color name="color_bg_txt_comment">#99ffffff</color>
     <color name="color_black">#ffffffff</color>
     <color name="color_btn_dark">#ff4d1117</color>
-    <color name="color_captcha_btn">#ff434343</color>
-    <color name="color_captcha_text_bg">#ff434343</color>
+    <color name="color_captcha_btn">@*android:color/background_dark</color>
+    <color name="color_captcha_text_bg">@*android:color/background_dark</color>
     <color name="color_dark_primary_85">#d9ffffff</color>
     <color name="color_dark_secondary_55">#8cffffff</color>
     <color name="color_dialog_background">#ff2e2e2e</color>
@@ -696,5 +696,5 @@
     <color name="coui_navigation_rail_icon_unselected_color_light">#ffffffff</color>
     <color name="trial_dialog_compeleted_bg_color">@*android:color/background_leanback_dark</color>
     <color name="trial_dialog_no_network">#ff2e2e2e</color>
-    <color name="trial_dialog_watch_bg_color">#ff464646</color>
+    <color name="trial_dialog_watch_bg_color">@*android:color/button_material_light</color>
 </resources>

@@ -140,7 +140,7 @@
     <color name="m3_ref_palette_grey20">@*android:color/background_dark</color>
     <color name="m3_ref_palette_grey30">#ff474747</color>
     <color name="m3_ref_palette_grey40">#ff5e5e5e</color>
-    <color name="m3_ref_palette_grey50">#ff777777</color>
+    <color name="m3_ref_palette_grey50">@*android:color/button_material_dark</color>
     <color name="m3_ref_palette_grey60">#ff919191</color>
     <color name="m3_ref_palette_grey70">#ffababab</color>
     <color name="m3_ref_palette_grey80">#ffc7c7c7</color>
@@ -150,7 +150,7 @@
     <color name="m3_ref_palette_grey_variant0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_grey_variant10">#ff191d1c</color>
     <color name="m3_ref_palette_grey_variant100">#ffffffff</color>
-    <color name="m3_ref_palette_grey_variant20">#ff2d312f</color>
+    <color name="m3_ref_palette_grey_variant20">@*android:color/background_dark</color>
     <color name="m3_ref_palette_grey_variant30">#ff444746</color>
     <color name="m3_ref_palette_grey_variant40">#ff5c5f5e</color>
     <color name="m3_ref_palette_grey_variant50">#ff747775</color>
@@ -161,7 +161,7 @@
     <color name="m3_ref_palette_grey_variant95">#ffeff2ef</color>
     <color name="m3_ref_palette_grey_variant98">#fff7faf7</color>
     <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>
@@ -308,7 +308,7 @@
     <color name="m3_ref_palette_yellow98">#fffffade</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_error">#ffba1a1a</color>

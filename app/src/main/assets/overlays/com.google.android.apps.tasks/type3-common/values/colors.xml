@@ -146,7 +146,7 @@
     <color name="gm_ref_palette_yellow300">#fffdd663</color>
     <color name="gm_ref_palette_yellow600">#fff9ab00</color>
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
-    <color name="gm_sys_color_dark_secondary_variant">#ff212b3c</color>
+    <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
     <color name="google_dark_yellow300">#fff9dc74</color>
     <color name="google_dark_yellow600">#fff3b713</color>

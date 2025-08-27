@@ -74,7 +74,7 @@
     <color name="m3_ref_palette_error40">#ffb3261e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>

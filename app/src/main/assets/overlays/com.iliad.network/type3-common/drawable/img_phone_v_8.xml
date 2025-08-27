@@ -692,7 +692,7 @@
             1.105 89.999
             0 0
             195.236 133.34z" android:strokeColor="@*android:color/button_material_dark" android:strokeWidth="1.32" android:fillType="evenOdd" />
-        <path android:fillColor="#ff343434" android:pathData="M187.087
+        <path android:fillColor="@*android:color/background_dark" android:pathData="M187.087
             158.718L188.109
             158.718L188.109
             150.545L187.087

@@ -200,7 +200,7 @@
     <color name="link_beautification_link_text">#ff3aa0f3</color>
     <color name="link_permissions_header_background">@*android:color/background_dark</color>
     <color name="link_permissions_web_black">@*android:color/background_dark</color>
-    <color name="link_permissions_web_neutral_dark">#ff343434</color>
+    <color name="link_permissions_web_neutral_dark">@*android:color/background_dark</color>
     <color name="link_permissions_web_neutral_light">@*android:color/background_dark</color>
     <color name="link_permissions_web_neutral_lighter">@*android:color/background_dark</color>
     <color name="link_permissions_web_neutral_lighter_alt">@*android:color/background_dark</color>
@@ -315,7 +315,7 @@
     <color name="teams_oof_message_color">#ffd161c4</color>
     <color name="three_pane_drawer_content_background">@*android:color/black</color>
     <color name="tool_background_color">@*android:color/background_dark</color>
-    <color name="tool_background_selected_color">#ff2a2a2a</color>
+    <color name="tool_background_selected_color">@*android:color/background_dark</color>
     <color name="tooltip_text_color">@*android:color/black</color>
     <color name="unknownColor">#ff979593</color>
     <color name="upload_and_share_file_failed_color">#ffe83a3a</color>

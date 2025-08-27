@@ -7,7 +7,7 @@
     <color name="settingslib_materialColorOutline">#bf360c</color>
     <color name="settingslib_materialColorPrimary">#d84315</color>
     <color name="settingslib_materialColorPrimaryContainer">#e64a19</color>
-    <color name="settingslib_materialColorSecondaryContainer">#f4511e</color>
+    <color name="settingslib_materialColorSecondaryContainer">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorSurfaceBright">#ff5722</color>
     <color name="settingslib_materialColorSurfaceContainer">#00ff00</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ff6d00</color>

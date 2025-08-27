@@ -9,7 +9,7 @@
     <string name="ThemeWallpaperSource"></string>
     <!-- Il tuo tema supporta substratum legacy? -->
     <!-- Se si sceglie di non supportare legacy, modificare la seguente riga da -->
-    <!-- Da "true" a "false" per nascondere il tuo tema sul Play Store da qualsiasi ROM stock-->
+    <!-- Da "true" a "false" per nascondere il tuo tema sul Play Store da qualsiasi ROM stock-->+
     <bool name="ThemeSupportLegacy">true</bool>
     <!-- Il tuo tema supporta Substratum Samsung? -->
     <bool name="ThemeSupportSamsung">false</bool>
@@ -24,10 +24,12 @@
         <item>AGGIUNTO:</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
+
         <item>Safe v26.1.7</item>
         <item>Oneplus Foto v15.72.20</item>
         <item>Google Foto v7.42.0</item>
         <item>Google Telefono v188.0</item>
+        <item>Google Gmail v2025.08.11</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

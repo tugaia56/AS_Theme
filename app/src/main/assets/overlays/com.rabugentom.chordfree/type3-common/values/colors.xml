@@ -47,12 +47,12 @@
     <color name="diagram_capo_stripe2_L">#ffcccccc</color>
     <color name="diagram_fret_non_realistic_D">#ffcccccc</color>
     <color name="diagram_fret_non_realistic_L">@*android:color/button_material_dark</color>
-    <color name="diagram_fret_realistic1">#ff777777</color>
+    <color name="diagram_fret_realistic1">@*android:color/button_material_dark</color>
     <color name="diagram_fret_realistic2">#ff999999</color>
     <color name="diagram_fret_realistic3">#ffcccccc</color>
     <color name="diagram_fret_realistic4">#ffe6e6e6</color>
     <color name="diagram_fret_section_left">#ff999999</color>
-    <color name="diagram_fret_section_right">#ff777777</color>
+    <color name="diagram_fret_section_right">@*android:color/button_material_dark</color>
     <color name="diagram_name_text_color_D">#ffcccccc</color>
     <color name="diagram_name_text_color_L">@*android:color/button_material_dark</color>
     <color name="diagram_neck_border_D">#ffcccccc</color>
@@ -81,11 +81,11 @@
     <color name="diagram_reperes_text_color_L">#ffcccccc</color>
     <color name="diagram_string_non_realistic_D">#ffcccccc</color>
     <color name="diagram_string_non_realistic_L">@*android:color/button_material_dark</color>
-    <color name="diagram_string_realistic1">#ff777777</color>
+    <color name="diagram_string_realistic1">@*android:color/button_material_dark</color>
     <color name="diagram_string_realistic2">#ff999999</color>
     <color name="diagram_string_realistic3">#ffbbbbbb</color>
     <color name="diagram_string_realistic4">#ffe6e6e6</color>
-    <color name="diagram_string_section">#ff777777</color>
+    <color name="diagram_string_section">@*android:color/button_material_dark</color>
     <color name="diagram_string_shadow">@*android:color/background_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80bebebe</color>
@@ -118,7 +118,7 @@
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
-    <color name="neutralGrey">#ff777777</color>
+    <color name="neutralGrey">@*android:color/button_material_dark</color>
     <color name="neutralGreyTransparent">@*android:color/accent_material_dark</color>
     <color name="neutralGreyTransparent2">@*android:color/ripple_material_light</color>
     <color name="orangeLed">@*android:color/accent_material_dark</color>

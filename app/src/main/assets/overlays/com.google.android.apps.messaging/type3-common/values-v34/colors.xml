@@ -13,7 +13,7 @@
     <color name="settingslib_materialColorSurfaceContainerHigh">#ff6e40</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#ff9e80</color>
     <color name="settingslib_materialColorSurfaceVariant">#fff000</color>
-    <color name="sud_color_on_surface">#f4511e</color>
+    <color name="sud_color_on_surface">@*android:color/accent_material_dark</color>
     <color name="sud_system_background_dark">#ff5722</color>
     <color name="sud_system_background_light">#ff7043</color>
     <color name="sud_system_error_container_dark">@*android:color/ripple_material_dark</color>
@@ -122,7 +122,7 @@
     <color name="gm3_sys_color_dynamic_dark_outline_variant">#827717</color>
     <color name="gm3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>				<!-- #00FFFF pallino switch attivato bolla verifica numero -->
     <color name="gm3_sys_color_dynamic_dark_primary_container">@*android:color/ripple_material_dark</color>		<!-- #ff5722 bg fab e switch attivato -->
-    <color name="gm3_sys_color_dynamic_dark_secondary">#f4511e</color>
+    <color name="gm3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_secondary_container">#ffab00</color>
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">@*android:color/ripple_material_dark</color>		<!-- #1976d2 fab piccolo -->

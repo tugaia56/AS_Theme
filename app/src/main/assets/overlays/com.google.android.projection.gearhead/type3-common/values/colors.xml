@@ -32,7 +32,7 @@
     <color name="baseline_palette_n_26">#ff3d3e3e</color>
     <color name="baseline_palette_n_30">#ff464747</color>
     <color name="baseline_palette_n_40">#ff5e5e5e</color>
-    <color name="baseline_palette_n_50">#ff777777</color>
+    <color name="baseline_palette_n_50">@*android:color/button_material_dark</color>
     <color name="baseline_palette_n_55">#ff848484</color>
     <color name="baseline_palette_n_60">#ff919090</color>
     <color name="baseline_palette_n_7">#ff151616</color>
@@ -561,7 +561,7 @@
     <color name="gm3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral100">#ffffffff</color>
     <color name="gm3_ref_palette_neutral12">#ff1f2020</color>
-    <color name="gm3_ref_palette_neutral17">#ff2a2a2a</color>
+    <color name="gm3_ref_palette_neutral17">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral20">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral22">#ff343535</color>
     <color name="gm3_ref_palette_neutral24">#ff393939</color>
@@ -629,7 +629,7 @@
     <color name="gm3_ref_palette_primary50">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary60">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary70">@*android:color/accent_material_dark</color>
-    <color name="gm3_ref_palette_primary80">#ffa8c7fa</color>
+    <color name="gm3_ref_palette_primary80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary90">#ffd3e3fd</color>
     <color name="gm3_ref_palette_primary95">#ffecf3fe</color>
     <color name="gm3_ref_palette_primary98">#fff7f9ff</color>
@@ -1020,7 +1020,7 @@
     <color name="maps_accuracy_circle_fill_color">#338cc6ef</color>
     <color name="maps_accuracy_circle_line_color">#73217bce</color>
     <color name="maps_floorpicker_black">@*android:color/background_dark</color>
-    <color name="maps_floorpicker_text">#ff777777</color>
+    <color name="maps_floorpicker_text">@*android:color/button_material_dark</color>
     <color name="maps_qu_google_blue_500">@*android:color/accent_material_dark</color>
     <color name="material2_dark_google_blue_300">@*android:color/accent_material_dark</color>
     <color name="material2_dark_google_blue_600">@*android:color/accent_material_dark</color>
@@ -1745,7 +1745,7 @@
     <color name="palette_b_50">#ff1b6ef3</color>
     <color name="palette_b_60">@*android:color/accent_material_dark</color>
     <color name="palette_b_70">#ff7cacf8</color>
-    <color name="palette_b_80">#ffa8c7fa</color>
+    <color name="palette_b_80">@*android:color/accent_material_dark</color>
     <color name="palette_b_90">#ffd3e3fd</color>
     <color name="palette_b_95">#ffecf3fe</color>
     <color name="palette_b_99">#fffafbff</color>

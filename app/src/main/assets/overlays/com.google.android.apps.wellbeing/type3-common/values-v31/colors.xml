@@ -34,7 +34,7 @@
     <color name="total_screen_time_text_color">#ff9e80</color>
     <color name="wake_up">#bf360c</color>
     <color name="gm3_migration_sys_color_dynamic_dark_surface">#e64a19</color>
-    <color name="gm3_migration_sys_color_dynamic_dark_surface_bright">#f4511e</color>
+    <color name="gm3_migration_sys_color_dynamic_dark_surface_bright">@*android:color/accent_material_dark</color>
     <color name="gm3_migration_sys_color_dynamic_dark_surface_container">#ff5722</color>
     <color name="gm3_migration_sys_color_dynamic_dark_surface_container_high">#ff7043</color>
     <color name="gm3_migration_sys_color_dynamic_dark_surface_container_highest">#ff8a65</color>

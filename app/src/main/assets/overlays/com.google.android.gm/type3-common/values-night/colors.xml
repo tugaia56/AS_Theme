@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="account_disabled_compose_blocker">#ffc7c7c7</color>
-    <color name="account_disabled_description_text_color">#ff303030</color>
+    <color name="account_disabled_description_text_color">@*android:color/background_dark</color>
     <color name="ag_nv_200_700">@*android:color/accent_material_dark</color>
     <color name="banner_background_color">#ff6d3a01</color>
     <color name="compose_mode_spinner_text_disabled_color">@*android:color/button_material_dark</color>

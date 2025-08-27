@@ -105,7 +105,7 @@
     <color name="introduction_user_profile_description_text_color">#ffaeaeae</color>
     <color name="jp_weather_feature_chip_fill_checked">#ff1c333f</color>
     <color name="label">#fff7f7f7</color>
-    <color name="loading_gradient_start">#ff464646</color>
+    <color name="loading_gradient_start">@*android:color/button_material_light</color>
     <color name="localChannelCrimeSubLabel">#ffffffff</color>
     <color name="localChannelListSectionBackground">@*android:color/background_dark</color>
     <color name="localChannelMainLabel">#ffffffff</color>
@@ -125,7 +125,7 @@
     <color name="midEmphasis">#99ffffff</color>
     <color name="monotoneIconTint">@*android:color/white</color>
     <color name="newsEventBorder">#ff353535</color>
-    <color name="newsEventSiteName">#ff777777</color>
+    <color name="newsEventSiteName">@*android:color/button_material_dark</color>
     <color name="notification_lock_screen_mock_device_gradient_end">#00000000</color>
     <color name="notification_lock_screen_mock_device_gradient_start">#ff9d9d9d</color>
     <color name="notification_lock_screen_mock_device_time_text_color">#4dffffff</color>

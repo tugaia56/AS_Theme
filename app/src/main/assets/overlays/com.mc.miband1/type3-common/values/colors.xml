@@ -121,7 +121,7 @@
     <color name="drawableTintColorLowContrast">#ff616161</color>
     <color name="drawerGradientEndColor">#fff5f5f5</color>
     <color name="drawerGradientStartColor">#fffefefe</color>
-    <color name="drawerTextColor">#ff434343</color>
+    <color name="drawerTextColor">@*android:color/background_dark</color>
     <color name="emui_accent">#ff0a59f7</color>
     <color name="emui_color_bg">#ffffffff</color>
     <color name="emui_color_clickeffic">#13000000</color>

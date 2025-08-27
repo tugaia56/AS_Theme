@@ -488,8 +488,8 @@
     <color name="melody_ui_jump_pref_text_color_gray">#8cffffff</color>
     <color name="melody_ui_multi_device_preference_title_color">#d8ffffff</color>
     <color name="melody_ui_multi_device_type_icon_color">#ff989898</color>
-    <color name="melody_ui_noise_reduction_seekbar_progress_background_color_disabled">#ff777777</color>
-    <color name="melody_ui_noise_reduction_seekbar_progress_color_disabled">#ff777777</color>
+    <color name="melody_ui_noise_reduction_seekbar_progress_background_color_disabled">@*android:color/button_material_dark</color>
+    <color name="melody_ui_noise_reduction_seekbar_progress_color_disabled">@*android:color/button_material_dark</color>
     <color name="melody_ui_noise_reduction_title_color">#8dffffff</color>
     <color name="melody_ui_normal_grey">#19ffffff</color>
     <color name="melody_ui_not_choose_button_bg_color">#14ffffff</color>

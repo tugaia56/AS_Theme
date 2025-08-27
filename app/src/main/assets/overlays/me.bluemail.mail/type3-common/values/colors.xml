@@ -201,7 +201,7 @@
     <color name="calendar_hour_label_dark">#ffffffff</color>
     <color name="calendar_light_gray">#ffeceff1</color>
     <color name="calendar_light_gray_dark">#ff13100e</color>
-    <color name="calendar_owner_text_color">#ff777777</color>
+    <color name="calendar_owner_text_color">@*android:color/button_material_dark</color>
     <color name="calendar_owner_text_color_dark">#ffbdbdbd</color>
     <color name="calendar_secondary_hidden">#ff808080</color>
     <color name="calendar_secondary_hidden_dark">@*android:color/button_material_dark</color>
@@ -400,7 +400,7 @@
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gray">#ff4d4b4b</color>
-    <color name="gray_text_color">#ff777777</color>
+    <color name="gray_text_color">@*android:color/button_material_dark</color>
     <color name="green_100">#ffc8e6c9</color>
     <color name="green_200">#ffa5d6a7</color>
     <color name="green_300">#ff81c784</color>

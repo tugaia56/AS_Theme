@@ -393,7 +393,7 @@
     <color name="play_movies_secondary_v2">#ffd60b41</color>
     <color name="play_movies_snackbar_light_bg">#ffffffff</color>
     <color name="play_movies_snackbar_text_color">@*android:color/background_dark</color>
-    <color name="play_movies_thumbnail_placeholder">#ff343434</color>
+    <color name="play_movies_thumbnail_placeholder">@*android:color/background_dark</color>
     <color name="play_notification">@*android:color/accent_material_dark</color>
     <color name="play_onboard_accent_color_a">#ff00bcd4</color>
     <color name="play_onboard_accent_color_b">#ff0288d1</color>
@@ -457,7 +457,7 @@
     <color name="tag_shadow_color">#40000000</color>
     <color name="tag_text_shadow_color">#80000000</color>
     <color name="thirty_percent_white">#4cffffff</color>
-    <color name="thumbnail_placeholder_color">#ff343434</color>
+    <color name="thumbnail_placeholder_color">@*android:color/background_dark</color>
     <color name="timebar_buffered_color">#66ffffff</color>
     <color name="timebar_played_color">#ffffffff</color>
     <color name="timebar_unplayed_color">#33ffffff</color>

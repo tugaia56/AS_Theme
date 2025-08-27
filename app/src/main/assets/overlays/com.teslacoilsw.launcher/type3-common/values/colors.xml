@@ -130,7 +130,7 @@
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
     <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>
@@ -208,7 +208,7 @@
     <color name="m3_ref_palette_white">#ffffffff</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">@*android:color/background_dark</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
@@ -374,7 +374,7 @@
     <color name="quantum_bluegrey700">#ff455a64</color>
     <color name="quantum_bluegrey800">#ff37474f</color>
     <color name="quantum_bluegrey900">@*android:color/background_dark</color>
-    <color name="quantum_bluegrey950">#ff21272b</color>
+    <color name="quantum_bluegrey950">@*android:color/background_dark</color>
     <color name="quantum_brown100">#ffd7ccc8</color>
     <color name="quantum_brown200">#ffbcaaa4</color>
     <color name="quantum_brown300">#ffa1887f</color>
@@ -405,7 +405,7 @@
     <color name="quantum_deeporange400">@*android:color/accent_material_dark</color>
     <color name="quantum_deeporange50">#fffbe9e7</color>
     <color name="quantum_deeporange500">@*android:color/accent_material_dark</color>
-    <color name="quantum_deeporange600">#fff4511e</color>
+    <color name="quantum_deeporange600">@*android:color/accent_material_dark</color>
     <color name="quantum_deeporange700">#ffe64a19</color>
     <color name="quantum_deeporange800">#ffd84315</color>
     <color name="quantum_deeporange900">#ffbf360c</color>

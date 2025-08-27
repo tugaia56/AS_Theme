@@ -267,14 +267,14 @@
     <color name="shazam_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="surface_bright_dark">#ff3a3939</color>
     <color name="surface_container_dark">#ff201f20</color>
-    <color name="surface_container_high_dark">#ff2a2a2a</color>
+    <color name="surface_container_high_dark">@*android:color/background_dark</color>
     <color name="surface_container_high_light">#ffebe7e7</color>
     <color name="surface_container_highest_dark">#ff353435</color>
     <color name="surface_container_highest_light">#ffe5e2e1</color>
     <color name="surface_container_light">#fff1eded</color>
     <color name="surface_container_low_dark">@*android:color/background_dark</color>
     <color name="surface_container_low_light">#fff7f3f2</color>
-    <color name="surface_container_lowest_dark">#ff0e0e0e</color>
+    <color name="surface_container_lowest_dark">@*android:color/background_dark</color>
     <color name="surface_dim_light">#ffddd9d9</color>
     <color name="surface_variant_dark">#ff46464b</color>
     <color name="surface_variant_light">#ffe3e2e7</color>

@@ -650,7 +650,7 @@
     <color name="icon_black">#ffffffff</color>
     <color name="image_bg_line">#1affffff</color>
     <color name="my_theme_background_color">@*android:color/button_material_dark</color>
-    <color name="mytheme_applay_color">#ff464646</color>
+    <color name="mytheme_applay_color">@*android:color/button_material_light</color>
     <color name="mytheme_title_textcolor">#e5ffffff</color>
     <color name="oplus_setting_bottom_background_color">@*android:color/background_dark</color>
     <color name="page_background">@*android:color/background_dark</color>

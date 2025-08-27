@@ -234,8 +234,8 @@
     <color name="light_preset_red">#ffe50303</color>
     <color name="light_preset_yellow">#ffffe500</color>
     <color name="login_loading_background">@*android:color/background_dark</color>
-    <color name="login_window_background">#ff131313</color>
-    <color name="login_window_terms_background_color">#ff131313</color>
+    <color name="login_window_background">@*android:color/background_dark</color>
+    <color name="login_window_terms_background_color">@*android:color/background_dark</color>
     <color name="m3_ref_palette_black">#448aff</color>
     <color name="m3_ref_palette_error0">#82b1ff</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
@@ -479,7 +479,7 @@
     <color name="quantum_deeporange400">@*android:color/accent_material_dark</color>
     <color name="quantum_deeporange50">#fffbe9e7</color>
     <color name="quantum_deeporange500">@*android:color/accent_material_dark</color>
-    <color name="quantum_deeporange600">#fff4511e</color>
+    <color name="quantum_deeporange600">@*android:color/accent_material_dark</color>
     <color name="quantum_deeporange700">#ffe64a19</color>
     <color name="quantum_deeporange800">#ffd84315</color>
     <color name="quantum_deeporange900">#ffbf360c</color>

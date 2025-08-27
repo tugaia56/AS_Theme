@@ -393,7 +393,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="shoveler_item_background_color">#ff2a2a2a</color>
+    <color name="shoveler_item_background_color">@*android:color/background_dark</color>
     <color name="shoveler_transparent_overlay">#b4000000</color>
     <color name="sign_in_separator_color">#ffdddddd</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>

@@ -141,7 +141,7 @@
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="dialog_divider">#ff123456</color>
     <color name="dialog_title">#ff123456</color>
     <color name="eid_text">@*android:color/background_dark</color>
@@ -221,7 +221,7 @@
     <color name="gm_ref_palette_yellow800">#ffea8600</color>
     <color name="gm_ref_palette_yellow900">#ffe37400</color>
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
-    <color name="gm_sys_color_dark_secondary_variant">#ff212b3c</color>
+    <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="google_cyan100">#ffcbf0f8</color>
     <color name="google_cyan200">#ffa1e4f2</color>
     <color name="google_cyan300">#ff78d9ec</color>
@@ -299,7 +299,7 @@
     <color name="google_purple900">#ff681da8</color>
     <color name="google_scrim">#99000000</color>
     <color name="google_transparent">#00000000</color>
-    <color name="gph_dark_grey">#ff464646</color>
+    <color name="gph_dark_grey">@*android:color/button_material_light</color>
     <color name="gph_dark_red">#ff990e0e</color>
     <color name="gph_gif_details_progress_bar_bg">#ff00ff99</color>
     <color name="gph_purple_btn">#ff6157ff</color>
@@ -317,7 +317,7 @@
     <color name="idnow_colorPrimaryDark">#fff95602</color>
     <color name="idnow_color_primary_gray">#ff5f5f5f</color>
     <color name="idnow_color_tertiary">#ff141e73</color>
-    <color name="idnow_color_text">#ff323232</color>
+    <color name="idnow_color_text">@*android:color/background_dark</color>
     <color name="idnow_country_item">#99000000</color>
     <color name="idnow_country_item_highlight">#ffc9d7ec</color>
     <color name="idnow_dark_gray">#ff535353</color>
@@ -460,7 +460,7 @@
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>
     <color name="m3_ref_palette_neutral0">@*android:color/background_dark</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>
@@ -538,7 +538,7 @@
     <color name="m3_ref_palette_white">#ffffffff</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
@@ -800,7 +800,7 @@
     <color name="pspdf__electronic_signature_typing_color_hint">#ffd8dfeb</color>
     <color name="pspdf__form_highlight_color">#330036ff</color>
     <color name="pspdf__form_sign_here_overlay_color">#ffe75b4f</color>
-    <color name="pspdf__form_validation_error_background_color">#ff323232</color>
+    <color name="pspdf__form_validation_error_background_color">@*android:color/background_dark</color>
     <color name="pspdf__gray_10">#fff0f3f9</color>
     <color name="pspdf__gray_100">#ff0e1218</color>
     <color name="pspdf__gray_20">#ffd7dce4</color>
@@ -924,7 +924,7 @@
     <color name="stripe_link_window_background">#ffffffff</color>
     <color name="stripe_mandate_text_color">#ff888888</color>
     <color name="stripe_paymentsheet_add_payment_method_form_stroke">#33787880</color>
-    <color name="stripe_paymentsheet_add_pm_card_selected_stroke">#ff343434</color>
+    <color name="stripe_paymentsheet_add_pm_card_selected_stroke">@*android:color/background_dark</color>
     <color name="stripe_paymentsheet_add_pm_card_unselected_stroke">#ffe7e7e7</color>
     <color name="stripe_paymentsheet_background">#ffffffff</color>
     <color name="stripe_paymentsheet_country_chevron_color">@*android:color/background_dark</color>

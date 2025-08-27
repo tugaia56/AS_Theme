@@ -185,8 +185,8 @@
     <color name="color_323232_ffffff">@*android:color/background_dark</color>
     <color name="color_333333_ffffff">#00ff00</color>
     <color name="color_333_fff">#bf360c</color>
-    <color name="color_343434">#ff343434</color>
-    <color name="color_343434_ffffff">#ff343434</color>
+    <color name="color_343434">@*android:color/background_dark</color>
+    <color name="color_343434_ffffff">@*android:color/background_dark</color>
     <color name="color_3887dd_333333">#ff3887dd</color>
     <color name="color_3c3c3c_ffffff">#ff3c3c3c</color>
     <color name="color_40516C">#ff40516c</color>
@@ -370,7 +370,7 @@
     <color name="excelColorAccentSeparatorColor">#ff088211</color>
     <color name="excelColorPrimaryDark">#ff0a6740</color>
     <color name="excelColorPrimaryDarker">#ff095b38</color>
-    <color name="excelColorZoomPagesPopupBackground">#8c0c7449</color>
+    <color name="excelColorZoomPagesPopupBackground">@*android:color/ripple_material_dark</color>
     <color name="excelFunctionCategoryNameColor">@*android:color/button_material_dark</color>
     <color name="excelFunctionHelpColor">@*android:color/button_material_dark</color>
     <color name="excelFunctionNameColor">@*android:color/button_material_dark</color>
@@ -697,7 +697,7 @@
     <color name="mail_button_focused">#ff39833c</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_blue_grey_950">@*android:color/background_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
@@ -805,7 +805,7 @@
     <color name="mbridge_white">#ffffffff</color>
     <color name="menu_item_gray">#ff5e5e5e</color>
     <color name="module_dialog_separator">#ffdcdcdc</color>
-    <color name="modules_selection_frame_color1">#ff777777</color>
+    <color name="modules_selection_frame_color1">@*android:color/button_material_dark</color>
     <color name="modules_selection_frame_color2">#ffffffff</color>
     <color name="more_icon_color">@*android:color/button_material_dark</color>
     <color name="mr_cast_meta_black_scrim">#99000000</color>
@@ -980,7 +980,7 @@
     <color name="pdfColorAccentSeparatorColor">#ffd32f2f</color>
     <color name="pdfColorPrimaryDark">#ff922824</color>
     <color name="pdfColorPrimaryDarker">#ff812320</color>
-    <color name="pdfColorZoomPagesPopupBackground">#8ca52e29</color>
+    <color name="pdfColorZoomPagesPopupBackground">@*android:color/ripple_material_dark</color>
     <color name="pdfContentEditorTabBackground">#ff616161</color>
     <color name="pdfFontPreview">@*android:color/background_dark</color>
     <color name="pdfFontPreview_dialog">@*android:color/background_dark</color>
@@ -991,7 +991,7 @@
     <color name="pdfProgressBarColor">#5ca52e29</color>
     <color name="pdfProtectPreferecncesTitlesColor">#76000000</color>
     <color name="pdfSelectedPageBorderStrokeColor">@*android:color/accent_material_dark</color>
-    <color name="pdfSelectionBoxBackground">#8ca52e29</color>
+    <color name="pdfSelectionBoxBackground">@*android:color/ripple_material_dark</color>
     <color name="pdfTabBackButtonBackground">#ff8e1f1b</color>
     <color name="pdfTabBackground">@*android:color/accent_material_dark</color>
     <color name="pdfTabSeparator">#ffc76a68</color>
@@ -1022,7 +1022,7 @@
     <color name="powerpointColorAccentSeparatorColor">#ffe65100</color>
     <color name="powerpointColorPrimaryDark">#ffb85728</color>
     <color name="powerpointColorPrimaryDarker">#ffa24d23</color>
-    <color name="powerpointColorZoomPagesPopupBackground">#8ccf622d</color>
+    <color name="powerpointColorZoomPagesPopupBackground">@*android:color/ripple_material_dark</color>
     <color name="powerpointDialogButton">#ffda6801</color>
     <color name="powerpointGridHeaderColor">#ff478dfe</color>
     <color name="powerpointMainDocumentViewBackground">#ffeeeeee</color>
@@ -1164,7 +1164,7 @@
     <color name="wordColorAccentSeparatorColor">#ff0d6cb8</color>
     <color name="wordColorPrimaryDark">#ff005185</color>
     <color name="wordColorPrimaryDarker">#ff004775</color>
-    <color name="wordColorZoomPagesPopupBackground">#8c005c96</color>
+    <color name="wordColorZoomPagesPopupBackground">@*android:color/ripple_material_dark</color>
     <color name="wordContentDialogMainColor">#ff308eff</color>
     <color name="wordPopupHeaderTextColor">#ff2b4d78</color>
     <color name="wordProgressBarColor">#5c005c96</color>

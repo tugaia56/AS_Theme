@@ -74,7 +74,7 @@
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
-    <color name="gm_sys_color_dark_secondary_variant">#ff212b3c</color>
+    <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="google_default_color_on_surface_disabled">#603c4043</color>
     <color name="google_divider">#1f000000</color>
     <color name="google_scrim">#99000000</color>

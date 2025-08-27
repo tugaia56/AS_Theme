@@ -138,7 +138,7 @@
     <color name="gray_17">#fffdfdfd</color>
     <color name="gray_4">@*android:color/background_dark</color>
     <color name="gray_484848">#ff484848</color>
-    <color name="gray_5">#ff777777</color>
+    <color name="gray_5">@*android:color/button_material_dark</color>
     <color name="gray_6">#ff888888</color>
     <color name="gray_666666">#ffbdbdbd</color>
     <color name="gray_7">#ff999999</color>

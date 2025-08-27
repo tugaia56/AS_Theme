@@ -615,7 +615,7 @@
     <color name="novel_buttonCommonWhiteVipColor">#ffffffff</color>
     <color name="novel_buttonCommonWhiteVipColor_night">#ffffffff</color>
     <color name="novel_buttonFourthColor">#ffffffff</color>
-    <color name="novel_buttonFourthColor_night">#ff434343</color>
+    <color name="novel_buttonFourthColor_night">@*android:color/background_dark</color>
     <color name="novel_buttonFourthDisableColor">#33ffffff</color>
     <color name="novel_buttonFourthDisableColor_night">#33434343</color>
     <color name="novel_buttonFourthPressedColor">#66ffffff</color>
@@ -635,7 +635,7 @@
     <color name="novel_buttonSecondaryPressedColor">@*android:color/ripple_material_dark</color>
     <color name="novel_buttonSecondaryPressedColor_night">@*android:color/ripple_material_dark</color>
     <color name="novel_buttonThirdColor">#fff5f5f5</color>
-    <color name="novel_buttonThirdColor_night">#ff434343</color>
+    <color name="novel_buttonThirdColor_night">@*android:color/background_dark</color>
     <color name="novel_buttonThirdDisableColor">#33f5f5f5</color>
     <color name="novel_buttonThirdDisableColor_night">#33434343</color>
     <color name="novel_buttonThirdPressedColor">#66f5f5f5</color>
@@ -680,7 +680,7 @@
     <color name="novel_keyboardBackgroundColor">#ffd1d5db</color>
     <color name="novel_keyboardBackgroundColor_night">#ff313131</color>
     <color name="novel_keyboardButtonNormalColor">#fffcfcfe</color>
-    <color name="novel_keyboardButtonNormalColor_night">#ff434343</color>
+    <color name="novel_keyboardButtonNormalColor_night">@*android:color/background_dark</color>
     <color name="novel_keyboardButtonSelectedColor">#ffadb3bc</color>
     <color name="novel_keyboardButtonSelectedColor_night">@*android:color/background_dark</color>
     <color name="novel_largeIconSelectedBackgroundColor">#ffededed</color>
@@ -1277,7 +1277,7 @@
     <color name="retain_gray_button">#ff535252</color>
     <color name="rfab__color_background_pressed">#ffdddddd</color>
     <color name="rfab__color_shadow">#ffc6c6c6</color>
-    <color name="rfab__color_text_label_item">#ff777777</color>
+    <color name="rfab__color_text_label_item">@*android:color/button_material_dark</color>
     <color name="rippleColor">#1a000000</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>

@@ -825,7 +825,7 @@
     <color name="gph_captions_background_color_light">#aa000000</color>
     <color name="gph_channel_color_dark">#ffd8d8d8</color>
     <color name="gph_channel_color_light">#ff4e4e4e</color>
-    <color name="gph_dark_grey">#ff464646</color>
+    <color name="gph_dark_grey">@*android:color/button_material_light</color>
     <color name="gph_dark_red">#ff990e0e</color>
     <color name="gph_dialog_overlay_dark">#994e4e4e</color>
     <color name="gph_dialog_overlay_light">#99888888</color>

@@ -268,7 +268,7 @@
     <color name="mj_single_widget_bg">@*android:color/background_dark</color>
     <color name="mj_whi_env_card_text_selected">#ff0ac29f</color>
     <color name="mj_whi_env_card_text_selected_20">#1a0ac29f</color>
-    <color name="mj_whi_env_card_text_unable">#ff434343</color>
+    <color name="mj_whi_env_card_text_unable">@*android:color/background_dark</color>
     <color name="mj_widget_bg_color">#f22b323c</color>
     <color name="mj_widget_item_bg_color">#f21f2022</color>
     <color name="mjcamera_face_mark_edittext_bg">#26ffffff</color>

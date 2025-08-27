@@ -371,7 +371,7 @@
     <color name="pspdf__surfaceContainerLight">#fff1edec</color>
     <color name="pspdf__surfaceContainerLowDark">#ff1c1b1b</color>
     <color name="pspdf__surfaceContainerLowLight">#fff7f3f2</color>
-    <color name="pspdf__surfaceContainerLowestDark">#ff0e0e0e</color>
+    <color name="pspdf__surfaceContainerLowestDark">@*android:color/background_dark</color>
     <color name="pspdf__surfaceContainerLowestLight">#ffffffff</color>
     <color name="pspdf__surfaceDark">#ff141313</color>
     <color name="pspdf__surfaceDimDark">#ff141313</color>

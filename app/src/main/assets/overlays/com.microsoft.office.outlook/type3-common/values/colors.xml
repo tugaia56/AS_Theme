@@ -67,7 +67,7 @@
     <color name="black_with_opacity_70">#b3000000</color>
     <color name="black_with_opacity_80">#cc000000</color>
     <color name="black_with_opacity_90">#e6000000</color>
-    <color name="border_black">#ff343434</color>
+    <color name="border_black">@*android:color/background_dark</color>
     <color name="border_white">@*android:color/white</color>
     <color name="bottom_sheet_background_color">#ffffffff</color>
     <color name="bounds_arrow_color">#ffffffff</color>
@@ -442,7 +442,7 @@
     <color name="fluentui_gray_400">#ff919191</color>
     <color name="fluentui_gray_50">#fff1f1f1</color>
     <color name="fluentui_gray_500">#fff1f1f1</color>
-    <color name="fluentui_gray_56">#ff777777</color>
+    <color name="fluentui_gray_56">@*android:color/button_material_dark</color>
     <color name="fluentui_gray_600">@*android:color/background_dark</color>
     <color name="fluentui_gray_700">@*android:color/background_dark</color>
     <color name="fluentui_gray_800">@*android:color/button_material_dark</color>
@@ -464,7 +464,7 @@
     <color name="gray">#ffa5a5a5</color>
     <color name="gray_1">#ffd1d1d1</color>
     <color name="gray_divider">#ffe1e1e1</color>
-    <color name="gray_text">#ff777777</color>
+    <color name="gray_text">@*android:color/button_material_dark</color>
     <color name="gray_text_hint">#ff707070</color>
     <color name="gray_touch_feedback">#ff8e8c8c</color>
     <color name="grey10">#fffaf9f8</color>

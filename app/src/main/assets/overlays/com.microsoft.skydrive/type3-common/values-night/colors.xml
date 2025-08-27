@@ -262,7 +262,7 @@
     <color name="video_player_overlay_color">#80000000</color>
     <color name="view_samsung_motion_photo_button_color">@*android:color/button_material_dark</color>
     <color name="view_samsung_motion_photo_text_color">#ffffffff</color>
-    <color name="warning_color">#fff4511e</color>
+    <color name="warning_color">@*android:color/accent_material_dark</color>
     <color name="widget_background_color">@*android:color/button_material_dark</color>
     <color name="widget_icons_color">#ff0484f4</color>
     <color name="widget_text_color">#ff0484f4</color>

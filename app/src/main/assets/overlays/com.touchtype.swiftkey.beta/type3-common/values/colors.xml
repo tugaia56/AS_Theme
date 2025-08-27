@@ -201,8 +201,8 @@
     <color name="toggle_thumb_disabled_on">#ffabbaef</color>
     <color name="toggle_track_disabled_off">#ffd9d9d9</color>
     <color name="toggle_track_disabled_on">#ffd1d1d1</color>
-    <color name="toggle_track_enabled_off">#ff777777</color>
-    <color name="toggle_track_enabled_on">#ff777777</color>
+    <color name="toggle_track_enabled_off">@*android:color/button_material_dark</color>
+    <color name="toggle_track_enabled_on">@*android:color/button_material_dark</color>
     <color name="toolbar_panel_card_bg_dark">#ff393a41</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>

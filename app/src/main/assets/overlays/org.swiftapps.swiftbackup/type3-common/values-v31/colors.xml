@@ -197,7 +197,7 @@
     <color name="system_accent2_400">#bf360c</color>
     <color name="system_accent2_50">#d84315</color>
     <color name="system_accent2_500">@*android:color/accent_material_dark</color>
-    <color name="system_accent2_600">#f4511e</color>
+    <color name="system_accent2_600">@*android:color/accent_material_dark</color>
     <color name="system_accent2_700">#ff5722</color>
     <color name="system_accent2_800">#ff7043</color>
     <color name="system_accent2_900">#ff8a65</color>

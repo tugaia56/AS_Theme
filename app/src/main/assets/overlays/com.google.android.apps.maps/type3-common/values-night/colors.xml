@@ -87,12 +87,12 @@
     <color name="geo_sys_color_negative_container">#ff281d1c</color>
     <color name="geo_sys_color_negative_container_variant">#ff43211f</color>
     <color name="geo_sys_color_neutral_container">@*android:color/background_dark</color>
-    <color name="geo_sys_color_neutral_container_variant">#ff333537</color>
+    <color name="geo_sys_color_neutral_container_variant">@*android:color/background_dark</color>
     <color name="geo_sys_color_on_caution_container">#ffe3e3e3</color>
     <color name="geo_sys_color_on_disabled_surface">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_on_info">#ffffffff</color>
     <color name="geo_sys_color_on_info_container">#ffe3e3e3</color>
-    <color name="geo_sys_color_on_inverse_surface">#ff1f1f1f</color>
+    <color name="geo_sys_color_on_inverse_surface">@*android:color/background_dark</color>
     <color name="geo_sys_color_on_negative">#ff410e0b</color>
     <color name="geo_sys_color_on_negative_container">#ffe3e3e3</color>
     <color name="geo_sys_color_on_neutral_container">#ffe3e3e3</color>
@@ -168,9 +168,9 @@
     <color name="settingslib_materialColorPrimary">#ff83d6c7</color>
     <color name="settingslib_materialColorPrimaryContainer">#ff005047</color>
     <color name="settingslib_materialColorSecondaryContainer">#ff334c47</color>
-    <color name="settingslib_materialColorSurfaceContainer">#ff1f1f1f</color>
-    <color name="settingslib_materialColorSurfaceContainerHigh">#ff2a2a2a</color>
-    <color name="settingslib_materialColorSurfaceContainerHighest">#ff343434</color>
+    <color name="settingslib_materialColorSurfaceContainer">@*android:color/background_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">@*android:color/background_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceVariant">#ff474747</color>
     <color name="shadow_background_end">#00000000</color>
     <color name="shadow_background_start">#99000000</color>

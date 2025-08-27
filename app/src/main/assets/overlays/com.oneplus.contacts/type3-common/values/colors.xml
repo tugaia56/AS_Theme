@@ -6,7 +6,7 @@
     <color name="abc_search_url_text_selected">@*android:color/background_dark</color>
     <color name="action_bar_background">@*android:color/accent_material_dark</color>
     <color name="action_bar_button_text_color">#ffffffff</color>
-    <color name="actionbar_color_grey_solid">#ff777777</color>
+    <color name="actionbar_color_grey_solid">@*android:color/button_material_dark</color>
     <color name="actionbar_icon_color">#ffffffff</color>
     <color name="actionbar_icon_color_grey">#8c000000</color>
     <color name="actionbar_text_color">#ffffffff</color>

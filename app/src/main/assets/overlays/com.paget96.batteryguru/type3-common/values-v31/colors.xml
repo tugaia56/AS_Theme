@@ -48,7 +48,7 @@
     <color name="m3_ref_palette_dynamic_secondary50">#ff9e80</color>
     <color name="m3_ref_palette_dynamic_secondary60">#bf360c</color>
     <color name="m3_ref_palette_dynamic_secondary70">#d84315</color>
-    <color name="m3_ref_palette_dynamic_secondary80">#f4511e</color>
+    <color name="m3_ref_palette_dynamic_secondary80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_secondary90">#ff6d00</color>
     <color name="m3_ref_palette_dynamic_secondary95">#ff9100</color>
     <color name="m3_ref_palette_dynamic_secondary99">#ffab40</color>

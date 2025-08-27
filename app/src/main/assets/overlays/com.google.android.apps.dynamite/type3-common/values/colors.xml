@@ -18,7 +18,7 @@
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="attachment_color_audio">#ff7d3992</color>
-    <color name="attachment_color_default">#ff777777</color>
+    <color name="attachment_color_default">@*android:color/button_material_dark</color>
     <color name="attachment_color_drive_doc">#ff4986e7</color>
     <color name="attachment_color_drive_drawing">#ffdb4437</color>
     <color name="attachment_color_drive_sheet">#ff16a764</color>
@@ -163,7 +163,7 @@
     <color name="gm3_ref_palette_yellow90">#ffffe07c</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_container_high">#ff282a2c</color>
+    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/background_dark</color>
@@ -370,12 +370,12 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="service_restricted_block_button_text_color">#ff6d3a01</color>
     <color name="service_restricted_compose_blocker_background">#fffff2b4</color>
-    <color name="service_restricted_text_color">#ff1f1f1f</color>
+    <color name="service_restricted_text_color">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOnPrimary">#ffffffff</color>
     <color name="settingslib_materialColorOnPrimaryContainer">#ff00201c</color>
-    <color name="settingslib_materialColorOnSurface">#ff1b1b1b</color>
+    <color name="settingslib_materialColorOnSurface">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOnSurfaceVariant">#ff474747</color>
-    <color name="settingslib_materialColorOutline">#ff777777</color>
+    <color name="settingslib_materialColorOutline">@*android:color/button_material_dark</color>
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorPrimaryContainer">#ffc5eae2</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>

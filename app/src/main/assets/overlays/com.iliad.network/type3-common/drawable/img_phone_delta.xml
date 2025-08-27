@@ -206,7 +206,7 @@
             152.523l0
             -1.528L180
             150.995z" android:fillType="evenOdd" />
-        <path android:fillColor="#ff343434" android:pathData="M183.474
+        <path android:fillColor="@*android:color/background_dark" android:pathData="M183.474
             158.81L184.474
             158.81L184.474
             151.863L183.474

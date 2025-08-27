@@ -92,7 +92,7 @@
     <color name="gray_300">#ffb7b7b7</color>
     <color name="gray_400">#ff939393</color>
     <color name="gray_50">#fff1f1f1</color>
-    <color name="gray_500">#ff777777</color>
+    <color name="gray_500">@*android:color/button_material_dark</color>
     <color name="gray_550">#ff616161</color>
     <color name="gray_600">@*android:color/background_dark</color>
     <color name="gray_700">@*android:color/background_dark</color>

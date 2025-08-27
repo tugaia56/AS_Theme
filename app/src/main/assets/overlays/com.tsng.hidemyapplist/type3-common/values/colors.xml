@@ -52,7 +52,7 @@
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
     <color name="design_default_color_secondary_variant">#ff018786</color>
     <color name="design_default_color_surface">#ffffffff</color>
-    <color name="design_snackbar_background_color">#ff323232</color>
+    <color name="design_snackbar_background_color">@*android:color/background_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="foreground_material_dark">@*android:color/white</color>
@@ -69,7 +69,7 @@
     <color name="m3_ref_palette_error40">#ffb3261e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>
@@ -317,8 +317,8 @@
     <color name="md_theme_material_blue_dark_tertiary">#ffd6bee4</color>
     <color name="md_theme_material_blue_dark_tertiaryContainer">#ff523f5f</color>
     <color name="md_theme_material_blue_grey_dark_container">#ff1d2022</color>
-    <color name="md_theme_material_blue_grey_dark_containerHigh">#ff282a2c</color>
-    <color name="md_theme_material_blue_grey_dark_containerHighest">#ff333537</color>
+    <color name="md_theme_material_blue_grey_dark_containerHigh">@*android:color/button_material_dark</color>
+    <color name="md_theme_material_blue_grey_dark_containerHighest">@*android:color/background_dark</color>
     <color name="md_theme_material_blue_grey_dark_containerLow">#ff191c1e</color>
     <color name="md_theme_material_blue_grey_dark_containerLowest">#ff0c0f10</color>
     <color name="md_theme_material_blue_grey_dark_error">#ffffb4ab</color>
@@ -1533,7 +1533,7 @@
     <color name="md_theme_material_indigo_tertiaryFixedDim">#ffe6bad7</color>
     <color name="md_theme_material_light_blue_dark_container">#ff1e2022</color>
     <color name="md_theme_material_light_blue_dark_containerHigh">#ff282a2d</color>
-    <color name="md_theme_material_light_blue_dark_containerHighest">#ff333537</color>
+    <color name="md_theme_material_light_blue_dark_containerHighest">@*android:color/background_dark</color>
     <color name="md_theme_material_light_blue_dark_containerLow">#ff1a1c1e</color>
     <color name="md_theme_material_light_blue_dark_containerLowest">#ff0c0e11</color>
     <color name="md_theme_material_light_blue_dark_error">#ffffb4ab</color>

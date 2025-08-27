@@ -134,7 +134,7 @@
     <color name="core_grey_35">#ff9e9e9e</color>
     <color name="core_grey_40">#ff919191</color>
     <color name="core_grey_45">#ff848484</color>
-    <color name="core_grey_50">#ff777777</color>
+    <color name="core_grey_50">@*android:color/button_material_dark</color>
     <color name="core_grey_55">#ff6a6a6a</color>
     <color name="core_grey_60">#ff5e5e5e</color>
     <color name="core_grey_65">#ff525252</color>

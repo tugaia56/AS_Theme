@@ -161,7 +161,7 @@
     <color name="gm3_ref_palette_white">#ffffffff</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
     <color name="gm3_sys_color_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dark_surface_container_high">#ff282a2c</color>
+    <color name="gm3_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/background_dark</color>
@@ -254,7 +254,7 @@
     <color name="gm_ref_palette_yellow50">#fffef7e0</color>
     <color name="gm_ref_palette_yellow500">#fffbbc04</color>
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
-    <color name="gm_sys_color_dark_secondary_variant">#ff212b3c</color>
+    <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
     <color name="google_dark_red300">#ffed968d</color>
     <color name="google_dark_red800">#ffb41b1a</color>
@@ -278,7 +278,7 @@
     <color name="m3_ref_palette_error40">#ffb3261e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
-    <color name="m3_ref_palette_neutral10">#ff1d1b20</color>
+    <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_neutral100">#ffffffff</color>
     <color name="m3_ref_palette_neutral12">#ff211f26</color>
     <color name="m3_ref_palette_neutral17">#ff2b2930</color>
@@ -382,7 +382,7 @@
     <color name="mtrl_textinput_disabled_color">#1f000000</color>
     <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
-    <color name="og_elevation_dark_5">#ff3b3d3f</color>
+    <color name="og_elevation_dark_5">@*android:color/background_dark</color>
     <color name="og_express_sign_in_scrim_bg_color">#99202124</color>
     <color name="play_apps_secondary">#ff0b8043</color>
     <color name="play_avatar_pressed_fill">#80ffffff</color>

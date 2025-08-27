@@ -364,7 +364,7 @@
     <color name="grey_hex_27">#ff272727</color>
     <color name="grey_hex_28">@*android:color/button_material_dark</color>
     <color name="grey_hex_29">#ff292929</color>
-    <color name="grey_hex_2a">#ff2a2a2a</color>
+    <color name="grey_hex_2a">@*android:color/background_dark</color>
     <color name="grey_hex_2b">#ff2b2b2b</color>
     <color name="grey_hex_2c">#ff2c2c2c</color>
     <color name="grey_hex_2d">#ff2d2d2d</color>
@@ -374,7 +374,7 @@
     <color name="grey_hex_31">#ff313131</color>
     <color name="grey_hex_32">@*android:color/background_dark</color>
     <color name="grey_hex_33">@*android:color/button_material_dark</color>
-    <color name="grey_hex_34">#ff343434</color>
+    <color name="grey_hex_34">@*android:color/background_dark</color>
     <color name="grey_hex_35">#ff353535</color>
     <color name="grey_hex_36">#ff363636</color>
     <color name="grey_hex_37">@*android:color/button_material_dark</color>
@@ -389,7 +389,7 @@
     <color name="grey_hex_40">@*android:color/background_dark</color>
     <color name="grey_hex_41">#ff414141</color>
     <color name="grey_hex_42">@*android:color/background_dark</color>
-    <color name="grey_hex_43">#ff434343</color>
+    <color name="grey_hex_43">@*android:color/background_dark</color>
     <color name="grey_hex_44">@*android:color/accent_material_dark</color>
     <color name="grey_hex_45">#ff454545</color>
     <color name="grey_hex_46">@*android:color/background_dark</color>
@@ -441,7 +441,7 @@
     <color name="grey_hex_74">#ff747474</color>
     <color name="grey_hex_75">@*android:color/button_material_dark</color>
     <color name="grey_hex_76">#ff767676</color>
-    <color name="grey_hex_77">#ff777777</color>
+    <color name="grey_hex_77">@*android:color/button_material_dark</color>
     <color name="grey_hex_78">#ff787878</color>
     <color name="grey_hex_79">#ff797979</color>
     <color name="grey_hex_7a">#ff7a7a7a</color>
@@ -803,7 +803,7 @@
     <color name="redPro">#ffe71d36</color>
     <color name="red_dark">#ffc7372d</color>
     <color name="ripple">#ff999999</color>
-    <color name="ripple_2">#ff777777</color>
+    <color name="ripple_2">@*android:color/button_material_dark</color>
     <color name="ripple_gray">#ffd6d6d6</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>

@@ -250,7 +250,7 @@
     <color name="illustration_grey15">#ff515151</color>
     <color name="illustration_grey16">#ffd8d8d8</color>
     <color name="illustration_grey17">#ff1d1d1b</color>
-    <color name="illustration_grey2">#ff777777</color>
+    <color name="illustration_grey2">@*android:color/button_material_dark</color>
     <color name="illustration_grey3">#ff717373</color>
     <color name="illustration_grey4">#ffa8a7a7</color>
     <color name="illustration_grey5">#ffdadad9</color>

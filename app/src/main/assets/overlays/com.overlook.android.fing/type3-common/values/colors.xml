@@ -174,7 +174,7 @@
     <color name="pickerview_timebtn_nor">#ff057dff</color>
     <color name="pickerview_timebtn_pre">#ffc2daf5</color>
     <color name="pickerview_topbar_title">@*android:color/background_dark</color>
-    <color name="pickerview_wheelview_textcolor_center">#ff2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_center">@*android:color/background_dark</color>
     <color name="pickerview_wheelview_textcolor_divider">#ffd5d5d5</color>
     <color name="pickerview_wheelview_textcolor_out">#ffa8a8a8</color>
     <color name="pink100">#fff50057</color>

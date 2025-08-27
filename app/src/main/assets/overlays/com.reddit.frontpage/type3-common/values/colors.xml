@@ -56,7 +56,7 @@
     <color name="anonymousbrowsing_tone1">@*android:color/white</color>
     <color name="anonymousbrowsing_tone2">#ffffffff</color>
     <color name="anonymousbrowsing_tone3">#ff989ca0</color>
-    <color name="anonymousbrowsing_tone4">#ff2a2a2a</color>
+    <color name="anonymousbrowsing_tone4">@*android:color/background_dark</color>
     <color name="anonymousbrowsing_tone5">@*android:color/button_material_dark</color>
     <color name="anonymousbrowsing_tone6">@*android:color/background_dark</color>
     <color name="anonymousbrowsing_tone7">@*android:color/background_dark</color>
@@ -247,7 +247,7 @@
     <color name="ds_primitive_orca_100">#ff515252</color>
     <color name="ds_primitive_orca_200">#ff464748</color>
     <color name="ds_primitive_orca_300">#ff3a3a3a</color>
-    <color name="ds_primitive_orca_400">#ff2a2a2a</color>
+    <color name="ds_primitive_orca_400">@*android:color/background_dark</color>
     <color name="ds_primitive_orca_50">#ff5a5c5e</color>
     <color name="ds_primitive_orca_500">@*android:color/button_material_dark</color>
     <color name="ds_primitive_orca_600">@*android:color/background_dark</color>
@@ -538,7 +538,7 @@
     <color name="night_tone1">@*android:color/white</color>
     <color name="night_tone2">#ffffffff</color>
     <color name="night_tone3">#ff989ca0</color>
-    <color name="night_tone4">#ff2a2a2a</color>
+    <color name="night_tone4">@*android:color/background_dark</color>
     <color name="night_tone5">@*android:color/button_material_dark</color>
     <color name="night_tone6">@*android:color/background_dark</color>
     <color name="night_tone7">@*android:color/background_dark</color>

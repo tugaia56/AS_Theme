@@ -156,7 +156,7 @@
     <color name="ghs_sys_color_dark_surface_container_high">@*android:color/button_material_dark</color>
     <color name="ghs_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="ghs_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
-    <color name="ghs_sys_color_dark_surface_container_lowest">#ff0e0e0e</color>
+    <color name="ghs_sys_color_dark_surface_container_lowest">@*android:color/background_dark</color>
     <color name="ghs_sys_color_dark_surface_dim">@*android:color/background_dark</color>
     <color name="ghs_sys_color_dark_upload_container">#ff4b4358</color>
     <color name="ghs_sys_color_dark_upload_container_variant">#ff323033</color>
@@ -175,7 +175,7 @@
     <color name="ghs_sys_color_on_image_disabled_container">#12ffffff</color>
     <color name="ghs_sys_color_on_image_disabled_content">#38ffffff</color>
     <color name="gia_blue">#ffc1e6ff</color>
-    <color name="gia_border">#ff1f1f1f</color>
+    <color name="gia_border">@*android:color/background_dark</color>
     <color name="gia_brown">#ffa03e22</color>
     <color name="gia_gray">@*android:color/background_dark</color>
     <color name="gia_green">#ff77d996</color>
@@ -335,8 +335,8 @@
     <color name="gm_ref_palette_yellow800">#ffea8600</color>
     <color name="gm_ref_palette_yellow900">#ffe37400</color>
     <color name="gm_sys_color_dark_secondary">#ff394557</color>
-    <color name="gm_sys_color_dark_secondary_variant">#ff212b3c</color>
-    <color name="gmp_ref_palette_neutral10">#ff1f1f1f</color>
+    <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
+    <color name="gmp_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="gmp_ref_palette_neutral20">@*android:color/background_dark</color>
     <color name="gmp_ref_palette_neutral30">#ff474747</color>
     <color name="gmp_ref_palette_neutral40">#ff5e5e5e</color>
@@ -539,9 +539,9 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="settingslib_materialColorOnPrimary">#ffffffff</color>
     <color name="settingslib_materialColorOnPrimaryContainer">#ff00201c</color>
-    <color name="settingslib_materialColorOnSurface">#ff1b1b1b</color>
+    <color name="settingslib_materialColorOnSurface">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOnSurfaceVariant">#ff474747</color>
-    <color name="settingslib_materialColorOutline">#ff777777</color>
+    <color name="settingslib_materialColorOutline">@*android:color/button_material_dark</color>
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorPrimaryContainer">#ffc5eae2</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>
