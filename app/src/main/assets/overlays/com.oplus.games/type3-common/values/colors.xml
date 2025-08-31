@@ -238,7 +238,7 @@
     <color name="chip_text_unselect_color">#8cffffff</color>
     <color name="chip_unchecked_background_color">#0a000000</color>
     <color name="chip_unselect_color">#33ffffff</color>
-    <color name="colorAccent">#ffff1010</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorPrimary">#ff3f51b5</color>
     <color name="colorPrimaryDark">#ff303f9f</color>
     <color name="color_30_000000">#4d000000</color>
@@ -1069,7 +1069,7 @@
     <color name="coui_color_orange_variant_light">#ffe58f45</color>
     <color name="coui_color_press">#1f000000</color>
     <color name="coui_color_press_background">#14000000</color>
-    <color name="coui_color_press_background_dark">#26ffffff</color>
+    <color name="coui_color_press_background_dark">@*android:color/button_material_dark</color>
     <color name="coui_color_press_background_light">#14000000</color>
     <color name="coui_color_press_dark">#33ffffff</color>
     <color name="coui_color_press_light">#1f000000</color>
@@ -1586,7 +1586,7 @@
     <color name="ef_colorTextPrimary">#ffffffff</color>
     <color name="ef_grey">#ff9e9e9e</color>
     <color name="ef_mask_unselectable">#8c000000</color>
-    <color name="ef_teal">#ff009688</color>
+    <color name="ef_teal">@*android:color/accent_material_dark</color>
     <color name="ef_white">#ffffffff</color>
     <color name="emoji_black">@*android:color/background_dark</color>
     <color name="emoji_gray20">#ffcccccc</color>
@@ -1634,7 +1634,7 @@
     <color name="exp_transparent">#00ffffff</color>
     <color name="exp_white">#ffffffff</color>
     <color name="exp_white_alpha_10">#1affffff</color>
-    <color name="exp_white_alpha_15">#26ffffff</color>
+    <color name="exp_white_alpha_15">@*android:color/button_material_dark</color>
     <color name="exp_white_alpha_20">#2dffffff</color>
     <color name="exp_white_alpha_30">#4dffffff</color>
     <color name="exp_white_alpha_40">#66ffffff</color>
@@ -1697,7 +1697,7 @@
     <color name="gameslobby_img_error_bg_color">#0a000000</color>
     <color name="gameslobby_img_error_stroke_color">#1f000000</color>
     <color name="gameslobby_label_text_color">#66ffffff</color>
-    <color name="gameslobby_list_item_btn_bg_color_v3">#2600bd13</color>
+    <color name="gameslobby_list_item_btn_bg_color_v3">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="gameslobby_list_item_play_txt_v3">#ff00990f</color>
     <color name="gameslobby_list_item_title_txt">#e6ffffff</color>
     <color name="gameslobby_listitem_ic_color">#ffffffff</color>
@@ -1713,7 +1713,7 @@
     <color name="gameslobby_more_card_back_color">#d9ffffff</color>
     <color name="gameslobby_more_card_title_line_color">#33ffffff</color>
     <color name="gameslobby_random_play_btn_bg_edge_color">@*android:color/accent_material_dark</color>
-    <color name="gameslobby_random_play_btn_bg_middle_color">#ff26c936</color>
+    <color name="gameslobby_random_play_btn_bg_middle_color">@*android:color/accent_material_dark</color>
     <color name="gameslobby_rectangle_line_color">#1f000000</color>
     <color name="gameslobby_scroll_top_divider_color">#29000000</color>
     <color name="gameslobby_title_color">#d9ffffff</color>
@@ -1743,7 +1743,7 @@
     <color name="gc_toolbar_title_text_color">#e6000000</color>
     <color name="gc_uikit_listview_divider_color">#20000000</color>
     <color name="gc_window_background_color">#ffffffff</color>
-    <color name="global_background_color">@*android:color/background_dark</color>
+    <color name="global_background_color">@*android:color/ripple_material_dark</color>
     <color name="global_btn_text_color">#d9000000</color>
     <color name="global_dialog_background_color">@*android:color/background_dark</color>
     <color name="global_dialog_dim_color">#aa000000</color>

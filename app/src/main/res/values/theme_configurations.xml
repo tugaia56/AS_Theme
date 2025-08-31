@@ -20,15 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 5.7.0</item>
+        <item>Versione 5.8.0</item>
         <item>ADDED:</item>
         <item>- - -</item>
         <item>UPDATED:</item>
-        <item>Safe v26.1.7</item>
-        <item>Oneplus Photo to v15.72.20</item>
-        <item>Google Photo v7.42.0</item>
-        <item>Google Dialer v188.0</item>
-        <item>Google Gmail v2025.08.11</item>
+        <item>Microsoft MSN v32.3.430811006</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

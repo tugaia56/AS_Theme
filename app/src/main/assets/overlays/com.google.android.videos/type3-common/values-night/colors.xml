@@ -27,5 +27,4 @@
     <color name="glance_colorTertiary">#ffefb8c8</color>
     <color name="glance_colorTertiaryContainer">#ff633b48</color>
     <color name="glance_colorWidgetBackground">@*android:color/background_dark</color>
-    <color name="people_chip_selected_state_background_color">#1eeeeaed</color>
 </resources>

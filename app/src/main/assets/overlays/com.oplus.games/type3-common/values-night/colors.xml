@@ -471,7 +471,7 @@
     <color name="country_color_black_90">#e6ffffff</color>
     <color name="country_color_panel_bg">@*android:color/background_dark</color>
     <color name="country_color_search_bg">#26ffffff</color>
-    <color name="country_green">#ff00ff00</color>
+    <color name="country_green">@*android:color/accent_material_dark</color>
     <color name="country_line_bottom">#ff5a5c5d</color>
     <color name="country_red">#ffff0000</color>
     <color name="country_white">@*android:color/background_dark</color>
@@ -489,7 +489,7 @@
     <color name="gameslobby_flash_icon_mask">@*android:color/accent_material_dark</color>
     <color name="gameslobby_img_error_bg_color">#14ffffff</color>
     <color name="gameslobby_img_error_stroke_color">#33ffffff</color>
-    <color name="gameslobby_list_item_btn_bg_color_v3">@*android:color/keyguard_avatar_frame_pressed_color</color>
+    <color name="gameslobby_list_item_btn_bg_color_v3">@*android:color/background_dark</color>
     <color name="gameslobby_list_item_play_txt_v3">@*android:color/accent_material_dark</color>
     <color name="gameslobby_loading_bg_color">#cc1e1e1e</color>
     <color name="gameslobby_loading_state_bg">@*android:color/background_dark</color>

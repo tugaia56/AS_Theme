@@ -20,16 +20,10 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Inserisci qui il changelog del tuo tema, ogni elemento sarà un nuovo punto elenco nel foglio -->
     <string-array name="ThemeChangelog">
-        <item>Versione 5.7.0</item>
-        <item>AGGIUNTO:</item>
+        <item>Versione 5.8.0</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
-
-        <item>Safe v26.1.7</item>
-        <item>Oneplus Foto v15.72.20</item>
-        <item>Google Foto v7.42.0</item>
-        <item>Google Telefono v188.0</item>
-        <item>Google Gmail v2025.08.11</item>
+        <item>Microsoft MSN v32.3.430811006</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
