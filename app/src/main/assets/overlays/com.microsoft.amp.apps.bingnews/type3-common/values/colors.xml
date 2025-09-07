@@ -26,11 +26,11 @@
     <color name="baseline_neutral_200">#ffc7c7c7</color>
     <color name="baseline_neutral_300">#ffababab</color>
     <color name="baseline_neutral_300_alpha_38">#61ababab</color>
-    <color name="baseline_neutral_400">#ff8f8f8f</color>
+    <color name="baseline_neutral_400">@*android:color/darker_gray</color>
     <color name="baseline_neutral_50">#fff2f2f2</color>
     <color name="baseline_neutral_500">@*android:color/button_material_dark</color>
     <color name="baseline_neutral_600">#ff5e5e5e</color>
-    <color name="baseline_neutral_700">#ff474747</color>
+    <color name="baseline_neutral_700">@*android:color/background_dark</color>
     <color name="baseline_neutral_800">@*android:color/background_dark</color>
     <color name="baseline_neutral_800_alpha_38">#61303030</color>
     <color name="baseline_neutral_90">#ffe3e3e3</color>
@@ -38,7 +38,7 @@
     <color name="baseline_neutral_900_alpha_10">#191f1f1f</color>
     <color name="baseline_neutral_900_alpha_12">#1e1f1f1f</color>
     <color name="baseline_neutral_900_alpha_38">#611f1f1f</color>
-    <color name="baseline_neutral_900_with_neutral_1000_alpha_30">#ff161616</color>
+    <color name="baseline_neutral_900_with_neutral_1000_alpha_30">@*android:color/background_dark</color>
     <color name="baseline_neutral_900_with_neutral_1000_alpha_30_with_neutral_variant_400_alpha_15">@*android:color/button_material_dark</color>
     <color name="baseline_neutral_900_with_neutral_100_alpha_38">#ff696969</color>
     <color name="baseline_neutral_900_with_neutral_200_alpha_11_with_primary_200_alpha_2">#ff333435</color>
@@ -176,7 +176,7 @@
     <color name="devices_card_gradient">#ffa741a7</color>
     <color name="dialogButtonText">@*android:color/accent_material_dark</color>
     <color name="dialogErrorText">#ffd92c2c</color>
-    <color name="dialogMessageText">#ff919191</color>
+    <color name="dialogMessageText">@*android:color/darker_gray</color>
     <color name="dialogMessageTextSecondChoice">@*android:color/background_dark</color>
     <color name="dialogPinEditText">@*android:color/accent_material_dark</color>
     <color name="dialogProgress">#ff616161</color>
@@ -193,7 +193,7 @@
     <color name="edge_005A9E">#ff005a9e</color>
     <color name="edge_006EC2">#ff006ec2</color>
     <color name="edge_0078D4">@*android:color/accent_material_dark</color>
-    <color name="edge_0086F0">#ff0086f0</color>
+    <color name="edge_0086F0">@*android:color/accent_material_dark</color>
     <color name="edge_043862">#ff043862</color>
     <color name="edge_060236">#ff060236</color>
     <color name="edge_090909">#ff090909</color>
@@ -203,7 +203,7 @@
     <color name="edge_1890F1">#ff1890f1</color>
     <color name="edge_1E3744">#ff1e3744</color>
     <color name="edge_1F0078D4">#1f0078d4</color>
-    <color name="edge_2899F5">#ff2899f5</color>
+    <color name="edge_2899F5">@*android:color/accent_material_dark</color>
     <color name="edge_29549A">#ff29549a</color>
     <color name="edge_2B88D8">#ff2b88d8</color>
     <color name="edge_343D46">#ff343d46</color>
@@ -244,7 +244,7 @@
     <color name="edge_grey200">#ffc8c8c8</color>
     <color name="edge_grey25">#fff8f8f8</color>
     <color name="edge_grey300">#ffacacac</color>
-    <color name="edge_grey400">#ff919191</color>
+    <color name="edge_grey400">@*android:color/darker_gray</color>
     <color name="edge_grey50">#fff1f1f1</color>
     <color name="edge_grey500">#ff6e6e6e</color>
     <color name="edge_grey500_alpha_80">#cc6e6e6e</color>
@@ -302,7 +302,7 @@
     <color name="fluentui_gray_200">#ffc8c8c8</color>
     <color name="fluentui_gray_25">#fff8f8f8</color>
     <color name="fluentui_gray_300">#ffacacac</color>
-    <color name="fluentui_gray_400">#ff919191</color>
+    <color name="fluentui_gray_400">@*android:color/darker_gray</color>
     <color name="fluentui_gray_50">#fff1f1f1</color>
     <color name="fluentui_gray_500">#ff6e6e6e</color>
     <color name="fluentui_gray_56">@*android:color/button_material_dark</color>
@@ -526,7 +526,7 @@
     <color name="ms_pdf_annotation_calendar_body">#ffffffff</color>
     <color name="ms_pdf_annotation_erase_indicator_color">@*android:color/button_material_dark</color>
     <color name="ms_pdf_bottom_sheet_dialog_background">#ffffffff</color>
-    <color name="ms_pdf_bottom_sheet_dialog_handle">#ff919191</color>
+    <color name="ms_pdf_bottom_sheet_dialog_handle">@*android:color/darker_gray</color>
     <color name="ms_pdf_bottom_sheet_dialog_title">#ff6e6e6e</color>
     <color name="ms_pdf_dialog_background">#fff4f4f4</color>
     <color name="ms_pdf_dialog_text_color_accent">@*android:color/accent_material_dark</color>
@@ -710,7 +710,7 @@
     <color name="pw_discount_banner_background">#ffffd335</color>
     <color name="pw_error_description_text">#ff6e6e6e</color>
     <color name="pw_error_title_text">@*android:color/background_dark</color>
-    <color name="pw_progress_spinner">#ff919191</color>
+    <color name="pw_progress_spinner">@*android:color/darker_gray</color>
     <color name="pw_progress_text">#ff6e6e6e</color>
     <color name="pw_purchase_button_loading_color">#ffacacac</color>
     <color name="pw_v2_description_text_color">@*android:color/background_dark</color>
@@ -725,7 +725,7 @@
     <color name="pw_window_background">#ffffffff</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
-    <color name="saf_bottom_sheet_handle_color">#ff919191</color>
+    <color name="saf_bottom_sheet_handle_color">@*android:color/darker_gray</color>
     <color name="sapphire_account_background">#10ffffff</color>
     <color name="sapphire_account_button">#ff2649db</color>
     <color name="sapphire_account_email_text">#ff4d556c</color>
@@ -941,7 +941,7 @@
     <color name="unified_camera_popup_desc">#ff484644</color>
     <color name="unified_camera_popup_title">#ff292827</color>
     <color name="unified_camera_request_storage_permission_background">#ffffffff</color>
-    <color name="unified_camera_result_panel_handle_bar_color">#ff919191</color>
+    <color name="unified_camera_result_panel_handle_bar_color">@*android:color/darker_gray</color>
     <color name="unified_camera_selected_tab_background">#ff0c4df2</color>
     <color name="unified_camera_solve_history_bg">#fff3f4f7</color>
     <color name="unified_camera_solve_history_blur_bg1">#fff3f4f7</color>

@@ -16,7 +16,7 @@
     <color name="geo_sys_color_aqua_info">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_info_container">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_info_container_variant">@*android:color/accent_material_dark</color>
-    <color name="geo_sys_color_aqua_inverse_primary">#ff006876</color>
+    <color name="geo_sys_color_aqua_inverse_primary">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_inverse_surface">#ffe3e3e3</color>
     <color name="geo_sys_color_aqua_local_guides_variant">#fff16b2d</color>
     <color name="geo_sys_color_aqua_negative">@*android:color/accent_material_dark</color>
@@ -35,7 +35,7 @@
     <color name="geo_sys_color_aqua_on_neutral_container_variant">#ffffffff</color>
     <color name="geo_sys_color_aqua_on_positive">#ff072711</color>
     <color name="geo_sys_color_aqua_on_positive_container">#ffe3e3e3</color>
-    <color name="geo_sys_color_aqua_on_primary_container">#ff00ff</color>			<!-- ff002025 -->
+    <color name="geo_sys_color_aqua_on_primary_container">@*android:color/background_dark</color>			<!-- ff002025 -->
     <color name="geo_sys_color_aqua_on_secondary_container">#ffffffff</color>
     <color name="geo_sys_color_aqua_on_selected_container">#ffd2f7ff</color>
     <color name="geo_sys_color_aqua_on_surface">#ffe3e3e3</color>
@@ -71,7 +71,7 @@
     <color name="geo_sys_color_aqua_surface_container_low">#ff161d1e</color>
     <color name="geo_sys_color_aqua_surface_container_lowest">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_surface_dim">#ff424849</color>
-    <color name="geo_sys_color_aqua_tonal_surface">#ff00ff</color>
+    <color name="geo_sys_color_aqua_tonal_surface">@*android:color/background_dark</color>
     <color name="geo_sys_color_caution">#ffffbb29</color>
 	<color name="geo_sys_color_caution_container">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_caution_container_variant">#ff3b2c18</color>
@@ -156,7 +156,6 @@
     <color name="pure_veg_icon_daynight_color">#ff6dd58c</color>
     <color name="reaction_bar_background">#f21f1f1f</color>
     <color name="reaction_bar_selected_background">#1fe3e3e3</color>
-    <color name="rich_ongoing_notitification_background">#ff122225</color>
     <color name="rich_ongoing_notitification_progress_completed">#ff727272</color>
     <color name="rich_ongoing_notitification_progress_remaining">#ff00b0ff</color>
     <color name="selected_day_in_month">@*android:color/accent_material_dark</color>

@@ -21,9 +21,11 @@
     <!-- Inserisci qui il changelog del tuo tema, ogni elemento sarà un nuovo punto elenco nel foglio -->
     <string-array name="ThemeChangelog">
         <item>Versione 5.8.0</item>
+        <item>AGGIUNTO:</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
         <item>Microsoft MSN v32.3.430811006</item>
+        <item>Google Calendar v2025.34.0</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

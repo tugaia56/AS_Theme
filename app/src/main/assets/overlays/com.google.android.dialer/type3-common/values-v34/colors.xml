@@ -121,7 +121,7 @@
     <color name="gm3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_primary_container">#ff0000</color>
+    <color name="gm3_sys_color_dynamic_dark_primary_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>

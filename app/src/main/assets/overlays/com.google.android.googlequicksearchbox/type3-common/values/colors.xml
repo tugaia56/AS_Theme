@@ -960,7 +960,7 @@
     <color name="legacy_sds_sys_color_on_surface_icon_primary_light">@*android:color/background_dark</color>
     <color name="legacy_sds_sys_color_on_surface_icon_primary_schoolbus_vibrant_light">#ff5f4100</color>
     <color name="legacy_sds_sys_color_on_surface_inverted_dark">#ff1f1f1f</color>
-    <color name="legacy_sds_sys_color_outline_default_dark">#ff444746</color>
+    <color name="legacy_sds_sys_color_outline_default_dark">@*android:color/accent_material_dark</color>
     <color name="legacy_sds_sys_color_outline_default_fallback_brand_dark">#ff424654</color>
     <color name="legacy_sds_sys_color_outline_default_fallback_brand_light">#ffa3c9ff</color>
     <color name="legacy_sds_sys_color_outline_default_light">#ffd2d2d2</color>
@@ -1030,9 +1030,9 @@
     <color name="libraries_material_featurehighlight_text_dismiss_action_color">#ffffffff</color>
     <color name="libraries_material_featurehighlight_text_header_color">#ffffffff</color>
     <color name="light_navigation_bar_color">#ffffffff</color>
-    <color name="lightbox_header_platform_logo_tint_color">#00ffff</color>
+    <color name="lightbox_header_platform_logo_tint_color">@*android:color/accent_material_dark</color>
     <color name="lightbox_header_title_text_color">@*android:color/accent_material_dark</color>
-    <color name="lightbox_platform_cta_button_border_color">#ff444746</color>
+    <color name="lightbox_platform_cta_button_border_color">@*android:color/accent_material_dark</color>
     <color name="lightbox_video_text_color_for_dark_surface">#ffa6a6a6</color>
     <color name="line_background">#ffcccccc</color>
     <color name="link_text_color">@*android:color/accent_material_dark</color>

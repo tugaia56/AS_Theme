@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
-    <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
@@ -9,11 +7,15 @@
     <color name="ad_badge_background_purple">#ff9572cf</color>
     <color name="ad_badge_background_yellow">#ffedb802</color>
     <color name="ad_pin_background_green">#ff59946b</color>
+    <color name="askmaps_gemini_primary">#ff217bfe</color>
+    <color name="askmaps_gemini_purple">#ffac87eb</color>
+    <color name="askmaps_gemini_red">#ffee4d5d</color>
+    <color name="askmaps_gemini_secondary">#ff078efb</color>
     <color name="assistant_glow_blue">@*android:color/accent_material_dark</color>
     <color name="assistant_glow_green">#ff34a853</color>
     <color name="assistant_glow_red">#ffea4335</color>
-    <color name="assistant_glow_yellow">#fff1bc29</color>														
-    <color name="background_floating_material_light">@*android:color/white</color>
+    <color name="assistant_glow_yellow">#fff1bc29</color>
+	<color name="background_floating_material_light">@*android:color/white</color>
     <color name="background_grey">#00000000</color>
     <color name="background_night_grey">@*android:color/holo_light_primary_dark</color>
     <color name="black_almost_transparent">#55000000</color>
@@ -111,7 +113,7 @@
     <color name="geo_sys_color_aqua_constant_dark">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_constant_dark_immersive">#99000000</color>
     <color name="geo_sys_color_aqua_constant_dark_outline">#ff5e5e5e</color>
-    <color name="geo_sys_color_aqua_constant_dark_primary">#ff75d4e6</color>
+    <color name="geo_sys_color_aqua_constant_dark_primary">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_constant_dark_selected_container">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_aqua_constant_dark_surface1">#ff292a2d</color>
     <color name="geo_sys_color_aqua_disabled_surface">#ffe3e3e3</color>
@@ -119,7 +121,7 @@
     <color name="geo_sys_color_aqua_info">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_info_container">#fff0f4f9</color>
     <color name="geo_sys_color_aqua_info_container_variant">@*android:color/accent_material_dark</color>
-    <color name="geo_sys_color_aqua_inverse_primary">#ff75d4e6</color>
+    <color name="geo_sys_color_aqua_inverse_primary">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_inverse_surface">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_local_guides">#ffe35a1b</color>
     <color name="geo_sys_color_aqua_local_guides_variant">#ffc54105</color>
@@ -146,7 +148,7 @@
     <color name="geo_sys_color_aqua_on_positive_container">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_on_primary_container">#ffffffff</color>
     <color name="geo_sys_color_aqua_on_secondary_container">#ff014f5a</color>
-    <color name="geo_sys_color_aqua_on_selected_container">#00ff00</color>			<!-- ff002025 -->
+    <color name="geo_sys_color_aqua_on_selected_container">@*android:color/background_dark</color>			<!-- ff002025 -->
     <color name="geo_sys_color_aqua_on_surface">@*android:color/background_dark</color>
     <color name="geo_sys_color_aqua_on_surface_immersive">#ffffffff</color>
     <color name="geo_sys_color_aqua_on_surface_tonal">#ff014f5a</color>
@@ -270,10 +272,18 @@
     <color name="geo_sys_color_surface_immersive">#99000000</color>
     <color name="geo_sys_color_tonal_surface">#fffafbff</color>
     <color name="geo_sys_color_transparent_surface">#00ffffff</color>
+    <color name="gltf_accuracy_circle_fill">#ff8cc3f0</color>
+    <color name="gltf_blue_dot_fill">#ff0f53ff</color>
+    <color name="gltf_blue_dot_outline">#ffffffff</color>
     <color name="gltf_chevron_day_v1">#ff4285f3</color>
     <color name="gltf_chevron_day_v2">#ff0e53fe</color>
     <color name="gltf_chevron_night_v1">#ffe0f6ff</color>
     <color name="gltf_chevron_night_v2">#ffdfebff</color>
+    <color name="gltf_chevron_pulse_ring_transparent">#00000000</color>
+    <color name="gltf_cone_pointer_fill">#a60f53ff</color>
+    <color name="gltf_dim_chevron">#ffc6c9c8</color>
+    <color name="gltf_dim_disc">#fff2f2f2</color>
+    <color name="gltf_dim_dot">#ffc6c9c8</color>
     <color name="gltf_disc_day">#fff2f2f2</color>
     <color name="gltf_disc_night_v1">#ff4a88ce</color>
     <color name="gltf_disc_night_v2">#ff3d6ddd</color>
@@ -281,6 +291,11 @@
     <color name="gltf_dot_day_v2">#ff0e53fe</color>
     <color name="gltf_dot_night_v1">#ffe0f6ff</color>
     <color name="gltf_dot_night_v2">#ffd4ddfd</color>
+    <color name="gltf_incognito_accuracy_circle_fill">#ff202124</color>
+    <color name="gltf_incognito_cone_pointer_fill">#b3000000</color>
+    <color name="gltf_incognito_dot_fill">#ff000000</color>
+    <color name="gltf_lite_nav_chevron_fill">#d10f53ff</color>
+    <color name="gltf_stale_dot_fill">#ffaaaaaa</color>
     <color name="gm3_dark_default_color_elevation_overlay">#ffd1e1ff</color>
     <color name="gm3_default_color_elevation_overlay">#ff6991d6</color>
     <color name="gm3_ref_palette_blue30">#ff04409f</color>
@@ -295,7 +310,7 @@
     <color name="gm3_ref_palette_error60">#ffe46962</color>
     <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">@*android:color/accent_material_dark</color>
-    <color name="gm3_ref_palette_grey30">#ff474747</color>
+    <color name="gm3_ref_palette_grey30">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_grey50">@*android:color/button_material_dark</color>
     <color name="gm3_ref_palette_neutral10">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral100">#ffffffff</color>
@@ -433,6 +448,7 @@
     <color name="live_busyness_accent_bottom">#ddff6c99</color>
     <color name="live_busyness_accent_top">#d9ff80ab</color>
     <color name="live_busyness_bar">#b3f50057</color>
+    <color name="local_guide_badge_color">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
@@ -509,13 +525,8 @@
     <color name="mod_black_alpha40">#66000000</color>
     <color name="mod_black_alpha42">#6b000000</color>
     <color name="mod_blue200_alpha10">@*android:color/ripple_material_dark</color>
-    <color name="mod_blue300_alpha10">@*android:color/ripple_material_dark</color>
     <color name="mod_blue300_alpha24">@*android:color/holo_light_primary_dark</color>
-    <color name="mod_blue300_alpha24_over_grey900">@*android:color/ripple_material_dark</color>
     <color name="mod_blue300_alpha60">@*android:color/ripple_material_dark</color>
-    <color name="mod_blue600_alpha10">@*android:color/ripple_material_dark</color>
-    <color name="mod_blue700_alpha10">@*android:color/ripple_material_dark</color>
-    <color name="mod_blue700_alpha12">@*android:color/ripple_material_dark</color>
     <color name="mod_google_black">@*android:color/background_dark</color>
     <color name="mod_google_blue100">@*android:color/accent_material_dark</color>
     <color name="mod_google_blue200">@*android:color/accent_material_dark</color>
@@ -598,7 +609,6 @@
     <color name="mod_google_yellow900">#ffe37400</color>
     <color name="mod_grey200_alpha10">#1ae8eaed</color>
     <color name="mod_grey200_alpha12">#1fe8eaed</color>
-    <color name="mod_grey200_alpha20">#33e8eaed</color>
     <color name="mod_grey200_alpha30">#4de8eaed</color>
     <color name="mod_grey200_alpha38">@*android:color/ripple_material_dark</color>
     <color name="mod_grey500_alpha40">#669e9e9e</color>
@@ -610,7 +620,6 @@
     <color name="mod_grey800_alpha15">#263c4043</color>
     <color name="mod_grey800_alpha30">#4d3c4043</color>
     <color name="mod_grey800_alpha38">#613c4043</color>
-    <color name="mod_grey900_alpha20">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="mod_grey900_alpha40">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="mod_grey900_alpha60">@*android:color/background_dark</color>
     <color name="mod_grey900_with_elevation_1">@*android:color/group_button_dialog_pressed_holo_light</color>
@@ -629,7 +638,7 @@
     <color name="mod_night_red50">#3df28b82</color>
     <color name="mod_night_yellow100">@*android:color/ripple_material_dark</color>
     <color name="mod_night_yellow50">#3dfdd663</color>
-    <color name="mod_scrim">#99000000</color>
+    <color name="mod_scrim">#00ff00</color>
     <color name="mod_white_alpha10">#1affffff</color>
     <color name="mod_white_alpha20">#33ffffff</color>
     <color name="mod_white_alpha70">#b3ffffff</color>
@@ -665,7 +674,9 @@
     <color name="nav_prompt_promo_bkgd_color_night">#ff484849</color>
     <color name="nav_status_notification_background">@*android:color/background_dark</color>
     <color name="nav_turn_card_future_primary_step_background">@*android:color/accent_material_dark</color>
-    <color name="nav_turn_card_future_secondary_step_background">#ff474747</color>
+    <color name="nav_turn_card_future_secondary_step_background">@*android:color/background_dark</color>
+    <color name="nav_turn_card_min_mode_background">@*android:color/background_dark</color>
+    <color name="nav_turn_card_min_mode_next_step_background">@*android:color/background_dark</color>
     <color name="nav_turn_card_next_step_background">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="nav_turn_card_rerouting_background">#ff308270</color>
     <color name="nav_turn_card_step_background">@*android:color/group_button_dialog_pressed_holo_light</color>
@@ -707,7 +718,6 @@
     <color name="qu_night_black_alpha_06">#10ffffff</color>
     <color name="qu_night_black_alpha_54">#8affffff</color>
     <color name="qu_night_black_alpha_87">#deffffff</color>
-    <color name="qu_night_blue_grey_50">#3d37474f</color>
     <color name="qu_night_grey_100">@*android:color/holo_light_primary_dark</color>
     <color name="qu_night_oob_sky_blue">#ff24c1e0</color>
     <color name="qu_night_white_alpha_66">@*android:color/group_button_dialog_pressed_holo_light</color>
@@ -720,7 +730,6 @@
     <color name="qu_white_alpha_66">#a8ffffff</color>
     <color name="qu_white_alpha_75">#bfffffff</color>
     <color name="quantum_amber400">#ffffca28</color>
-    <color name="quantum_amber600">#ffffb300</color>
     <color name="quantum_black_100">@*android:color/background_dark</color>
     <color name="quantum_black_hint_text">#61000000</color>
     <color name="quantum_black_text">#dd000000</color>
@@ -728,7 +737,6 @@
     <color name="quantum_bluegrey50">#ffeceff1</color>
     <color name="quantum_bluegrey500">#ff607d8b</color>
     <color name="quantum_brown100">#ffd7ccc8</color>
-    <color name="quantum_googblue300">@*android:color/accent_material_dark</color>
     <color name="quantum_googblue400">@*android:color/accent_material_dark</color>
     <color name="quantum_googblue500">@*android:color/accent_material_dark</color>
     <color name="quantum_googblue600">@*android:color/accent_material_dark</color>
@@ -752,15 +760,12 @@
     <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="quantum_greyblack1000">@*android:color/background_dark</color>
     <color name="quantum_greywhite1000">#ffffffff</color>
-    <color name="quantum_lightblue600">#ff039be5</color>
     <color name="quantum_orange800">@*android:color/accent_material_dark</color>
-    <color name="quantum_pink500">#ffe91e63</color>
     <color name="quantum_white_100">#ffffffff</color>
     <color name="quantum_white_secondary_text">#b3ffffff</color>
     <color name="quantum_white_text">#ffffffff</color>
     <color name="reaction_bar_background">#f2ffffff</color>
     <color name="reaction_bar_selected_background">#1f1f1f1f</color>
-    <color name="rich_ongoing_notitification_background">#ffe9eff0</color>
     <color name="rich_ongoing_notitification_progress_completed">#ffc9c9d8</color>
     <color name="rich_ongoing_notitification_progress_remaining">#ff0f53ff</color>
     <color name="riddler_cyan_on_primary_container">#ffffffff</color>
@@ -878,11 +883,12 @@
     <color name="settingslib_materialColorOnPrimary">#ffffffff</color>
     <color name="settingslib_materialColorOnPrimaryContainer">#ff00201c</color>
     <color name="settingslib_materialColorOnSurface">@*android:color/background_dark</color>
-    <color name="settingslib_materialColorOnSurfaceVariant">#ff474747</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOutline">@*android:color/button_material_dark</color>
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorPrimaryContainer">#ffc5eae2</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>
+    <color name="settingslib_materialColorSecondaryFixed">#ffcce8e2</color>
     <color name="settingslib_materialColorSurfaceContainer">#ffeeeeee</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ffe8e8e8</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#ffe3e3e3</color>
@@ -1000,7 +1006,7 @@
     <color name="sud_system_on_surface_inverse_light">#fff1f1f1</color>
     <color name="sud_system_on_surface_light">@*android:color/background_dark</color>
     <color name="sud_system_on_surface_variant_dark">#ffc7c7c7</color>
-    <color name="sud_system_on_surface_variant_light">#ff474747</color>
+    <color name="sud_system_on_surface_variant_light">@*android:color/background_dark</color>
     <color name="sud_system_on_tertiary_container_dark">#ffcee7ff</color>
     <color name="sud_system_on_tertiary_container_light">#ff001e31</color>
     <color name="sud_system_on_tertiary_dark">#ff123349</color>
@@ -1011,7 +1017,7 @@
     <color name="sud_system_on_tertiary_light">#ffffffff</color>
     <color name="sud_system_outline_dark">#ff919191</color>
     <color name="sud_system_outline_light">@*android:color/button_material_dark</color>
-    <color name="sud_system_outline_variant_dark">#ff474747</color>
+    <color name="sud_system_outline_variant_dark">@*android:color/background_dark</color>
     <color name="sud_system_outline_variant_light">#ffc7c6c5</color>
     <color name="sud_system_primary_container_dark">#ff005047</color>
     <color name="sud_system_primary_container_light">#ffc5eae2</color>
@@ -1049,7 +1055,7 @@
     <color name="sud_system_surface_inverse_dark">#ffe5e2e1</color>
     <color name="sud_system_surface_inverse_light">@*android:color/background_dark</color>
     <color name="sud_system_surface_light">#fff9faf8</color>
-    <color name="sud_system_surface_variant_dark">#ff474747</color>
+    <color name="sud_system_surface_variant_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_variant_light">#ffe3e3e3</color>
     <color name="sud_system_tertiary_container_dark">#ff2d4960</color>
     <color name="sud_system_tertiary_container_light">#ffcb16ff</color>

@@ -138,7 +138,7 @@ Attiva la modalità di compatibilità con Substratum per mostrare i temi compati
     <string name="no_overlays_subtitle">Gli overlay installati verranno visualizzati qui</string>
     <string name="no_overlays_title">Nessun Overlay costruito</string>
     <string name="no_priorities_action">Gestisci overlay</string>
-    <string name="no_priorities_subtitle">Le app con più overlay abilitati verranno visualizzate qui</string>
+    <string name="no_priorities_subtitle">Le app con più overlay abilitati\nverranno visualizzate qui</string>
     <string name="no_priorities_title">Tutto ha la priorità più alta</string>
     <string name="no_supported_backend_message">Non è stato rilevato nessun sistema supportato</string>
     <string name="no_themes_action">Acquista Temi</string>

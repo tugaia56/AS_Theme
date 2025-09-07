@@ -167,7 +167,7 @@
     <color name="banner_background_attention_medium">#ff333121</color>
     <color name="bud_type_6_dark_haze_background">@*android:color/background_dark</color>
     <color name="bud_type_6_dark_haze_on_background">#ffe3e3e3</color>
-    <color name="bud_type_6_dark_haze_on_primary">#00ffff</color>
+    <color name="bud_type_6_dark_haze_on_primary">@*android:color/accent_material_dark</color>
     <color name="bud_type_6_dark_haze_on_primary_container">#ffffffff</color>
     <color name="bud_type_6_dark_haze_on_secondary">#ff003355</color>
     <color name="bud_type_6_dark_haze_on_surface">#ffe3e3e3</color>
