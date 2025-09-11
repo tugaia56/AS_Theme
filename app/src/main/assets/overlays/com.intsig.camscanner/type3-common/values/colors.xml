@@ -213,7 +213,7 @@
     <color name="cs_bronze_4CFEC1AB">#4cfec1ab</color>
     <color name="cs_bronze_FFFEC1AB">#fffec1ab</color>
     <color name="cs_color_000000">@*android:color/background_dark</color>
-    <color name="cs_color_007AFF">#ff007aff</color>
+    <color name="cs_color_007AFF">@*android:color/accent_material_dark</color>
     <color name="cs_color_00ad79">@*android:color/accent_material_dark</color>
     <color name="cs_color_020203">#ff020203</color>
     <color name="cs_color_095156">@*android:color/accent_material_dark</color>

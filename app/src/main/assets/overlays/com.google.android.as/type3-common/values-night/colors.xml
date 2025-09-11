@@ -11,7 +11,7 @@
     <color name="banner_background_attention_high">@*android:color/background_dark</color>
     <color name="banner_background_attention_low">@*android:color/background_dark</color>
     <color name="banner_background_attention_medium">@*android:color/background_dark</color>
-    <color name="bluechip_icon_tint_color">#ff9aa0a6</color>
+    <color name="bluechip_icon_tint_color">@*android:color/background_leanback_dark</color>
     <color name="bottom_nav_background">@*android:color/background_dark</color>
     <color name="bottom_nav_selected">@*android:color/white</color>
     <color name="favorite_icon_color_full">@*android:color/accent_material_dark</color>

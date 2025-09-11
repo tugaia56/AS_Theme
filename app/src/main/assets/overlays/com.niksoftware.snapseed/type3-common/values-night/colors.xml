@@ -4,7 +4,7 @@
     <color name="crop_overlay">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="divider">#29f8f9fa</color>
     <color name="histogram_brightness_stroke">@*android:color/background_dark</color>
-    <color name="introduction_label">#ff9aa0a6</color>
+    <color name="introduction_label">@*android:color/background_leanback_dark</color>
     <color name="main_background">@*android:color/background_dark</color>
     <color name="primary">@*android:color/background_dark</color>
     <color name="primary_dark">@*android:color/background_dark</color>

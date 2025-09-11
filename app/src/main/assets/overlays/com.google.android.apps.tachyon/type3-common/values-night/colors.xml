@@ -6,7 +6,7 @@
     <color name="meet_only_promo_color_2">@*android:color/background_dark</color>
     <color name="meet_only_promo_color_8">#ffcedff8</color>
     <color name="meet_only_promo_color_green">#ff81c995</color>
-    <color name="meet_only_promo_color_red">#fff28b82</color>
+    <color name="meet_only_promo_color_red">@*android:color/accent_material_dark</color>
     <color name="meet_only_promo_color_yellow">#fffdd663</color>
     <color name="meet_only_promo_shoe_green">#ffcbe7d3</color>
     <color name="multipinning_edu_color_1">@*android:color/background_dark</color>

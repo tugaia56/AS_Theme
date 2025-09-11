@@ -741,7 +741,7 @@
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="progress_back_round">#1a000000</color>
-    <color name="progress_error_round">#ffe32e27</color>
+    <color name="progress_error_round">@*android:color/accent_material_dark</color>
     <color name="progress_finish_round">#ff2da74e</color>
     <color name="progress_round">#ff2d40e9</color>
     <color name="progress_text">#ff2d40e9</color>

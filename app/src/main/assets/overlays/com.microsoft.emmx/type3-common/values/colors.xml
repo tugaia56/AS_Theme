@@ -822,8 +822,8 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error50">#ffdc362e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_error50">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
@@ -980,7 +980,7 @@
     <color name="mr_dynamic_dialog_background_dark">@*android:color/background_dark</color>
     <color name="mr_dynamic_dialog_background_light">#ffffffff</color>
     <color name="mr_dynamic_dialog_header_text_color_dark">@*android:color/accent_material_dark</color>
-    <color name="mr_dynamic_dialog_header_text_color_light">#ff80868b</color>
+    <color name="mr_dynamic_dialog_header_text_color_light">@*android:color/holo_light_primary_dark</color>
     <color name="mr_dynamic_dialog_icon_dark">#fff8f9fa</color>
     <color name="mr_dynamic_dialog_icon_light">@*android:color/background_dark</color>
     <color name="mr_dynamic_dialog_route_text_color_dark">#ffffffff</color>
@@ -1085,12 +1085,12 @@
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tab_group_color_picker_blue_dark">#ff1a73e8</color>
-    <color name="tab_group_color_picker_blue_light">#ff8ab4f8</color>
+    <color name="tab_group_color_picker_blue_light">@*android:color/accent_material_dark</color>
     <color name="tab_group_color_picker_cyan_dark">#ff007b83</color>
     <color name="tab_group_color_picker_cyan_light">#ff78d9ec</color>
     <color name="tab_group_color_picker_green_dark">#ff188038</color>
     <color name="tab_group_color_picker_green_light">#ff81c995</color>
-    <color name="tab_group_color_picker_grey_dark">#ff5f6368</color>
+    <color name="tab_group_color_picker_grey_dark">@*android:color/button_material_dark</color>
     <color name="tab_group_color_picker_grey_light">#ffdadce0</color>
     <color name="tab_group_color_picker_orange_dark">#ffe8710a</color>
     <color name="tab_group_color_picker_orange_light">#fffcad70</color>
@@ -1099,7 +1099,7 @@
     <color name="tab_group_color_picker_purple_dark">#ffa142f4</color>
     <color name="tab_group_color_picker_purple_light">#ffc58af9</color>
     <color name="tab_group_color_picker_red_dark">@*android:color/accent_material_light</color>
-    <color name="tab_group_color_picker_red_light">#fff28b82</color>
+    <color name="tab_group_color_picker_red_light">@*android:color/accent_material_dark</color>
     <color name="tab_group_color_picker_yellow_dark">#fff9ab00</color>
     <color name="tab_group_color_picker_yellow_light">#fffdd663</color>
     <color name="textColorPrimaryInArrow">@*android:color/background_dark</color>

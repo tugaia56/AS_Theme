@@ -36,7 +36,7 @@
     <color name="complicationDrawable_rangedValueSecondaryColor">#80ffffff</color>
     <color name="complicationDrawable_textColor">#ffffffff</color>
     <color name="complicationDrawable_titleColor">#80ffffff</color>
-    <color name="confirm_disabled_color">#ff5f6368</color>
+    <color name="confirm_disabled_color">@*android:color/button_material_dark</color>
     <color name="countdown_slider_background_color">#db222222</color>
     <color name="countdown_slider_secondary_color">#ffdcdcdc</color>
     <color name="cvv_control_background">#80000000</color>
@@ -112,7 +112,7 @@
     <color name="gm3_ref_palette_error100">#ffffffff</color>
     <color name="gm3_ref_palette_error20">#ff601410</color>
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
-    <color name="gm3_ref_palette_error40">#ffb3261e</color>
+    <color name="gm3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_grey30">#ff474747</color>
@@ -155,7 +155,7 @@
     <color name="gm_ref_palette_blue700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_grey100">#fff1f3f4</color>
     <color name="gm_ref_palette_grey200">#ffe8eaed</color>
-    <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
+    <color name="gm_ref_palette_grey500">@*android:color/background_leanback_dark</color>
     <color name="gm_ref_palette_grey800">@*android:color/background_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="gm_ref_palette_red400">@*android:color/accent_material_dark</color>
@@ -200,7 +200,7 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
@@ -322,7 +322,7 @@
     <color name="transparent">#00000000</color>
     <color name="update_notification_icon_color">@*android:color/accent_material_dark</color>
     <color name="video_mode_color">@*android:color/accent_material_dark</color>
-    <color name="wear_material_gray_500">#ff9aa0a6</color>
+    <color name="wear_material_gray_500">@*android:color/background_leanback_dark</color>
     <color name="wear_material_gray_600">@*android:color/button_material_dark</color>
     <color name="wear_material_gray_900">#ff212124</color>
     <color name="wear_picker_background_gradient_end">#ccffffff</color>

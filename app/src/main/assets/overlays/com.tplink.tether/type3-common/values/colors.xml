@@ -1031,7 +1031,7 @@
     <color name="tools_scroll_layout_bg_gray">@*android:color/holo_light_primary_dark</color>
     <color name="tools_sheet_divider_color">#22111111</color>
     <color name="tools_sheet_item_bg_color">#311b92</color>
-    <color name="tools_sheet_item_text_color">#ff007aff</color>
+    <color name="tools_sheet_item_text_color">@*android:color/accent_material_dark</color>
     <color name="tools_sheet_title_text_color">#ff8f8f8f</color>
     <color name="tools_snackbar_background">@*android:color/background_dark</color>
     <color name="tools_speed_test_accent_text_color">@*android:color/accent_material_dark</color>

@@ -119,7 +119,7 @@
     <color name="couiGreenFirstLightPressed">#2644bfab</color>
     <color name="couiGreenFirstLightPressedCompat">#26006ee6</color>
     <color name="couiGreenFirstNormal">#ff6accbc</color>
-    <color name="couiGreenFirstNormalCompat">#ff007aff</color>
+    <color name="couiGreenFirstNormalCompat">@*android:color/accent_material_dark</color>
     <color name="couiGreenFirstPressed">@*android:color/accent_material_dark</color>
     <color name="couiGreenFirstPressedCompat">@*android:color/accent_material_dark</color>
     <color name="couiGreenFirstTextHighLight">#4c6accbc</color>

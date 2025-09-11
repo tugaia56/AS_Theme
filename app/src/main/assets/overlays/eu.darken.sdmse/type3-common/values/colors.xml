@@ -64,7 +64,7 @@
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
-    <color name="error">#ffb3261e</color>
+    <color name="error">@*android:color/accent_material_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="foreground_material_dark">@*android:color/white</color>
@@ -77,7 +77,7 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ffffffff</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>

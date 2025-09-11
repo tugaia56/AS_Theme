@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="dn_nav_normal">#ff9aa0a6</color>
+    <color name="dn_nav_normal">@*android:color/background_leanback_dark</color>
     <color name="dn_nav_activated">#ff00b380</color>
     <color name="dn_google_btn_text">@*android:color/background_dark</color>
     <color name="dn_text_medium">#ffe8eaed</color>
-    <color name="dn_text_small">#ff9aa0a6</color>
+    <color name="dn_text_small">@*android:color/background_leanback_dark</color>
     <color name="dn_progress">#ffffccbc</color>
     <color name="dn_patched">#ffffff00</color>
     <color name="dn_syntax_1">#ff97a7c0</color>

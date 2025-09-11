@@ -9,7 +9,7 @@
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="baseline_error_200">@*android:color/accent_material_dark</color>
-    <color name="baseline_error_600">#ffb3261e</color>
+    <color name="baseline_error_600">@*android:color/accent_material_dark</color>
     <color name="baseline_neutral_0">@*android:color/white</color>
     <color name="baseline_neutral_0_with_neutral_600_alpha_11_with_primary_600_2">#ffe8eaec</color>
     <color name="baseline_neutral_0_with_neutral_600_alpha_12_with_primary_600_2">#ffe8e9eb</color>
@@ -400,7 +400,7 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
@@ -508,7 +508,7 @@
     <color name="mr_cast_meta_black_scrim">#99000000</color>
     <color name="mr_cast_meta_default_background">#ff25272b</color>
     <color name="mr_cast_meta_default_text_color">#ffffffff</color>
-    <color name="mr_cast_progressbar_background_dark">#ff5f6368</color>
+    <color name="mr_cast_progressbar_background_dark">@*android:color/button_material_dark</color>
     <color name="mr_cast_progressbar_background_light">#ffcbcccd</color>
     <color name="mr_cast_progressbar_progress_and_thumb_dark">#ff5195ea</color>
     <color name="mr_cast_progressbar_progress_and_thumb_light">#ff4285f4</color>
@@ -517,7 +517,7 @@
     <color name="mr_dynamic_dialog_background_dark">@*android:color/background_dark</color>
     <color name="mr_dynamic_dialog_background_light">#ffffffff</color>
     <color name="mr_dynamic_dialog_header_text_color_dark">#ffbdc1c6</color>
-    <color name="mr_dynamic_dialog_header_text_color_light">#ff80868b</color>
+    <color name="mr_dynamic_dialog_header_text_color_light">@*android:color/holo_light_primary_dark</color>
     <color name="mr_dynamic_dialog_icon_dark">#fff8f9fa</color>
     <color name="mr_dynamic_dialog_icon_light">@*android:color/background_dark</color>
     <color name="mr_dynamic_dialog_route_text_color_dark">#ffffffff</color>

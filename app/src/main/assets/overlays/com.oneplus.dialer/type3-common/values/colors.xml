@@ -210,7 +210,7 @@
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="divider_line_color">#ffd8d8d8</color>
-    <color name="ec_grey_600">#ff80868b</color>
+    <color name="ec_grey_600">@*android:color/holo_light_primary_dark</color>
     <color name="edittext_color">#dd000000</color>
     <color name="edittext_color_dark">#b7ffffff</color>
     <color name="edittext_error_color">#fff34033</color>

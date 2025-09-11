@@ -280,7 +280,7 @@
     <color name="text_light_gray">#ff5f5f5f</color>
     <color name="text_medium_gray">#ffbdbdbd</color>
     <color name="thunder">#ffcccccc</color>
-    <color name="tint">#ff007aff</color>
+    <color name="tint">@*android:color/accent_material_dark</color>
     <color name="toast_background_positive">@*android:color/background_dark</color>	
     <color name="toolbar_background">@*android:color/background_dark</color>	
     <color name="tooltip_background_dark">#e6616161</color>

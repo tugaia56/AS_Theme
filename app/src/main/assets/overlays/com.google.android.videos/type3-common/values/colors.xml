@@ -80,7 +80,7 @@
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="full_transparent">#00000000</color>
     <color name="glance_colorBackground">#fffffbfe</color>
-    <color name="glance_colorError">#ffb3261e</color>
+    <color name="glance_colorError">@*android:color/accent_material_dark</color>
     <color name="glance_colorErrorContainer">#fff9dedc</color>
     <color name="glance_colorOnBackground">@*android:color/background_dark</color>
     <color name="glance_colorOnError">#ffffffff</color>
@@ -112,7 +112,7 @@
     <color name="gm3_ref_palette_error100">#ffffffff</color>
     <color name="gm3_ref_palette_error20">#ff601410</color>
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
-    <color name="gm3_ref_palette_error40">#ffb3261e</color>
+    <color name="gm3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error60">#ffe46962</color>
     <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
@@ -234,7 +234,7 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
@@ -343,7 +343,7 @@
     <color name="mr_dynamic_dialog_background_dark">@*android:color/background_dark</color>
     <color name="mr_dynamic_dialog_background_light">#ffffffff</color>
     <color name="mr_dynamic_dialog_header_text_color_dark">@*android:color/accent_material_dark</color>
-    <color name="mr_dynamic_dialog_header_text_color_light">#ff80868b</color>
+    <color name="mr_dynamic_dialog_header_text_color_light">@*android:color/holo_light_primary_dark</color>
     <color name="mr_dynamic_dialog_icon_light">@*android:color/background_dark</color>
     <color name="mr_dynamic_dialog_route_text_color_dark">#ffffffff</color>
     <color name="mr_dynamic_dialog_route_text_color_light">#ff25272b</color>
@@ -359,7 +359,7 @@
     <color name="open_searchbar_color_surface_light">#14303030</color>
     <color name="overlay_status_bar_color">#2e000000</color>
     <color name="pairing_accent_color">@*android:color/accent_material_dark</color>
-    <color name="pairing_disable_color">#ff5f6368</color>
+    <color name="pairing_disable_color">@*android:color/button_material_dark</color>
     <color name="pairing_error_color">@*android:color/accent_material_dark</color>													   
     <color name="pairing_title_color">#ffe8eaed</color>
     <color name="pelog_main_background_color">@*android:color/background_dark</color>

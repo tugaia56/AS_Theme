@@ -26,6 +26,7 @@
         <item>AGGIORNATO:</item>
         <item>Microsoft MSN v32.3.430811006</item>
         <item>Google Calendar v2025.34.0</item>
+        <item>Mega v15.16</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

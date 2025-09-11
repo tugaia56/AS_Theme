@@ -154,7 +154,7 @@
     <color name="pano_progress_indication_fast">#ffff2222</color>
     <color name="photo_page_action_bar">#8a000000</color>
     <color name="photo_page_bottom_panel">#8a000000</color>
-    <color name="picker_color">#ff007aff</color>
+    <color name="picker_color">@*android:color/accent_material_dark</color>
     <color name="picker_grid_state_focused">#dc007aff</color>
     <color name="picker_grid_state_pressed">#dc007aff</color>
     <color name="picker_imageloading">#ff252528</color>

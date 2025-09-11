@@ -19,7 +19,7 @@
     <color name="banner_background_attention_high">#ffffdad5</color>
     <color name="banner_background_attention_low">#ffcfebc0</color>
     <color name="banner_background_attention_medium">#fff0e3a8</color>
-    <color name="bluechip_icon_tint_color">#ff5f6368</color>
+    <color name="bluechip_icon_tint_color">@*android:color/button_material_dark</color>
     <color name="bottom_nav">@*android:color/button_material_dark</color>
     <color name="bottom_nav_background">@*android:color/accent_material_dark</color>
     <color name="bottom_nav_selected">@*android:color/accent_material_dark</color>
@@ -103,7 +103,7 @@
     <color name="gm3_ref_palette_error100">#ffffffff</color>
     <color name="gm3_ref_palette_error20">#ff601410</color>
     <color name="gm3_ref_palette_error30">#ff8c1d18</color>
-    <color name="gm3_ref_palette_error40">#ffb3261e</color>
+    <color name="gm3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_error90">#fff9dedc</color>
     <color name="gm3_ref_palette_grey30">#ff474747</color>
@@ -173,8 +173,8 @@
     <color name="gm_ref_palette_grey300">#ffdadce0</color>
     <color name="gm_ref_palette_grey400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_grey50">#fff8f9fa</color>
-    <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
-    <color name="gm_ref_palette_grey600">#ff80868b</color>
+    <color name="gm_ref_palette_grey500">@*android:color/background_leanback_dark</color>
+    <color name="gm_ref_palette_grey600">@*android:color/holo_light_primary_dark</color>
     <color name="gm_ref_palette_grey700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_grey800">@*android:color/button_material_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
@@ -193,7 +193,7 @@
     <color name="google_transparent">#00000000</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="history_icon_tint">#ff9aa0a6</color>
+    <color name="history_icon_tint">@*android:color/background_leanback_dark</color>
     <color name="history_toolbar_color">@*android:color/background_dark</color>
     <color name="ic_expand_more">@*android:color/button_material_dark</color>
     <color name="ic_search_background_color">@*android:color/white</color>
@@ -230,7 +230,7 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>
@@ -316,7 +316,7 @@
     <color name="settingslib_color_grey300">#ffdadce0</color>
     <color name="settingslib_color_grey400">#ffbdc1c6</color>
     <color name="settingslib_color_grey50">#fff8f9fa</color>
-    <color name="settingslib_color_grey500">#ff9aa0a6</color>
+    <color name="settingslib_color_grey500">@*android:color/background_leanback_dark</color>
     <color name="settingslib_color_red600">@*android:color/accent_material_light</color>
     <color name="settingslib_dialog_accent">@*android:color/accent_material_dark</color>
     <color name="settingslib_dialog_colorError">@*android:color/accent_material_dark</color>

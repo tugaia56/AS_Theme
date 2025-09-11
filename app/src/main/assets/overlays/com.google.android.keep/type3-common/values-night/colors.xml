@@ -5,7 +5,7 @@
     <color name="checked_list_item_color">#4dffffff</color>
     <color name="chip_default">#15ffffff</color>
     <color name="darktrans_icons">#b6e8eaed</color>
-    <color name="done_text_color_disabled">#ff9aa0a6</color>
+    <color name="done_text_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="fade_edge_end_color">#1bbbbbbb</color>
     <color name="gradient_start">#00202124</color>
     <color name="happy_trees_color_celebration">#ff382d50</color>

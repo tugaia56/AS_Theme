@@ -99,7 +99,7 @@
     <color name="control_secondary_text_color_dark">#6bffffff</color>
     <color name="control_secondary_text_color_light">#6b000000</color>
     <color name="couiBlueTintControlDisabled">#26000000</color>
-    <color name="couiBlueTintControlNormal">#ff007aff</color>
+    <color name="couiBlueTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintControlNormalPreferenceBg">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintControlPressed">@*android:color/accent_material_dark</color>
     <color name="couiBlueTintLightNormal">#26007aff</color>
@@ -315,8 +315,8 @@
     <color name="modern_grey_300_alpha_38">#61dadce0</color>
     <color name="modern_grey_400">@*android:color/accent_material_dark</color>
     <color name="modern_grey_50">#fff8f9fa</color>
-    <color name="modern_grey_500">#ff9aa0a6</color>
-    <color name="modern_grey_600">#ff80868b</color>
+    <color name="modern_grey_500">@*android:color/background_leanback_dark</color>
+    <color name="modern_grey_600">@*android:color/holo_light_primary_dark</color>
     <color name="modern_grey_700">@*android:color/background_dark</color>
     <color name="modern_grey_800">@*android:color/background_dark</color>
     <color name="modern_grey_800_alpha_38">#613c4043</color>
@@ -496,7 +496,7 @@
     <color name="oplusGreenFirstBarDisabledColor">#4d007aff</color>
     <color name="oplusGreenFirstLightNormal">#26007aff</color>
     <color name="oplusGreenFirstLightPressed">#26006ee6</color>
-    <color name="oplusGreenFirstNormal">#ff007aff</color>
+    <color name="oplusGreenFirstNormal">@*android:color/accent_material_dark</color>
     <color name="oplusGreenFirstPressed">@*android:color/accent_material_dark</color>
     <color name="oplusGreenFirstTextHighLight">#4c007aff</color>
     <color name="oplusGreenFourthBarDisabledColor">#4db7cc8b</color>

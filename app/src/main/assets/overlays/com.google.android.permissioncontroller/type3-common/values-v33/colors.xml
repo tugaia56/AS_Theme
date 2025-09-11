@@ -6,10 +6,10 @@
 <color name="gm_green_500">#ff34a853</color>
 <color name="gm_green_600">#ff1e8e3e</color>
 <color name="gm_grey_400">#ffbdc1c6</color>
-<color name="gm_grey_600">#ff80868b</color>
+<color name="gm_grey_600">@*android:color/holo_light_primary_dark</color>
 <color name="gm_grey_900">#ffffffff</color>
-<color name="gm_red_100">#fffad2cf</color>
-<color name="gm_red_300">#fff28b82</color>
+<color name="gm_red_100">@*android:color/accent_material_dark</color>
+<color name="gm_red_300">@*android:color/accent_material_dark</color>
 <color name="gm_red_400">@*android:color/accent_material_dark</color>
 <color name="gm_red_500">#ffea4335</color>
 <color name="gm_red_600">@*android:color/accent_material_light</color>

@@ -77,7 +77,7 @@
     <color name="dialer_dark_theme_color_20pct">#335195ea</color>
     <color name="dialer_dark_theme_color_dark">@*android:color/accent_material_dark</color>
     <color name="dialer_divider_line_color">#ffd8d8d8</color>
-    <color name="dialer_end_call_button_color">#ffdc362e</color>
+    <color name="dialer_end_call_button_color">@*android:color/accent_material_dark</color>
     <color name="dialer_fab_icon_color">#ffffffff</color>
     <color name="dialer_link_color">#ff2a56c6</color>
     <color name="dialer_pill_color">@*android:color/system_accent2_200</color>
@@ -109,9 +109,9 @@
     <color name="google_grey_300">#ffdadce0</color>
     <color name="google_grey_400">#ffbdc1c6</color>
     <color name="google_grey_50">#fff8f9fa</color>
-    <color name="google_grey_500">#ff9aa0a6</color>
-    <color name="google_grey_600">#ff80868b</color>
-    <color name="google_grey_700">#ff5f6368</color>
+    <color name="google_grey_500">@*android:color/background_leanback_dark</color>
+    <color name="google_grey_600">@*android:color/holo_light_primary_dark</color>
+    <color name="google_grey_700">@*android:color/button_material_dark</color>
     <color name="google_grey_800">@*android:color/background_dark</color>
     <color name="google_grey_900">@*android:color/background_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
@@ -201,8 +201,8 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error50">#ffdc362e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_error50">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>

@@ -11,8 +11,8 @@
     <color name="GM2_grey_300">#ffdadce0</color>
     <color name="GM2_grey_400">@*android:color/accent_material_dark</color>
     <color name="GM2_grey_50">#fff8f9fa</color>
-    <color name="GM2_grey_500">#ff9aa0a6</color>
-    <color name="GM2_grey_600">#ff80868b</color>
+    <color name="GM2_grey_500">@*android:color/background_leanback_dark</color>
+    <color name="GM2_grey_600">@*android:color/holo_light_primary_dark</color>
     <color name="GM2_grey_650">#ff70757a</color>
     <color name="GM2_grey_700">@*android:color/background_dark</color>
     <color name="GM2_grey_800">@*android:color/background_dark</color>
@@ -118,8 +118,8 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error50">#ffdc362e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_error50">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
@@ -298,7 +298,7 @@
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="wallet_card_border">#33ffffff</color>
     <color name="wallet_grey_100">#fff1f3f4</color>
-    <color name="wallet_grey_500">#ff9aa0a6</color>
+    <color name="wallet_grey_500">@*android:color/background_leanback_dark</color>
     <color name="wallet_grey_800">@*android:color/background_dark</color>
     <color name="wallet_grey_900">@*android:color/background_dark</color>
     <color name="wallet_more_vert">@*android:color/accent_material_dark</color>

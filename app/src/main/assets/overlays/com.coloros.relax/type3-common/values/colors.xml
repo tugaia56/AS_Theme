@@ -187,7 +187,7 @@
     <color name="couiRedFifthTextNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFirstBarDisabledColor">#4cf23d5b</color>
     <color name="couiRedFirstLightNormal">#26f23d5b</color>
-    <color name="couiRedFirstNormal">#fff23d5b</color>
+    <color name="couiRedFirstNormal">@*android:color/accent_material_dark</color>
     <color name="couiRedFirstTextHighLight">#4cf23d5b</color>
     <color name="couiRedFourthBarDisabledColor">#4c9a706c</color>
     <color name="couiRedFourthLightNormal">#269a706c</color>
@@ -233,7 +233,7 @@
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhBarDisabledColor">#4d007aff</color>
     <color name="couiSingleSeventhLightNormal">#26007aff</color>
-    <color name="couiSingleSeventhNormal">#ff007aff</color>
+    <color name="couiSingleSeventhNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhTextHighLight">#4c007aff</color>
     <color name="couiSingleSixthBarDisabledColor">#4dcd2638</color>
     <color name="couiSingleSixthLightNormal">#26cd2638</color>
@@ -807,7 +807,7 @@
     <color name="purple_500">#ff6200ee</color>
     <color name="purple_700">#ff3700b3</color>
     <color name="red_badge">@*android:color/accent_material_dark</color>
-    <color name="relax_switch_blue">#ff007aff</color>
+    <color name="relax_switch_blue">@*android:color/accent_material_dark</color>
     <color name="relax_switch_outer_circle_disable_color">#ffffffff</color>
     <color name="relax_switch_outer_circle_disable_color_dark">#ffffffff</color>
     <color name="relax_switch_unchecked_bar_color">#ffe5e5e5</color>

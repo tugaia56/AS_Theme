@@ -103,7 +103,7 @@
         <item name="geoColorLightInverseSurface">@*android:color/background_dark</item>
         <item name="geoColorLightLocalGuides">#ffe35a1b</item>
         <item name="geoColorLightLocalGuidesVariant">#ffc54105</item>
-        <item name="geoColorLightNegative">#ffdc362e</item>
+        <item name="geoColorLightNegative">@*android:color/accent_material_dark</item>
         <item name="geoColorLightNegativeContainer">#fffff0ef</item>
         <item name="geoColorLightNegativeContainerVariant">#ffffdad8</item>
         <item name="geoColorLightNeutralContainer">#fff2f2f2</item>
@@ -142,7 +142,7 @@
         <item name="geoColorLightPrimaryContainer">#ff007b8b</item>
         <item name="geoColorLightSavedCustomList">#ff266772</item>
         <item name="geoColorLightSavedDefault">#ff006876</item>
-        <item name="geoColorLightSavedFavorite">#ffb3261e</item>
+        <item name="geoColorLightSavedFavorite">@*android:color/accent_material_dark</item>
         <item name="geoColorLightSavedStarred">#ff945700</item>
         <item name="geoColorLightSavedWantToGo">#ff146c2e</item>
         <item name="geoColorLightSecondaryContainer">#ffd3f7ff</item>

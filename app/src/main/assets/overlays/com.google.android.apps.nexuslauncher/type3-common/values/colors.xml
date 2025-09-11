@@ -160,8 +160,8 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error50">#ffdc362e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_error50">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
@@ -264,14 +264,14 @@
     <color name="mock_list_background">#ffdadce0</color>
     <color name="mock_list_button">#ffbdc1c6</color>
     <color name="mock_list_preview_message">#ffbdc1c6</color>
-    <color name="mock_list_profile_icon">#ff9aa0a6</color>
+    <color name="mock_list_profile_icon">@*android:color/background_leanback_dark</color>
     <color name="mock_list_top_bar">#ffe8eaed</color>
     <color name="mock_list_top_bar_item">#fff8f9fa</color>
     <color name="mock_search_bar">@*android:color/background_dark</color>
     <color name="mock_webpage_background">#fff1f3f4</color>
     <color name="mock_webpage_page_text">#ffbdc1c6</color>
     <color name="mock_webpage_top_bar">#ffe8eaed</color>
-    <color name="mock_webpage_top_bar_item">#ff80868b</color>
+    <color name="mock_webpage_top_bar_item">@*android:color/holo_light_primary_dark</color>
     <color name="mock_webpage_url_bar">#ff6e7175</color>
     <color name="mock_webpage_url_bar_item">#ff9a9a9a</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>

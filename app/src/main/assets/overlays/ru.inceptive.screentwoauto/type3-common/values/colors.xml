@@ -65,7 +65,7 @@
     <color name="car_grey_300">#ffffffff</color>
     <color name="car_grey_400">#ffbdbdbd</color>
     <color name="car_grey_50">@*android:color/background_dark</color>
-    <color name="car_grey_500">#ff9aa0a6</color>
+    <color name="car_grey_500">@*android:color/background_leanback_dark</color>
     <color name="car_grey_600">@*android:color/button_material_dark</color>
     <color name="car_grey_650">#ff6b6b6b</color>
     <color name="car_grey_700">#ff616161</color>

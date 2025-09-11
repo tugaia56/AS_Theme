@@ -118,9 +118,9 @@
     <color name="light_text_medium">@*android:color/background_dark</color>
     <color name="dark_text_medium">#ffe8eaed</color>
     <color name="black_text_medium">#ffe8eaed</color>
-    <color name="light_text_small">#ff5f6368</color>
-    <color name="dark_text_small">#ff9aa0a6</color>
-    <color name="black_text_small">#ff9aa0a6</color>
+    <color name="light_text_small">@*android:color/button_material_dark</color>
+    <color name="dark_text_small">@*android:color/background_leanback_dark</color>
+    <color name="black_text_small">@*android:color/background_leanback_dark</color>
     <color name="light_card_1">#ffd5e5fb</color>
     <color name="dark_card_1">#ff333c4b</color>
     <color name="black_card_1">#ff05152b</color>
@@ -169,8 +169,8 @@
     <color name="light_dialog_title">@*android:color/background_dark</color>
     <color name="dark_dialog_title">#ffe8eaed</color>
     <color name="black_dialog_title">#ffe8eaed</color>
-    <color name="light_nav_normal">#ff5f6368</color>
-    <color name="dark_nav_normal">#ff9aa0a6</color>
+    <color name="light_nav_normal">@*android:color/button_material_dark</color>
+    <color name="dark_nav_normal">@*android:color/background_leanback_dark</color>
     <color name="black_nav_normal">#ffe8eaed</color>
     <color name="light_nav_activated">#ffffffff</color>
     <color name="dark_nav_activated">@*android:color/background_dark</color>
@@ -205,7 +205,7 @@
     <color name="light_ic_card_7">#ff607d8b</color>
     <color name="dark_ic_card_7">#ffb8bec5</color>
     <color name="black_ic_card_7">#ffb8bec5</color>
-    <color name="dn_nav_normal">#ff5f6368</color>
+    <color name="dn_nav_normal">@*android:color/button_material_dark</color>
     <color name="dn_nav_activated">@*android:color/accent_material_dark</color>
     <color name="light_google_btn_ripple">#66ffffff</color>
     <color name="dark_google_btn_ripple">#66ffffff</color>
@@ -230,7 +230,7 @@
     <color name="black_progress">@*android:color/accent_material_dark</color>
     <color name="dn_google_btn_text">#ffffffff</color>
     <color name="dn_text_medium">@*android:color/background_dark</color>
-    <color name="dn_text_small">#ff5f6368</color>
+    <color name="dn_text_small">@*android:color/button_material_dark</color>
     <color name="dn_progress">#ffff8a65</color>
     <color name="dn_patched">#fff57f17</color>
     <color name="light_patched">#fff57f17</color>

@@ -174,8 +174,8 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error50">#ffdc362e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_error50">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
@@ -415,13 +415,13 @@
     <color name="oplus_seekbar_progress_light_color_disabled">#ffe6e6e6</color>
     <color name="oplus_seekbar_secondary_progress_color">#4dffffff</color>
     <color name="oplus_seekbar_shadow_color">#1e000000</color>
-    <color name="oplus_seekbar_text_color">#ffec3e50</color>
+    <color name="oplus_seekbar_text_color">@*android:color/accent_material_dark</color>
     <color name="oplus_seekbar_thumb_color">#ffffffff</color>
     <color name="oplus_seekbar_thumb_color_disabled">#ffffffff</color>
     <color name="oplus_seekbar_thumb_shadow_color">#29000000</color>
     <color name="oplus_seekbar_tick_mark_color">#fff2f2f2</color>
     <color name="oplus_textinput_stroke_color_disabled">#19000000</color>
-    <color name="option_border_default">#ff5f6368</color>
+    <color name="option_border_default">@*android:color/button_material_dark</color>
     <color name="peek_accent_color_dark">@*android:color/system_accent1_600</color>
     <color name="peek_accent_color_light">@*android:color/system_accent1_600</color>
     <color name="peek_summary_text_color_dark">#89ffffff</color>

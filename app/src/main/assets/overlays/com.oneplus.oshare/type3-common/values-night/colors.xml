@@ -236,7 +236,7 @@
     <color name="coui_color_additional_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_violet">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_yellow">@*android:color/accent_material_dark</color>
-    <color name="coui_color_assist_azure">#ff3d98cc</color>
+    <color name="coui_color_assist_azure">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_cyan">#ff329da8</color>
     <color name="coui_color_assist_green">#ff43a84e</color>
     <color name="coui_color_assist_mint">@*android:color/accent_material_dark</color>
@@ -245,7 +245,7 @@
     <color name="coui_color_assist_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure">@*android:color/accent_material_dark</color>
-    <color name="coui_color_azure_variant">#ff3d98cc</color>
+    <color name="coui_color_azure_variant">@*android:color/accent_material_dark</color>
     <color name="coui_color_background_elevated">@*android:color/background_dark</color>
     <color name="coui_color_background_elevatedWithCard">@*android:color/background_dark</color>
     <color name="coui_color_background_top">@*android:color/background_dark</color>

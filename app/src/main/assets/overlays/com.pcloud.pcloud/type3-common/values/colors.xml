@@ -91,7 +91,7 @@
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="free_device_space_suggestion_color">#fffae5c5</color>
     <color name="glance_colorBackground">#fffffbfe</color>
-    <color name="glance_colorError">#ffb3261e</color>
+    <color name="glance_colorError">@*android:color/accent_material_dark</color>
     <color name="glance_colorErrorContainer">#fff9dedc</color>
     <color name="glance_colorOnBackground">#ff1c1b1f</color>
     <color name="glance_colorOnError">#ffffffff</color>
@@ -129,7 +129,7 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_neutral10">@*android:color/background_dark</color>

@@ -3,8 +3,8 @@
     <color name="A30">#4d000000</color>
     <color name="Azure40">@*android:color/accent_material_dark</color>
     <color name="Azure50">@*android:color/accent_material_dark</color>
-    <color name="AzureVariant">#ff45abe5</color>
-    <color name="AzureVariantDark">#ff3d98cc</color>
+    <color name="AzureVariant">@*android:color/accent_material_dark</color>
+    <color name="AzureVariantDark">@*android:color/accent_material_dark</color>
     <color name="Black">@*android:color/background_dark</color>
     <color name="Blue30">@*android:color/accent_material_dark</color>
     <color name="Blue30Opacity40">#665c9dff</color>
@@ -137,7 +137,7 @@
     <color name="batter_charge">#ff2dc84e</color>
     <color name="battery_common_color">#ff2dc84e</color>
     <color name="battery_out_stroke_tint">#d9000000</color>
-    <color name="battery_progress_red">#ffec3e50</color>
+    <color name="battery_progress_red">@*android:color/accent_material_dark</color>
     <color name="battery_text_color">#8c000000</color>
     <color name="black">@*android:color/background_dark</color>
     <color name="black_55">#8c000000</color>
@@ -691,9 +691,9 @@
     <color name="coui_color_additional_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_yellow_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_yellow_light">@*android:color/accent_material_dark</color>
-    <color name="coui_color_assist_azure">#ff45abe5</color>
-    <color name="coui_color_assist_azure_dark">#ff3d98cc</color>
-    <color name="coui_color_assist_azure_light">#ff45abe5</color>
+    <color name="coui_color_assist_azure">@*android:color/accent_material_dark</color>
+    <color name="coui_color_assist_azure_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_color_assist_azure_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_blue_light">@*android:color/accent_material_dark</color>
@@ -724,9 +724,9 @@
     <color name="coui_color_azure">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure_light">@*android:color/accent_material_dark</color>
-    <color name="coui_color_azure_variant">#ff45abe5</color>
-    <color name="coui_color_azure_variant_dark">#ff3d98cc</color>
-    <color name="coui_color_azure_variant_light">#ff45abe5</color>
+    <color name="coui_color_azure_variant">@*android:color/accent_material_dark</color>
+    <color name="coui_color_azure_variant_dark">@*android:color/accent_material_dark</color>
+    <color name="coui_color_azure_variant_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_background">@*android:color/background_dark</color>
     <color name="coui_color_background_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_elevated">@*android:color/background_dark</color>
@@ -1498,8 +1498,8 @@
     <color name="m3_ref_palette_error100">#ffffffff</color>
     <color name="m3_ref_palette_error20">#ff601410</color>
     <color name="m3_ref_palette_error30">#ff8c1d18</color>
-    <color name="m3_ref_palette_error40">#ffb3261e</color>
-    <color name="m3_ref_palette_error50">#ffdc362e</color>
+    <color name="m3_ref_palette_error40">@*android:color/accent_material_dark</color>
+    <color name="m3_ref_palette_error50">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
     <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>

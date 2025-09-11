@@ -82,8 +82,8 @@
     <color name="gm3_ref_palette_secondary60">#ff3998d3</color>
     <color name="gm3_ref_palette_secondary80">#ff7fcfff</color>
     <color name="gm3_ref_palette_secondary90">#ffc2e7ff</color>
-    <color name="gm_ref_palette_blue300">#ff8ab4f8</color>
-    <color name="gm_ref_palette_grey500">#ff9aa0a6</color>
+    <color name="gm_ref_palette_blue300">@*android:color/accent_material_dark</color>
+    <color name="gm_ref_palette_grey500">@*android:color/background_leanback_dark</color>
     <color name="gm_ref_palette_grey900">@*android:color/background_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
