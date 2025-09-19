@@ -1141,7 +1141,7 @@
     <color name="stress_rect_bg_gray_f3">#fff1f2f3</color>
     <color name="stress_rect_bg_gray_f4">#fff3f4f4</color>
     <color name="stress_rect_bg_gray_f8">#fff7f8f8</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

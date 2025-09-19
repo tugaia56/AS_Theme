@@ -458,7 +458,7 @@
     <color name="snapVideoCollapsedCoverBackground">#ff4d4a4a</color>
     <color name="snapVideoCoverBackground">#ff9b9898</color>
     <color name="style_color">#ffd2d2d2</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -393,7 +393,7 @@
     <color name="sud_system_neutral2_500">@*android:color/background_holo_dark</color>
     <color name="sud_system_neutral2_700">@*android:color/button_material_dark</color>
     <color name="suw_icon_tint_color">#8a000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

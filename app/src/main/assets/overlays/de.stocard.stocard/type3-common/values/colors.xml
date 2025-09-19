@@ -288,7 +288,7 @@
     <color name="stocard_swipe_indicator_color2">#80267a9c</color>
     <color name="stocard_swipe_indicator_color3">#bf267a9c</color>
     <color name="stocard_swipe_indicator_color4">#ff267a9c</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

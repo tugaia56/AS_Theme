@@ -383,7 +383,7 @@
     <color name="quantum_googblue600">#ff3b78e7</color>
     <color name="quantum_grey100">#fff5f5f5</color>
     <color name="quantum_grey600">@*android:color/button_material_dark</color>
-    <color name="quantum_grey700">#ff616161</color>
+    <color name="quantum_grey700">@*android:color/background_floating_material_dark</color>
     <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="recurrence_bubble_text_normal">#ff737373</color>
     <color name="recurrence_edit_event_button_background_stroke">#33000000</color>
@@ -412,7 +412,7 @@
     <color name="swipe_refresh_color2">@*android:color/accent_material_dark</color>
     <color name="swipe_refresh_color3">@*android:color/accent_material_dark</color>
     <color name="swipe_refresh_color4">#fff4b400</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

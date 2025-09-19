@@ -1008,7 +1008,7 @@
     <color name="support_secondary_text_default_material_light">#8a000000</color>
     <color name="support_secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="support_secondary_text_disabled_material_light">#24000000</color>
-    <color name="support_switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="support_switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="support_switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="support_switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="support_switch_thumb_normal_material_light">#fff1f1f1</color>
@@ -1027,7 +1027,7 @@
     <color name="switch_outer_circle_color">#ffffffff</color>
     <color name="switch_outer_circle_disable_color">#0d000000</color>
     <color name="switch_outer_circle_disable_dark_color">#1fffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

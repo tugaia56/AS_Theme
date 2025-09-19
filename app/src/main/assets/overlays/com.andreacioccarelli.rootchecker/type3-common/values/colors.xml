@@ -113,7 +113,7 @@
     <color name="Grey_50">#fffafafa</color>
     <color name="Grey_500">#ff9e9e9e</color>
     <color name="Grey_600">#ffffffff</color>
-    <color name="Grey_700">#ff616161</color>
+    <color name="Grey_700">@*android:color/background_floating_material_dark</color>
     <color name="Grey_800">@*android:color/accent_material_dark</color>
     <color name="Grey_900">@*android:color/background_dark</color>
     <color name="Indigo_100">#ffc5cae9</color>
@@ -360,8 +360,8 @@
     <color name="secondary_text_default_material_light">#b3ffffff</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#36ffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
-    <color name="switch_thumb_disabled_material_light">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="switch_thumb_disabled_material_light">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#ffbdbdbd</color>
     <color name="theme_accent">@*android:color/accent_material_dark</color>

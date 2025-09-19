@@ -219,7 +219,7 @@
     <color name="grey_50">#fffafafa</color>
     <color name="grey_500">#ff9e9e9e</color>
     <color name="grey_600">#ffff7575</color>
-    <color name="grey_700">#ff616161</color>
+    <color name="grey_700">@*android:color/background_floating_material_dark</color>
     <color name="grey_800">@*android:color/background_floating_material_dark</color>
     <color name="grey_900">@*android:color/background_dark</color>
     <color name="helpARAllPagesBottomBackgroundColor">@*android:color/background_dark</color>
@@ -403,8 +403,8 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#36ffffff</color>
     <color name="signup_edittext_hint">#ff7f7f7f</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
-    <color name="switch_thumb_disabled_material_light">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="switch_thumb_disabled_material_light">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#ffbdbdbd</color>
     <color name="teal_100">#ffb2dfdb</color>

@@ -232,7 +232,7 @@
     <color name="slider_tint_color">#ff3f51b5</color>
     <color name="switch_thumb_checked_color">#ff289d4d</color>
     <color name="switch_thumb_color">#ff929292</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

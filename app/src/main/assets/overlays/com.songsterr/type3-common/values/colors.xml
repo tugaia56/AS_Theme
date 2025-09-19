@@ -103,8 +103,8 @@
     <color name="song_list_position_text">@*android:color/accent_material_dark</color>
     <color name="song_list_title_text">@*android:color/white</color>
     <color name="speed_text">@*android:color/accent_material_dark</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
-    <color name="switch_thumb_disabled_material_light">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="switch_thumb_disabled_material_light">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#ffbdbdbd</color>
     <color name="tab_accent_color">@*android:color/white</color>

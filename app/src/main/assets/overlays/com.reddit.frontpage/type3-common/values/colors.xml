@@ -740,7 +740,7 @@
     <color name="sig_color_cell_destructive_light">#fff23c57</color>
     <color name="sig_color_cell_disabled_dark">#ff4e565f</color>
     <color name="sig_color_cell_disabled_light">#ff4e565f</color>
-    <color name="sig_color_cell_selected_dark">#ff616161</color>
+    <color name="sig_color_cell_selected_dark">@*android:color/background_floating_material_dark</color>
     <color name="sig_color_cell_selected_light">#ffeaedef</color>
     <color name="sig_color_icon_primary_dark">#ffdedede</color>
     <color name="sig_color_icon_primary_light">#ff2c3137</color>
@@ -775,7 +775,7 @@
     <color name="sig_color_text_primary_light">#ff16191c</color>
     <color name="sig_color_text_secondary_dark">#ff999999</color>
     <color name="sig_color_text_secondary_light">#ff656d78</color>
-    <color name="sig_color_text_tertiary_dark">#ff616161</color>
+    <color name="sig_color_text_tertiary_dark">@*android:color/background_floating_material_dark</color>
     <color name="sig_color_text_tertiary_light">#ff9a9fa7</color>
     <color name="sig_exception_color_action_menu_background_color">#fff8f8f8</color>
     <color name="sig_exception_color_camera_grid_border">#1e16191c</color>
@@ -836,7 +836,7 @@
     <color name="survey_txt_color_light">#b3000000</color>
     <color name="surveys_nps_box_color_white">#fff3f3f3</color>
     <color name="swipe_tutorial_background">#66000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

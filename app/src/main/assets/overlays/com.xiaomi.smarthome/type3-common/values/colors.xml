@@ -252,7 +252,7 @@
     <color name="g_default_base_primaryLight">@*android:color/accent_material_dark</color>
     <color name="g_default_base_ripple">#30000000</color>
     <color name="g_default_base_secondary">#ff9e9e9e</color>
-    <color name="g_default_base_secondaryDark">#ff616161</color>
+    <color name="g_default_base_secondaryDark">@*android:color/background_floating_material_dark</color>
     <color name="g_default_base_secondaryLight">#ffffffff</color>
     <color name="g_default_base_transparent">#00000000</color>
     <color name="g_default_primary">#ff00bcd4</color>
@@ -954,7 +954,7 @@
     <color name="startup_background">#ffff4800</color>
     <color name="std_dialog_button_green">@*android:color/accent_material_dark</color>
     <color name="std_list_subtitle">#ffffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

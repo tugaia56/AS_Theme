@@ -97,7 +97,7 @@
     <color name="grey50transparent_ea">#eafafafa</color>
     <color name="grey600">@*android:color/button_material_dark</color>
     <color name="grey600transparent">#80757575</color>
-    <color name="grey700">#ff616161</color>
+    <color name="grey700">@*android:color/background_floating_material_dark</color>
     <color name="grey800">@*android:color/accent_material_dark</color>
     <color name="grey850">@*android:color/background_dark</color>
     <color name="grey875">@*android:color/background_floating_material_dark</color>
@@ -307,7 +307,7 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="status_bar_transparency">#cb000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

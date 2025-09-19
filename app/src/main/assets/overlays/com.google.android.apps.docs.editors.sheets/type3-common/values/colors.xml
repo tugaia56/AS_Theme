@@ -324,7 +324,7 @@
     <color name="manage_addons_accent">@*android:color/accent_material_dark</color>
     <color name="manage_addons_background">#ffeeeeee</color>
     <color name="manage_addons_primary">#fff5f5f5</color>
-    <color name="manage_addons_primary_dark">#ff616161</color>
+    <color name="manage_addons_primary_dark">@*android:color/background_floating_material_dark</color>
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_google_red_500">@*android:color/accent_material_dark</color>
@@ -384,7 +384,7 @@
     <color name="quantum_grey400">#ffbdbdbd</color>
     <color name="quantum_grey50">#fffafafa</color>
     <color name="quantum_grey600">@*android:color/button_material_dark</color>
-    <color name="quantum_grey700">#ff616161</color>
+    <color name="quantum_grey700">@*android:color/background_floating_material_dark</color>
     <color name="quantum_grey800">@*android:color/background_dark</color>
     <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="quantum_lightgreen500">#ff8bc34a</color>
@@ -501,7 +501,7 @@
     <color name="sud_system_neutral2_700">@*android:color/button_material_light</color>																   
     <color name="sud_uniformity_backdrop_color">@*android:color/white</color>
     <color name="survey_question_highlight_color_tv">#26ffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

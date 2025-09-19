@@ -529,7 +529,7 @@
     <color name="file_properties_collapsing_toolbar">#40000000</color>
     <color name="file_properties_spec">#ff4c4c4c</color>
     <color name="find_replace_hint_color">#61ffffff</color>
-    <color name="fm_action_mode_background">#ff616161</color>
+    <color name="fm_action_mode_background">@*android:color/background_floating_material_dark</color>
     <color name="fontIntallLabel">@*android:color/accent_material_dark</color>
     <color name="fontIntalledStatus">@*android:color/button_material_dark</color>
     <color name="fontIntalledStatus_dialog">@*android:color/button_material_dark</color>
@@ -566,7 +566,7 @@
     <color name="grey_757575">@*android:color/button_material_dark</color>
     <color name="grey_light">#ff999999</color>
     <color name="grey_light_ultra">#ffcccccc</color>
-    <color name="grey_negative_button">#ff616161</color>
+    <color name="grey_negative_button">@*android:color/background_floating_material_dark</color>
     <color name="grey_toolbar_text_color">#ff5b5b5b</color>
     <color name="grid_item_background">@*android:color/background_dark</color>
     <color name="grid_item_background_normal">#ffe6e6e6</color>
@@ -981,7 +981,7 @@
     <color name="pdfColorPrimaryDark">#ff922824</color>
     <color name="pdfColorPrimaryDarker">#ff812320</color>
     <color name="pdfColorZoomPagesPopupBackground">@*android:color/ripple_material_dark</color>
-    <color name="pdfContentEditorTabBackground">#ff616161</color>
+    <color name="pdfContentEditorTabBackground">@*android:color/background_floating_material_dark</color>
     <color name="pdfFontPreview">@*android:color/background_dark</color>
     <color name="pdfFontPreview_dialog">@*android:color/background_dark</color>
     <color name="pdfMainViewsBorderColor">#ff9e9e9e</color>
@@ -1109,7 +1109,7 @@
     <color name="storage_analyzer_uses_left_background">#ff318ac3</color>
     <color name="support_dialog_error_color">#fff44336</color>
     <color name="support_dialog_gray_text_color">#ffbcbcbc</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

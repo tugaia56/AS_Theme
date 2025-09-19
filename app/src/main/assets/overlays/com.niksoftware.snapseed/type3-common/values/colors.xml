@@ -53,7 +53,7 @@
     <color name="parameter_selector_background">#5a000000</color>
     <color name="perspective_outline">#3fffffff</color>
     <color name="primary">#ffffffff</color>
-    <color name="primary_dark">#ff616161</color>
+    <color name="primary_dark">@*android:color/background_floating_material_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_dark_transparent">#1f000000</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -73,7 +73,7 @@
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="semitransparent">#cc000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
@@ -84,7 +84,7 @@
     <color name="title_text_color">@*android:color/background_dark</color>
     <color name="tool_background">#e6ffffff</color>
     <color name="tool_background_secondary">#e6e0e0e0</color>
-    <color name="tool_text">#ff616161</color>
+    <color name="tool_text">@*android:color/background_floating_material_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="try_it_color">@*android:color/accent_material_dark</color>

@@ -349,7 +349,7 @@
     <color name="dialogMessageText">#ff919191</color>
     <color name="dialogMessageTextSecondChoice">@*android:color/background_dark</color>
     <color name="dialogPinEditText">@*android:color/accent_material_dark</color>
-    <color name="dialogProgress">#ff616161</color>
+    <color name="dialogProgress">@*android:color/background_floating_material_dark</color>
     <color name="dialogRadioButton">@*android:color/accent_material_dark</color>
     <color name="dialogTitleText">@*android:color/accent_material_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
@@ -412,7 +412,7 @@
     <color name="fluent_grey24">#ff3d3d3d</color>
     <color name="fluent_grey26">@*android:color/background_dark</color>
     <color name="fluent_grey32">#ff525252</color>
-    <color name="fluent_grey38">#ff616161</color>
+    <color name="fluent_grey38">@*android:color/background_floating_material_dark</color>
     <color name="fluent_grey4">#ff0a0a0a</color>
     <color name="fluent_grey40">#ff666666</color>
     <color name="fluent_grey50">#ff808080</color>
@@ -1069,7 +1069,7 @@
     <color name="success_tint30">#ffa7e3a5</color>
     <color name="success_tint40">#ffcef0cd</color>
     <color name="swipe_refresh_layout_background_color">#fffafafa</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

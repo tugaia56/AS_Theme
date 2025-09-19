@@ -75,7 +75,7 @@
     <color name="imageBackground">#ff4c4c4c</color>
     <color name="indicator">#ff636363</color>
     <color name="info_window_text_color">#ccffffff</color>
-    <color name="info_window_timestamp_text">#ff616161</color>
+    <color name="info_window_timestamp_text">@*android:color/background_floating_material_dark</color>
     <color name="introduction_atlas_color_background_elevation">@*android:color/background_dark</color>
     <color name="introduction_disclaimer_text_color">#61ffffff</color>
     <color name="introduction_dummy_permission_bg_color">@*android:color/background_dark</color>

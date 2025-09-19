@@ -274,16 +274,16 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tile_descriptor_background_state_disabled">@*android:color/transparent</color>
     <color name="tile_descriptor_background_state_unavailable">#ffbdbdbd</color>
     <color name="tile_descriptor_icon_state_enabled">#ffffffff</color>
-    <color name="tile_descriptor_icon_state_unavailable">#ff616161</color>
-    <color name="tile_descriptor_summary_state_unavailable">#ff616161</color>
-    <color name="tile_descriptor_title_state_unavailable">#ff616161</color>
+    <color name="tile_descriptor_icon_state_unavailable">@*android:color/background_floating_material_dark</color>
+    <color name="tile_descriptor_summary_state_unavailable">@*android:color/background_floating_material_dark</color>
+    <color name="tile_descriptor_title_state_unavailable">@*android:color/background_floating_material_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
 </resources>

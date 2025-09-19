@@ -96,9 +96,9 @@
     <color name="games_metagame_avatar_focused_outline_stroke">#9996aa39</color>
     <color name="games_tile_text_color_primary_text">@*android:color/button_material_dark</color>
     <color name="games_video_recording_onboarding_background_color">#fff5f5f5</color>
-    <color name="games_video_recording_onboarding_dot_active">#ff616161</color>
+    <color name="games_video_recording_onboarding_dot_active">@*android:color/background_floating_material_dark</color>
     <color name="games_video_recording_onboarding_dot_inactive">#66616161</color>
-    <color name="games_video_recording_onboarding_text_color">#ff616161</color>
+    <color name="games_video_recording_onboarding_text_color">@*android:color/background_floating_material_dark</color>
     <color name="games_video_recording_onboarding_title_color">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_deprecated_green40">#ff146c2e</color>
     <color name="gm3_ref_palette_deprecated_green70">#ff37be5f</color>
@@ -388,7 +388,7 @@
     <color name="play_avatar_pressed_fill">#80ffffff</color>
     <color name="play_disabled_grey">#ffd0d0d0</color>
     <color name="play_fg_primary">@*android:color/background_dark</color>
-    <color name="play_fg_secondary">#ff616161</color>
+    <color name="play_fg_secondary">@*android:color/background_floating_material_dark</color>
     <color name="play_fg_tertiary">#ff9e9e9e</color>
     <color name="play_games_client_action_bar">@*android:color/background_dark</color>
     <color name="play_games_client_status_bar">@*android:color/background_dark</color>
@@ -406,7 +406,7 @@
     <color name="play_onboard_app_color_dark">@*android:color/accent_material_dark</color>
     <color name="play_reason_separator">#19000000</color>
     <color name="play_ripple_light">#20000000</color>
-    <color name="play_search_plate_navigation_button_color">#ff616161</color>
+    <color name="play_search_plate_navigation_button_color">@*android:color/background_floating_material_dark</color>
     <color name="play_transparent">#00000000</color>
     <color name="play_white">#ffffffff</color>
     <color name="play_white_disabled">#70ffffff</color>

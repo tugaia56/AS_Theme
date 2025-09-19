@@ -173,7 +173,7 @@
     <color name="sim_selector_text_secondary">#ff999999</color>
     <color name="solid_black">@*android:color/background_dark</color>
     <color name="subject_editor_bubble">#ffffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -274,7 +274,7 @@
     <color name="qr_background_color">#b3ffffff</color>
     <color name="qr_corner_line_color">#ffdadce0</color>
     <color name="qr_focused_corner_line_color">@*android:color/accent_material_dark</color>
-    <color name="raised_button_color_disabled">#ff616161</color>
+    <color name="raised_button_color_disabled">@*android:color/background_floating_material_dark</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -426,7 +426,7 @@
     <color name="sud_system_neutral2_500">@*android:color/background_holo_dark</color>
     <color name="sud_system_neutral2_700">@*android:color/button_material_dark</color>
     <color name="sud_uniformity_backdrop_color">@*android:color/white</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

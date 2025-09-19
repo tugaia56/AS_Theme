@@ -314,7 +314,7 @@
     <color name="play_avatar_pressed_fill">#80ffffff</color>
     <color name="play_disabled_grey">#ffd0d0d0</color>
     <color name="play_fg_primary">@*android:color/background_dark</color>
-    <color name="play_fg_secondary">#ff616161</color>
+    <color name="play_fg_secondary">@*android:color/background_floating_material_dark</color>
     <color name="play_fg_tertiary">#ff9e9e9e</color>
     <color name="play_header_list_tab_underline_color">#ffffffff</color>
     <color name="play_highlight_blue_fill">#4033b5e5</color>
@@ -327,7 +327,7 @@
     <color name="play_onboard_app_color_dark">#ffcc64a2</color>
     <color name="play_reason_separator">#19000000</color>
     <color name="play_ripple_light">#20000000</color>
-    <color name="play_search_plate_navigation_button_color">#ff616161</color>
+    <color name="play_search_plate_navigation_button_color">@*android:color/background_floating_material_dark</color>
     <color name="play_transparent">#00000000</color>
     <color name="play_white">#ffffffff</color>
     <color name="play_white_disabled">#70ffffff</color>
@@ -356,7 +356,7 @@
     <color name="status_bar_color_dark">@*android:color/black</color>
     <color name="status_bar_color_translucent">@*android:color/transparent</color>
     <color name="subscribed_badge_bg_color">#ff0f9d58</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

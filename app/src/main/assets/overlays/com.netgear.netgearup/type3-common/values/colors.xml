@@ -554,9 +554,9 @@
     <color name="sp_black">@*android:color/background_dark</color>
     <color name="sp_blue">#ff8628bd</color>
     <color name="sp_brandGray">#ffbababa</color>
-    <color name="sp_brandGrayDark">#ff616161</color>
+    <color name="sp_brandGrayDark">@*android:color/background_floating_material_dark</color>
     <color name="sp_brandGrayishBlue">#ff3b3a48</color>
-    <color name="sp_cardview_shadow_start_color">#ff616161</color>
+    <color name="sp_cardview_shadow_start_color">@*android:color/background_floating_material_dark</color>
     <color name="sp_colorPrimary">#ff9b00c3</color>
     <color name="sp_color_purple">@*android:color/accent_material_dark</color>
     <color name="sp_color_transparent">#00f9f8f8</color>
@@ -581,7 +581,7 @@
     <color name="sp_orbi_start_color">#ff0678dc</color>
     <color name="sp_red_banner_color">#fff11d41</color>
     <color name="sp_tab_background_color">#ffeff2f5</color>
-    <color name="sp_tab_deselected_color">#ff616161</color>
+    <color name="sp_tab_deselected_color">@*android:color/background_floating_material_dark</color>
     <color name="sp_transparent">#0000728b</color>
     <color name="sp_up_center_color">#ff1389e4</color>
     <color name="sp_up_end_color">#ff00a4f2</color>
@@ -607,7 +607,7 @@
     <color name="survey_txt_color_dark">#ffefefef</color>
     <color name="survey_txt_color_light">#b3000000</color>
     <color name="surveys_nps_box_color_white">#fff3f3f3</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

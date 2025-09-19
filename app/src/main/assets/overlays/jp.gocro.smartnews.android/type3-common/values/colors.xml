@@ -517,7 +517,7 @@
     <color name="story_premium_branding_foreground">#de000000</color>
     <color name="story_premium_paywall_background">#ffffffff</color>
     <color name="story_thumbnail_placeholder">#33ffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

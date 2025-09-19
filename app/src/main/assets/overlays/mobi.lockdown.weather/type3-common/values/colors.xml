@@ -230,7 +230,7 @@
     <color name="sunrise_fill">#fff7f4bd</color>
     <color name="sunrise_progress">@*android:color/accent_material_dark</color>
     <color name="sunrise_stroke">#4d979797</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

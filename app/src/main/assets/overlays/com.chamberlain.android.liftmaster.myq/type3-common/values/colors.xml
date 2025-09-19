@@ -112,7 +112,7 @@
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
     <color name="dim_grey">#ff707070</color>
-    <color name="dove_gray">#ff616161</color>
+    <color name="dove_gray">@*android:color/background_floating_material_dark</color>
     <color name="electric_blue">@*android:color/accent_material_dark</color>
     <color name="error_color">@*android:color/accent_material_dark</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
@@ -270,7 +270,7 @@
     <color name="ship_cove">#ff729cbd</color>
     <color name="sinopia">#ffd93900</color>
     <color name="smoke">#ff6b6b6b</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -106,11 +106,11 @@
     <color name="on_primary">#ffffffff</color>
     <color name="on_secondary">#ffffffff</color>
     <color name="on_surface">@*android:color/background_dark</color>
-    <color name="overlay_installed_invalid">@*android:color/holo_red_dark</color>				<!-- #dd0000 Inattivo (overlay non valido) -->
-    <color name="overlay_installed_list_entry">@*android:color/accent_material_dark</color>		<!-- #43a047Attivo (abilitato)  -->
+    <color name="overlay_installed_invalid">@*android:color/holo_red_dark</color>				<!-- Inattivo (overlay non valido) -->
+    <color name="overlay_installed_list_entry">@*android:color/accent_material_dark</color>		<!-- Attivo (abilitato) -->
     <color name="overlay_installed_not_active">#ff5983</color>									<!-- #ff5983 Inattivo (Riavvia per abilitare) -->
-    <color name="overlay_not_enabled_list_entry">#f16800</color>                   				<!-- #f16800 Attivo (disabilitato) -->
-    <color name="overlay_not_installed_list_entry">#000000</color>				     			<!-- #000000 Non Installato -->
+    <color name="overlay_not_enabled_list_entry">#f57c00</color>                   				<!-- #f57c00 Attivo (disabilitato) -->
+    <color name="overlay_not_installed_list_entry">#00ff00</color>				     			<!-- #00ff00 Non Installato -->
     <color name="primary">@*android:color/accent_material_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_dark_material_light">@*android:color/button_material_dark</color>
@@ -132,7 +132,7 @@
     <color name="splash_bg">@*android:color/background_dark</color>
     <color name="status_bar">@*android:color/background_dark</color>
     <color name="surface">#ffffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -29,7 +29,7 @@
     <color name="colorPrimary">@*android:color/accent_material_dark</color>
     <color name="colorPrimaryLight1">#ffd60000</color>
     <color name="colorPrimaryLight10">#ffe77c74</color>
-    <color name="colorPrimaryLight11">#ff616161</color>
+    <color name="colorPrimaryLight11">@*android:color/background_floating_material_dark</color>
     <color name="colorPrimaryLight2">#fff6501d</color>
     <color name="colorPrimaryLight3">#fff6c025</color>
     <color name="colorPrimaryLight4">#ff098043</color>
@@ -236,7 +236,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

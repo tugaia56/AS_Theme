@@ -1562,7 +1562,7 @@
     <color name="md_theme_material_light_blue_dark_surfaceBright">#ff37393c</color>
     <color name="md_theme_material_light_blue_dark_surfaceDim">#ff111416</color>
     <color name="md_theme_material_light_blue_dark_surfaceVariant">#ff454749</color>
-    <color name="md_theme_material_light_blue_dark_tertiary">#ffcfc0e8</color>
+    <color name="md_theme_material_light_blue_dark_tertiary">@*android:color/accent_material_dark</color>
     <color name="md_theme_material_light_blue_dark_tertiaryContainer">#ff4d4162</color>
     <color name="md_theme_material_light_blue_light_container">#ffedeef1</color>
     <color name="md_theme_material_light_blue_light_containerHigh">#ffe8e8eb</color>
@@ -1677,7 +1677,7 @@
     <color name="md_theme_material_light_blue_palette_tertiary_50">#ff7e7195</color>
     <color name="md_theme_material_light_blue_palette_tertiary_60">#ff988ab0</color>
     <color name="md_theme_material_light_blue_palette_tertiary_70">#ffb3a5cc</color>
-    <color name="md_theme_material_light_blue_palette_tertiary_80">#ffcfc0e8</color>
+    <color name="md_theme_material_light_blue_palette_tertiary_80">@*android:color/accent_material_dark</color>
     <color name="md_theme_material_light_blue_palette_tertiary_90">#ffebddff</color>
     <color name="md_theme_material_light_blue_palette_tertiary_95">#fff7edff</color>
     <color name="md_theme_material_light_blue_palette_tertiary_99">#fffffbff</color>
@@ -1686,7 +1686,7 @@
     <color name="md_theme_material_light_blue_secondaryFixed">#ffd3e5f5</color>
     <color name="md_theme_material_light_blue_secondaryFixedDim">#ffb7c9d9</color>
     <color name="md_theme_material_light_blue_tertiaryFixed">#ffebddff</color>
-    <color name="md_theme_material_light_blue_tertiaryFixedDim">#ffcfc0e8</color>
+    <color name="md_theme_material_light_blue_tertiaryFixedDim">@*android:color/accent_material_dark</color>
     <color name="md_theme_material_light_green_dark_container">#ff1d201e</color>
     <color name="md_theme_material_light_green_dark_containerHigh">#ff272b28</color>
     <color name="md_theme_material_light_green_dark_containerHighest">#ff323633</color>
@@ -3112,7 +3112,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

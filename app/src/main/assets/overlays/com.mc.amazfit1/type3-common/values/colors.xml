@@ -118,7 +118,7 @@
     <color name="distance">@*android:color/accent_material_dark</color>
     <color name="distancePoints">#ff81c784</color>
     <color name="drawableTintColor">@*android:color/background_dark</color>
-    <color name="drawableTintColorLowContrast">#ff616161</color>
+    <color name="drawableTintColorLowContrast">@*android:color/background_floating_material_dark</color>
     <color name="drawerGradientEndColor">#fff5f5f5</color>
     <color name="drawerGradientStartColor">#fffefefe</color>
     <color name="drawerTextColor">@*android:color/background_dark</color>
@@ -477,12 +477,12 @@
     <color name="supporter10">#ffffc400</color>
     <color name="supporter2">#ff00b0ff</color>
     <color name="supporter5">#ff00e654</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tabIndicatorSelected">@*android:color/background_dark</color>
-    <color name="tabText">#ff616161</color>
+    <color name="tabText">@*android:color/background_floating_material_dark</color>
     <color name="tabTextSelected">@*android:color/background_dark</color>
     <color name="table_view_default_selected_background_color">#fffada65</color>
     <color name="table_view_default_separator_color">#ffe7e7e7</color>
@@ -496,11 +496,11 @@
     <color name="timerBg">#ffe91e63</color>
     <color name="toolbarDivisor">#fff4f4f4</color>
     <color name="toolbarDivisorShadow">#ffcbcbcb</color>
-    <color name="toolbarIcon">#ff616161</color>
+    <color name="toolbarIcon">@*android:color/background_floating_material_dark</color>
     <color name="toolbarIconSelected">@*android:color/accent_material_dark</color>
     <color name="toolbarTab">#fffdfdfd</color>
     <color name="toolbarTab_light">#fffdfdfd</color>
-    <color name="toolbarText">#ff616161</color>
+    <color name="toolbarText">@*android:color/background_floating_material_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="transparent">#00ffffff</color>

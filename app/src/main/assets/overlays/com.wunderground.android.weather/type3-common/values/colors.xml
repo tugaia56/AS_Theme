@@ -509,7 +509,7 @@
     <color name="sunset_sunrise_tile_curved_text_color">@*android:color/background_holo_dark</color>
     <color name="swipe_to_refresh_icon_color_dark">#fff5f5f5</color>
     <color name="swipe_to_refresh_icon_color_light">#ff0000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

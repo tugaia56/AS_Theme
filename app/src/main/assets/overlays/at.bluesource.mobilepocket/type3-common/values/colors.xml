@@ -256,7 +256,7 @@
     <color name="hs__color_FF37474F">#ff37474f</color>
     <color name="hs__color_FF455A64">#ff455a64</color>
     <color name="hs__color_FF607D8B">#ff607d8b</color>
-    <color name="hs__color_FF616161">#ff616161</color>
+    <color name="hs__color_@*android:color/background_floating_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="hs__color_FF929495">#ff929495</color>
     <color name="hs__color_FFADB0B0">#ffadb0b0</color>
     <color name="hs__color_FFBDBDBD">#ffbdbdbd</color>
@@ -406,8 +406,8 @@
     <color name="secondary_text_default_material_light">#b3ffffff</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#36ffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
-    <color name="switch_thumb_disabled_material_light">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="switch_thumb_disabled_material_light">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#ffbdbdbd</color>
     <color name="switch_track_unchecked">#ffb2b2b2</color>

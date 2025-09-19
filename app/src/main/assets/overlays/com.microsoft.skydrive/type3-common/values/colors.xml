@@ -183,7 +183,7 @@
     <color name="dialogMessageText">#ff919191</color>
     <color name="dialogMessageTextSecondChoice">@*android:color/button_material_dark</color>
     <color name="dialogPinEditText">#ff0078d4</color>
-    <color name="dialogProgress">#ff616161</color>
+    <color name="dialogProgress">@*android:color/background_floating_material_dark</color>
     <color name="dialogRadioButton">#ff0078d4</color>
     <color name="dialogTitleText">#ff0078d4</color>
     <color name="discover_item_description_background">#fffafafa</color>
@@ -342,7 +342,7 @@
     <color name="fluent_global_grey_32">#ff525252</color>
     <color name="fluent_global_grey_34">#ff575757</color>
     <color name="fluent_global_grey_36">#ff5c5c5c</color>
-    <color name="fluent_global_grey_38">#ff616161</color>
+    <color name="fluent_global_grey_38">@*android:color/background_floating_material_dark</color>
     <color name="fluent_global_grey_4">#ff0a0a0a</color>
     <color name="fluent_global_grey_40">#ff666666</color>
     <color name="fluent_global_grey_42">#ff6b6b6b</color>
@@ -1203,7 +1203,7 @@
     <color name="lenshvc_filename_template_chip_background">#fff1f1f1</color>
     <color name="lenshvc_filter_background_color_view_fragment">#ffe6e6e6</color>
     <color name="lenshvc_filter_layout_pressed">#ffdcdcdc</color>
-    <color name="lenshvc_filter_list_text">#ff616161</color>
+    <color name="lenshvc_filter_list_text">@*android:color/background_floating_material_dark</color>
     <color name="lenshvc_foldable_right_screen_content_color">#ffffffff</color>
     <color name="lenshvc_foreground_color">#ffffffff</color>
     <color name="lenshvc_gallery_background_color">#ffffffff</color>
@@ -1594,7 +1594,7 @@
     <color name="standard_link_color">#ff3771df</color>
     <color name="status_bar_filter">#29000000</color>
     <color name="status_view_button_border_color">#ffc7e0f4</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

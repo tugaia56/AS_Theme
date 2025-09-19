@@ -779,7 +779,7 @@
     <color name="pspdf__dark_icons_blue">#ff64bddf</color>
     <color name="pspdf__dark_input_field_blue">#ff6cb6d0</color>
     <color name="pspdf__dark_page_number_blue">#ff64bddf</color>
-    <color name="pspdf__dark_popup_toolbar_background_color">#ff616161</color>
+    <color name="pspdf__dark_popup_toolbar_background_color">@*android:color/background_floating_material_dark</color>
     <color name="pspdf__dark_popup_toolbar_item_tint">#fff5f5f5</color>
     <color name="pspdf__dark_popup_toolbar_item_tint_disabled">#ff9e9e9e</color>
     <color name="pspdf__dark_scrollbars">#99d2ed4f</color>
@@ -822,7 +822,7 @@
     <color name="pspdf__note_editor_style_box_icon_tint">#a0000000</color>
     <color name="pspdf__page_creator_color_gray_light">#fff5f5f5</color>
     <color name="pspdf__popup_toolbar_background_color">#fff5f5f5</color>
-    <color name="pspdf__popup_toolbar_item_tint">#ff616161</color>
+    <color name="pspdf__popup_toolbar_item_tint">@*android:color/background_floating_material_dark</color>
     <color name="pspdf__popup_toolbar_item_tint_disabled">#ffbdbdbd</color>
     <color name="pspdf__red">#ffff4015</color>
     <color name="pspdf__required_text_form_element_border_color">#ffff0000</color>
@@ -959,7 +959,7 @@
     <color name="stripe_title_text_color">@*android:color/white</color>
     <color name="stripe_toolbar_color_default">#ff3f51b5</color>
     <color name="stripe_toolbar_color_default_dark">#ff324090</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

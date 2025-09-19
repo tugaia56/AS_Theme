@@ -389,7 +389,7 @@
     <color name="survey_surface_color_elevation_3">@*android:color/white</color>
     <color name="swipe_galleries_tip_shadow">#e64286f5</color>
     <color name="swipe_panos_tip_shadow">#e600bc5b</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

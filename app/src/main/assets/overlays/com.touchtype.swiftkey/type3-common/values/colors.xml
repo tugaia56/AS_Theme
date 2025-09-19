@@ -93,7 +93,7 @@
     <color name="gray_400">#ff939393</color>
     <color name="gray_50">#fff1f1f1</color>
     <color name="gray_500">@*android:color/button_material_dark</color>
-    <color name="gray_550">#ff616161</color>
+    <color name="gray_550">@*android:color/background_floating_material_dark</color>
     <color name="gray_600">@*android:color/background_dark</color>
     <color name="gray_700">@*android:color/background_dark</color>
     <color name="gray_800">@*android:color/background_dark</color>
@@ -282,7 +282,7 @@
     <color name="sk_brand_50">#ff3961ed</color>
     <color name="sk_brand_60">#ff1a2d6e</color>
     <color name="sk_tint_20_dark">#ff2a51ad</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

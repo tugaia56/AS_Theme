@@ -24,6 +24,7 @@
     <color name="colorOnDischargingStackedProgressbarContainer_mediumContrast">@*android:color/background_dark</color>
     <color name="colorOnDischargingStackedProgressbar_highContrast">@*android:color/background_dark</color>
     <color name="colorOnDischargingStackedProgressbar_mediumContrast">#ff330501</color>
+    <color name="green">#ff70e000</color>
     <color name="md_theme_background">@*android:color/background_dark</color>
     <color name="md_theme_error">#ffffb4ab</color>
     <color name="md_theme_errorContainer">#ff93000a</color>
@@ -58,4 +59,5 @@
     <color name="md_theme_surfaceVariant">#ff3f4948</color>
     <color name="md_theme_tertiary">#ffb0c9e7</color>
     <color name="md_theme_tertiaryContainer">#ff314962</color>
+    <color name="red">#ffef233c</color>
 </resources>

@@ -27,7 +27,7 @@
     <color name="account_status_status_gray">#fff6f6f6</color>
     <color name="action_bar_bg">#fffbfbfb</color>
     <color name="action_bar_color_default">#fff1f1f1</color>
-    <color name="action_mode_statusbar_color">#ff616161</color>
+    <color name="action_mode_statusbar_color">@*android:color/background_floating_material_dark</color>
     <color name="actionbar1">#ffd44eae</color>
     <color name="actionbar10">#ff3bb3b1</color>
     <color name="actionbar11">#ff2a8398</color>
@@ -54,7 +54,7 @@
     <color name="agenda_general_background_color">#ffeeeeee</color>
     <color name="agenda_general_background_color_dark">@*android:color/background_dark</color>
     <color name="agenda_item_declined_color">#66333333</color>
-    <color name="agenda_item_declined_color_dark">#ff616161</color>
+    <color name="agenda_item_declined_color_dark">@*android:color/background_floating_material_dark</color>
     <color name="agenda_item_not_selected">#00000000</color>
     <color name="agenda_item_standard_color">@*android:color/button_material_dark</color>
     <color name="agenda_item_standard_color_dark">#ffffffff</color>
@@ -425,7 +425,7 @@
     <color name="grey_50">#fffafafa</color>
     <color name="grey_500">#ff9e9e9e</color>
     <color name="grey_600">@*android:color/button_material_dark</color>
-    <color name="grey_700">#ff616161</color>
+    <color name="grey_700">@*android:color/background_floating_material_dark</color>
     <color name="grey_800">@*android:color/accent_material_dark</color>
     <color name="grey_900">@*android:color/background_dark</color>
     <color name="grey_semi_transparent">#778d8d8d</color>
@@ -557,7 +557,7 @@
     <color name="month_day_number">@*android:color/button_material_dark</color>
     <color name="month_day_number_dark">#ffffffff</color>
     <color name="month_day_number_other">#ff999999</color>
-    <color name="month_day_number_other_dark">#ff616161</color>
+    <color name="month_day_number_other_dark">@*android:color/background_floating_material_dark</color>
     <color name="month_dna_conflict_time_color">@*android:color/button_material_dark</color>
     <color name="month_event_color">@*android:color/button_material_dark</color>
     <color name="month_event_color_dark">#ffffffff</color>
@@ -751,7 +751,7 @@
     <color name="swipe_seperator">#ffc4c4c4</color>
     <color name="swipe_snooze">#ff2070f9</color>
     <color name="swipe_snooze_options">#ffa5a6a9</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

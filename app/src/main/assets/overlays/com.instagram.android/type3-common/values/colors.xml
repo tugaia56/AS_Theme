@@ -648,7 +648,7 @@
     <color name="sup_status_warning">#fffba524</color>
     <color name="sup_toggle_background">#cc4d4d4d</color>
     <color name="switch_handle">#fff9f8f8</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="text_selection_background">#2bffffff</color>

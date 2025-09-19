@@ -111,7 +111,7 @@
     <color name="favorites_prompt_background_color">#08000000</color>
     <color name="favorites_prompt_background_color_dark_mode">#ff37474f</color>
     <color name="favorites_prompt_border_color">#3380868b</color>
-    <color name="favorites_prompt_border_color_dark_mode">#ff616161</color>
+    <color name="favorites_prompt_border_color_dark_mode">@*android:color/background_floating_material_dark</color>
     <color name="favorites_prompt_text_color">#ff4f4f4f</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
@@ -455,7 +455,7 @@
     <color name="sticker_icon_background_color">#fff1f1f1</color>
     <color name="sticker_icon_background_color_dark_mode">@*android:color/button_material_dark</color>
     <color name="sticker_pack_author_color_dark_mode">#ffbdc1c6</color>
-    <color name="sticker_shadow_color_dark_mode">#ff616161</color>
+    <color name="sticker_shadow_color_dark_mode">@*android:color/background_floating_material_dark</color>
     <color name="success_color_device_default_dark">#ff5bb974</color>
     <color name="success_color_device_default_light">#ff1e8e3e</color>
     <color name="sud_color_accent_glif_dark">@*android:color/accent_material_dark</color>
@@ -630,7 +630,7 @@
     <color name="swatch_red">#ffff5252</color>
     <color name="swatch_white">#fffafafa</color>
     <color name="swatch_yellow">#fffbbc05</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -519,7 +519,7 @@
     <color name="supported_by_ads_dot">#ffc2c2ca</color>
     <color name="supported_by_ads_dot_highlighted">#ff32323d</color>
     <color name="supportedbyads_button_redirect_ad">#ff4286f4</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

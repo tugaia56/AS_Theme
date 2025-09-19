@@ -245,7 +245,7 @@
     <color name="splashButtonStartColor">#ffc20afe</color>
     <color name="splashButtonTextColor">#ffffffff</color>
     <color name="splashPrivacyTextColor">#ff02c9ff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

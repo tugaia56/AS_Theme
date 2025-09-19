@@ -106,7 +106,7 @@
     <color name="exo_white_opacity_70">#b3ffffff</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
-    <color name="gray">#ff616161</color>
+    <color name="gray">@*android:color/background_floating_material_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="ic_launcher_background">#ffcd201f</color>
@@ -263,7 +263,7 @@
     <color name="subscribed_text_color">#ff717171</color>
     <color name="subtitle_already_load_color">#ff005a71</color>
     <color name="subtitle_left_to_load_color">#ff008ea4</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

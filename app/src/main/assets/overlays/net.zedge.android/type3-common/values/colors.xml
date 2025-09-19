@@ -247,7 +247,7 @@
     <color name="sold_out_tint">#b2fbbe41</color>
     <color name="story_title">#ffc7c7c7</color>
     <color name="subtitled_thumb_title">#ffc7c7c7</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

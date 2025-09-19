@@ -352,7 +352,7 @@
     <color name="settings_bar_view_2_color">#ff24c1e0</color>
     <color name="settings_bar_view_3_color">@*android:color/accent_material_dark</color>
     <color name="settings_bar_view_4_color">#ff009688</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

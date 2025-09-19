@@ -321,7 +321,7 @@
     <color name="dewey_grey_32">@*android:color/accent_material_dark</color>
     <color name="dewey_grey_34">#ff575757</color>
     <color name="dewey_grey_36">#ff5c5c5c</color>
-    <color name="dewey_grey_38">#ff616161</color>
+    <color name="dewey_grey_38">@*android:color/background_floating_material_dark</color>
     <color name="dewey_grey_4">#ff0a0a0a</color>
     <color name="dewey_grey_40">@*android:color/accent_material_dark</color>
     <color name="dewey_grey_42">#ff6b6b6b</color>
@@ -391,7 +391,7 @@
     <color name="dialogMessageText">#ff919191</color>
     <color name="dialogMessageTextSecondChoice">@*android:color/background_dark</color>
     <color name="dialogPinEditText">@*android:color/accent_material_dark</color>
-    <color name="dialogProgress">#ff616161</color>
+    <color name="dialogProgress">@*android:color/background_floating_material_dark</color>
     <color name="dialogRadioButton">@*android:color/accent_material_dark</color>
     <color name="dialogTitleText">@*android:color/accent_material_dark</color>
     <color name="dialog_Positive_button_color">@*android:color/accent_material_dark</color>
@@ -481,7 +481,7 @@
     <color name="edge_5AE0A0">#ff5ae0a0</color>
     <color name="edge_5C5C5C">#ff5c5c5c</color>
     <color name="edge_5D5A58">#ff5d5a58</color>
-    <color name="edge_616161">#ff616161</color>
+    <color name="edge_616161">@*android:color/background_floating_material_dark</color>
     <color name="edge_61C184">#ff61c184</color>
     <color name="edge_631A1B">#ff631a1b</color>
     <color name="edge_646464">#ff646464</color>
@@ -770,7 +770,7 @@
     <color name="inapp_footer_disabled">#ffdadada</color>
     <color name="inapp_footer_normal">#ff828282</color>
     <color name="inapp_footer_selected">#ff625aba</color>
-    <color name="inapp_light_grey">#ff616161</color>
+    <color name="inapp_light_grey">@*android:color/background_floating_material_dark</color>
     <color name="inapp_light_white">#fff5f5f5</color>
     <color name="incognito_emphasis">@*android:color/white</color>
     <color name="input_underline_error_color">#ffd32f2f</color>
@@ -1080,7 +1080,7 @@
     <color name="status_text">#ffffffff</color>
     <color name="storage_card_gradient">#ff4cbdfd</color>
     <color name="surface_brand_primary">#ff3d6cdc</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
@@ -1124,7 +1124,7 @@
     <color name="textColorSecondaryInRubyNormal">#ff737373</color>
     <color name="theme_arrow_colorPrimary">#ff00809d</color>
     <color name="theme_arrow_colorPrimaryDark">#ff00809d</color>
-    <color name="theme_arrow_hint_color">#ff616161</color>
+    <color name="theme_arrow_hint_color">@*android:color/background_floating_material_dark</color>
     <color name="theme_arrow_responsive_background_normal_color">#ffffffff</color>
     <color name="theme_arrow_responsive_background_press_color">#09ffffff</color>
     <color name="theme_arrow_voice_background">#b2000000</color>
@@ -1152,7 +1152,7 @@
     <color name="theme_light_text_shadow">#ffffffff</color>
     <color name="theme_opal_colorPrimary">#ff00809d</color>
     <color name="theme_opal_colorPrimaryDark">#ff00809d</color>
-    <color name="theme_opal_hint_color">#ff616161</color>
+    <color name="theme_opal_hint_color">@*android:color/background_floating_material_dark</color>
     <color name="theme_opal_responsive_background_normal_color">#ffffffff</color>
     <color name="theme_opal_responsive_background_press_color">#09ffffff</color>
     <color name="theme_opal_voice_background">#b2000000</color>
@@ -1179,7 +1179,7 @@
     <color name="unified_camera_button_text">#ffffffff</color>
     <color name="unified_camera_button_text_color_light">#ffffffff</color>
     <color name="unified_camera_crop_view_mask_color">#7a000000</color>
-    <color name="unified_camera_desc_text_color">#ff616161</color>
+    <color name="unified_camera_desc_text_color">@*android:color/background_floating_material_dark</color>
     <color name="unified_camera_dim_background">#991f1f1f</color>
     <color name="unified_camera_fre_action_color">#ff3d6cdc</color>
     <color name="unified_camera_fre_action_color_dark">#ff83beec</color>
@@ -1193,7 +1193,7 @@
     <color name="unified_camera_fre_dot">#ff3d6cdc</color>
     <color name="unified_camera_fre_dot_dark">#ff83beec</color>
     <color name="unified_camera_fre_dot_inactive">@*android:color/background_dark</color>
-    <color name="unified_camera_fre_general_des_color">#ff616161</color>
+    <color name="unified_camera_fre_general_des_color">@*android:color/background_floating_material_dark</color>
     <color name="unified_camera_fre_hint">#ff8a8886</color>
     <color name="unified_camera_fre_sample_des_color">@*android:color/background_dark</color>
     <color name="unified_camera_fre_text_tips">#ff9e9e9e</color>
@@ -1211,7 +1211,7 @@
     <color name="unified_camera_selected_tab_background">#ff464feb</color>
     <color name="unified_camera_selected_tab_text">#ffffffff</color>
     <color name="unified_camera_transparent">@*android:color/transparent</color>
-    <color name="unified_camera_unselected_tab_text">#ff616161</color>
+    <color name="unified_camera_unselected_tab_text">@*android:color/background_floating_material_dark</color>
     <color name="unified_camera_white">@*android:color/white</color>
     <color name="uniform_style_black">@*android:color/background_dark</color>
     <color name="uniform_style_blue">#ff0078d7</color>

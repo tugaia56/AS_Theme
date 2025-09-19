@@ -119,7 +119,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="select_color">#ff2e2e32</color>
     <color name="sure_no_click">#ff6e7481</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

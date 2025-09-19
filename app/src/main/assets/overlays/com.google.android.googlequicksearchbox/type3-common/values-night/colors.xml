@@ -5,7 +5,6 @@
     <color name="agsa_color_custom_gradient_50">#7f000000</color>
     <color name="agsa_color_custom_overlay_shade">#8a8ab4f8</color>
     <color name="agsa_color_ptab_tab_shading_color_end">#ff393a3d</color>
-    <color name="ai_mode_sys_color_brand_divider">#ff21242b</color>
     <color name="ai_mode_sys_color_brand_on_surface">#ffe6e8f0</color>
     <color name="ai_mode_sys_color_brand_on_surface_de_emphasis">#ffadafb8</color>
     <color name="ai_mode_sys_color_brand_surface_container">#ff1d1e26</color>
@@ -130,11 +129,12 @@
     <color name="assistant_gem_sys_color_tertiary">#ff6dd58c</color>
     <color name="assistant_gem_sys_color_tertiary_container">#ff0f5223</color>
     <color name="assistant_line_chart_indicator_circle_color">#ff1aa64a</color>
+    <color name="assistant_line_chart_indicator_inner_circle_color">@*android:color/background_dark</color>
     <color name="assistant_line_chart_indicator_line_color">#ffe3e3e3</color>
     <color name="assistant_line_chart_label_text_color">#ffa2a9b0</color>
     <color name="assistant_line_chart_line_color">#ff1aa64a</color>
     <color name="assistant_line_chart_tooltip_background_color">#ffe3e3e3</color>
-    <color name="assistant_line_chart_tooltip_text_color">#ff1b1c1d</color>
+    <color name="assistant_line_chart_tooltip_text_color">@*android:color/background_dark</color>
     <color name="assistant_main_setting_bg">#3d7baaf7</color>
     <color name="assistant_mic_background_color">#ff162649</color>
     <color name="assistant_mic_pulse_color">@*android:color/accent_material_dark</color>
@@ -190,7 +190,7 @@
     <color name="bud_type_6_mojito_surface_variant">#ff434841</color>
     <color name="bud_type_6_porcelain_white_background">@*android:color/background_dark</color>
     <color name="bud_type_6_porcelain_white_on_background">#ffe3e3e3</color>
-    <color name="bud_type_6_porcelain_white_on_primary">#fff000</color>
+    <color name="bud_type_6_porcelain_white_on_primary">#ff062e6f</color>
     <color name="bud_type_6_porcelain_white_on_primary_container">#ffffffff</color>
     <color name="bud_type_6_porcelain_white_on_secondary">#ff003355</color>
     <color name="bud_type_6_porcelain_white_on_surface">#ffe3e3e3</color>
@@ -256,15 +256,13 @@
     <color name="googleapp_widget_customization_default_theme_box_background_color">#ff363a3c</color>
     <color name="googleapp_widget_customization_device_custom_theme_icon_background_color">#ff363a3c</color>
     <color name="lens_actionmenu_region_save_dialog_scroll_divider">#ff747775</color>
-    <color name="lens_bottom_searchbox_gradient_center_color">#cc101218</color>
-    <color name="lens_bottom_searchbox_gradient_end_color">#ff101218</color>
     <color name="lens_lensient_action_button_selected_icon_color">@*android:color/background_dark</color>
     <color name="lens_qf_filter_carousel_selected_background_color">#ff394457</color>
     <color name="lens_suggest_custom_landing_page_icon_on_surface_variant">#ff969ba1</color>
     <color name="lens_suggest_custom_landing_page_on_surface_variant">#ff969ba1</color>
     <color name="lensient_live_translate_button_active_background_color">@*android:color/accent_material_dark</color>
-    <color name="lensient_live_translate_button_background_color">#ff28292a</color>
-    <color name="lensient_translate_button_icon_color">#ff1f1f1f</color>
+    <color name="lensient_live_translate_button_background_color">@*android:color/button_material_dark</color>
+    <color name="lensient_translate_button_icon_color">@*android:color/background_dark</color>
     <color name="material_google_red_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
     <color name="og_consent_color_error">#fff2b8b5</color>
@@ -328,6 +326,7 @@
     <color name="xgads_sys_color_on_surface_default_cactus_vibrant">#ffedf3e4</color>
     <color name="xgads_sys_color_on_surface_default_ice_vibrant">#ffe8f2f7</color>
     <color name="xgads_sys_color_on_surface_emphasis">#ffe8e8e8</color>
+    <color name="xgads_sys_color_on_surface_icon_secondary">#ffc3c6d6</color>
     <color name="xgads_sys_color_on_surface_inverted">@*android:color/background_dark</color>
     <color name="xgads_sys_color_on_surface_primary">@*android:color/accent_material_dark</color>
     <color name="xgads_sys_color_outline_default">@*android:color/accent_material_dark</color>

@@ -296,7 +296,7 @@
     <color name="smoke900">@*android:color/background_dark</color>
     <color name="smokeA500">#8ad2dcf2</color>
     <color name="snag_callout_color">#ff444444</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

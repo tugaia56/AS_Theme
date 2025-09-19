@@ -164,7 +164,7 @@
     <color name="setContactBottomLineDarkColor">@*android:color/holo_light_primary_dark</color>
     <color name="setContactBottomLineLightColor">#ffdcdcdc</color>
     <color name="stackedBgColor">#ffd6d6d6</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

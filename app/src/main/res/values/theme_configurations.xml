@@ -22,11 +22,17 @@
     <string-array name="ThemeChangelog">
         <item>Versione 5.8.0</item>
         <item>ADDED:</item>
-        <item>- - -</item>
+        <item>Microsoft Launcher v6.250701.0.1169580</item>
+        <item>Lawnchair Launcher v15</item>
+        <item>Launcher XOS v13.9.43</item>
+        <item>RVX YouTube v20.03.43</item>
+        <item>RVX YouTube Music v8.03.54</item>
         <item>UPDATED:</item>
         <item>Microsoft MSN v32.3.430811006</item>
         <item>Google Calendar v2025.34.0</item>
-        <item>Mega v15.16</item>
+        <item>MEGA v15.16</item>
+        <item>Google App v16.35.65</item>
+        <item>Smart Sidebar v15.5.9</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

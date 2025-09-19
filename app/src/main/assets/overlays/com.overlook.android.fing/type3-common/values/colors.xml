@@ -201,7 +201,7 @@
     <color name="securityScore20">#ffdecf4b</color>
     <color name="securityScore50">#ffc5d251</color>
     <color name="securityScore80">#ff91d251</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
