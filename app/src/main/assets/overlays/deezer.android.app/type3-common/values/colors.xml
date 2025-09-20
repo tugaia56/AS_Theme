@@ -569,7 +569,7 @@
     <color name="palette_transparent">#00000000</color>
     <color name="palette_white">#ffffffff</color>
     <color name="palette_yellow_100">#fffff9c4</color>
-    <color name="palette_yellow_200">#fffff59d</color>
+    <color name="palette_yellow_200">@*android:color/accent_material_dark</color>
     <color name="palette_yellow_300">#fffff176</color>
     <color name="palette_yellow_400">#ffffee58</color>
     <color name="palette_yellow_50">#fffffde7</color>

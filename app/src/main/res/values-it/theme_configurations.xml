@@ -33,6 +33,7 @@
         <item>MEGA v15.16</item>
         <item>Google App v16.35.65</item>
         <item>Barra laterale intelligente v15.5.9</item>
+        <item>Macrodroid v5.56.11</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

@@ -834,7 +834,7 @@
     <color name="widget_unread_bg_color">#ff226ef8</color>
     <color name="yellow">#ffffeb3b</color>
     <color name="yellow_100">#fffff9c4</color>
-    <color name="yellow_200">#fffff59d</color>
+    <color name="yellow_200">@*android:color/accent_material_dark</color>
     <color name="yellow_300">#fffff176</color>
     <color name="yellow_400">#ffffee58</color>
     <color name="yellow_50">#fffffde7</color>

@@ -1374,7 +1374,7 @@
     <color name="material_vanilla_red_A400">#ffff2d6f</color>
     <color name="material_vanilla_red_A700">#ffe00032</color>
     <color name="material_yellow_100">#fffff9c4</color>
-    <color name="material_yellow_200">#fffff59d</color>
+    <color name="material_yellow_200">@*android:color/accent_material_dark</color>
     <color name="material_yellow_300">#fffff176</color>
     <color name="material_yellow_400">#ffffee58</color>
     <color name="material_yellow_50">#fffffde7</color>
@@ -2167,7 +2167,7 @@
     <color name="quantum_white_secondary_text">#b3ffffff</color>
     <color name="quantum_white_text">#ffffffff</color>
     <color name="quantum_yellow100">#fffff9c4</color>
-    <color name="quantum_yellow200">#fffff59d</color>
+    <color name="quantum_yellow200">@*android:color/accent_material_dark</color>
     <color name="quantum_yellow300">#fffff176</color>
     <color name="quantum_yellow400">#ffffee58</color>
     <color name="quantum_yellow50">#fffffde7</color>

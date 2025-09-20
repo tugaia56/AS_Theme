@@ -520,7 +520,7 @@
     <color name="material_teal_800">#ff00695c</color>
     <color name="material_teal_900">#ff004d40</color>
     <color name="material_yellow_100">#fffff9c4</color>
-    <color name="material_yellow_200">#fffff59d</color>
+    <color name="material_yellow_200">@*android:color/accent_material_dark</color>
     <color name="material_yellow_300">#fffff176</color>
     <color name="material_yellow_400">#ffffee58</color>
     <color name="material_yellow_50">#fffffde7</color>

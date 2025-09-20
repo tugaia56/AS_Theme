@@ -388,7 +388,7 @@
     <color name="md_teal_A700">#ff00bfa5</color>
     <color name="md_white_1000">#ffffffff</color>
     <color name="md_yellow_100">#fffff9c4</color>
-    <color name="md_yellow_200">#fffff59d</color>
+    <color name="md_yellow_200">@*android:color/accent_material_dark</color>
     <color name="md_yellow_300">#fffff176</color>
     <color name="md_yellow_400">#ffffee58</color>
     <color name="md_yellow_50">#fffffde7</color>

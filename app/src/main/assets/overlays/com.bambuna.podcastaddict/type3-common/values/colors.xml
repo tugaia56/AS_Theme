@@ -750,7 +750,7 @@
     <color name="windowBackgroundThemeBlack">@*android:color/background_dark</color>
     <color name="windowBackgroundThemeDark">@*android:color/background_dark</color>
     <color name="yellow_100">#fffff9c4</color>
-    <color name="yellow_200">#fffff59d</color>
+    <color name="yellow_200">@*android:color/accent_material_dark</color>
     <color name="yellow_300">#fffff176</color>
     <color name="yellow_400">#ffffee58</color>
     <color name="yellow_50">#fffffde7</color>

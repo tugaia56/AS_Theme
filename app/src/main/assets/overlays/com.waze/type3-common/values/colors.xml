@@ -234,7 +234,7 @@
     <color name="WinterBlue70pc">#8097afb0</color>
     <color name="WinterBlue800">#ff54676f</color>
     <color name="WinterBlue800shadow">#4f54676f</color>
-    <color name="Yellow100">#fffff59d</color>
+    <color name="Yellow100">@*android:color/accent_material_dark</color>
     <color name="Yellow200">#fffdec7b</color>
     <color name="Yellow300">#fffce354</color>
     <color name="Yellow400">#fffdd632</color>

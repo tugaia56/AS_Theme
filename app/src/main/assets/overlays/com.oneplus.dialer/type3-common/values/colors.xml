@@ -507,7 +507,7 @@
     <color name="material_tealA700">#ff00bfa5</color>
     <color name="material_white">#ffffffff</color>
     <color name="material_yellow100">#fffff9c4</color>
-    <color name="material_yellow200">#fffff59d</color>
+    <color name="material_yellow200">@*android:color/accent_material_dark</color>
     <color name="material_yellow300">#fffff176</color>
     <color name="material_yellow400">#ffffee58</color>
     <color name="material_yellow50">#fffffde7</color>
@@ -763,7 +763,7 @@
     <color name="md_tealA700">#ff00bfa5</color>
     <color name="md_white">#ffffffff</color>
     <color name="md_yellow100">#fffff9c4</color>
-    <color name="md_yellow200">#fffff59d</color>
+    <color name="md_yellow200">@*android:color/accent_material_dark</color>
     <color name="md_yellow300">#fffff176</color>
     <color name="md_yellow400">#ffffee58</color>
     <color name="md_yellow50">#fffffde7</color>
@@ -1426,7 +1426,7 @@
     <color name="quantum_white_secondary_text">#b3ffffff</color>
     <color name="quantum_white_text">#ffffffff</color>
     <color name="quantum_yellow100">#fffff9c4</color>
-    <color name="quantum_yellow200">#fffff59d</color>
+    <color name="quantum_yellow200">@*android:color/accent_material_dark</color>
     <color name="quantum_yellow300">#fffff176</color>
     <color name="quantum_yellow400">#ffffee58</color>
     <color name="quantum_yellow50">#fffffde7</color>

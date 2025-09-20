@@ -244,7 +244,7 @@
     <color name="Teal_A700">#ff00bfa5</color>
     <color name="White">#ffffffff</color>
     <color name="Yellow_100">#fffff9c4</color>
-    <color name="Yellow_200">#fffff59d</color>
+    <color name="Yellow_200">@*android:color/accent_material_dark</color>
     <color name="Yellow_300">#fffff176</color>
     <color name="Yellow_400">#ffffee58</color>
     <color name="Yellow_50">#fffffde7</color>
