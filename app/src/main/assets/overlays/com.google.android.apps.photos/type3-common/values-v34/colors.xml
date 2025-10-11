@@ -102,7 +102,7 @@
     <color name="sud_system_surface_variant_light">#e1bee7</color>
     <color name="sud_system_tertiary_container_dark">#ffab00</color>
     <color name="sud_system_tertiary_container_light">#ffc400</color>
-    <color name="sud_system_tertiary_dark">#ffd740</color>
+    <color name="sud_system_tertiary_dark">@*android:color/button_material_dark</color>
     <color name="sud_system_tertiary_fixed_dark">#ffe57f</color>
     <color name="sud_system_tertiary_fixed_dim_dark">#ff6f00</color>
     <color name="sud_system_tertiary_fixed_dim_light">#ff8f00</color>
@@ -132,7 +132,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#ffd740</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_tertiary">#ff8f00</color>

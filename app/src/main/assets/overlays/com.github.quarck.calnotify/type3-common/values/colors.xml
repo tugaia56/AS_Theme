@@ -76,11 +76,11 @@
     <color name="notification_material_background_media_default_color">@*android:color/button_material_dark</color>
     <color name="primary">@*android:color/accent_material_dark</color>
     <color name="primary_dark">@*android:color/background_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="primary_dark_material_light">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_material_light">@*android:color/background_dark</color>
     <color name="primary_light">@*android:color/accent_material_dark</color>
-    <color name="primary_material_dark">@*android:color/primary_material_dark</color>
-    <color name="primary_material_light">@*android:color/primary_material_dark</color>
+    <color name="primary_material_dark">@*android:color/background_dark</color>
+    <color name="primary_material_light">@*android:color/background_dark</color>
     <color name="primary_text">@*android:color/white</color>
     <color name="primary_text_default_material_dark">@*android:color/white</color>
     <color name="primary_text_default_material_light">@*android:color/white</color>

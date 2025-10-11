@@ -80,8 +80,8 @@
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">@*android:color/button_material_dark</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="primary_dark_material_light">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_material_light">@*android:color/background_dark</color>
     <color name="primary_material_dark">@*android:color/primary_material_dark</color>
     <color name="primary_material_light">@*android:color/primary_material_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>

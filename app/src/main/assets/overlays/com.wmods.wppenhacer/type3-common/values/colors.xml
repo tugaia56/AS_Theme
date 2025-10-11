@@ -174,7 +174,7 @@
     <color name="material_amber_A700">#ffffab00</color>
     <color name="material_black_1000">@*android:color/background_dark</color>
     <color name="material_blue_100">#ffbbdefb</color>
-    <color name="material_blue_200">#ff90caf9</color>
+    <color name="material_blue_200">@*android:color/accent_material_dark</color>
     <color name="material_blue_300">#ff64b5f6</color>
     <color name="material_blue_400">#ff42a5f5</color>
     <color name="material_blue_50">#ffe3f2fd</color>
@@ -419,7 +419,7 @@
     <color name="material_purple_A400">#ffd500f9</color>
     <color name="material_purple_A700">#ffaa00ff</color>
     <color name="material_red_100">#ffffcdd2</color>
-    <color name="material_red_200">#ffef9a9a</color>
+    <color name="material_red_200">@*android:color/accent_material_dark</color>
     <color name="material_red_300">#ffe57373</color>
     <color name="material_red_400">#ffef5350</color>
     <color name="material_red_50">#ffffebee</color>

@@ -421,7 +421,7 @@
     <color name="quantum_tealA400">#ff1de9b6</color>
     <color name="quantum_tealA700">#ff00bfa5</color>
     <color name="quantum_vanillablue100">#ffbbdefb</color>
-    <color name="quantum_vanillablue200">#ff90caf9</color>
+    <color name="quantum_vanillablue200">@*android:color/accent_material_dark</color>
     <color name="quantum_vanillablue300">#ff64b5f6</color>
     <color name="quantum_vanillablue400">#ff42a5f5</color>
     <color name="quantum_vanillablue50">#ffe3f2fd</color>
@@ -449,7 +449,7 @@
     <color name="quantum_vanillagreenA400">#ff00e676</color>
     <color name="quantum_vanillagreenA700">#ff00c853</color>
     <color name="quantum_vanillared100">#ffffcdd2</color>
-    <color name="quantum_vanillared200">#ffef9a9a</color>
+    <color name="quantum_vanillared200">@*android:color/accent_material_dark</color>
     <color name="quantum_vanillared300">@*android:color/accent_material_dark</color>
     <color name="quantum_vanillared400">#ffef5350</color>
     <color name="quantum_vanillared50">#ffffebee</color>

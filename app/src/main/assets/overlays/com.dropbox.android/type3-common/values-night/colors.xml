@@ -16,7 +16,7 @@
     <color name="color__inverse__button__primary__active">#ff0050d0</color>
     <color name="color__inverse__button__primary__hover">#ff0057e5</color>
     <color name="color__inverse__core__accent">#ff0061fe</color>
-    <color name="color__inverse__core__primary">#ff1e1919</color>
+    <color name="color__inverse__core__primary">#ffffffff</color>
     <color name="color__inverse__core__secondary">#fff7f5f2</color>
     <color name="color__inverse__disabled__background">#ffc0bbb4</color>
     <color name="color__inverse__disabled__border">#ffc0bbb4</color>
@@ -26,14 +26,14 @@
     <color name="color__inverse__faint__border">#33a69171</color>
     <color name="color__inverse__faint__text">#c7524a3e</color>
     <color name="color__inverse__glyph__accent">#ff0061fe</color>
-    <color name="color__inverse__glyph__primary">#ff1e1919</color>
+    <color name="color__inverse__glyph__primary">#ffffffff</color>
     <color name="color__inverse__highlight__temporary">#ffbad3fb</color>
     <color name="color__inverse__opacity__1">#24a69171</color>
     <color name="color__inverse__opacity__2">#3da69171</color>
     <color name="color__inverse__opacity__3">#52a69171</color>
     <color name="color__inverse__standard__background">#ffffffff</color>
     <color name="color__inverse__standard__border">#33a69171</color>
-    <color name="color__inverse__standard__text">#ff1e1919</color>
+    <color name="color__inverse__standard__text">#ffffffff</color>
     <color name="color__inverse__success__background">#1f2d7a02</color>
     <color name="color__inverse__success__border">#ff2d7a02</color>
     <color name="color__inverse__success__border__faint">#522d7a02</color>

@@ -58,7 +58,7 @@
     <color name="background_material_light">@*android:color/background_dark</color>
     <color name="blue700">@*android:color/background_dark</color>
     <color name="blue_100">#ffbbdefb</color>
-    <color name="blue_200">#ff90caf9</color>
+    <color name="blue_200">@*android:color/accent_material_dark</color>
     <color name="blue_300">#ff64b5f6</color>
     <color name="blue_400">#ff42a5f5</color>
     <color name="blue_50">#ffe3f2fd</color>
@@ -356,8 +356,8 @@
     <color name="pink_A700">#ffc51162</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="preferencesCopyrightText">#ffffffff</color>
-    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="primary_dark_material_light">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_material_light">@*android:color/background_dark</color>
     <color name="primary_material_dark">@*android:color/primary_material_dark</color>
     <color name="primary_material_light">@*android:color/primary_material_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -381,7 +381,7 @@
     <color name="purple_A400">@*android:color/accent_material_dark</color>
     <color name="purple_A700">#ffaa00ff</color>
     <color name="red_100">#ffffcdd2</color>
-    <color name="red_200">#ffef9a9a</color>
+    <color name="red_200">@*android:color/accent_material_dark</color>
     <color name="red_300">@*android:color/accent_material_dark</color>
     <color name="red_400">#ffef5350</color>
     <color name="red_50">#ffffebee</color>

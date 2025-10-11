@@ -26,7 +26,7 @@
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="blue">#ff1093f5</color>
     <color name="blue_100">#ffbbdefb</color>
-    <color name="blue_200">#ff90caf9</color>
+    <color name="blue_200">@*android:color/accent_material_dark</color>
     <color name="blue_300">#ff64b5f6</color>
     <color name="blue_400">#ff42a5f5</color>
     <color name="blue_50">#ffe3f2fd</color>
@@ -438,7 +438,7 @@
     <color name="purple_A700">#ffaa00ff</color>
     <color name="red">#fff6402c</color>
     <color name="red_100">#ffffcdd2</color>
-    <color name="red_200">#ffef9a9a</color>
+    <color name="red_200">@*android:color/accent_material_dark</color>
     <color name="red_300">@*android:color/accent_material_dark</color>
     <color name="red_400">@*android:color/ripple_material_dark</color>
     <color name="red_50">#ffffebee</color>

@@ -246,8 +246,8 @@
     <color name="dark_card_9">#ff463739</color>
     <color name="black_card_9">#ff2c1c1c</color>
     <color name="light_ic_card_9">#fff44336</color>
-    <color name="dark_ic_card_9">#ffef9a9a</color>
-    <color name="black_ic_card_9">#ffef9a9a</color>
+    <color name="dark_ic_card_9">@*android:color/accent_material_dark</color>
+    <color name="black_ic_card_9">@*android:color/accent_material_dark</color>
     <color name="dn_syntax_1">#ff000080</color>
     <color name="light_syntax_1">#ff000080</color>
     <color name="dark_syntax_1">#ff97a7c0</color>

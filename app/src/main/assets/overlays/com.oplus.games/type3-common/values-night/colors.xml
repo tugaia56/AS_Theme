@@ -256,7 +256,7 @@
     <color name="coui_color_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
     <color name="coui_color_card">#1affffff</color>
-    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+        <color name="coui_color_card_background">@*android:color/background_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_container12">#33ffffff</color>
     <color name="coui_color_container16">#40ffffff</color>

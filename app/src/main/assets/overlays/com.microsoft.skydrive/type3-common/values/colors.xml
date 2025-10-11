@@ -314,7 +314,7 @@
     <color name="fluent_global_brand_comm_blue_140">#ffb4d6fa</color>
     <color name="fluent_global_brand_comm_blue_150">#ffcfe4fa</color>
     <color name="fluent_global_brand_comm_blue_160">#ffebf3fc</color>
-    <color name="fluent_global_brand_comm_blue_20">@*android:color/accent_material_dark</color>
+    <color name="fluent_global_brand_comm_blue_20">@*android:color/ripple_material_dark</color>
     <color name="fluent_global_brand_comm_blue_30">#ff0a2e4a</color>
     <color name="fluent_global_brand_comm_blue_40">@*android:color/ripple_material_dark</color>
     <color name="fluent_global_brand_comm_blue_50">#ff0e4775</color>

@@ -27,7 +27,7 @@
     <color name="BlueGrey_800">#ff37474f</color>
     <color name="BlueGrey_900">#ff263238</color>
     <color name="Blue_100">#ffbbdefb</color>
-    <color name="Blue_200">#ff90caf9</color>
+    <color name="Blue_200">@*android:color/accent_material_dark</color>
     <color name="Blue_300">#ff64b5f6</color>
     <color name="Blue_400">#ff42a5f5</color>
     <color name="Blue_50">#ffe3f2fd</color>
@@ -215,7 +215,7 @@
     <color name="Purple_A400">@*android:color/accent_material_dark</color>
     <color name="Purple_A700">#ffaa00ff</color>
     <color name="Red_100">#ffffcdd2</color>
-    <color name="Red_200">#ffef9a9a</color>
+    <color name="Red_200">@*android:color/accent_material_dark</color>
     <color name="Red_300">@*android:color/accent_material_dark</color>
     <color name="Red_400">#ffef5350</color>
     <color name="Red_50">#ffffebee</color>
@@ -346,8 +346,8 @@
     <color name="md_material_blue_800">#ff1565c0</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">@*android:color/button_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="primary_dark_material_light">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_material_light">@*android:color/background_dark</color>
     <color name="primary_material_dark">@*android:color/primary_material_dark</color>
     <color name="primary_material_light">@*android:color/primary_material_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>

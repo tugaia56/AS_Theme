@@ -201,7 +201,7 @@
     <color name="material_dynamic_tertiary10">#fff9c4</color>
     <color name="material_dynamic_tertiary100">#ffab00</color>
     <color name="material_dynamic_tertiary20">#ffc400</color>
-    <color name="material_dynamic_tertiary30">#ffd740</color>
+    <color name="material_dynamic_tertiary30">@*android:color/button_material_dark</color>
     <color name="material_dynamic_tertiary40">#ffe57f</color>
     <color name="material_dynamic_tertiary50">@*android:color/background_dark</color>
     <color name="material_dynamic_tertiary60">#ff8f00</color>

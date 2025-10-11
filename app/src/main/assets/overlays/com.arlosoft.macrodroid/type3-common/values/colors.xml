@@ -112,7 +112,7 @@
     <color name="black_transparent">#44000000</color>
     <color name="black_very_transparent">#22000000</color>
     <color name="blue_100">#ffbbdefb</color>
-    <color name="blue_200">#ff90caf9</color>
+    <color name="blue_200">@*android:color/accent_material_dark</color>
     <color name="blue_300">#ff64b5f6</color>
     <color name="blue_400">#ff42a5f5</color>
     <color name="blue_50">#ffe3f2fd</color>
@@ -137,7 +137,7 @@
     <color name="bottom_nav_bar">@*android:color/background_dark</color>
     <color name="bottom_nav_divider_bar">#ffcccccc</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
-    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_disabled_material_light">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
     <color name="bright_foreground_material_light">@*android:color/black</color>
     <color name="brown_100">#ffd7ccc8</color>
@@ -205,7 +205,7 @@
     <color name="darker_gray">#ffaaaaaa</color>
     <color name="darker_white">#ffeeeeee</color>
     <color name="debug_panel_black">@*android:color/background_dark</color>
-    <color name="debug_panel_dark_gray">#80000000</color>
+    <color name="debug_panel_dark_gray">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="debug_panel_gray">#1a000000</color>
     <color name="debug_panel_green">#ff01613f</color>
     <color name="debug_panel_light_gray">#08000000</color>
@@ -302,7 +302,7 @@
     <color name="div_separator_color">#33919cb5</color>
     <color name="div_tab_indicator">#ffffdc60</color>
     <color name="div_text_dark_disabled_40">#66000000</color>
-    <color name="div_text_dark_disabled_50">#80000000</color>
+    <color name="div_text_dark_disabled_50">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="div_text_dark_disabled_80">#cc000000</color>
     <color name="div_title_menu_color">#66000000</color>
     <color name="div_traffic_item_stroke_color">#ffedf0f2</color>
@@ -747,7 +747,7 @@
     <color name="md_amber_a700">#ffffab00</color>
     <color name="md_black">@*android:color/background_dark</color>
     <color name="md_blue_100">#ffbbdefb</color>
-    <color name="md_blue_200">#ff90caf9</color>
+    <color name="md_blue_200">@*android:color/accent_material_dark</color>
     <color name="md_blue_300">#ff64b5f6</color>
     <color name="md_blue_400">#ff42a5f5</color>
     <color name="md_blue_50">#ffe3f2fd</color>
@@ -954,7 +954,7 @@
     <color name="md_purple_a400">#ffd500f9</color>
     <color name="md_purple_a700">#ffaa00ff</color>
     <color name="md_red_100">#ffffcdd2</color>
-    <color name="md_red_200">#ffef9a9a</color>
+    <color name="md_red_200">@*android:color/accent_material_dark</color>
     <color name="md_red_300">#ffe57373</color>
     <color name="md_red_400">#ffef5350</color>
     <color name="md_red_50">#ffffebee</color>
@@ -1093,6 +1093,7 @@
     <color name="plugins_user_bar">#ff313131</color>
     <color name="preference_fallback_accent_color">#ff008577</color>
     <color name="primary">#ff3e526e</color>
+    <color name="primary_dark">@*android:color/background_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_dark_transparent">#ea283e61</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -1123,7 +1124,7 @@
     <color name="quick_settings_config_primary">#ff5b5b5b</color>
     <color name="red">#ffff0000</color>
     <color name="red_100">#ffffcdd2</color>
-    <color name="red_200">#ffef9a9a</color>
+    <color name="red_200">@*android:color/accent_material_dark</color>
     <color name="red_300">#ffe57373</color>
     <color name="red_400">#ffef5350</color>
     <color name="red_50">#ffffebee</color>

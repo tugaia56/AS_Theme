@@ -226,8 +226,8 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="test_color">@*android:color/background_dark</color>
     <color name="toolbar">@*android:color/white</color>
-    <color name="toolbar_dark">@*android:color/background_leanback_dark</color>
-    <color name="toolbar_overflow">@*android:color/black</color>
+    <color name="toolbar_dark">@*android:color/background_dark</color>
+    <color name="toolbar_overflow">@*android:color/background_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
 </resources>

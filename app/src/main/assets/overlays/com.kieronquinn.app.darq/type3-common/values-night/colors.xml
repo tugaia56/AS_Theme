@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background">@*android:color/background_dark</color>
+    <color name="background">#202124</color>
+    <color name="toolbar">#3C4043</color>
+    <color name="search_box_background">#757575</color>
+    <color name="toolbar_overflow">@*android:color/white</color>
+
     <color name="icon_circle_0">@*android:color/accent_material_dark</color>
     <color name="icon_circle_1">@*android:color/accent_material_dark</color>
-    <color name="icon_circle_10">@*android:color/accent_material_dark</color>
-    <color name="icon_circle_11">@*android:color/accent_material_dark</color>
-    <color name="icon_circle_12">@*android:color/accent_material_dark</color>
-    <color name="icon_circle_13">@*android:color/accent_material_dark</color>
-    <color name="icon_circle_14">@*android:color/accent_material_dark</color>
-    <color name="icon_circle_15">@*android:color/accent_material_dark</color>
     <color name="icon_circle_2">@*android:color/accent_material_dark</color>
     <color name="icon_circle_3">@*android:color/accent_material_dark</color>
     <color name="icon_circle_4">@*android:color/accent_material_dark</color>
@@ -17,23 +15,26 @@
     <color name="icon_circle_7">@*android:color/accent_material_dark</color>
     <color name="icon_circle_8">@*android:color/accent_material_dark</color>
     <color name="icon_circle_9">@*android:color/accent_material_dark</color>
-    <color name="icon_inside_0">#ffffffff</color>
-    <color name="icon_inside_1">#ffffffff</color>
-    <color name="icon_inside_10">#ffffffff</color>
-    <color name="icon_inside_11">#ffffffff</color>
-    <color name="icon_inside_12">#ffffffff</color>
-    <color name="icon_inside_13">#ffffffff</color>
-    <color name="icon_inside_14">#ffffffff</color>
-    <color name="icon_inside_15">#ffffffff</color>
-    <color name="icon_inside_2">#ffffffff</color>
-    <color name="icon_inside_3">#ffffffff</color>
-    <color name="icon_inside_4">#ffffffff</color>
-    <color name="icon_inside_5">#ffffffff</color>
-    <color name="icon_inside_6">#ffffffff</color>
-    <color name="icon_inside_7">#ffffffff</color>
-    <color name="icon_inside_8">#ffffffff</color>
-    <color name="icon_inside_9">#ffffffff</color>
-    <color name="search_box_background">@*android:color/button_material_dark</color>
-    <color name="toolbar">@*android:color/background_dark</color>
-    <color name="toolbar_overflow">@*android:color/white</color>
+    <color name="icon_circle_10">@*android:color/accent_material_dark</color>
+    <color name="icon_circle_11">@*android:color/accent_material_dark</color>
+    <color name="icon_circle_12">@*android:color/accent_material_dark</color>
+    <color name="icon_circle_13">@*android:color/accent_material_dark</color>
+    <color name="icon_circle_14">@*android:color/accent_material_dark</color>
+    <color name="icon_circle_15">@*android:color/accent_material_dark</color>
+
+    <color name="icon_inside_0">#ffffff</color>
+    <color name="icon_inside_1">#ffffff</color>
+    <color name="icon_inside_2">#ffffff</color>
+    <color name="icon_inside_3">#ffffff</color>
+    <color name="icon_inside_4">#ffffff</color>
+    <color name="icon_inside_5">#ffffff</color>
+    <color name="icon_inside_6">#ffffff</color>
+    <color name="icon_inside_7">#ffffff</color>
+    <color name="icon_inside_8">#ffffff</color>
+    <color name="icon_inside_9">#ffffff</color>
+    <color name="icon_inside_10">#ffffff</color>
+    <color name="icon_inside_11">#ffffff</color>
+    <color name="icon_inside_13">#ffffff</color>
+    <color name="icon_inside_14">#ffffff</color>
+    <color name="icon_inside_15">#ffffff</color>
 </resources>

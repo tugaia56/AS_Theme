@@ -434,8 +434,8 @@
     <color name="coui_color_background_dark">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
-    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
+        <color name="coui_color_card_background">@*android:color/background_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/background_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#33000000</color>

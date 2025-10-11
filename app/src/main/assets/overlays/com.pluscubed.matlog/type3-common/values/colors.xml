@@ -156,8 +156,8 @@
     <color name="orange2">#ffff9000</color>
     <color name="primary">@*android:color/background_floating_material_dark</color>
     <color name="primary_dark">@*android:color/background_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="primary_material_dark">@*android:color/primary_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
+    <color name="primary_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

@@ -276,6 +276,7 @@
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorPrimaryContainer">#ffc5eae2</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>
+    <color name="settingslib_materialColorSecondaryFixed">#ffcce8e2</color>
     <color name="settingslib_materialColorSurfaceContainer">#ffeeeeee</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ffe8e8e8</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#ffe3e3e3</color>

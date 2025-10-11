@@ -41,7 +41,7 @@
     <color name="m3_sys_color_dynamic_light_on_secondary_container">#e1bee7</color>
     <color name="m3_sys_color_dynamic_light_on_surface">#ffab00</color>
     <color name="m3_sys_color_dynamic_light_on_surface_variant">#ffc400</color>
-    <color name="m3_sys_color_dynamic_light_on_tertiary">#ffd740</color>
+    <color name="m3_sys_color_dynamic_light_on_tertiary">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_light_on_tertiary_container">#ffe57f</color>
     <color name="m3_sys_color_dynamic_light_outline">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_light_outline_variant">#ff8f00</color>

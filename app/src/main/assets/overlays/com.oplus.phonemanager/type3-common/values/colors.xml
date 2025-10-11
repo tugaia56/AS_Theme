@@ -1659,12 +1659,11 @@
     <color name="coui_color_blue_variant_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_variant_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card">#ffffffff</color>
-    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
-    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
-    <color name="coui_color_card_background_light">@*android:color/holo_primary</color>
-    <color name="coui_color_card_dark">#1affffff</color>
-    <color name="coui_color_card_light">#ffffffff</color>
+    <color name="coui_color_card">@*android:color/background_dark</color>
+        <color name="coui_color_card_background">@*android:color/background_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/background_dark</color>
+    <color name="coui_color_card_background_light">@*android:color/background_dark</color>
+    <color name="coui_color_card_dark">@*android:color/background_dark</color>    <color name="coui_color_card_light">@*android:color/background_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>

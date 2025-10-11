@@ -11,7 +11,7 @@
     <color name="settingslib_materialColorPrimary">#ff83d6c7</color>
     <color name="settingslib_materialColorPrimaryContainer">#ff005047</color>
     <color name="settingslib_materialColorSecondaryContainer">#ff334c47</color>
-    <color name="settingslib_materialColorSurfaceContainer"></color>
+    <color name="settingslib_materialColorSurfaceContainer">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceVariant">#ff474747</color>

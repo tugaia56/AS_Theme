@@ -132,7 +132,7 @@
     <color name="theme5_accent_2">@*android:color/accent_material_dark</color>
     <color name="theme5_primary">@*android:color/background_dark</color>
     <color name="theme5_primary_dark">@*android:color/background_dark</color>
-    <color name="theme6_accent_1">#ffef9a9a</color>
+    <color name="theme6_accent_1">@*android:color/accent_material_dark</color>
     <color name="theme6_accent_2">#ff4caf50</color>
     <color name="theme6_primary">#fff44336</color>
     <color name="theme6_primary_dark">#ffd32f2f</color>

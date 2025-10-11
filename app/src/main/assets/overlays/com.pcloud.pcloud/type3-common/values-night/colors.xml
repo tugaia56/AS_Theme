@@ -3,7 +3,7 @@
     <color name="auto_upload_suggestion_color">#ff3a4664</color>
     <color name="battery_optimizations_suggestion_color">@*android:color/accent_material_dark</color>
     <color name="enable_crypto_suggestion_color">#ff243a18</color>
-    <color name="fileBackgroundSelected">@*android:color/background_dark</color>
+    <color name="fileBackgroundSelected">@*android:color/ripple_material_dark</color>
     <color name="fileIconBackgroundColor">@*android:color/button_material_dark</color>
     <color name="free_device_space_suggestion_color">#ff5e3c08</color>
     <color name="glance_colorBackground">#ff1c1b1f</color>
@@ -124,10 +124,10 @@
     <color name="md_theme_secondary_highContrast">#fff1fdff</color>
     <color name="md_theme_secondary_mediumContrast">#ffb5cfd4</color>
     <color name="md_theme_surface">@*android:color/background_dark</color>
-    <color name="md_theme_surfaceBright">#ff343a3b</color>
-    <color name="md_theme_surfaceBright_highContrast">#ff343a3b</color>
-    <color name="md_theme_surfaceBright_mediumContrast">#ff343a3b</color>
-    <color name="md_theme_surfaceContainer">#ff1b2122</color>
+    <color name="md_theme_surfaceBright">#00ff00</color>
+    <color name="md_theme_surfaceBright_highContrast">#00ff00</color>
+    <color name="md_theme_surfaceBright_mediumContrast">#00ff00</color>
+    <color name="md_theme_surfaceContainer">@*android:color/background_floating_material_dark</color>
     <color name="md_theme_surfaceContainerHigh">@*android:color/button_material_dark</color>
     <color name="md_theme_surfaceContainerHigh_highContrast">@*android:color/button_material_dark</color>
     <color name="md_theme_surfaceContainerHigh_mediumContrast">@*android:color/button_material_dark</color>
@@ -140,8 +140,8 @@
     <color name="md_theme_surfaceContainerLowest">#ff090f10</color>
     <color name="md_theme_surfaceContainerLowest_highContrast">#ff090f10</color>
     <color name="md_theme_surfaceContainerLowest_mediumContrast">#ff090f10</color>
-    <color name="md_theme_surfaceContainer_highContrast">#ff1b2122</color>
-    <color name="md_theme_surfaceContainer_mediumContrast">#ff1b2122</color>
+    <color name="md_theme_surfaceContainer_highContrast">@*android:color/background_floating_material_dark</color>
+    <color name="md_theme_surfaceContainer_mediumContrast">@*android:color/background_floating_material_dark</color>
     <color name="md_theme_surfaceDim">@*android:color/background_dark</color>
     <color name="md_theme_surfaceDim_highContrast">@*android:color/background_dark</color>
     <color name="md_theme_surfaceDim_mediumContrast">@*android:color/background_dark</color>

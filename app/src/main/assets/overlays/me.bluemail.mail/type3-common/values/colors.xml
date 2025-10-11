@@ -128,7 +128,7 @@
     <color name="black_translucent">#50000000</color>
     <color name="blue">@*android:color/accent_material_dark</color>
     <color name="blue_100">#ffbbdefb</color>
-    <color name="blue_200">#ff90caf9</color>
+    <color name="blue_200">@*android:color/accent_material_dark</color>
     <color name="blue_300">#ff64b5f6</color>
     <color name="blue_400">#ff42a5f5</color>
     <color name="blue_50">#ffe3f2fd</color>
@@ -687,7 +687,7 @@
     <color name="recurrence_picker_background_up_dark">@*android:color/background_dark</color>
     <color name="red">#ffe15c5a</color>
     <color name="red_100">#ffffcdd2</color>
-    <color name="red_200">#ffef9a9a</color>
+    <color name="red_200">@*android:color/accent_material_dark</color>
     <color name="red_300">@*android:color/accent_material_dark</color>
     <color name="red_400">#ffef5350</color>
     <color name="red_50">#ffffebee</color>
@@ -813,7 +813,7 @@
     <color name="week_sunday">#80333333</color>
     <color name="week_sunday_dark">#fffafafa</color>
     <color name="week_today">#802979ff</color>
-    <color name="week_today_dark">#ff90caf9</color>
+    <color name="week_today_dark">@*android:color/accent_material_dark</color>
     <color name="whats_new_action_button">@*android:color/accent_material_dark</color>
     <color name="whats_new_bottom_layout">#fff1f1f1</color>
     <color name="whats_new_indicator_off">@*android:color/keyguard_avatar_frame_pressed_color</color>

@@ -303,13 +303,13 @@
     <color name="places_ui_default_primary_dark">@*android:color/background_dark</color>
     <color name="primary">@*android:color/accent_material_dark</color>
     <color name="primary_dark">@*android:color/accent_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="primary_dark_material_light">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_material_light">@*android:color/background_dark</color>
     <color name="primary_daynight_grey">@*android:color/accent_material_dark</color>
     <color name="primary_grey">@*android:color/accent_material_dark</color>
     <color name="primary_light">@*android:color/accent_material_dark</color>
-    <color name="primary_material_dark">@*android:color/primary_material_dark</color>
-    <color name="primary_material_light">@*android:color/primary_material_dark</color>
+    <color name="primary_material_dark">@*android:color/background_dark</color>
+    <color name="primary_material_light">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#ffffffff</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>

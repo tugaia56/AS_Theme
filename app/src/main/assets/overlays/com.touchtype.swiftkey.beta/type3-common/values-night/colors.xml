@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="container_edit_text_hint">#ffb7b7b7</color>
-    <color name="play_store_review_dialog_background">@*android:color/background_dark</color>
-    <color name="secondary_button_background_disabled">#ff292929</color>
-    <color name="secondary_button_background_focus">@*android:color/button_material_dark</color>
-    <color name="secondary_button_background_ripple">@*android:color/background_dark</color>
-    <color name="swiftkey_preference_summary_disabled">#b2b7b7b7</color>
-    <color name="swiftkey_preference_tip_text">#ffb7b7b7</color>
-    <color name="themes_tab_text">#ffb7b7b7</color>
-    <color name="toggle_thumb_disabled_on">#ff2a3f61</color>
-    <color name="toggle_track_disabled_off">@*android:color/background_dark</color>
-    <color name="toggle_track_disabled_on">#ff252525</color>
-    <color name="toggle_track_enabled_off">#ff454545</color>
+    <color name="popular_settings_border">@*android:color/accent_material_dark</color>
+    <color name="popular_settings_hint">#ff7f7f7f</color>
+    <color name="popular_settings_long_press_text">#ff999999</color>
+    <color name="sk_tint_40">@*android:color/background_dark</color>
 </resources>

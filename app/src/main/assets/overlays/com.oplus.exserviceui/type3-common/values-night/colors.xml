@@ -330,7 +330,7 @@
     <color name="coui_color_additional_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_background">@*android:color/background_dark</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+        <color name="coui_color_card_background">@*android:color/background_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_controls">#4dffffff</color>
     <color name="coui_color_disabled_neutral">#4dffffff</color>

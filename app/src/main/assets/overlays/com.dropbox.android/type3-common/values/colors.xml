@@ -19,9 +19,6 @@
     <color name="annotation_red">#ffc53d22</color>
     <color name="annotation_white">#ffffffff</color>
     <color name="annotation_yellow">#fff6c94e</color>
-    <color name="auth_kakao_background">#fffee500</color>
-    <color name="auth_kakao_icon">@*android:color/background_dark</color>
-    <color name="auth_kakao_text">#d8000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -35,7 +32,8 @@
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="color__accent__banana">#fffad24b</color>
+    <color name="chromeTransparencyBackgroundDark">@*android:color/button_material_dark</color>	
+    <color name="color__accent__banana">@*android:color/accent_material_dark</color>
     <color name="color__accent__cloud">#ffb4c8e1</color>
     <color name="color__accent__lime">#ffb4dc19</color>
     <color name="color__accent__orchid">#ffc8aff0</color>
@@ -67,7 +65,7 @@
     <color name="color__inverse__disabled__background">#ffd8d3cb</color>
     <color name="color__inverse__disabled__border">#4df7f5f2</color>
     <color name="color__inverse__disabled__text">#4df7f5f2</color>
-    <color name="color__inverse__elevated__background">#ff2b2929</color>
+    <color name="color__inverse__elevated__background">@*android:color/background_dark</color>
     <color name="color__inverse__faint__background">@*android:color/button_material_dark</color>
     <color name="color__inverse__faint__border">#338e8b87</color>
     <color name="color__inverse__faint__text">#99f7f5f2</color>
@@ -86,9 +84,9 @@
     <color name="color__inverse__success__text">#ffb4dc19</color>
     <color name="color__inverse__utility__focusring">#ff0060fa</color>
     <color name="color__inverse__warning__background">#4dfad24b</color>
-    <color name="color__inverse__warning__border">#fffad24b</color>
+    <color name="color__inverse__warning__border">@*android:color/accent_material_dark</color>
     <color name="color__inverse__warning__border__faint">#66fad24b</color>
-    <color name="color__inverse__warning__text">#fffad24b</color>
+    <color name="color__inverse__warning__text">@*android:color/accent_material_dark</color>
     <color name="color__toolbar">#f2ffffff</color>
     <color name="color_upload_thumb_gray">#fff7f5f2</color>
     <color name="color_upload_thumbnail_overlay">#b30061fe</color>
@@ -306,7 +304,7 @@
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">@*android:color/background_dark</color>
-    <color name="overlay_background">#b31e1919</color>
+    <color name="overlay_background">#b3ffffff</color>
     <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="pressed_highlight_for_light_views">#408e8b87</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
@@ -434,7 +432,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="thumbnail_overflow_overlay_background_color">#b31e1919</color>
+    <color name="thumbnail_overflow_overlay_background_color">#b3ffffff</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="upload_thumbnail_background">#fff7f5f2</color>
@@ -475,7 +473,7 @@
     <color name="vis2020_dig_color_dark_accent_orange">#ffff8c19</color>
     <color name="vis2020_dig_color_dark_accent_purple">#ffc8aff0</color>
     <color name="vis2020_dig_color_dark_accent_red">#fffa551e</color>
-    <color name="vis2020_dig_color_dark_accent_yellow">#fffad24b</color>
+    <color name="vis2020_dig_color_dark_accent_yellow">@*android:color/accent_material_dark</color>
     <color name="vis2020_dig_color_dark_alert_base">@*android:color/accent_material_dark</color>
     <color name="vis2020_dig_color_dark_alert_base_state_1">#fff77751</color>
     <color name="vis2020_dig_color_dark_alert_base_state_2">#fff46135</color>
@@ -491,7 +489,7 @@
     <color name="vis2020_dig_color_dark_border_bold">#ff736c64</color>
     <color name="vis2020_dig_color_dark_border_subtle">#24ffffff</color>
     <color name="vis2020_dig_color_dark_disabled_base">#ff5b5650</color>
-    <color name="vis2020_dig_color_dark_disabled_on_base">#FFFFFFFF</color>
+    <color name="vis2020_dig_color_dark_disabled_on_base">#ffffffff</color>
     <color name="vis2020_dig_color_dark_disabled_on_surface">#ff8c8279</color>
     <color name="vis2020_dig_color_dark_disabled_surface">#ff44403d</color>
     <color name="vis2020_dig_color_dark_folder_closed">#ffb4d1ff</color>
@@ -525,7 +523,7 @@
     <color name="vis2020_dig_color_dark_identity_on_orange">#fff9a34b</color>
     <color name="vis2020_dig_color_dark_identity_on_purple">#ffc8aff0</color>
     <color name="vis2020_dig_color_dark_identity_on_red">#fffa551e</color>
-    <color name="vis2020_dig_color_dark_identity_on_yellow">#fffad24b</color>
+    <color name="vis2020_dig_color_dark_identity_on_yellow">@*android:color/accent_material_dark</color>
     <color name="vis2020_dig_color_dark_identity_orange">#ff6d2e09</color>
     <color name="vis2020_dig_color_dark_identity_purple">#ff682760</color>
     <color name="vis2020_dig_color_dark_identity_red">#ff4e0119</color>
@@ -574,11 +572,11 @@
     <color name="vis2020_dig_color_dark_text_subtle">#ffbbb5ae</color>
     <color name="vis2020_dig_color_dark_utility_focus_ring">#ff5f9dff</color>
     <color name="vis2020_dig_color_dark_utility_overlay">#cc000000</color>
-    <color name="vis2020_dig_color_dark_warning_base">#fffad24b</color>
+    <color name="vis2020_dig_color_dark_warning_base">@*android:color/accent_material_dark</color>
     <color name="vis2020_dig_color_dark_warning_base_state_1">#ffdcaf21</color>
     <color name="vis2020_dig_color_dark_warning_base_state_2">#ffae8c1f</color>
     <color name="vis2020_dig_color_dark_warning_on_base">#ff3e2801</color>
-    <color name="vis2020_dig_color_dark_warning_on_surface">#fffad24b</color>
+    <color name="vis2020_dig_color_dark_warning_on_surface">@*android:color/accent_material_dark</color>
     <color name="vis2020_dig_color_dark_warning_surface">#ff4d3f14</color>
     <color name="vis2020_dig_color_dark_warning_surface_state_1">#ff5a4a16</color>
     <color name="vis2020_dig_color_dark_warning_surface_state_2">#ff675418</color>
@@ -621,7 +619,7 @@
     <color name="vis2020_dig_color_identity_orange">#fff9a34b</color>
     <color name="vis2020_dig_color_identity_purple">#ffc8aff0</color>
     <color name="vis2020_dig_color_identity_red">#fffa551e</color>
-    <color name="vis2020_dig_color_identity_yellow">#fffad24b</color>
+    <color name="vis2020_dig_color_identity_yellow">@*android:color/accent_material_dark</color>
     <color name="vis2020_dig_color_illustration_dynamic_line">#ffffffff</color>
     <color name="vis2020_dig_color_opacity_surface">#1a9b6400</color>
     <color name="vis2020_dig_color_opacity_surface_state_1">#269b6400</color>
@@ -674,12 +672,18 @@
     <color name="vis2020_dig_color_warning_surface">#fffbe8ae</color>
     <color name="vis2020_dig_color_warning_surface_state_1">#fff5db84</color>
     <color name="vis2020_dig_color_warning_surface_state_2">#ffeecc5d</color>
+    <color name="vis2023_dig_color_dark_background_raised">@*android:color/background_dark</color>
+    <color name="vis2023_dig_color_dark_background_subtle">@*android:color/background_dark</color>
     <color name="vis2023_dig_color_dark_primary_cta_base">#fff7f5f2</color>
     <color name="vis2023_dig_color_dark_primary_cta_base_state_1">#ffebe9e6</color>
     <color name="vis2023_dig_color_dark_primary_cta_base_state_2">#ffd3cec9</color>
     <color name="vis2023_dig_color_dark_primary_cta_on_base">#ffffffff</color>
+    <color name="vis2023_dig_color_opacity_surface">#3bd9d4cc</color>
+    <color name="vis2023_dig_color_opacity_surface_state_1">#61d9d4cc</color>
+    <color name="vis2023_dig_color_opacity_surface_state_2">#87d9d4cc</color>
     <color name="vis2023_dig_color_primary_cta_base">@*android:color/background_dark</color>
     <color name="vis2023_dig_color_primary_cta_base_state_1">#ff393633</color>
     <color name="vis2023_dig_color_primary_cta_base_state_2">#ff44403d</color>
     <color name="vis2023_dig_color_primary_cta_on_base">#fff7f5f2</color>
+    <color name="vis2023_dig_color_utility_overlay">#8c000000</color>
 </resources>

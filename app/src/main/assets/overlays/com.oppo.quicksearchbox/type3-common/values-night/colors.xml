@@ -171,7 +171,7 @@
     <color name="coui_color_assist_yellow">#ffc29427</color>
     <color name="coui_color_background_with_card">@*android:color/background_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+        <color name="coui_color_card_background">@*android:color/background_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_control_highlight">#7f707070</color>
     <color name="coui_color_controls">#4dffffff</color>

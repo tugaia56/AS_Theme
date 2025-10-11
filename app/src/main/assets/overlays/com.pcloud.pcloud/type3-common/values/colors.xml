@@ -85,8 +85,8 @@
     <color name="exo_styled_error_message_background">#80808080</color>
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
-    <color name="fileBackgroundSelected">@*android:color/background_dark</color>
-    <color name="fileIconBackgroundColor">@*android:color/background_dark</color>
+    <color name="fileBackgroundSelected">@*android:color/ripple_material_dark</color>
+    <color name="fileIconBackgroundColor">@*android:color/ripple_material_dark</color>
     <color name="foreground_material_dark">#ffffffff</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="free_device_space_suggestion_color">#fffae5c5</color>

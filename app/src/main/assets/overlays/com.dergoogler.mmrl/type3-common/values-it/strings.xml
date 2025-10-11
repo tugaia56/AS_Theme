@@ -28,6 +28,8 @@
     <string name="ads_name">Pubblicità</string>
     <string name="allow_advanced_kernelsu_api">Consentire l\'API Advanced KernelSU?</string>
     <string name="allow_advanced_kernelsu_api_desc">"Consentire a questo modulo di accedere all\'API Advanced KernelSU? Se non ti senti sicuro con questo modulo, non consentirglielo!"</string>
+    <string name="allow_cancel_action">Consenti Annulla azione</string>
+    <string name="allow_cancel_installation">Consenti Annulla Installazione</string>
     <string name="allow_filesystem_api">Consentire l\'API del file system?</string>
     <string name="allow_filesystem_api_desc">"Consentire a questo modulo di accedere all\'API FileSystem? Se non ti senti sicuro con questo modulo, non consentirglielo!"</string>
     <string name="app_name">MMRL</string>
@@ -40,6 +42,7 @@
     <string name="blacklisted">Inserito nella lista nera</string>
     <string name="blacklisted_desc">"Questo modulo è stato inserito nella blacklist da MMRL. L\'installazione è disabilitata per garantire la tua sicurezza. Se vuoi comunque installare questo modulo, puoi disabilitare gli avvisi della blacklist nelle impostazioni andando su **Impostazioni → Sicurezza → Avvisi della blacklist**.
 @altro (Scopri di più)"</string>
+    <string name="build_tools_version">Versione strumenti di compilazione</string>
     <string name="bulk_add_as_bulk">Aggiungi in blocco</string>
     <string name="bulk_install_module_added">Modulo aggiunto</string>
     <string name="bulk_install_module_already_added">Modulo già aggiunto</string>
@@ -56,6 +59,7 @@
     <string name="close_sheet">Chiudi il foglio</string>
     <string name="closedsource_desc">TIl modulo non è open source e il suo codice di base non è accessibile al pubblico per revisione, modifica o ridistribuzione</string>
     <string name="closedsource_name">Sorgente chiusa</string>
+    <string name="compile_sdk">Compila SDK</string>
     <string name="contributions">%1$d collaboratori</string>
     <string name="contributors">Collaboratori</string>
     <string name="copy_logs">Copia i registri</string>
@@ -118,6 +122,7 @@
     <string name="kernel">Kernel</string>
     <string name="knownvuln_desc">Questo modulo contiene una vulnerabilità di sicurezza nota.</string>
     <string name="knownvuln_name">Vulnerabilità nota</string>
+    <string name="latest_commit_id">ID ultimo commit</string>
     <string name="learn_more">Saperne di più</string>
     <string name="license_fsf_libre">FSF Libero</string>
     <string name="license_osi_approved">Approvato da OSI</string>
@@ -197,6 +202,7 @@
     <string name="page_repository">Repository</string>
     <string name="page_repositorys">Repository</string>
     <string name="page_settings">Impostaz.</string>
+    <string name="platform">Piattaforma</string>
     <string name="pre_release">Pre-rilascio</string>
     <string name="provider_service_started">Servizio Provider avviato</string>
     <string name="provider_service_stopped">Servizio Provider fermato</string>
@@ -241,6 +247,7 @@
     <string name="selinux_status_unknown">Sconosciuto</string>
     <string name="service_is_not_available">! Il servizio non è disponibile</string>
     <string name="settings_about">Info</string>
+    <string name="settings_always_show_update_alert">Mostra sempre avviso di aggiornamento</string>
     <string name="settings_app">App</string>
     <string name="settings_app_theme">Tema App</string>
     <string name="settings_app_theme_desc">Cambia la combinazione di colori e la modalità notturna</string>
@@ -248,6 +255,7 @@
     <string name="settings_appearance_desc">Adatta l\'app alle tue esigenze</string>
     <string name="settings_auto_update_repos">Aggiornamento automatico del repository</string>
     <string name="settings_auto_update_repos_desc">Aggiorna automaticamente i repository in background</string>
+    <string name="settings_behavior">Comportamento</string>
     <string name="settings_blacklist">Lista nera</string>
     <string name="settings_blacklist_alerts">Avvisi Lista nera</string>
     <string name="settings_blacklist_alerts_desc">Visualizza un avviso per i moduli locali ed esplorativi e blocca inoltre l\'installazione di tutti i moduli nella blacklist</string>
@@ -270,9 +278,15 @@
     <string name="settings_developer_desc">Strumenti di debug per sviluppatori</string>
     <string name="settings_developer_mode">Modalità sviluppatore</string>
     <string name="settings_developer_mode_desc">Mostra gli ID dei moduli e altro ancora</string>
+    <string name="settings_disable_su">Disabilita la compatibilità su</string>
+    <string name="settings_disable_su_desc">"Disattiva temporaneamente la possibilità per qualsiasi app di ottenere privilegi di root tramite il comando ⁠su (i processi di root esistenti non saranno interessati)."</string>
     <string name="settings_doh">DNS SU HTTPS</string>
     <string name="settings_doh_desc">Soluzione alternativa Avvelenamento DNS in alcune nazioni</string>
     <string name="settings_download_path">Percorso per i Download</string>
+    <string name="settings_enable_blur">Abilita sfocatura</string>
+    <string name="settings_enable_blur_desc">Abilitato l\'effetto sfocatura nei componenti</string>
+    <string name="settings_enable_toolbar_events">Abilita eventi della barra strumenti</string>
+    <string name="settings_hide_bottom_bar_labels">Nascondi le etichette della barra inferiore</string>
     <string name="settings_hide_fingerprint">Nascondi Fingerprint in Home</string>
     <string name="settings_hide_fingerprint_desc">"Non importa se è vero o falso"</string>
     <string name="settings_homepage">Pagina iniziale dell\'app</string>
@@ -289,7 +303,7 @@
     <string name="settings_open_notification_settings">Apri Impostazioni di notifica</string>
     <string name="settings_other">Altro</string>
     <string name="settings_other_desc">Percorso di download e altro</string>
-    <string name="settings_privacy_policy">politica sulla riservatezza</string>
+    <string name="settings_privacy_policy">Politica sulla riservatezza</string>
     <string name="settings_provider_service">Servizio Provider</string>
     <string name="settings_provider_service_desc">Mantenere il provider in esecuzione in background per ridurre significativamente i tempi di avvio e migliorare la reattività complessiva</string>
     <string name="settings_reboot_protection">Protezione riavvio</string>
@@ -310,16 +324,26 @@
     <string name="settings_security_desc">Aspetti relativi alla sicurezza delle app</string>
     <string name="settings_security_inject_eruda">Inietta Eruda</string>
     <string name="settings_security_inject_eruda_desc">Gli inserti richiedono l\'importazione della funzionalità degli inserti MMRL.</string>
+    <string name="settings_set_spoofed_wxp">Pacchetto portatile WebUI X</string>
+    <string name="settings_set_spoofed_wxp_desc">Imposta un nome personalizzato per il pacchetto WebUI X Portable falsificato.</string>
     <string name="settings_shell_module_state_change">Usa Shell per gli Stati</string>
     <string name="settings_shell_module_state_change_desc">"Utilizza shell invece di creare file nella directory del modulo. Una volta abilitato, non potrai usare il pulsante di ripristino a causa delle limitazioni."</string>
     <string name="settings_strict_mode">Modalità rigorosa</string>
+    <string name="settings_terminal">Terminale</string>
+    <string name="settings_terminal_desc">Personalizza il terminale in base alle tue preferenze</string>
+    <string name="settings_terminal_line_numbers">Numeri riga</string>
+    <string name="settings_terminal_line_numbers_desc">Mostra i numeri di riga sul lato sinistro del terminale</string>
     <string name="settings_terms_of_service">Termini di servizio</string>
     <string name="settings_text_wrap">Testo a capo</string>
     <string name="settings_text_wrap_desc">Abilita l\'interruzione di testo all\'interno del terminale di installazione</string>																								 
+    <string name="settings_try_wxp">Prova WebUI X: Portatile!</string>
     <string name="settings_updates">Aggiornamenti</string>
     <string name="settings_updates_desc">Gestisci le tue preferenze sul processo di aggiornamento</string>
     <string name="settings_use_generic_action">Usa azione generica</string>
     <string name="settings_use_generic_action_desc">La maggior parte dei provider root non supporta un comando CLI action. Invece, puoi usare uno script generico</string>
+    <string name="settings_webui_engine">Motore WebUI</string>
+    <string name="settings_webui_engine_desc">Seleziona il tuo motore preferito</string>
+    <string name="settings_webui_engine_prefer_module">Definito dalla configurazione del modulo</string>
     <string name="settings_webui_remote_url">URL remoto dell\'interfaccia utente Web</string>
     <string name="settings_webui_remote_url_alert_desc">WebUI ora utilizzerà in modo coerente l\'indirizzo fornito per tutti i moduli, ignorerà gli errori SSL e disabiliterà l\'accesso a /data/adb/modules/{ID}/webroot. Nota che è richiesto un server web locale autofirmato per utilizzare questa funzionalità, che è pensata solo per scopi di debug, non è pensata per l\'uso quotidiano e viene utilizzata a tuo rischio.</string>
     <string name="settings_webui_remote_url_desc">Per semplificare il debug, fornisci un dominio locale come http://localhost. Per maggiori informazioni, vedi l\'avviso sopra.</string>

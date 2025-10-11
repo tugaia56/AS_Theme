@@ -7,9 +7,8 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="androidx_core_ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
-    <color name="attribution">#ff006621</color>
     <color name="background_floating_material_light">@*android:color/white</color>
-    <color name="black">#ffffffff</color>
+    <color name="black">@*android:color/white</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>
@@ -27,6 +26,10 @@
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="certIssuerTitle">@*android:color/background_dark</color>
+    <color name="cloud_setup_button_border_color">#c9555555</color>
+    <color name="cloud_upsell_indicator_color">#ff8fbaff</color>
+    <color name="com_microsoft_identity_common_white">#ffffffff</color>
     <color name="common_google_signin_btn_text_dark_default">@*android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@*android:color/black</color>
@@ -73,6 +76,14 @@
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
+    <color name="dialogButtonText">@*android:color/accent_material_dark</color>
+    <color name="dialogErrorText">#ffd92c2c</color>
+    <color name="dialogMessageText">@*android:color/background_dark</color>
+    <color name="dialogMessageTextSecondChoice">@*android:color/background_dark</color>
+    <color name="dialogPinEditText">@*android:color/accent_material_dark</color>
+    <color name="dialogProgress">#ff616161</color>
+    <color name="dialogRadioButton">@*android:color/accent_material_dark</color>
+    <color name="dialogTitleText">@*android:color/accent_material_dark</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -92,7 +103,7 @@
     <color name="gray_300">#ffb7b7b7</color>
     <color name="gray_400">#ff939393</color>
     <color name="gray_50">#fff1f1f1</color>
-    <color name="gray_500">@*android:color/button_material_dark</color>
+    <color name="gray_500">@*android:color/darker_gray</color>
     <color name="gray_550">@*android:color/background_floating_material_dark</color>
     <color name="gray_600">@*android:color/background_dark</color>
     <color name="gray_700">@*android:color/background_dark</color>
@@ -103,7 +114,6 @@
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="improve_span_background_dark">#ff084606</color>
     <color name="improve_span_background_light">#ffd4edd4</color>
-    <color name="link">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
     <color name="m3_ref_palette_error0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_error10">#ff410e0b</color>
@@ -201,7 +211,7 @@
     <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
     <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
-    <color name="material_grey_300">#ffffffff</color>
+    <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/button_material_dark</color>
@@ -253,6 +263,7 @@
     <color name="material_personalized_color_text_primary_inverse_disable_only">#ffffffff</color>
     <color name="material_personalized_color_text_secondary_and_tertiary_inverse">#ffffffff</color>
     <color name="material_personalized_color_text_secondary_and_tertiary_inverse_disabled">#ffffffff</color>
+    <color name="msal_loading">@*android:color/accent_material_dark</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>
     <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
     <color name="mtrl_scrim_color">#52000000</color>
@@ -282,6 +293,7 @@
     <color name="sk_brand_50">#ff3961ed</color>
     <color name="sk_brand_60">#ff1a2d6e</color>
     <color name="sk_tint_20_dark">#ff2a51ad</color>
+    <color name="sk_tint_40">#ffeff4fe</color>
     <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
@@ -302,4 +314,9 @@
     <color name="transparent_white_60">#99ffffff</color>
     <color name="transparent_white_80">#ccffffff</color>
     <color name="white">#ffffffff</color>
+    <color name="ws_button_border_gradient_end">#ff1bbded</color>
+    <color name="ws_button_border_gradient_start">#ff3961ed</color>
+    <color name="yubikit_dialog_background">#ffffffff</color>
+    <color name="yubikit_text_color_primary">#de000000</color>
+    <color name="yubikit_text_color_secondary">#99000000</color>
 </resources>
