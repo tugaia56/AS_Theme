@@ -63,7 +63,7 @@
     <color name="geo_sys_color_aqua_surface3">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_aqua_surface4">#ff32363c</color>
     <color name="geo_sys_color_aqua_surface5">#ff353940</color>
-    <color name="geo_sys_color_aqua_surface_bright">#ff393939</color>
+    <color name="geo_sys_color_aqua_surface_bright">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_aqua_surface_container">#ff1a2122</color>
     <color name="geo_sys_color_aqua_surface_container_bold">#ff394a4e</color>
     <color name="geo_sys_color_aqua_surface_container_high">#ff252b2c</color>
@@ -127,7 +127,7 @@
     <color name="geo_sys_color_surface3">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="geo_sys_color_surface4">@*android:color/background_dark</color>
     <color name="geo_sys_color_surface5">@*android:color/background_dark</color>
-    <color name="geo_sys_color_surface_bright">@*android:color/background_dark</color>
+    <color name="geo_sys_color_surface_bright">@*android:color/button_material_dark</color>
     <color name="geo_sys_color_surface_container">@*android:color/background_dark</color>
     <color name="geo_sys_color_surface_container_bold">@*android:color/background_dark</color>
     <color name="geo_sys_color_surface_container_high">@*android:color/background_dark</color>

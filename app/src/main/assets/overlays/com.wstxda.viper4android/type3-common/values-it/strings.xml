@@ -61,16 +61,16 @@
     <string name="delete">Elimina</string>
 <string name="delete_preset">Elimina %s</string>
  <string name="deleted">%s è stato eliminato</string>
-<string name="description_36868">"&lt;p>Abilita o disabilita gli effetti sonori dell\'app ViPER, che migliorano la qualità audio. Tra questi effetti c\'è il master gate (limitatore), utilizzato per prevenire la distorsione causata da volumi molto alti. Aiuta a mantenere l\'audio nitido regolando automaticamente i picchi di volume.&lt;/p>
+    <string name="description_36868">"&lt;p>Abilita o disabilita gli effetti sonori dell'app ViPER, che migliorano la qualità audio. Tra questi effetti c'è il limitatore Master, utilizzato per prevenire la distorsione causata da volumi molto alti. Aiuta a mantenere l\'audio nitido regolando automaticamente i picchi di volume.&lt;/p>
 
 &lt;br>
-&lt;p>&lt;strong>Guadagno in uscita&lt;/strong>&lt;/p>
+&lt;h5>Guadagno in uscita&lt;/h5>
 &lt;br>
 
 &lt;p>Questa impostazione regola il volume dell\'uscita principale del dispositivo. Aumentando il guadagno in uscita il suono diventa più forte, ma è importante farlo con attenzione per evitare distorsioni. Regola il guadagno per ottenere il volume desiderato e fornire un\'esperienza audio più coinvolgente.&lt;/p>
 
 &lt;br>
-&lt;p>&lt;strong>Bilanciamento canale&lt;/strong>&lt;/p>
+&lt;h5>Uscita panoramica&lt;/h5>
 &lt;br>
 
 &lt;p>Questa funzione regola il rapporto di guadagno in uscita tra i canali sinistro e destro. Il bilanciamento dei canali consente di personalizzare la distribuzione del suono, garantendo un\'esperienza audio personalizzata, particolarmente utile per gli utenti che utilizzano cuffie o sistemi audio stereo.&lt;/p>
@@ -142,7 +142,7 @@
 &lt;p>Regola il volume del suono elaborato con effetti di riverbero. Un segnale wet più alto intensifica il senso dello spazio, mentre un valore più basso preserva la chiarezza del suono originale.&lt;/p>
 
 &lt;br>
-&lt;h5>Segnale dry&lt;/h5>
+&lt;h5>Segnale secco&lt;/h5>
 &lt;br>
 
 &lt;p>Regola il volume del suono originale senza effetti di riverbero. Un segnale dry più alto mantiene la chiarezza e la definizione della sorgente sonora.&lt;/p>
@@ -152,7 +152,7 @@
 <string name="description_65569">"&lt;p>Questa funzione manipola la gamma dinamica del suono, ovvero regola l\'ampiezza dei bassi, degli acuti e la limitazione audio complessiva. Ciò aiuta a bilanciare e controllare le diverse frequenze sonore, garantendo una riproduzione più appropriata e coerente.&lt;/p>
 
 &lt;br>
-&lt;h5>Tipo di dispositivo&lt;/h5>
+&lt;h5>Tipo dispositivo&lt;/h5>
 &lt;br>
 
 &lt;p>Definisce il tipo di cuffie collegate all\'ingresso audio. Se non riesci a regolare correttamente il tono dei bassi per il tuo dispositivo specifico, seleziona \"Cuffie comuni\" per ottenere un\'impostazione predefinita che dovrebbe funzionare per la maggior parte delle cuffie.&lt;/p>
@@ -183,13 +183,13 @@
 &lt;p>Offre bassi più profondi e potenti, simulando la presenza di un subwoofer fisico.&lt;/p>
 
 &lt;br>
-&lt;h5>Frequenza dei bassi&lt;/h5>
+&lt;h5>Frequenza bassi&lt;/h5>
 &lt;br>
 
 &lt;p>Definisce la frequenza di taglio per i bassi in ViPER Bass. Regola questa impostazione per determinare il punto in cui i bassi vengono potenziati o attenuati.&lt;/p>
 
 &lt;br>
-&lt;h5>Guadagno dei bassi&lt;/h5>
+&lt;h5>Guadagno bassi&lt;/h5>
 &lt;br>
 
 &lt;p>Definisce il volume del potenziamento dei bassi fornito da ViPER Bass. Regola questa impostazione per aumentare o diminuire l\'intensità dei bassi nella riproduzione audio.&lt;/p>"</string>
@@ -232,7 +232,10 @@
 <string name="description_65584">"&lt;p>Questa opzione definisce se è abilitato un effetto amplificatore a transistor a effetto di campo (FET).&lt;/p>
 
 &lt;br>
-&lt;p>&lt;strong>AnalogX&lt;/strong> utilizza una simulazione matematica semplificata per emulare il comportamento di un transistor a effetto di campo. Questo effetto è progettato per replicare le caratteristiche sonore tipiche degli amplificatori FET, fornendo un suono che può includere una leggera distorsione armonica e una qualità tonale distinta.&lt;/p>"</string>
+&lt;h5>AnalogX&lt;/h5>
+&lt;br>
+
+Uses a simplified mathematical simulation to emulate the behavior of a field-effect transistor. This effect is designed to replicate the typical sound characteristics of FET amplifiers, providing a sound that may include a slight harmonic distortion and a distinct tonal quality.&lt;/p>"</string>
 <string name="description_65603">"&lt;p>Ottimizza la qualità audio dell\'altoparlante interno dello smartphone.&lt;/p>
 
 &lt;br>
@@ -258,6 +261,7 @@ Frequenza di campionamento: %5$d"</string>
     <string name="dialog_update_text">È disponibile una nuova versione di ViPER4Android FX. Vuoi scaricarlo adesso?</string>
     <string name="dialog_update_title">Aggiornamento disponibile</string>
     <string name="donate">Supporta lo sviluppo</string>
+																															 
     <string name="dynamicsystem_entry_1">Cuffie estreme (v2)</string>
     <string name="dynamicsystem_entry_10">Auricolari Apple</string>
     <string name="dynamicsystem_entry_11">Auricolari Monster</string>
@@ -297,7 +301,7 @@ Frequenza di campionamento: %5$d"</string>
     <string name="ic_media_route_learn_more_accessibility">Scopri come trasmettere</string>
     <string name="icon_content_description">Icona di dialogo</string>
     <string name="import_preset">Importa preimpostazione</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="item_view_role_description">Scheda</string>
     <string name="key_legacy_mode">legacy_mode</string>
     <string name="key_notification_settings">impostazioni_di_notifica</string>
     <string name="legacy_mode">Modalità legacy</string>
@@ -356,55 +360,7 @@ Frequenza di campionamento: %5$d"</string>
     <string name="mr_dialog_transferable_header">Gioca in un gruppo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
-    <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">icona</string>
-    <string name="mtrl_checkbox_button_icon_path_name">percorso dell\'icona</string>
-    <string name="mtrl_checkbox_button_path_group_name">pulsante</string>
-    <string name="mtrl_checkbox_button_path_name">percorso del pulsante</string>
-    <string name="mtrl_checkbox_state_description_checked">selezionato</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Parzialmente selezionato</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Non selezionato</string>
-    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Più di %1$d nuove notifiche</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-    <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
-    <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
-    <string name="mtrl_picker_announce_current_range_selection">Selezione data di inizio: %1$s – Selezione data di fine: %2$s</string>
-    <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
-    <string name="mtrl_picker_announce_current_selection_none">nessuno</string>
-    <string name="mtrl_picker_cancel">Annulla</string>
-    <string name="mtrl_picker_confirm">OK</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Seleziona data</string>
-    <string name="mtrl_picker_date_header_unselected">Dati selezionati</string>
-    <string name="mtrl_picker_day_of_week_column_header">Colonna dei giorni: %1$s</string>
-    <string name="mtrl_picker_end_date_description">Data di fine %1$s</string>
-    <string name="mtrl_picker_invalid_format">Formato non valido.</string>
-    <string name="mtrl_picker_invalid_format_example">Esempio: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Usa: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Intervallo non valido.</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">Vai all\'anno corrente %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Vai all\'anno %1$d</string>
-    <string name="mtrl_picker_out_of_range">Fuori intervallo: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Data di inizio – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data di fine</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Seleziona intervallo</string>
-    <string name="mtrl_picker_range_header_unselected">Data di inizio – Data di fine</string>
-    <string name="mtrl_picker_save">Salva</string>
-    <string name="mtrl_picker_start_date_description">Data di inizio %1$s</string>
-    <string name="mtrl_picker_text_input_date_hint">Data</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">a</string>
-    <string name="mtrl_picker_today_description">Oggi %1$s</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passa alla modalità di inserimento calendario</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Tocca per passare alla vista Calendario</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Passa alla modalità di immissione testo</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Tocca per passare alla vista anno</string>
-    <string name="mtrl_timepicker_cancel">Annulla</string>
+    <string name="mtrl_timepicker_cancel">Cancella</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="new_preset">Nuova preimpostazione</string>
     <string name="no">No</string>
@@ -457,7 +413,7 @@ Frequenza di campionamento: %5$d"</string>
     <string name="pref_fx_limiter_threshold">Limite di soglia</string>
     <string name="pref_fx_limiter_title">Limitatore principale</string>
     <string name="pref_output_gain">Guadagno in uscita</string>
-    <string name="pref_output_pan">Output pan</string>
+    <string name="pref_output_pan">Uscita panoramica</string>
     <string name="pref_playback_maxgain">Guadagno massimo</string>
     <string name="pref_playback_output_threshold">Soglia di output</string>
     <string name="pref_playback_strength">Forza</string>
@@ -548,4 +504,128 @@ Frequenza di campionamento: %5$d"</string>
     <string name="viper_enabled">Abilitato</string>
     <string name="viper_disabled">Disabilitato</string>
     <string name="github_repository">Repository su GitHub</string>
+    <string name="eq_preset_bass_head">Testa basso</string>
+    <string name="eq_preset_bass_middle">Bassi medi</string>
+    <string name="eq_preset_bass_treble">Amplificatore bassi &amp; alti</string>
+    <string name="eq_preset_deep_bass">Ultra basso</string>
+    <string name="eq_preset_sub_bass_focus">Sub-bassi estremi</string>
+    <string name="eq_preset_airiness_booster">Booster ariosità</string>
+    <string name="eq_preset_brightness_enhancer">Luminosità acuti</string>
+    <string name="eq_preset_sibilance_reducer">Riduttore sibilo</string>
+    <string name="eq_preset_midrange_presence">Presenza fascia media</string>
+    <string name="eq_preset_middle">Equilibrio gamma media</string>
+    <string name="eq_preset_warm_middle">Gamma media calda</string>
+    <string name="eq_preset_clear">Chiarezza nitida</string>
+    <string name="eq_preset_detail_enhancer">Miglioratore dettagli</string>
+    <string name="eq_preset_high_definition">Miglioratore audio HD</string>
+    <string name="eq_preset_vocal_clarity">Chiarezza vocale</string>
+    <string name="eq_preset_8bit">Retro 8-bit</string>
+    <string name="eq_preset_blues">Blues</string>
+    <string name="eq_preset_brazilian_funk">Brazilian Funk</string>
+    <string name="eq_preset_country">Country</string>
+    <string name="eq_preset_dance">Dance</string>
+    <string name="eq_preset_electronic">Electronic</string>
+    <string name="eq_preset_funk">Funk</string>
+    <string name="eq_preset_hiphop">Hip-Hop</string>
+    <string name="eq_preset_house">House</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_kpop">K-Pop</string>
+    <string name="eq_preset_lofi">Lo-Fi</string>
+    <string name="eq_preset_metal">Metal</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_reggae">Reggae</string>
+    <string name="eq_preset_samba">Samba</string>
+    <string name="eq_preset_sertanejo">Sertanejo</string>
+    <string name="eq_preset_techno">Techno</string>
+    <string name="eq_preset_vinyl">Vinile analogico</string>
+    <string name="eq_preset_asmr">Potenziatore ASMR</string>
+    <string name="eq_preset_children">Modalità sicura per bambini</string>
+    <string name="eq_preset_cinema">Modalità cinema</string>
+    <string name="eq_preset_gaming">Gioco immersivo+</string>
+    <string name="eq_preset_live_stage">Sala concerti</string>
+    <string name="eq_preset_nightclub">Basso da discoteca</string>
+    <string name="eq_preset_podcast">Ottimizzatore di podcast</string>
+    <string name="eq_preset_studio">Riferimento studio</string>
+    <string name="eq_preset_telephone">Telefono di fascia media</string>
+    <string name="eq_preset_voice_chat">Chiarezza della chat vocale</string>
+    <string name="dynamicsystem_entry_21">Cuffie over-ear aperte</string>
+    <string name="dynamicsystem_entry_22">Cuffie over-ear chiuse</string>
+    <string name="dynamicsystem_entry_23">Monitor in-ear ad alta risoluzione</string>
+    <string name="dynamicsystem_entry_24">Cuffie DJ con bassi potenziati</string>
+    <string name="dynamicsystem_entry_25">Cuffie over-ear ANC wireless</string>
+    <string name="dynamicsystem_entry_26">Cuffie amplificate a tubo vintage</string>
+    <string name="dynamicsystem_entry_27">Cuffie da gioco con suono surround</string>
+    <string name="dynamicsystem_entry_28">Cuffie per il monitoraggio delle trasmissioni</string>
+    <string name="dynamicsystem_entry_29">Cuffie auricolari pieghevoli portatili</string>
+    <string name="dynamicsystem_entry_30">Cuffie retrò sovraurali</string>
+    <string name="dynamicsystem_entry_31">Cuffie auricolari con isolamento acustico</string>
+    <string name="dynamicsystem_entry_32">Monitor in-ear da palco</string>
+    <string name="dynamicsystem_entry_33">Auricolare in-ear con armatura bilanciata</string>
+    <string name="dynamicsystem_entry_34">Auricolari in-ear con driver ibrido</string>
+    <string name="dynamicsystem_entry_35">Auricolari in-ear ANC wireless</string>
+    <string name="dynamicsystem_entry_36">Auricolari in-ear ad alta fedeltà</string>
+    <string name="dynamicsystem_entry_37">Auricolari sportivi impermeabili in-ear</string>
+    <string name="dynamicsystem_entry_38">Auricolare semi-aperto</string>
+    <string name="dynamicsystem_entry_39">Auricolari incentrati sulla voce</string>
+    <string name="dynamicsystem_entry_40">Cuffie a conduzione ossea</string>
+    <string name="dynamicsystem_entry_41">Cuffie tattiche a conduzione ossea</string>
+    <string name="dynamicsystem_entry_42">Sistema di conduzione ossea Hi-End</string>
+    <string name="dynamicsystem_entry_43">Cuffie di sicurezza a conduzione ossea</string>
+    <string name="dynamicsystem_entry_44">Auricolari wireless con archetto da collo</string>
+    <string name="dynamicsystem_entry_45">Auricolari con clip per il fitness</string>
+    <string name="dynamicsystem_entry_46">Cuffie con archetto da collo per uso aziendale</string>
+    <string name="dynamicsystem_entry_47">Visore audio spaziale VR</string>
+    <string name="dynamicsystem_entry_48">Cuffia con registrazione binaurale 3D</string>
+    <string name="dynamicsystem_entry_49">Cuffia aperta Cristal</string>
+    <string name="dynamicsystem_entry_50">Cuffie over-ear wireless</string>
+    <string name="dynamicsystem_entry_51">Cuffie auricolari Bluetooth</string>
+    <string name="dynamicsystem_entry_52">Cuffie wireless ultraleggere</string>
+    <string name="dynamicsystem_entry_53">Cuffie wireless con cancellazione del rumore</string>
+    <string name="dynamicsystem_entry_54">Cuffie wireless multi-punto</string>
+    <string name="dynamicsystem_entry_55">Cuffie wireless ad alta risoluzione</string>
+    <string name="dynamicsystem_entry_56">Auricolari sportivi senza fili</string>
+    <string name="dynamicsystem_entry_57">Auricolari wireless ANC</string>
+    <string name="dynamicsystem_entry_58">Auricolari wireless ad alta risoluzione</string>
+    <string name="dynamicsystem_entry_59">Auricolari da gioco wireless</string>
+    <string name="dynamicsystem_entry_60">Auricolari wireless con bassi potenziati</string>
+    <string name="dynamicsystem_entry_61">Monitor da studio di campo vicino</string>
+    <string name="dynamicsystem_entry_62">Monitor da studio di centrocampo</string>
+    <string name="dynamicsystem_entry_63">Monitor da studio di trasmissione</string>
+    <string name="dynamicsystem_entry_64">Monitor da studio subwoofer</string>
+    <string name="dynamicsystem_entry_65">Monitor da studio a gamma completa</string>
+    <string name="dynamicsystem_entry_66">Altoparlante per auto 6x9</string>
+    <string name="dynamicsystem_entry_67">Potenziatore Taramps</string>
+    <string name="dynamicsystem_entry_68">Altoparlante della portiera dell\'auto</string>
+    <string name="dynamicsystem_entry_69">Subwoofer audio per auto</string>
+    <string name="dynamicsystem_entry_70">Amplificatore audio per auto</string>
+    <string name="dynamicsystem_entry_71">Amplificatore valvolare per chitarra</string>
+    <string name="dynamicsystem_entry_72">Amplificatore per basso</string>
+    <string name="dynamicsystem_entry_73">Amplificatore per tastiera</string>
+    <string name="dynamicsystem_entry_74">Preamplificatore per violino DI</string>
+    <string name="dynamicsystem_entry_75">Modulo trigger per batteria</string>
+    <string name="dynamicsystem_entry_76">Diffusore da scaffale Hi-Fi</string>
+    <string name="dynamicsystem_entry_77">Diffusore a torre da pavimento</string>
+    <string name="dynamicsystem_entry_78">Soundbar 5.1.2</string>
+    <string name="dynamicsystem_entry_79">Sistema giradischi in vinile</string>
+    <string name="dynamicsystem_entry_80">Lettore di rete ad alta risoluzione</string>
+    <string name="dynamicsystem_entry_81">Cuffie per mascheramento dell\'acufene</string>
+    <string name="dynamicsystem_entry_82">Cuffie per apparecchi acustici</string>
+    <string name="dynamicsystem_entry_83">Cuffie per registrazione sul campo</string>
+    <string name="dynamicsystem_entry_84">Cuffie per trasmissione</string>
+    <string name="dynamicsystem_entry_85">Sistema Karaoke professionale</string>
+    <string name="dynamicsystem_entry_86">Altoparlante Bluetooth portatile</string>
+    <string name="dynamicsystem_entry_87">Mini sistema PA</string>
+    <string name="dynamicsystem_entry_88">Controller DJ portatile</string>
+    <string name="dynamicsystem_entry_89">Altoparlante monitor da campo</string>
+    <string name="dynamicsystem_entry_90">Subwoofer portatile</string>
+    <string name="dynamicsystem_entry_91">Microfono ambisonico</string>
+    <string name="dynamicsystem_entry_92">Cuffie audio 3D</string>
+    <string name="dynamicsystem_entry_93">Cuffia registrazione binaurale</string>
+    <string name="dynamicsystem_entry_94">Kit registrazione ASMR</string>
+    <string name="dynamicsystem_entry_95">Sistema audio d\'epoca</string>
+    <string name="dynamicsystem_entry_96">Altoparlante intelligente per la casa</string>
+    <string name="dynamicsystem_entry_97">Sistema audio multi-room</string>
+    <string name="dynamicsystem_entry_98">DAC ad alta risoluzione</string>
+    <string name="dynamicsystem_entry_99">Sintetizzatore analogico</string>
+    <string name="dynamicsystem_entry_100">Postazione lavoro audio digitale</string>
 </resources>

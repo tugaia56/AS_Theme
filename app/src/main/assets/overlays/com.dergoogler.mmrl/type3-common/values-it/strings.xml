@@ -39,6 +39,7 @@
     <string name="app_theme_dark_theme_light">Chiaro</string>
     <string name="app_theme_palette">Tavolozza dei Temi</string>
     <string name="apply">Chiedi a</string>
+    <string name="architecture">Architettura</string>
     <string name="blacklisted">Inserito nella lista nera</string>
     <string name="blacklisted_desc">"Questo modulo è stato inserito nella blacklist da MMRL. L\'installazione è disabilitata per garantire la tua sicurezza. Se vuoi comunque installare questo modulo, puoi disabilitare gli avvisi della blacklist nelle impostazioni andando su **Impostazioni → Sicurezza → Avvisi della blacklist**.
 @altro (Scopri di più)"</string>
@@ -60,6 +61,7 @@
     <string name="closedsource_desc">TIl modulo non è open source e il suo codice di base non è accessibile al pubblico per revisione, modifica o ridistribuzione</string>
     <string name="closedsource_name">Sorgente chiusa</string>
     <string name="compile_sdk">Compila SDK</string>
+    <string name="continue_with">Continua con %1$s</string>
     <string name="contributions">%1$d collaboratori</string>
     <string name="contributors">Collaboratori</string>
     <string name="copy_logs">Copia i registri</string>
@@ -86,15 +88,19 @@
     <string name="have_been_total_sponsored">%1$s sono stati sponsorizzati totalmente</string>
     <string name="help">Aiuto</string>
     <string name="hidden">Nascosto</string>
-    <string name="home_disabled_modules">Moduli\nDisabilitati</string>
-    <string name="home_enabled_modules">Moduli\nAbilitati</string>
-    <string name="home_installed_modules">Moduli\nInstallati</string>
+    <string name="home_disabled_modules">Moduli
+	Disabilitati</string>
+    <string name="home_enabled_modules">Moduli
+	Abilitati</string>
+    <string name="home_installed_modules">Moduli
+	Installati</string>
     <string name="home_root_provider_se_linux_context">Contesto SELinux</string>
     <string name="home_root_provider_version_name">Nome versione Provider Root</string>
     <string name="home_storage_usage">Utilizzo dello spazio di archiviazione</string>
     <string name="home_support_content">MMRL è, e sarà sempre, gratuito e open source. Tuttavia, puoi dimostrarmi che ci tieni facendo una donazione.</string>
     <string name="home_support_title">Sostienimi</string>
-    <string name="home_updated_modules">Moduli\nAggiornati</string>
+    <string name="home_updated_modules">Moduli
+	Aggiornati</string>
     <string name="in_progress">In corso</string>
     <string name="in_total">%1$s in totale</string>
     <string name="indeterminate">Elemento parzialmente selezionato</string>
@@ -136,7 +142,7 @@
     <string name="m3c_bottom_sheet_pane_title">Riquadro inferiore</string>
     <string name="m3c_dialog">Finestra di dialogo</string>
     <string name="m3c_snackbar_dismiss">Chiudi</string>
-    <string name="manager_version">Versione gestore</string>
+    <string name="manager_version">Versione MMRL</string>
     <string name="menu_advanced_menu">Menù Avanzato</string>
     <string name="menu_descending">Discendente</string>
     <string name="menu_export_modules_as_text">Esporta i moduli come testo</string>
@@ -239,10 +245,13 @@
     <string name="search_empty">Elenco vuoto</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_placeholder">Cerca…</string>
+    <string name="select">Seleziona</string>
+    <string name="select_a_option">Seleziona un\'opzione</string>
+    <string name="select_your_platform">Seleziona la tua piattaforma</string>
     <string name="selected">Elemento selezionato</string>
     <string name="selinux_status">Stato SELinux</string>
     <string name="selinux_status_disabled">Disabilitato</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="selinux_status_enforcing">Imposto</string>
     <string name="selinux_status_permissive">Permissivo</string>
     <string name="selinux_status_unknown">Sconosciuto</string>
     <string name="service_is_not_available">! Il servizio non è disponibile</string>
@@ -272,6 +281,8 @@
     <string name="settings_clear_install_terminal_desc">Cancella il terminale di installazione quando installi più di un modulo</string>
     <string name="settings_date_pattern">Modello di data</string>
     <string name="settings_date_pattern_desc">Utilizza il tuo formato data</string>
+    <string name="settings_date_pattern_dialog_desc">"Il modello di data verrà visto così:
+[color=primary]%1$s[/color]"</string>
     <string name="settings_delete_zip">Elimina File Zip</string>
     <string name="settings_delete_zip_desc">"Elimina lo zip del modulo una volta completata l\'installazione, questa operazione verrà eseguita da Superuser"</string>
     <string name="settings_developer">Sviluppatore</string>
@@ -350,6 +361,9 @@
     <string name="setup_mode">Modalità di funzionamento</string>
     <string name="setup_non_root_desc">Non richiede permessi di root, è disponibile solo la funzione per scaricare i moduli</string>
     <string name="setup_non_root_title">Non-Root</string>
+    <string name="setup_root_note">"Per accedere a tutte le funzionalità di MMRL, è necessario un dispositivo Android con root. MMRL non fornisce istruzioni per il rooting e non è responsabile per eventuali danni che potrebbero verificarsi durante il processo di rooting o derivanti dall/'utilizzo di MMRL stesso.
+
+[link=https://mmrl.dev/legal/privacy]Politica sulla riservatezza[/link] • [link=https://mmrl.dev/legal/terms]Termini di servizio[/link]"</string>
     <string name="setup_shizuku_title">Shizuku</string>
     <string name="sponsors">Sponsor</string>
     <string name="stack_trace_truncated" formatted="false">"%s
@@ -442,6 +456,7 @@
     <string name="view_module_version_dialog_desc">Vuoi installare o scaricare questa versione del modulo?</string>
     <string name="view_module_view_track">Visualizza Traccia</string>
     <string name="we_hit_a_brick_crash">Cambiare modalità di lavoro?</string>
+    <string name="welcome">Benvenuto!</string>
     <string name="working_mode_apatch_desc">Patching del kernel e del sistema Android. Una nuova soluzione root basata sul kernel con supporto per moduli simili a Magisk e kernel function injection (richiede inline-hook e syscall-table-hook). Derivato e modificato da KernelSU.</string>
     <string name="working_mode_apatch_title">APatch</string>
     <string name="working_mode_change_dialog_desc">"Modificando la Modalità di lavoro, è necessario riavviare l\'app e tutti i servizi associati affinché la nuova modalità venga applicata correttamente. Si noti che premendo "Applica", si avvia il processo che riavvierà l\'app e tutti i servizi per garantire che le modifiche abbiano effetto come previsto."</string>

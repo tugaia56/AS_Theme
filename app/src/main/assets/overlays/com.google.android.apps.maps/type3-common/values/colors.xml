@@ -158,10 +158,11 @@
     <color name="geo_sys_color_aqua_outline_disabled">#ffe3e3e3</color>
     <color name="geo_sys_color_aqua_outline_interactive">#ffc7c7c7</color>
     <color name="geo_sys_color_aqua_outline_transparent">#00ffffff</color>
-    <color name="geo_sys_color_aqua_positive">#ff198639</color>
+    <color name="geo_sys_color_aqua_positive">#ff2b7f3f</color>
     <color name="geo_sys_color_aqua_positive_container">#ffc4eed0</color>
     <color name="geo_sys_color_aqua_primary">#ff007b8b</color>
     <color name="geo_sys_color_aqua_primary_container">#ff007b8b</color>
+    <color name="geo_sys_color_aqua_real_time">#ffd01884</color>
     <color name="geo_sys_color_aqua_saved_custom_list">#ff266772</color>
     <color name="geo_sys_color_aqua_saved_default">#ff006876</color>
     <color name="geo_sys_color_aqua_saved_favorite">@*android:color/accent_material_dark</color>
@@ -189,7 +190,7 @@
     <color name="geo_sys_color_aqua_surface_immersive">#99000000</color>
     <color name="geo_sys_color_aqua_tonal_surface">#fff7fdff</color>
     <color name="geo_sys_color_aqua_transparent_surface">#00ffffff</color>
-    <color name="geo_sys_color_caution">#ffb26c00</color>
+    <color name="geo_sys_color_caution">#ff9f6108</color>
     <color name="geo_sys_color_caution_container">#fffef2e2</color>
     <color name="geo_sys_color_caution_container_variant">#ffffdf99</color>
     <color name="geo_sys_color_caution_variant">#ffffbb29</color>
@@ -245,6 +246,7 @@
     <color name="geo_sys_color_positive_container">#ffc4eed0</color>
     <color name="geo_sys_color_primary">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_primary_container">#ff1b6ef3</color>
+    <color name="geo_sys_color_real_time">#ffd01884</color>
     <color name="geo_sys_color_saved_custom_list">#ff00639b</color>
     <color name="geo_sys_color_saved_default">@*android:color/accent_material_dark</color>
     <color name="geo_sys_color_saved_favorite">@*android:color/accent_material_dark</color>
@@ -425,9 +427,9 @@
     <color name="gs_progress_heavy_traffic">#ff8c1d18</color>
     <color name="gs_progress_moderate_traffic">#fff09d00</color>
     <color name="gs_progress_traffic">#fff1453d</color>
-    <color name="header_scrim_gradient_center">#66202124</color>
+    <color name="header_scrim_gradient_center">#661b2029</color>
     <color name="header_scrim_gradient_end">#00000000</color>
-    <color name="header_scrim_gradient_start">#99202124</color>
+    <color name="header_scrim_gradient_start">#991b2029</color>
     <color name="heads_up_navigation_notification_background">#ff0c8f4e</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
@@ -518,6 +520,7 @@
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
     <color name="material_grey_white_1000">#ffffffff</color>
+    <color name="merchant_badge_color">@*android:color/accent_material_dark</color>
     <color name="missing_thumbnail_color">#fff1f3f4</color>
     <color name="mod_black_alpha15">#26000000</color>
     <color name="mod_black_alpha20">#33000000</color>
@@ -622,11 +625,11 @@
     <color name="mod_grey800_alpha38">#613c4043</color>
     <color name="mod_grey900_alpha40">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="mod_grey900_alpha60">@*android:color/background_dark</color>
-    <color name="mod_grey900_with_elevation_1">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="mod_grey900_with_elevation_1">@*android:color/group_button_dialog_pressed_holo_light</color>	<!-- tab rist. hotel alim. -->	
     <color name="mod_grey900_with_elevation_2">@*android:color/background_dark</color>
     <color name="mod_grey900_with_elevation_3">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="mod_grey900_with_elevation_5">@*android:color/background_dark</color>
-    <color name="mod_grey950">@*android:color/accent_material_dark</color>
+    <color name="mod_grey950">@*android:color/accent_material_dark</color>	<!-- bordo -->
     <color name="mod_night_black_alpha40">#66ffffff</color>
     <color name="mod_night_black_alpha42">#6bffffff</color>
     <color name="mod_night_blue_alpha12">@*android:color/ripple_material_dark</color>
@@ -643,7 +646,6 @@
     <color name="mod_white_alpha20">#33ffffff</color>
     <color name="mod_white_alpha70">#b3ffffff</color>
     <color name="mod_white_alpha90">#e6ffffff</color>
-    <color name="mod_yellow1000">#ffb05b00</color>
     <color name="month_day_of_week_label">#ff999999</color>
     <color name="mtrl_scrim_color">#52000000</color>
     <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
@@ -867,11 +869,11 @@
     <color name="scalebar_on_dark_background">#ffededed</color>
     <color name="scalebar_on_light_background">#ff3e403f</color>
     <color name="scalebar_shadow_for_dark_background">@*android:color/button_material_dark</color>
-    <color name="scrim_color_dark">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="scrim_color_dark">#e61b2029</color>
     <color name="scrim_color_high_dark">@*android:color/background_dark</color>
-    <color name="scrim_color_light">@*android:color/group_button_dialog_pressed_holo_light</color>
-    <color name="scrim_color_medium">@*android:color/group_button_dialog_pressed_holo_light</color>
-    <color name="scrim_color_medium_dark">@*android:color/group_button_dialog_pressed_holo_light</color>
+    <color name="scrim_color_light">#641b2029</color>
+    <color name="scrim_color_medium">#b21b2029</color>
+    <color name="scrim_color_medium_dark">#bf1b2029</color>
     <color name="secondary_grey">@*android:color/button_material_dark</color>
     <color name="secondary_night_grey">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -947,7 +949,7 @@
     <color name="sud_system_accent1_100">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent1_200">#ff71d8c7</color>
     <color name="sud_system_accent1_300">#ff53bcac</color>
-    <color name="sud_system_accent1_600">#ff006c5f</color>
+    <color name="sud_system_accent1_600">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent2_100">#ffe8def8</color>
     <color name="sud_system_accent2_200">#ffa4cfc7</color>
     <color name="sud_system_accent2_600">#ff3d665f</color>
@@ -1037,7 +1039,7 @@
     <color name="sud_system_secondary_fixed_dim_light">#ffb1ccc6</color>
     <color name="sud_system_secondary_fixed_light">#ffcce8e2</color>
     <color name="sud_system_secondary_light">#ff4a635e</color>
-    <color name="sud_system_surface_bright_dark">#ff393939</color>
+    <color name="sud_system_surface_bright_dark">@*android:color/button_material_dark</color>
     <color name="sud_system_surface_bright_light">#fff9faf8</color>
     <color name="sud_system_surface_container_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_container_high_dark">@*android:color/background_dark</color>

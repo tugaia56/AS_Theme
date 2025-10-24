@@ -1741,7 +1741,7 @@
     <color name="palette_b_100">#ffffffff</color>
     <color name="palette_b_20">#ff062e6f</color>
     <color name="palette_b_30">#ff0842a0</color>
-    <color name="palette_b_40">#ff0b57d0</color>
+    <color name="palette_b_40">@*android:color/accent_material_dark</color>
     <color name="palette_b_50">#ff1b6ef3</color>
     <color name="palette_b_60">@*android:color/accent_material_dark</color>
     <color name="palette_b_70">#ff7cacf8</color>

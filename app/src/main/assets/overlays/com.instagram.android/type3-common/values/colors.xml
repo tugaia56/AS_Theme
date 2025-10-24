@@ -42,7 +42,7 @@
     <color name="baseline_neutral_variant_90">#ffe1e3e1</color>
     <color name="baseline_neutral_variant_90_alpha_20">#33e1e3e1</color>
     <color name="baseline_primary_20">#ff062e6f</color>
-    <color name="baseline_primary_40">#ff0b57d0</color>
+    <color name="baseline_primary_40">@*android:color/accent_material_dark</color>
     <color name="baseline_primary_80">@*android:color/accent_material_dark</color>
     <color name="bds_black">@*android:color/background_dark</color>
     <color name="bds_black_10_transparent">#1a000000</color>

@@ -59,7 +59,7 @@
     <color name="home_settings_state_on_color">@*android:color/accent_material_dark</color>
     <color name="home_settings_thumb_off_color">#ffe2e2e2</color>
     <color name="home_settings_track_off_color">#ff5e5e5e</color>
-    <color name="home_settings_track_on_color">#ff006c5f</color>
+    <color name="home_settings_track_on_color">@*android:color/accent_material_dark</color>
     <color name="icon_background">#ffffffff</color>
     <color name="light_blue_200">#ff81d4fa</color>
     <color name="light_blue_50">#ffe1f5fe</color>

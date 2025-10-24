@@ -61,7 +61,7 @@
     <color name="baseline_primary_200_alpha_10">#19a8c7fa</color>
     <color name="baseline_primary_200_alpha_20">#33a8c7fa</color>
     <color name="baseline_primary_200_alpha_50">#80a8c7fa</color>
-    <color name="baseline_primary_600">#ff0b57d0</color>
+    <color name="baseline_primary_600">@*android:color/accent_material_dark</color>
     <color name="baseline_primary_600_alpha_10">#190b57d0</color>
     <color name="baseline_primary_600_alpha_12">#1f0b57d0</color>
     <color name="baseline_primary_600_alpha_6">#0f0b57d0</color>

@@ -98,7 +98,7 @@
     <color name="folder_hint_text_color_dark">@*android:color/background_dark</color>
     <color name="folder_hint_text_color_light">#ffffffff</color>
     <color name="folder_pagination_color_dark">@*android:color/accent_material_dark</color>
-    <color name="folder_pagination_color_light">#ff006c5f</color>
+    <color name="folder_pagination_color_light">@*android:color/accent_material_dark</color>
     <color name="folder_preview_dark">@*android:color/background_dark</color>
     <color name="folder_preview_light">#fff9f9f9</color>
     <color name="foreground_material_dark">@*android:color/white</color>

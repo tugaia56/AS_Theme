@@ -133,7 +133,6 @@
     <color name="green_400">#ff56c13e</color>
     <color name="green_500">@*android:color/accent_material_dark</color>
     <color name="grey_010">#fffafafa</color>
-    <color name="grey_012_white_012">@*android:color/background_dark</color>
     <color name="grey_020">#fff5f5f5</color>
     <color name="grey_050">#ffeeeeee</color>
     <color name="grey_050_alpha_038">#61eeeeee</color>

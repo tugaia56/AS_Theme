@@ -57,10 +57,6 @@
     <color name="swipe_bg_conv_item_body_line">#ff34363a</color>
     <color name="swipe_bg_conv_item_star">#ffffffff</color>
     <color name="swipe_bg_conv_item_title_line">#ff3c3f43</color>
-    <color name="takenotes_blue_fill_color">#ff7fcdff</color>
-    <color name="takenotes_blue_shapes_shade">#ff4bbaff</color>
-    <color name="takenotes_bottom_line_color">#ff7fcdff</color>
-    <color name="takenotes_green_shade">#b31f1f1f</color>
     <color name="tasks_elevation_3">#ff36373a</color>
     <color name="workspace_logo_color_1">#ffffffff</color>
     <color name="workspace_logo_color_2">#ffffffff</color>

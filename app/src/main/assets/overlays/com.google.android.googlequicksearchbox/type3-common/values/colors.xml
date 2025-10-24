@@ -121,9 +121,9 @@
     <color name="assistantDynamicOnSurfaceVariantStateLayer">@*android:color/system_neutral2_700</color>
     <color name="assistantDynamicOnTertiaryContainer">@*android:color/system_accent3_900</color>
     <color name="assistantDynamicOutline">@*android:color/system_neutral2_500</color>
-    <color name="assistantDynamicPrimary">@*android:color/system_accent1_600</color>
+    <color name="assistantDynamicPrimary">@*android:color/accent_material_dark</color>
     <color name="assistantDynamicPrimaryContainer">@*android:color/system_accent1_100</color>
-    <color name="assistantDynamicPrimaryStateLayer">@*android:color/system_accent1_600</color>
+    <color name="assistantDynamicPrimaryStateLayer">@*android:color/accent_material_dark</color>
     <color name="assistantDynamicPrimaryVariant">@*android:color/system_accent1_500</color>
     <color name="assistantDynamicScrim">#99000000</color>
     <color name="assistantDynamicSecondary">@*android:color/system_accent2_600</color>
@@ -1430,7 +1430,7 @@
     <color name="sud_system_accent1_100">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent1_200">#ff71d8c7</color>
     <color name="sud_system_accent1_300">@*android:color/accent_material_dark</color>
-    <color name="sud_system_accent1_600">#ff006c5f</color>
+    <color name="sud_system_accent1_600">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent2_100">#ffe8def8</color>
     <color name="sud_system_accent2_200">#ffa4cfc7</color>
     <color name="sud_system_accent2_600">#ff3d665f</color>

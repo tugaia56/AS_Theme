@@ -23,7 +23,7 @@
     <color name="sud_system_on_background_dark">#c6ff00</color>
     <color name="sud_system_on_background_light">#eeff41</color>
     <color name="sud_system_on_error_container_dark">#f4ff81</color>
-    <color name="sud_system_on_error_container_light">#827717</color>
+    <color name="sud_system_on_error_container_light">@*android:color/accent_material_dark</color>
     <color name="sud_system_on_error_dark">@*android:color/holo_red_dark</color>
     <color name="sud_system_on_error_light">#afb42b</color>
     <color name="sud_system_on_primary_container_dark">#c0ca33</color>
@@ -90,7 +90,7 @@
     <color name="sud_system_surface_container_low_light">#4dd0e1</color>
     <color name="sud_system_surface_container_lowest_dark">#ffd600</color>
     <color name="sud_system_surface_container_lowest_light">#ffea00</color>
-    <color name="sud_system_surface_dark">#00FF00</color>
+    <color name="sud_system_surface_dark">#ffffffff</color>														<!-- icona invio -->
     <color name="sud_system_surface_dim_dark">#ffff8d</color>
     <color name="sud_system_surface_dim_light">#f57f17</color>
     <color name="sud_system_surface_inverse_dark">#f9a825</color>
@@ -119,7 +119,7 @@
     <color name="gm3_sys_color_dynamic_dark_on_tertiary">#ff3d00</color>
     <color name="gm3_sys_color_dynamic_dark_on_tertiary_container">#ff0000</color>
     <color name="gm3_sys_color_dynamic_dark_outline">@*android:color/ripple_material_dark</color>				<!-- #43a047 bordo e switch disattivato -->
-    <color name="gm3_sys_color_dynamic_dark_outline_variant">#827717</color>
+    <color name="gm3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>				<!-- #00FFFF pallino switch attivato bolla verifica numero -->
     <color name="gm3_sys_color_dynamic_dark_primary_container">@*android:color/ripple_material_dark</color>		<!-- #ff5722 bg fab e switch attivato -->
     <color name="gm3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
@@ -158,7 +158,7 @@
     <color name="gm3_sys_color_dynamic_light_surface_container">#c6ff00</color>
     <color name="gm3_sys_color_dynamic_light_surface_container_high">#eeff41</color>
     <color name="gm3_sys_color_dynamic_light_surface_container_highest">#f4ff81</color>
-    <color name="gm3_sys_color_dynamic_light_surface_container_low">#827717</color>
+    <color name="gm3_sys_color_dynamic_light_surface_container_low">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_surface_container_lowest">#9e9d24</color>
     <color name="gm3_sys_color_dynamic_light_surface_dim">#afb42b</color>
     <color name="gm3_sys_color_dynamic_light_surface_variant">#c0ca33</color>
@@ -241,7 +241,7 @@
     <color name="m3_sys_color_dynamic_on_secondary_fixed">#c6ff00</color>
     <color name="m3_sys_color_dynamic_on_secondary_fixed_variant">#eeff41</color>
     <color name="m3_sys_color_dynamic_on_tertiary_fixed">#f4ff81</color>
-    <color name="m3_sys_color_dynamic_on_tertiary_fixed_variant">#827717</color>
+    <color name="m3_sys_color_dynamic_on_tertiary_fixed_variant">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_primary_fixed">#9e9d24</color>
     <color name="m3_sys_color_dynamic_primary_fixed_dim">#afb42b</color>
     <color name="m3_sys_color_dynamic_secondary_fixed">#c0ca33</color>
@@ -256,7 +256,7 @@
     <color name="gm3_sys_color_dynamic_dark_error_container">#c6ff00</color>
     <color name="gm3_sys_color_dynamic_dark_on_error">#eeff41</color>
     <color name="gm3_sys_color_dynamic_dark_on_error_container">#f4ff81</color>
-    <color name="gm3_sys_color_dynamic_light_error">#827717</color>
+    <color name="gm3_sys_color_dynamic_light_error">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_error_container">#0091ea</color>
     <color name="gm3_sys_color_dynamic_light_on_error">#00b0ff</color>
     <color name="gm3_sys_color_dynamic_light_on_error_container">#80d8ff</color>

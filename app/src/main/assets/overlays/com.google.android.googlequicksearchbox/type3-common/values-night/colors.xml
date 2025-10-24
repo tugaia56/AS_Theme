@@ -105,7 +105,7 @@
     <color name="assistant_gem_sys_color_error">@*android:color/accent_material_dark</color>
     <color name="assistant_gem_sys_color_error_container">@*android:color/accent_material_dark</color>
     <color name="assistant_gem_sys_color_inverse_on_surface">#ff303030</color>
-    <color name="assistant_gem_sys_color_inverse_primary">#ff0b57d0</color>
+    <color name="assistant_gem_sys_color_inverse_primary">@*android:color/accent_material_dark</color>
     <color name="assistant_gem_sys_color_inverse_surface">#ffe3e3e3</color>
     <color name="assistant_gem_sys_color_on_error">@*android:color/accent_material_dark</color>
     <color name="assistant_gem_sys_color_on_error_container">#fff9dedc</color>

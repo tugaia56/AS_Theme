@@ -6,6 +6,7 @@
     <!--suppress CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail">tugaia56@gmail.com</string>
     <!-- Theme wallpaper source (must be raw) -->
+    
     <string name="ThemeWallpaperSource"></string>
     <!-- Do your theme support substratum legacy? -->
     <!-- If you choose not to support legacy, then change the following line from -->
@@ -22,9 +23,15 @@
     <string-array name="ThemeChangelog">
         <item>Versione 6.0.0</item>
         <item>AGGIUNTO:</item>
-        <item>- - -</item>
+        <item>APKtool M by Maximoff v2.4.0-250916</item>
+        <item>MPatcher di Maximoff v5.3</item>
+        <item>System UI Opzione (Hide Icons Activity In-Out)</item>
         <item>AGGIORNATO:</item>
-        <item>- - -</item>
+        <item>Gmail BUG FIX</item>
+        <item>Benessere digitale v1.32.808794749</item>
+        <item>Viper4Android FX v8.0</item>
+        <item>Sky GO v25.3.1</item>
+        <item>DREO v3.3.10</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

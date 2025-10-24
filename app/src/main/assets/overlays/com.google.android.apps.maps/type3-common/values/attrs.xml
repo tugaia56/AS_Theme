@@ -47,6 +47,7 @@
     <attr name="actionViewClass" format="string" />
     <attr name="activeIndicatorLabelPadding" format="dimension" />
     <attr name="activityChooserViewStyle" format="reference" />
+    <attr name="adaptiveMaxWidthEnabled" format="boolean" />
     <attr name="addElevationShadow" format="boolean" />
     <attr name="adjustable" format="boolean" />
     <attr name="alertDialogButtonGroupStyle" format="reference" />
@@ -261,6 +262,10 @@
     <attr name="badgeWithTextShapeAppearance" format="reference" />
     <attr name="badgeWithTextShapeAppearanceOverlay" format="reference" />
     <attr name="badgeWithTextWidth" format="dimension" />
+    <attr name="badge_offset_x" format="dimension" />
+    <attr name="badge_offset_y" format="dimension" />
+    <attr name="badge_size" format="dimension" />
+    <attr name="badge_strokeWidth" format="dimension" />
     <attr name="barLength" format="dimension" />
     <attr name="barrierAllowsGoneWidgets" format="boolean" />
     <attr name="barrierDirection">
@@ -653,6 +658,7 @@
     <attr name="contentScrim" format="color" />
     <attr name="contentTextColor" format="color" />
     <attr name="contentTextColorDark" format="color" />
+    <attr name="continuousModeTickCount" format="integer" />
     <attr name="controlBackground" format="reference" />
     <attr name="conversationCellBgColor" format="color" />
     <attr name="conversationCellClickColor" format="color" />
@@ -1166,6 +1172,7 @@
     <attr name="geoColorDarkPositiveContainer" format="reference|color" />
     <attr name="geoColorDarkPrimary" format="reference|color" />
     <attr name="geoColorDarkPrimaryContainer" format="reference|color" />
+    <attr name="geoColorDarkRealTime" format="reference|color" />
     <attr name="geoColorDarkSavedCustomList" format="reference|color" />
     <attr name="geoColorDarkSavedDefault" format="reference|color" />
     <attr name="geoColorDarkSavedFavorite" format="reference|color" />
@@ -1256,6 +1263,7 @@
     <attr name="geoColorLightPositiveContainer" format="reference|color" />
     <attr name="geoColorLightPrimary" format="reference|color" />
     <attr name="geoColorLightPrimaryContainer" format="reference|color" />
+    <attr name="geoColorLightRealTime" format="reference|color" />
     <attr name="geoColorLightSavedCustomList" format="reference|color" />
     <attr name="geoColorLightSavedDefault" format="reference|color" />
     <attr name="geoColorLightSavedFavorite" format="reference|color" />
@@ -1322,6 +1330,7 @@
     <attr name="geoColorPositiveContainer" format="reference|color" />
     <attr name="geoColorPrimary" format="reference|color" />
     <attr name="geoColorPrimaryContainer" format="reference|color" />
+    <attr name="geoColorRealTime" format="reference|color" />
     <attr name="geoColorSavedCustomList" format="reference|color" />
     <attr name="geoColorSavedDefault" format="reference|color" />
     <attr name="geoColorSavedFavorite" format="reference|color" />
@@ -1826,6 +1835,8 @@
         <flag name="standard" value="0x00000101" />
     </attr>
     <attr name="layout_order" format="integer" />
+    <attr name="layout_overflowIcon" format="reference|string|integer|boolean|color|float|dimension|fraction" />
+    <attr name="layout_overflowText" format="reference|string|integer|boolean|color|float|dimension|fraction" />
     <attr name="layout_scrollEffect">
         <enum name="compress" value="1" />
         <enum name="none" value="0" />
@@ -1864,6 +1875,13 @@
     <attr name="listChoiceIndicatorSingleAnimated" format="reference" />
     <attr name="listDividerAlertDialog" format="reference" />
     <attr name="listItemLayout" format="reference" />
+    <attr name="listItemLayoutSegmentedStyle" format="reference" />
+    <attr name="listItemLayoutStyle" format="reference" />
+    <attr name="listItemShapeAppearanceChecked" format="reference" />
+    <attr name="listItemShapeAppearanceFirst" format="reference" />
+    <attr name="listItemShapeAppearanceLast" format="reference" />
+    <attr name="listItemShapeAppearanceMiddle" format="reference" />
+    <attr name="listItemShapeAppearanceSingle" format="reference" />
     <attr name="listLayout" format="reference" />
     <attr name="listMaxWidth" format="dimension" />
     <attr name="listMenuViewStyle" format="reference" />
@@ -1905,8 +1923,14 @@
         <enum name="matrix" value="0" />
     </attr>
     <attr name="lottieAnimationViewStyle" format="reference" />
+    <attr name="lottie_asyncUpdates">
+        <enum name="automatic" value="0" />
+        <enum name="disabled" value="2" />
+        <enum name="enabled" value="1" />
+    </attr>
     <attr name="lottie_autoPlay" format="boolean" />
     <attr name="lottie_cacheComposition" format="boolean" />
+    <attr name="lottie_clipTextToBoundingBox" format="boolean" />
     <attr name="lottie_clipToCompositionBounds" format="boolean" />
     <attr name="lottie_colorFilter" format="color" />
     <attr name="lottie_defaultFontFileExtension" format="string" />
@@ -1944,6 +1968,8 @@
     <attr name="materialAlertDialogTitlePanelStyle" format="reference" />
     <attr name="materialAlertDialogTitleTextStyle" format="reference" />
     <attr name="materialButtonElevatedStyle" format="reference" />
+    <attr name="materialButtonGroupOverflowButtonStyle" format="reference" />
+    <attr name="materialButtonGroupPopupMenuStyle" format="reference" />
     <attr name="materialButtonGroupStyle" format="reference" />
     <attr name="materialButtonOutlinedStyle" format="reference" />
     <attr name="materialButtonStyle" format="reference" />
@@ -2021,6 +2047,7 @@
         <enum name="center" value="17" />
         <enum name="top" value="49" />
     </attr>
+    <attr name="merchantPlaceholderIcon_size" format="dimension" />
     <attr name="methodName" format="string" />
     <attr name="middleText" format="string" />
     <attr name="min" format="integer" />
@@ -2236,6 +2263,15 @@
     <attr name="orderingFromXml" format="boolean" />
     <attr name="outgoingBackgroundColor" format="color" />
     <attr name="outgoingTextAppearance" format="reference" />
+    <attr name="overflowButtonIcon" format="reference|string|integer|boolean|color|float|dimension|fraction" />
+    <attr name="overflowLinearLayoutOverflowButtonStyle" format="reference" />
+    <attr name="overflowLinearLayoutPopupMenuStyle" format="reference" />
+    <attr name="overflowLinearLayoutStyle" format="reference" />
+    <attr name="overflowMode">
+        <enum name="menu" value="1" />
+        <enum name="none" value="0" />
+        <enum name="wrap" value="2" />
+    </attr>
     <attr name="overlapAnchor" format="boolean" />
     <attr name="padding" format="dimension" />
     <attr name="paddingBottomNoButtons" format="dimension" />
@@ -2614,6 +2650,7 @@
     <attr name="sucFooterBarButtonMiddleSpacing" format="dimension" />
     <attr name="sucFooterBarButtonMinHeight" format="dimension" />
     <attr name="sucFooterBarButtonOutlinedColor" format="color" />
+    <attr name="sucFooterBarButtonStackMiddleSpacing" format="dimension" />
     <attr name="sucFooterBarButtonTextSize" format="dimension" />
     <attr name="sucFooterBarMinHeight" format="dimension" />
     <attr name="sucFooterBarPaddingBottom" format="dimension" />
@@ -2681,6 +2718,8 @@
     <attr name="sudCardIconContainerStyle" format="reference" />
     <attr name="sudCardIconStyle" format="reference" />
     <attr name="sudCardTitleStyle" format="reference" />
+    <attr name="sudClipChildren" format="boolean" />
+    <attr name="sudClipToPadding" format="boolean" />
     <attr name="sudCollapsedSummary" format="string" />
     <attr name="sudColorPrimary" format="color" />
     <attr name="sudContentFramePaddingBottom" format="reference|dimension" />
@@ -2754,7 +2793,6 @@
     <attr name="sudIllustrationItemContainerStyle" format="reference" />
     <attr name="sudIllustrationItemStyle" format="reference" />
     <attr name="sudInfoFooterContainerStyle" format="reference" />
-    <attr name="sudInfoFooterIconContainerStyle" format="reference" />
     <attr name="sudInfoFooterIconStyle" format="reference" />
     <attr name="sudInfoFooterTitleStyle" format="reference" />
     <attr name="sudItemBackground" format="reference|color" />
@@ -2776,9 +2814,11 @@
     <attr name="sudItemIconContainerWidth" format="reference|dimension" />
     <attr name="sudItemIconDefaultTint" format="color" />
     <attr name="sudItemIconStyle" format="reference" />
+    <attr name="sudItemMoreInfoStyle" format="reference" />
     <attr name="sudItemPaddingBottom" format="reference|dimension" />
     <attr name="sudItemPaddingTop" format="reference|dimension" />
     <attr name="sudItemRadioButtonStyle" format="reference" />
+    <attr name="sudItemRecyclable" format="boolean" />
     <attr name="sudItemSummaryPaddingBottom" format="reference|dimension" />
     <attr name="sudItemSummaryPaddingTop" format="reference|dimension" />
     <attr name="sudItemSummaryStyle" format="reference" />
@@ -2821,6 +2861,11 @@
         <flag name="start" value="0x00000010" />
         <flag name="top" value="0x00000001" />
     </attr>
+    <attr name="sudScrollViewMarginBottom" format="reference|dimension" />
+    <attr name="sudScrollViewMarginTop" format="reference|dimension" />
+    <attr name="sudScrollViewPaddingBottom" format="reference|dimension" />
+    <attr name="sudScrollViewPaddingTop" format="reference|dimension" />
+    <attr name="sudSectionHeaderColor" format="reference|color" />
     <attr name="sudSectionItemContainerStyle" format="reference" />
     <attr name="sudSectionItemTitleStyle" format="reference" />
     <attr name="sudShouldApplyAdditionalMargin" format="boolean" />
@@ -2913,6 +2958,7 @@
     <attr name="textAppearanceBody2" format="reference" />
     <attr name="textAppearanceBody2Bold" format="reference" />
     <attr name="textAppearanceBodyExtraSmall" format="reference" />
+    <attr name="textAppearanceBodyExtraSmallEmphasized" format="reference" />
     <attr name="textAppearanceBodyLarge" format="reference" />
     <attr name="textAppearanceBodyLargeEmphasized" format="reference" />
     <attr name="textAppearanceBodyMedium" format="reference" />
@@ -3190,6 +3236,8 @@
     </attr>
     <attr name="voiceIcon" format="reference" />
     <attr name="waveAmplitude" format="dimension" />
+    <attr name="waveAmplitudeRampProgressMax" format="float" />
+    <attr name="waveAmplitudeRampProgressMin" format="float" />
     <attr name="waveDecay" format="integer" />
     <attr name="waveOffset" format="float|dimension" />
     <attr name="wavePeriod" format="float" />

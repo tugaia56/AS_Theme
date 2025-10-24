@@ -15,8 +15,8 @@
         <item name="geoColorDarkImmersive">#ffffffff</item>
         <item name="geoColorDarkInfo">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkInfoContainer">@*android:color/background_dark</item>
-        <item name="geoColorDarkInfoContainerVariant">#ff1c2b42</item>
-        <item name="geoColorDarkInversePrimary">#ff006876</item>
+        <item name="geoColorDarkInfoContainerVariant">@*android:color/accent_material_dark</item>
+        <item name="geoColorDarkInversePrimary">#ff007b8b</item>
         <item name="geoColorDarkInverseSurface">#ffe3e3e3</item>
         <item name="geoColorDarkLocalGuides">#ffe35a1b</item>
         <item name="geoColorDarkLocalGuidesVariant">#fff16b2d</item>
@@ -49,7 +49,7 @@
         <item name="geoColorDarkOnSurfaceTonal">#ff7fb3be</item>
         <item name="geoColorDarkOnSurfaceVariant">#ffffffff</item>
         <item name="geoColorDarkOnTonalSurface">#ffe3e3e3</item>
-        <item name="geoColorDarkOutlineDecorative">#ff474747</item>
+        <item name="geoColorDarkOutlineDecorative">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkOutlineDisabled">@*android:color/background_dark</item>
         <item name="geoColorDarkOutlineInteractive">#ff5e5e5e</item>
         <item name="geoColorDarkOutlineTransparent">#00ffffff</item>
@@ -57,6 +57,7 @@
         <item name="geoColorDarkPositiveContainer">#ff1f3f28</item>
         <item name="geoColorDarkPrimary">@*android:color/accent_material_dark</item>
         <item name="geoColorDarkPrimaryContainer">@*android:color/accent_material_dark</item>
+        <item name="geoColorDarkRealTime">#ffffb0cf</item>
         <item name="geoColorDarkSavedCustomList">#ff9bd0db</item>
         <item name="geoColorDarkSavedDefault">#ff75d4e6</item>
         <item name="geoColorDarkSavedFavorite">@*android:color/accent_material_dark</item>
@@ -73,7 +74,7 @@
         <item name="geoColorDarkSurface3">#ff31343a</item>
         <item name="geoColorDarkSurface4">#ff32363c</item>
         <item name="geoColorDarkSurface5">#ff353940</item>
-        <item name="geoColorDarkSurfaceBright">#00ff00</item>
+        <item name="geoColorDarkSurfaceBright">@*android:color/button_material_dark</item>
         <item name="geoColorDarkSurfaceContainer">#ff1a2122</item>
         <item name="geoColorDarkSurfaceContainerBold">#ff394a4e</item>
         <item name="geoColorDarkSurfaceContainerHigh">#ff252b2c</item>
@@ -84,7 +85,7 @@
         <item name="geoColorDarkSurfaceImmersive">#99000000</item>
         <item name="geoColorDarkTonalSurface">#ff31343a</item>
         <item name="geoColorDarkTransparentSurface">#00ffffff</item>
-        <item name="geoColorLightCaution">#ffb26c00</item>
+        <item name="geoColorLightCaution">#ff9f6108</item>
         <item name="geoColorLightCautionContainer">#fffef2e2</item>
         <item name="geoColorLightCautionContainerVariant">#ffffdf99</item>
         <item name="geoColorLightCautionVariant">#ffffbb29</item>
@@ -98,8 +99,8 @@
         <item name="geoColorLightImmersive">#ffffffff</item>
         <item name="geoColorLightInfo">@*android:color/accent_material_dark</item>
         <item name="geoColorLightInfoContainer">#fff0f4f9</item>
-        <item name="geoColorLightInfoContainerVariant">#ffd3e3fd</item>
-        <item name="geoColorLightInversePrimary">#ff58b9ca</item>
+        <item name="geoColorLightInfoContainerVariant">#ffffffff</item>
+        <item name="geoColorLightInversePrimary">@*android:color/accent_material_dark</item>
         <item name="geoColorLightInverseSurface">@*android:color/background_dark</item>
         <item name="geoColorLightLocalGuides">#ffe35a1b</item>
         <item name="geoColorLightLocalGuidesVariant">#ffc54105</item>
@@ -136,10 +137,11 @@
         <item name="geoColorLightOutlineDisabled">#ffe3e3e3</item>
         <item name="geoColorLightOutlineInteractive">#ffc7c7c7</item>
         <item name="geoColorLightOutlineTransparent">#00ffffff</item>
-        <item name="geoColorLightPositive">#ff198639</item>
+        <item name="geoColorLightPositive">#ff2b7f3f</item>
         <item name="geoColorLightPositiveContainer">#ffc4eed0</item>
         <item name="geoColorLightPrimary">#ff007b8b</item>
         <item name="geoColorLightPrimaryContainer">#ff007b8b</item>
+        <item name="geoColorLightRealTime">#ffd01884</item>
         <item name="geoColorLightSavedCustomList">#ff266772</item>
         <item name="geoColorLightSavedDefault">#ff006876</item>
         <item name="geoColorLightSavedFavorite">@*android:color/accent_material_dark</item>

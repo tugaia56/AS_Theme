@@ -351,9 +351,9 @@
     <color name="photos_cloudstorage_g1notification_styles_alert_text_color">#ff410e0b</color>
     <color name="photos_cloudstorage_g1notification_styles_alert_title_color">#ff410e0b</color>
     <color name="photos_cloudstorage_g1notification_styles_info_background_color">#fff0f4f9</color>
-    <color name="photos_cloudstorage_g1notification_styles_info_filled_button_background_color">#ff0b57d0</color>
+    <color name="photos_cloudstorage_g1notification_styles_info_filled_button_background_color">@*android:color/accent_material_dark</color>
     <color name="photos_cloudstorage_g1notification_styles_info_filled_button_text_color">#ffffffff</color>
-    <color name="photos_cloudstorage_g1notification_styles_info_outlined_button_text_color">#ff0b57d0</color>
+    <color name="photos_cloudstorage_g1notification_styles_info_outlined_button_text_color">@*android:color/accent_material_dark</color>
     <color name="photos_cloudstorage_g1notification_styles_info_text_color">#ff444746</color>
     <color name="photos_cloudstorage_g1notification_styles_info_title_color">@*android:color/background_dark</color>
     <color name="photos_cloudstorage_g1notification_styles_warning_background_color">#ffffefd5</color>
@@ -644,7 +644,7 @@
     <color name="sud_system_accent1_100">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent1_200">#ff71d8c7</color>
     <color name="sud_system_accent1_300">#ff53bcac</color>
-    <color name="sud_system_accent1_600">#ff006c5f</color>
+    <color name="sud_system_accent1_600">@*android:color/accent_material_dark</color>
     <color name="sud_system_accent2_100">#ffe8def8</color>
     <color name="sud_system_accent2_200">#ffa4cfc7</color>
     <color name="sud_system_accent2_600">#ff3d665f</color>

@@ -71,7 +71,7 @@
     <color name="baseline_primary_20">#ffffffff</color>
     <color name="baseline_primary_20_alpha_38">#61062e6f</color>
     <color name="baseline_primary_30">#ff0842a0</color>
-    <color name="baseline_primary_40">#ff0b57d0</color>
+    <color name="baseline_primary_40">@*android:color/accent_material_dark</color>
     <color name="baseline_primary_40_alpha_10">#190b57d0</color>
     <color name="baseline_primary_40_alpha_12">#1f0b57d0</color>
     <color name="baseline_primary_40_alpha_6">#0f0b57d0</color>

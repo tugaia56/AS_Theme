@@ -25,7 +25,7 @@
     <color name="grey_012_transparent">@*android:color/transparent</color>
     <color name="label_blue">#ff61d2ff</color>
     <color name="label_green">#ff78cc64</color>
-    <color name="label_orange">#ffffb640</color>
+    <color name="label_orange">@*android:color/accent_material_dark</color>
     <color name="label_purple">#ffce91d3</color>
     <color name="label_red">#fff37476</color>
     <color name="label_yellow">#ffffef67</color>

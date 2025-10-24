@@ -252,7 +252,7 @@
     <color name="gm3_ref_palette_primary100">#ffffffff</color>
     <color name="gm3_ref_palette_primary20">#ff062e6f</color>
     <color name="gm3_ref_palette_primary30">@*android:color/accent_material_dark</color>
-    <color name="gm3_ref_palette_primary40">#ff0b57d0</color>
+    <color name="gm3_ref_palette_primary40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary70">#ff7cacf8</color>
     <color name="gm3_ref_palette_primary80">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary90">#ffffffff</color>
@@ -562,5 +562,5 @@
     <color name="thermostat_device_outer_color">#ffbdc0c5</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
-    <color name="top_label_background_color">#ff0b57d0</color>
+    <color name="top_label_background_color">@*android:color/accent_material_dark</color>
 </resources>
