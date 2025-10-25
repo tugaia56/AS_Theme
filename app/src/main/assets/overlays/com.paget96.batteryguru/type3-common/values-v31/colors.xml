@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="glance_colorBackground">@*android:color/background_dark</color>
+    <color name="glance_colorError">#ffb3261e</color>
+    <color name="glance_colorErrorContainer">#fff9dedc</color>
+    <color name="glance_colorOnBackground">@*android:color/background_dark</color>
+    <color name="glance_colorOnError">#ffffffff</color>
+    <color name="glance_colorOnErrorContainer">#ff410e0b</color>
+    <color name="glance_colorOnPrimary">#3e2723</color>
+    <color name="glance_colorOnPrimaryContainer">#5d4037</color>
+    <color name="glance_colorOnSecondary">#ff6d00</color>
+    <color name="glance_colorOnSecondaryContainer">#ff9100</color>
+    <color name="glance_colorOnSurface">@*android:color/background_dark</color>
+    <color name="glance_colorOnSurfaceInverse">#ffab40</color>
+    <color name="glance_colorOnSurfaceVariant">#ffd180</color>
+    <color name="glance_colorOnTertiary">#e65100</color>
+    <color name="glance_colorOnTertiaryContainer">#ef6c00</color>
+    <color name="glance_colorOutline">#827717</color>
+    <color name="glance_colorPrimary">#aeea00</color>
+    <color name="glance_colorPrimaryContainer">#c6ff00</color>
+    <color name="glance_colorPrimaryInverse">#eeff41</color>
+    <color name="glance_colorSecondary">#f4ff81</color>
+    <color name="glance_colorSecondaryContainer">#00c853</color>
+    <color name="glance_colorSurface">@*android:color/background_dark</color>
+    <color name="glance_colorSurfaceInverse">#00e676</color>
+    <color name="glance_colorSurfaceVariant">#69f0ae</color>
+    <color name="glance_colorTertiary">#b9f6ca</color>
+    <color name="glance_colorTertiaryContainer">#1b5e20</color>
+    <color name="glance_colorWidgetBackground">#43a047</color>
     <color name="m3_ref_palette_dynamic_neutral0">#3e2723</color>
     <color name="m3_ref_palette_dynamic_neutral10">#4e342e</color>
     <color name="m3_ref_palette_dynamic_neutral100">#5d4037</color>
