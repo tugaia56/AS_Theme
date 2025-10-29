@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+																	 
+    <string name="abc_action_bar_home_description_format">%1$s
+             %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s
+             %2$s
+             %3$s</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_notification_needs_installation_title">"Un'applicazione richiede l'installazione di Google Play Services."</string>
+    <string name="common_google_play_services_notification_needs_update_title">"Un'applicazione richiede un aggiornamento di Google Play Services."</string>
+    <string name="common_android_wear_notification_needs_update_text">"Un'applicazione richiede l'aggiornamento dell'app Android Wear."</string>
+    <string name="common_google_play_services_needs_enabling_title">"Un'applicazione richiede l'attivazione di Google Play Services."</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Richiesta da %1$s</string>
+    <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">"L'app non funzionerà senza Google Play Services
+             non presente sul tuo telefono."</string>
+    <string name="common_google_play_services_install_text_tablet">"L'app non funzionerà senza Google Play Services
+             non presente sul tuo tablet."</string>
+    <string name="common_google_play_services_install_button">Installa Google Play Services</string>
+    <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string name="common_google_play_services_enable_text">"L'app non funzionerà se non attivi Google Play Services."</string>
+    <string name="common_google_play_services_enable_button">Attiva Google Play Services</string>
+    <string name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_android_wear_update_title">Aggiorna Android Wear</string>
+    <string name="common_google_play_services_update_text">"L'app non funzionerà se non aggiorni Google Play Services."</string>
+    <string name="common_android_wear_update_text">Questa app funzionerà solo dopo avere aggiornato Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Errore di rete</string>
+    <string name="common_google_play_services_network_error_text">È necessaria una connessione dati per connettersi a Google Play Services.</string>
+    <string name="common_google_play_services_invalid_account_title">Account non valido</string>
+    <string name="common_google_play_services_invalid_account_text">"L'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string name="common_google_play_services_unknown_issue">Problema sconosciuto con Google Play Services.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play Services</string>
+    <string name="common_google_play_services_unsupported_text">La piattaforma Google Play Services
+             su cui sono basate alcune delle tue applicazioni
+             non è supportata dal dispositivo in uso. Per assistenza
+             contatta il produttore.</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="app_name">Pulsante di Alimentazione</string>
+    <string name="general">GENERALI</string>
+    <string name="settings">Impostazioni</string>
+    <string name="power_menu_settings">Power Menu</string>
+    <string name="power_menu_summary">Apre il menu di alimentazione</string>
+    <string name="screen_off_settings">Screen Off</string>
+    <string name="screen_off_summary">Spegne lo schermo</string>
+    <string name="set_notification">Imposta notifica</string>
+    <string name="set_notification_summary">"Non ti piace HUD? Imposta una notifica."</string>
+    <string name="set_on_boot">Predisposto in Boot</string>
+    <string name="set_on_boot_summary_notification">Imposta la notifica ogni volta che il telefono si avvia.</string>
+    <string name="add_widget">Aggiungi Widget</string>
+    <string name="add_widget_summary">Avvia Widget Picker per aggiungere widget alla schermata iniziale.</string>
+    <string name="hud">HUD CLASSICO</string>
+    <string name="hud_summary">Imposta un widget mobile per spegnere lo schermo e aprire il menu di alimentazione.</string>
+    <string name="cleaning_up">Pulizia prima di arrestare HUD.</string>
+    <string name="HUD_cooldown">"Per evitare incidenti
+             non è possibile abilitare e disabilitare HUD incessantemente 
+Opzione di sblocco in:"</string>
+    <string name="seconds">secondi (s)</string>
+    <string name="hud_shutdown">HUD è stato terminato.</string>
+    <string name="set_on_boot_summary_hud">Imposta HUD ogni volta che il telefono si avvia.</string>
+    <string name="experimental">SPERIMENTALE</string>
+    <string name="experimental_disclaimer">Dichiarazione di non responsabilità sulle funzionalità sperimentali</string>
+    <string name="experimental_summary">"La funzione Screen On che utilizza il sensore di gravità è ancora in fase sperimentale. Ruota il telefono come mostrato di seguito. La funzione accende solo lo schermo. Siete invitati a provarlo e a darmi un feedback che ritenete possa essere prezioso."</string>
+    <string name="screen_on_gif">Tutorial GIF Screen On</string>
+    <string name="screen_on_gif_summary">Mostrami come accendere il telefono utilizzando questa funzione.</string>
+    <string name="screen_on">Screen On</string>
+    <string name="screen_on_summary">Accendere lo schermo ruotando il telefono una volta. Non ci sono wakelocks utilizzati
+             quindi non preoccupatevi di consumo della batteria. Questa funzione solo accendere lo schermo
+             non spegnerlo.</string>
+    <string name="set_on_boot_summary_screen_on">Imposta Screen On ogni volta che il telefono si avvia.</string>
+    <string name="permissions">PERMESSI</string>
+    <string name="get_su">Autorizzazioni SU</string>
+    <string name="get_su_summary">"Ottieni le autorizzazioni SuperUser per abilitare l\'applicazione."</string>
+    <string name="mapping">MAPPATURA</string>
+    <string name="map_power_button">Mappatura automatica</string>
+    <string name="map_power_button_summary">Questo troverà il tuo pulsante di accensione sul dispositivo.</string>
+    <string name="manually_map">Mappatura Manuale</string>
+    <string name="manually_map_summary">"Se l\'opzione sopra non ha funzionato
+             prova questo."</string>
+    <string name="setup">IMPOSTAZIONI</string>
+    <string name="quick_setup">Configurazione Rapida</string>
+    <string name="quick_setup_summary">"Configurare rapidamente il pulsante di alimentazione e le impostazioni dell'applicazione."</string>
+    <string name="changelog_title">CHANGELOG</string>
+    <string name="show_changelog">Mostra Changelog</string>
+    <string name="remove_ads">ANNUNCI</string>
+    <string name="remove_ads_desc">Rimuovere gli annunci facendo un acquisto</string>
+    <string name="donate">DONAZIONI</string>
+    <string name="buy_drink">Acquista da bere allo sviluppatore</string>
+    <string name="buy_drink_summary">Ti piace il mio lavoro? Considera di fare una donazione.</string>
+    <string name="analytics">ANALISI</string>
+    <string name="send_anon_info">Invia informazioni anonime utilizzo app</string>
+    <string name="analytics_summary">"Fornire l\'utilizzo anonimo dell\'applicazione allo sviluppatore per il miglioramento dell\'applicazione."</string>
+    <string name="about">INFORMAZIONI</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_this_app">Vota questa applicazione</string>
+    <string name="share">Condividi</string>
+    <string name="share_body">Dai un\'occhiata al Pulsante di Accensione di Torcellite - http://play.google.com/store/apps/details?id=org.torcellite.powerbutton</string>
+    <string name="share_via">Condividi via</string>
+    <string name="already_purchased">Questo articolo è già stato acquistato da te
+             grazie.</string>
+    <string name="creator_credits">Creato da Torcellite</string>
+    <string name="credits">"Crediti Icona per DesignMagnet.net 
+Grazie per il supporto!"</string>
+    <string name="torcellite">"Pulsante di alimentazione 
+Torcellite"</string>
+    <string name="screen_off">"Screen 
+Off"</string>
+    <string name="power_menu">"Power 
+Menu"</string>
+    <string name="close">x</string>
+    <string name="add_widget_how_to">"Purtroppo Android non consentirà alle applicazioni di aggiungere automaticamente widget alla schermata iniziale.
+Puoi aggiungerlo premendo e tenendo premuto sulla schermata principale
+             questo ti permetterà di andare al menu di selezione dei widget; dove puoi selezionare il widget \"Pulsante di Accensione\" e posizionarlo dove preferisci sulla schermata iniziale."</string>
+    <string name="power_button_widget">PB Dual Button</string>
+    <string name="power_button_widget_screen_off">PB Screen Off</string>
+    <string name="power_button_widget_power_menu">PB Power Menu</string>
+    <string name="turn_screen_off">Screen Off</string>
+    <string name="show_power_menu">Power Menu</string>
+    <string name="screen_on_service">Servizio On Screen</string>
+    <string name="more_info">Scorrere verso il basso la notifica per maggiori informazioni</string>
+    <string name="big_content">Questa notifica serve a mantenere attiva la schermata sul servizio dell\'applicazione Pulsante di Accensione.</string>
+    <string name="async_task_message">Mappatura Pulsante di Accensione...</string>
+    <string name="not_configured">"Pulsante di alimentazione non è stato mappato dall'applicazione. Fare clic sul pulsante in basso per configurare."</string>
+    <string name="not_configured_toast">"Pulsante di alimentazione non è stato mappato dall'applicazione. Cliccate sull'immagine per mappare il Pulsante di Accensione."</string>
+    <string name="could_not_configure_explanation">"Stai provando a configurare manualmente il Pulsante di Accensione. L'applicazione ti mostrerà i pulsanti e i loro numeri di evento. I numeri di evento sono i numeri dopo la parola evento. Se vedi eventX associato alla parola power
+             pwr o qualsiasi cosa che ritieni possa associare l'evento al tasto di accensione
+             inserisci quel numero nella casella di testo sottostante. Questo mapperà il tuo Pulsante di Accensione all\'applicazione. 
+Grazie per la pazienza."</string>
+    <string name="configured">"Pulsante di alimentazione è stato mappato e l'applicazione è pronta per essere utilizzata."</string>
+    <string name="could_not_configure">Impossibile trovare il dispositivo di input. Si prega di provare la configurazione manuale.</string>
+    <string name="clear_async_task">Attendi che AsyncTask venga cancellato.</string>
+    <string name="show_output">Bene</string>
+    <string name="thats_the_button">Questo è il pulsante!</string>
+    <string name="incorrect_event">Evento errato
+             riprovare.</string>
+    <string name="done">"Fatto! Provate ad usare l'applicazione. Se non funziona
+             provare a mappare nuovamente il pulsante."</string>
+    <string name="manual_config">Configurazione manuale</string>
+    <string name="not_mapped_yet">Il Pulsante di Accensione non è ancora stato mappato. Si prega di mappare il Pulsante di Accensione.</string>
+    <string name="automap_summary_below_ics">"Siamo spiacenti
+             il pulsante di alimentazione non può essere mappato automaticamente sotto ICS. 
+Utilizzare invece la funzione mappatura manuale."</string>
+    <string name="notification_summary_below_ics">"Spiacenti
+             la notifica con i pulsanti non può essere abilitata sotto ICS.
+Usa invece il widget."</string>
+    <string name="notification_setonboot_summary_below_ics">Dal momento che le notifiche sono disabilitate non hai bisogno di questa opzione.</string>
+    <string name="root_access_granted">Accesso root è stato concesso
+             grazie.</string>
+    <string name="root_access_denied">Accesso root è stato negato o revocato
+             controlla le impostazioni SU.</string>
+    <string name="changelog">"1. Aggiunto acquisto in-app per rimuovere gli annunci - al prezzo di 99 centesimi. 
+2. Scorciatoie aggiunto. 
+3. Traduzioni aggiunte
+             se le traduzioni sono imprecise e sei interessato a tradurre la domanda
+             inviami una mail."</string>
+    <string name="support_dev">"Sono stati fatti molti sforzi nella realizzazione di questa applicazione. Se ti piace
+             considera di fare una donazione. Non dimenticare di valutare l\'applicazione se non vuoi donare.
+La donazione è completamente volontaria. 
+Questo non sblocca nuove funzionalità o rimuovere gli annunci. 
+Per rimuovere gli annunci
+             acquista il pacchetto di rimozione degli annunci."</string>
+    <string name="title_activity_tutorial_fragment_adapter">TutorialFragmentAdapter</string>
+    <string name="su_permissions">Permessi SU</string>
+    <string name="tutorial_text">"La configurazione rapida è breve e si consiglia di eseguirla una volta.
+Si prega di essere pazienti ad ogni passaggio e passare a quello successivo solo dopo un messaggio di conferma.
+Puoi premere indietro in qualsiasi momento per uscire.
+Grazie!"</string>
+    <string name="grant_su_text">Si prega di concedere le autorizzazioni SuperUser applicazione premendo il pulsante qui sotto.</string>
+    <string name="grant_su">Concessione SU</string>
+    <string name="automatic_map">Mappatura Automatica</string>
+    <string name="automatic_map_text">"L'applicazione ora cercherà di mappare automaticamente il pulsante di alimentazione
+             si prega di attendere una conferma."</string>
+    <string name="map">Mappatura Automatica</string>
+    <string name="manual_map">Mappatura Manuale</string>
+    <string name="manual_map_text">"L'applicazione non ha potuto mappare il Pulsante di Accensione. Premere il pulsante qui sotto per mappare manualmente. Non ti preoccupare
+             è molto semplice."</string>
+    <string name="notification_text">"Volete impostare una notifica per un facile accesso? 
+La notifica contiene un pulsante per accendere lo schermo spento e aprire il menu di alimentazione."</string>
+    <string name="set_classichud">Imposta HUD Classico</string>
+    <string name="hud_text">"Desideri impostare HUD (widget mobile) per un facile accesso?
+HUD contiene un pulsante per spegnere lo schermo e aprire il menu di alimentazione."</string>
+    <string name="set_hud">Imposta HUD</string>
+    <string name="set_widget">Imposta Widget</string>
+    <string name="place_widget">Desideri aggiungere un widget alla schermata iniziale per un facile accesso?</string>
+    <string name="click_me_to_continue">Fai clic per continuare il tutorial HUD.</string>
+    <string name="hud_basics">"HUD contiene un pulsante Screen Off \"S\" e un pulsante Power Menu \"P\"."</string>
+    <string name="hud_movements">"Puoi spostare HUD premendolo a lungo
+             si depositerà sul lato dello schermo a cui è piu vicino."</string>
+    <string name="hud_hide_tut">"HUD si nasconde automaticamente dopo alcuni secondi."</string>
+    <string name="hud_show_tut">"HUD può essere mostrato di nuovo semplicemente toccandolo."</string>
+    <string name="tut_end">Fine tutorial HUD.</string>
+    <string name="power_menu_shortcut_label">Power Menu</string>
+    <string name="screen_off_shortcut_label">Screen Off</string>
+</resources>

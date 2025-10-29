@@ -1091,7 +1091,7 @@
     <color name="plugins_dark">#ff3b3b3b</color>
     <color name="plugins_primary">#ff3b3b3b</color>
     <color name="plugins_user_bar">#ff313131</color>
-    <color name="preference_fallback_accent_color">#ff008577</color>
+    <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
     <color name="primary">#ff3e526e</color>
     <color name="primary_dark">@*android:color/background_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>

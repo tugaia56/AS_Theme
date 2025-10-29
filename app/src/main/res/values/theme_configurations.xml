@@ -20,17 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 6.0.0</item>
+        <item>Versione 6.1.0</item>
         <item>ADDED:</item>
-        <item>APKtool M by Maximoff v2.4.0-250916</item>
-        <item>MPatcher by Maximoff v5.3</item>
-        <item>UI System Option (Hide Icons Activity In-Out)</item>
+        <item>- - -</item>
         <item>UPDATED:</item>
-        <item>Gmail BUG FIX</item>
-        <item>Digital Wellbeing v1.32.808794749</item>
-        <item>Viper4Android FX v8.0</item>
-        <item>Sky GO v25.3.1</item>
-        <item>DREO v3.3.10</item>
+        <item>- - -</item>
     </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
