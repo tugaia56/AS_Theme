@@ -1,4 +1,4 @@
-package tugaia56.dark.shadow.user
+package com.substratum.theme
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -8,6 +8,7 @@ import android.os.RemoteException
 import tugaia56.dark.shadow.user.AdvancedConstants.BLACKLISTED_APPLICATIONS
 import tugaia56.dark.shadow.user.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
 import tugaia56.dark.shadow.user.AdvancedConstants.OTHER_THEME_SYSTEMS
+import tugaia56.dark.shadow.user.BuildConfig
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {
@@ -34,9 +35,9 @@ object ThemeFunctions {
             try {
                 val pm = context.packageManager
                 val pi = pm.getPackageInfo(packageName, PackageManager.GET_SIGNATURES)
-                if (pi.signatures != null && pi.signatures.size == 1
-                        && ((SIGNATURES[0] == pi.signatures[0]) ||
-                                (SIGNATURES[1] == pi.signatures[0]))) {
+                if (pi.signatures != null && pi.signatures!!.size == 1
+                        && ((SIGNATURES[0] == pi.signatures!![0]) ||
+                                (SIGNATURES[1] == pi.signatures!![0]))) {
                     return true
                 }
                 return false
@@ -55,7 +56,7 @@ object ThemeFunctions {
                     context.packageName,
                     PackageManager.GET_SIGNATURES
             ).signatures
-            return sigs[0].hashCode()
+            return sigs?.get(0).hashCode()
         } catch (e: PackageManager.NameNotFoundException) {
             e.printStackTrace()
         }

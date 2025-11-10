@@ -8,8 +8,6 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import android.util.Log
-import android.view.Gravity
-import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import com.github.javiersantos.piracychecker.*
@@ -19,10 +17,10 @@ import tugaia56.dark.shadow.user.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
 import tugaia56.dark.shadow.user.AdvancedConstants.OTHER_THEME_SYSTEMS
 import tugaia56.dark.shadow.user.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
 import tugaia56.dark.shadow.user.AdvancedConstants.SHOW_LAUNCH_DIALOG
-import tugaia56.dark.shadow.user.ThemeFunctions.checkApprovedSignature
-import tugaia56.dark.shadow.user.ThemeFunctions.getSelfSignature
-import tugaia56.dark.shadow.user.ThemeFunctions.getSelfVerifiedPirateTools
-import tugaia56.dark.shadow.user.ThemeFunctions.isCallingPackageAllowed
+import com.substratum.theme.ThemeFunctions.checkApprovedSignature
+import com.substratum.theme.ThemeFunctions.getSelfSignature
+import com.substratum.theme.ThemeFunctions.getSelfVerifiedPirateTools
+import com.substratum.theme.ThemeFunctions.isCallingPackageAllowed
 
 
 /**

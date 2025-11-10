@@ -44,8 +44,8 @@ val keystoreProperties = Properties()
 
 
 android {
-    compileSdk=34
 
+    compileSdk = 36
     defaultConfig {
         applicationId="tugaia56.dark.shadow.theme"
         minSdk=28
@@ -62,35 +62,58 @@ android {
         buildConfigField("byte[]", "IV_KEY", ivKey.joinToString(prefix = "{", postfix = "}"))
         resValue("string", "encryption_status", if (shouldEncrypt()) "onCompileVerify" else "false")
     }
-    signingConfigs {
-        create("release") {
-                keyAlias = keystoreProperties["keyAlias"] as String?
-                keyPassword = keystoreProperties["keyPassword"] as String?
-                storeFile = keystoreProperties["storeFile"]?.let { file(it) }
-                storePassword = keystoreProperties["storePassword"] as String?
+    val keystorePropertiesFile = rootProject.file("keystore.properties")
+    var releaseSigning = signingConfigs.getByName("debug")
 
+    try {
+        val keystoreProperties = Properties()
+        FileInputStream(keystorePropertiesFile).use { inputStream ->
+            keystoreProperties.load(inputStream)
         }
-    }
+
+        releaseSigning = signingConfigs.create("release") {
+            keyAlias = keystoreProperties.getProperty("keyAlias")
+            keyPassword = keystoreProperties.getProperty("keyPassword")
+            storeFile = rootProject.file(keystoreProperties.getProperty("storeFile"))
+            storePassword = keystoreProperties.getProperty("storePassword")
+            enableV1Signing = true
+            enableV2Signing = true
+        }
+    } catch (_: Exception) {}
     buildTypes {
-        getByName("debug") {
-            isMinifyEnabled = false
-            proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
-
-            // Themers: DO NOT MODIFY
-            buildConfigField("boolean", "ENFORCE_GOOGLE_PLAY_INSTALL", "false")
-            buildConfigField("String", "BASE_64_LICENSE_KEY", "\"\"")
-            buildConfigField("String", "APK_SIGNATURE_PRODUCTION", "\"\"")
-        }
-        getByName("release") {
-            signingConfig = signingConfigs.getByName("release")
+        release {
             isMinifyEnabled = true
-            proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
-
+            isShrinkResources = true
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+            signingConfig = releaseSigning
             // Themers: DO NOT MODIFY
             buildConfigField("boolean", "ENFORCE_GOOGLE_PLAY_INSTALL", "$ENFORCE_GOOGLE_PLAY_INSTALL")
             buildConfigField("String", "BASE_64_LICENSE_KEY", "\"$BASE_64_LICENSE_KEY\"")
             buildConfigField("String", "APK_SIGNATURE_PRODUCTION", "\"$APK_SIGNATURE_PRODUCTION\"")
         }
+        debug {
+            isDebuggable = true
+            isMinifyEnabled = false
+            isShrinkResources = false
+            signingConfig = releaseSigning
+            // Themers: DO NOT MODIFY
+            buildConfigField("boolean", "ENFORCE_GOOGLE_PLAY_INSTALL", "false")
+            buildConfigField("String", "BASE_64_LICENSE_KEY", "\"\"")
+            buildConfigField("String", "APK_SIGNATURE_PRODUCTION", "\"\"")
+        }
+        getByName("debug") {
+            versionNameSuffix = ".debug"
+        }
+    }
+    buildFeatures {
+        buildConfig = true
+    }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_21
+        targetCompatibility = JavaVersion.VERSION_21
     }
     sourceSets {
         named("main") {
@@ -98,10 +121,8 @@ android {
         }
     }
     namespace = "tugaia56.dark.shadow.user"
-    packagingOptions {
-        jniLibs {
-            useLegacyPackaging = false
-        }
+    packaging {
+        jniLibs.useLegacyPackaging = true
     }
 }
 
