@@ -1,9 +1,8 @@
 #!/bin/bash
 
-TAG=${GITHUB_REF_NAME/v/}
-NEWVERNAME=${TAG//v}
+NEWVERNAME=${GITHUB_REF_NAME/v/}
 NEWVERCODE=${NEWVERNAME//.}
 
 sed -i 's/versionCode.*/versionCode = '$NEWVERCODE'/' app/build.gradle.kts
 sed -i 's/versionName =.*/versionName = "'$NEWVERNAME'"/' app/build.gradle.kts
-sed -i 's/Dark_Shadow_Theme_.*/Dark_Shadow_Theme_'$TAG'")' app/build.gradle.kts
+sed -i 's/Dark_Shadow_Theme_v.*/Dark_Shadow_Theme_v'$TAG'")' app/build.gradle.kts
