@@ -6,7 +6,6 @@
     <!--suppress CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail">tugaia56@gmail.com</string>
     <!-- Theme wallpaper source (must be raw) -->
-    
     <string name="ThemeWallpaperSource"></string>
     <!-- Do your theme support substratum legacy? -->
     <!-- If you choose not to support legacy, then change the following line from -->
@@ -21,13 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Versione 6.0.0</item>
+        <item>Versione 6.1.0</item>
         <item>AGGIUNTO:</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
         <item>- - -</item>
-
     </string-array>
-
-
+    <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>

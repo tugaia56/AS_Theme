@@ -24,8 +24,8 @@
     <color name="bg_device_found_ring">#3d033589</color>
     <color name="bg_firmware_update">#0fffffff</color>
     <color name="block_client_dialog_text_color">#99ffffff</color>
-    <color name="blue_gradient_end_with_skin">#ff1795d5</color>
-    <color name="blue_gradient_start_with_skin">#ff1fdcde</color>
+    <color name="blue_gradient_end_with_skin">@*android:color/accent_material_light</color>
+    <color name="blue_gradient_start_with_skin">@*android:color/accent_material_dark</color>
     <color name="bottom_dialog_title">#ffffffff</color>
     <color name="btn_state_disable_gradient_end_color">#6602218a</color>
     <color name="btn_state_disable_gradient_end_color_high_contrast">#6602218a</color>
