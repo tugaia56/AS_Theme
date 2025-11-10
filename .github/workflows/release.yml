@@ -32,6 +32,6 @@ jobs:
           push-branch: 'master'
           commit-message: 'Version update: Release'
           force-add: 'true'
-          files: app/build.gradle.kts
+          files: app/build.gradle.kts app/src/main/res/values/theme_configurations.xml app/src/main/res/values-it/theme_configurations.xml
           name: GitHub
           email: ASTheme@tugaia.it
