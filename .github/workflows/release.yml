@@ -1,0 +1,37 @@
+name: Make Release
+
+
+on:
+  push:
+    tags: 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Source Code Download
+        run: git clone --branch master --single-branch --recurse-submodules https://github.com/tugaia56/AS_Theme.git .
+
+      - name: Shell Scripts Permissions
+        run: chmod +x .github/*.sh
+
+      - name: Version Bump
+        run: .github/bumpVersion.sh
+
+      - name: Gradlew Permissions
+        run: chmod +x gradlew
+
+      - name: Version Bump Commit
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'stable'
+          commit-message: 'Version update: Release'
+          force-add: 'true'
+          files: app/build.gradle.kts
+          name: GitHub
+          email: ASTheme@tugaia.it
