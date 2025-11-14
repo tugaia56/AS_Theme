@@ -44,7 +44,7 @@ jobs:
       - name: Upload Artifact to Actions
         uses: actions/upload-artifact@v4.3.1
         with:
-          name: "Dark_Shadow_Theme_${{ github.ref_name }}"
+          name: "Dark_Shadow_Theme"
           path: app/build/outputs/apk/release/*.apk
 
       - name: Version Bump Commit
@@ -54,7 +54,7 @@ jobs:
           push-branch: 'master'
           commit-message: 'Version update: Release'
           force-add: 'true'
-          files: app/build.gradle.kts app/src/main/res/values/theme_configurations.xml app/src/main/res/values-it/theme_configurations.xml
+          files: app/build.gradle.kts app/src/main/res/values/changelog.xml app/src/main/res/values-it/changelog.xml
           name: GitHub
           email: ASTheme@tugaia.it
 
@@ -68,3 +68,9 @@ jobs:
           allowUpdates: false
           draft: false
           artifacts: 'app/build/outputs/apk/release/*.apk'
+
+      - name: Telegram Channel Post
+        run: |
+          curl -X POST \
+            -H 'Content-Type: application/json' \
+            -d '{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/AS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
