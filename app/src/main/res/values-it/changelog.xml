@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
+    <string-array name="ThemeChangelog">
+        <item>Versione 6.1.0</item>
+        <item>AGGIUNTO:</item>
+        <item>- - -</item>
+        <item>AGGIORNATO:</item>
+        <item>Alarm Clock Xtreme v25.22.0</item>
+    </string-array>
+
+</resources>

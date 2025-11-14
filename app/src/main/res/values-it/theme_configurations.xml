@@ -18,13 +18,5 @@
     <!-- Force black/dark icons? -> dark -->
     <!-- Force white/light icons? -> light -->
     <string name="ThemeHeroOverride">auto</string>
-    <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
-    <string-array name="ThemeChangelog">
-        <item>Versione 6.1.0</item>
-        <item>AGGIUNTO:</item>
-        <item>- - -</item>
-        <item>AGGIORNATO:</item>
-        <item>- - -</item>
-    </string-array>
     <bool name="ThemeHideDefaultType3Option">true</bool>
 </resources>
