@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="car_purple_800">@*android:color/white</color>
+    <color name="car_purple_900">@*android:color/white</color>
+
+</resources>
