@@ -2,8 +2,7 @@
 <resources>
     <string-array name="ThemeChangelog">
         <item>Version 6.1.0</item>
-        <item>AGGIUNTO:</item>
-        <item>Build app for each commit  </item>
-        <item>Added scripts for updating through github  </item>
+        <item>MODIFICATO:</item>
+        <item>App  </item>
     </string-array>
 </resources>
