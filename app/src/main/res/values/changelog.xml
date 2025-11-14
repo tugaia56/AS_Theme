@@ -2,7 +2,9 @@
 <resources>
     <string-array name="ThemeChangelog">
         <item>Version 6.1.0</item>
+        <item>ADDED:</item>
+        <item>App1  </item>
         <item>UPDATED:</item>
-        <item>App 2  </item>
+        <item>App2  </item>
     </string-array>
 </resources>
