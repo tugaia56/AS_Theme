@@ -1,0 +1,132 @@
+name: Build Nightly APK
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    name: Build Nightly APK
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+          cache: gradle
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Get application version name
+        run: |
+          echo "VERSION_NAME=nightly-$(($(cat app/build.gradle.kts | grep versionCode | tr -s ' ' | cut -d " " -f 4 | tr -d '\r')))" >> $GITHUB_ENV
+          echo "VERSION_CODE=$(cat app/build.gradle.kts | grep versionCode | tr -s ' ' | cut -d " " -f 4 | tr -d '\r')" >> $GITHUB_ENV
+          echo "NIGHTLY_VERSION=nightly-$(($(cat app/build.gradle.kts | grep versionCode | tr -s ' ' | cut -d " " -f 4 | tr -d '\r'))) Dev (#${{github.run_number}})" >> $GITHUB_ENV
+
+      - name: Bump application version code
+        uses: chkfung/android-version-actions@v1.2.3
+        with:
+          gradlePath: app/build.gradle.kts
+          versionName: "${{ env.VERSION_NAME }} (#${{github.run_number}})"
+
+      - name: Write sign info
+        if: github.repository == 'tugaia56/AS_Theme'
+        run: |
+          if [ ! -z "${{ secrets.KEYSTORE }}" ]; then
+            echo storePassword='${{ secrets.KEYSTORE_PASSWORD }}' >> keystore.properties
+            echo keyAlias='${{ secrets.KEY_ALIAS }}' >> keystore.properties
+            echo keyPassword='${{ secrets.KEY_PASSWORD }}' >> keystore.properties
+            echo storeFile='${{ github.workspace }}/key.jks' >> keystore.properties
+            echo ${{ secrets.KEYSTORE }} | base64 --decode > ${{ github.workspace }}/key.jks
+          fi
+
+      - name: Build release with Gradle
+        if: github.repository == 'tugaia56/AS_Theme'
+        run: ./gradlew assembleRelease
+
+      - name: Build debug with Gradle
+        if: github.repository == 'tugaia56/AS_Theme'
+        run: ./gradlew assembleDebug
+
+      - name: Upload release Build Artifact
+        if: github.repository == 'tugaia56/AS_Theme'
+        uses: actions/upload-artifact@v4
+        with:
+          name: "Dark Shadow Theme ${{ env.VERSION_NAME }} Dev (#${{github.run_number}})"
+          path: app/build/outputs/apk/release/*.apk
+          if-no-files-found: error
+
+      - name: Upload debug Build Artifact
+        if: github.repository == 'tugaia56/AS_Theme'
+        uses: actions/upload-artifact@v4
+        with:
+          name: "Dark Shadow Theme ${{ env.VERSION_NAME }} Dev (#${{github.run_number}}) Debug"
+          path: app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
+
+      - name: Get Commit Messages
+        id: get_commit_message
+        run: |
+          COMMIT_MESSAGE_HEADER=""
+          COMMIT_MESSAGE_HEADER=$(git log -1 --pretty=%B | head -n 1)
+          
+          # Check if the commit message contains "CHANGELOG:"
+          COMMIT_MESSAGE_HEADER=$(echo "$COMMIT_MESSAGE_HEADER" | sed -E 's/^CHANGELOG: ?//')
+          if [[ "$COMMIT_MESSAGE_HEADER" == *".md"* || "$COMMIT_MESSAGE_HEADER" == *".yml"* ]]; then
+            echo "Skipping build upload."
+            echo "SKIP_BUILD=true" >> $GITHUB_ENV
+          else
+            echo "SKIP_BUILD=false" >> $GITHUB_ENV
+          fi
+          if [[ "$COMMIT_MESSAGE_HEADER" == "Release new beta!" ]]; then
+            echo "Skipping build upload."
+            echo "SKIP_BUILD=true" >> $GITHUB_ENV
+          else
+            echo "SKIP_BUILD=false" >> $GITHUB_ENV
+          fi
+          
+          if [[ "$COMMIT_MESSAGE_HEADER" =~ ^Merge\ remote-tracking\ branch ]]; then
+            COMMIT_MESSAGE_HEADER="Synced with the latest changes"
+          fi
+          
+          if [[ "$COMMIT_MESSAGE_HEADER" =~ DHD2280/beta-localization$ ]]; then
+            COMMIT_MESSAGE_HEADER="Updated translations"
+          fi
+          
+          if [[ -z "$COMMIT_MESSAGE_HEADER" ]]; then
+            echo "No valid changelog found!"
+            COMMIT_MESSAGE_HEADER="No valid changelog found!"
+            echo "SKIP_BUILD=true" >> $GITHUB_ENV
+          fi
+          
+          #ESCAPED_MESSAGE=$(echo "$COMMIT_MESSAGE_HEADER" | jq -Rsa . | sed 's/^"\(.*\)"$/\1/' | sed "s/'//g")
+          ESCAPED_MESSAGE=$(echo "$COMMIT_MESSAGE_HEADER" | sed "s/'//g" | sed ':a;N;$!ba;s/\n/\\n/g')
+          echo "COMMIT_MESSAGE_HEADER=${ESCAPED_MESSAGE}" >> $GITHUB_ENV
+
+      # now everything fine, let's update nightly version
+
+      - name: Telegram File Message
+        if: github.repository == 'tugaia56/AS_Theme' && env.SKIP_BUILD != 'true'
+        env:
+          COMMIT_MESSAGE: |+
+            New push to github!
+            \`\`\`
+            ${{ env.COMMIT_MESSAGE_HEADER }}
+            \`\`\`
+            Nightly version: ${{ env.VERSION_NAME }} Dev (#${{github.run_number}})
+            See commit detail [here](${{ github.event.head_commit.url }})
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+        run: |
+          set -e
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage \
+          -d chat_id=${{ secrets.OC_NIGHTLY_BUILDS }} \
+          -d message_thread_id=${{ secrets.OC_NIGHTLY_BUILDS_THREAD }} \
+          -d text="${{env.COMMIT_MESSAGE}}" \
+          -d parse_mode=Markdown \
+          -d disable_web_page_preview=true \
+          -d reply_markup="{\"inline_keyboard\": [[{\"text\": \"⬇️ Download (required login)\",\"url\": \"https://github.com/tugaia56/AS_Theme/actions/runs/${{github.run_id}}\"}]]}"
