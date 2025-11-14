@@ -121,6 +121,8 @@ echo "[🌎 Site Dark Shadows Theme](https://mythemedarkandmore.altervista.org/)
 echo " " >> telegram.msg
 echo "⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️" >> telegram.msg
 echo " " >> telegram.msg
+echo "Dark Shadow Theme "$NEWVERNAME >> telegram.msg
+echo " " >> telegram.msg
 cat changeLog.md >> telegram.msg
 echo " " >> telegram.msg
 echo "If you find any bugs or incorrect colors, please report them to the group and I'll fix them as soon as possible. Thank you very much." >> telegram.msg
