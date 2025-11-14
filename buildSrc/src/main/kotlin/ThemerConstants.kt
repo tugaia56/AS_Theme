@@ -1,6 +1,6 @@
 object ThemerConstants {
 
-    const val SHOULD_ENCRYPT_ASSETS = true
+    const val SHOULD_ENCRYPT_ASSETS = false
 
     // Whether this theme supports third party theme systems, we will not be able to help you debug
     // your themes on external theming systems, so the team will NOT respond to external systems if
