@@ -70,7 +70,7 @@ jobs:
         with:
           tag: ${{ env.VTag }}
           name: ${{ env.VName }}
-          body: ${{ env.TMessage }}
+          body: ${{ env.Body }}
           prerelease: false
           allowUpdates: false
           draft: false

@@ -103,17 +103,26 @@ fi
 awk '!seen[$0]++' "$TMP_CHANGELOG" >> changeLog.md
 
 # end changelog
-echo "    </string-array>" >> $EN_CHANGELOG
-echo "</resources>" >> $EN_CHANGELOG
-cp $EN_CHANGELOG $IT_CHANGELOG
-sed -i 's/ADDED/AGGIUNTO/g' $IT_CHANGELOG
-sed -i 's/UPDATED/MODIFICATO/g' $IT_CHANGELOG
-sed -i 's/REMOVED/RIMOSSO/g' $IT_CHANGELOG
+echo "*Dark Shadow Theme v$NEWVERNAME released!*" > body.msg
+echo "  " >> body.msg
+echo "*Changelog:*  " >> body.msg
+cat changeLog.md >> body.msg
+echo 'Body<<EOF' >> $GITHUB_ENV
+cat body.msg >> $GITHUB_ENV
+echo 'EOF' >> $GITHUB_ENV
 
-echo "*Dark Shadow Theme v$NEWVERNAME released!*" > telegram.msg
-echo "  " >> telegram.msg
-echo "*Changelog:*  " >> telegram.msg
+echo "[🌎 Site Dark Shadows Theme](https://mythemedarkandmore.altervista.org/)" > telegram.msg
+echo " " >> telegram.msg
+echo "⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️" >> telegram.msg
+echo " " >> telegram.msg
 cat changeLog.md >> telegram.msg
+echo " " >> telegram.msg
+echo "If you find any bugs or incorrect colors, please report them to the group and I'll fix them as soon as possible. Thank you very much." >> telegram.msg
+echo "For those of you using OxygenOS, I recommend using Oxygen Customizer; it has many extra features." >> telegram.msg
+echo " " >> telegram.msg
+echo "[🙇 Support the developer ❤️](https://www.paypal.com/donate/?business=UGACHZ2UGBEBJ&no_recurring=1&currency_code=EUR)" >> telegram.msg
+echo " " >> telegram.msg
+echo "Thank you all" >> telegram.msg
 echo 'TMessage<<EOF' >> $GITHUB_ENV
 cat telegram.msg >> $GITHUB_ENV
 echo 'EOF' >> $GITHUB_ENV
