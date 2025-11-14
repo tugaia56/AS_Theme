@@ -124,8 +124,7 @@ jobs:
         run: |
           set -e
           curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage \
-          -d chat_id=${{ secrets.OC_NIGHTLY_BUILDS }} \
-          -d message_thread_id=${{ secrets.OC_NIGHTLY_BUILDS_THREAD }} \
+          -d chat_id=${{ secrets.DST_GROUP }} \
           -d text="${{env.COMMIT_MESSAGE}}" \
           -d parse_mode=Markdown \
           -d disable_web_page_preview=true \
