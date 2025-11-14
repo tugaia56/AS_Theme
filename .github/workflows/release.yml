@@ -22,8 +22,30 @@ jobs:
       - name: Version Bump
         run: .github/bumpVersion.sh
 
+      - name: Extract Changes
+        run: .github/extractChanges.sh
+
       - name: Gradlew Permissions
         run: chmod +x gradlew
+
+      - name: Signature files preparation
+        run: |
+          if [ ! -z "${{ secrets.KEYSTORE }}" ]; then
+            echo storePassword='${{ secrets.KEYSTORE_PASSWORD }}' >> keystore.properties
+            echo keyAlias='${{ secrets.KEY_ALIAS }}' >> keystore.properties
+            echo keyPassword='${{ secrets.KEY_PASSWORD }}' >> keystore.properties
+            echo storeFile='${{ github.workspace }}/key.jks' >> keystore.properties
+            echo ${{ secrets.KEYSTORE }} | base64 --decode > ${{ github.workspace }}/key.jks
+          fi
+
+      - name: Gradle Build
+        run: ./gradlew assembleRelease
+
+      - name: Upload Artifact to Actions
+        uses: actions/upload-artifact@v4.3.1
+        with:
+          name: "Dark_Shadow_Theme_${{ github.ref_name }}"
+          path: app/build/outputs/apk/release/*.apk
 
       - name: Version Bump Commit
         uses: github-actions-x/commit@v2.9
@@ -35,3 +57,14 @@ jobs:
           files: app/build.gradle.kts app/src/main/res/values/theme_configurations.xml app/src/main/res/values-it/theme_configurations.xml
           name: GitHub
           email: ASTheme@tugaia.it
+
+      - name: Theme Binary Release
+        uses: ncipollo/release-action@v1.14.0
+        with:
+          tag: ${{ env.VTag }}
+          name: ${{ env.VName }}
+          body: ${{ env.TMessage }}
+          prerelease: false
+          allowUpdates: false
+          draft: false
+          artifacts: 'app/build/outputs/apk/release/*.apk'
