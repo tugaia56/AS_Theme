@@ -68,7 +68,6 @@ rm -f $EN_CHANGELOG
 rm -f $IT_CHANGELOG
 
 touch $EN_CHANGELOG
-touch $IT_CHANGELOG
 
 # start changelog
 echo '<?xml version="1.0" encoding="utf-8"?>' >> $EN_CHANGELOG
@@ -103,6 +102,13 @@ fi
 awk '!seen[$0]++' "$TMP_CHANGELOG" >> changeLog.md
 
 # end changelog
+echo "    </string-array>" >> $EN_CHANGELOG
+echo "</resources>" >> $EN_CHANGELOG
+cp $EN_CHANGELOG $IT_CHANGELOG
+sed -i 's/ADDED/AGGIUNTO/g' $IT_CHANGELOG
+sed -i 's/UPDATED/MODIFICATO/g' $IT_CHANGELOG
+sed -i 's/REMOVED/RIMOSSO/g' $IT_CHANGELOG
+
 echo "*Dark Shadow Theme v$NEWVERNAME released!*" > body.msg
 echo "  " >> body.msg
 echo "*Changelog:*  " >> body.msg
