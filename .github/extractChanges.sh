@@ -11,6 +11,7 @@ TMP_CHANGELOG="tmp_changelog_lines.md"
 TMP_ADDED="tmp_added.md"
 TMP_UPDATED="tmp_updated.md"
 TMP_REMOVED="tmp_removed.md"
+rm -f tmp_*
 
 # reset the file - most likely not needed
 rm -f changeLog.md
@@ -78,25 +79,25 @@ echo '        <item>Version 6.1.0</item>' >> $EN_CHANGELOG
 if [ $NUMADDED -gt 0 ]; then
   echo "## Added  " >> $TMP_CHANGELOG
   cat $TMP_ADDED >> $TMP_CHANGELOG
-  echo "        <item>ADDED:</item>"
+  echo "        <item>ADDED:</item>" >> $EN_CHANGELOG
   for i in $(cat < "$TMP_ADDED"); do
-    echo "<item>$i</item>" >> $EN_CHANGELOG
+    echo "        <item>${i/- /}</item>" >> $EN_CHANGELOG
   done
 fi
 if [ $NUMUPDATED -gt 0 ]; then
   echo "## Updated  " >> $TMP_CHANGELOG
   cat $TMP_UPDATED >> $TMP_CHANGELOG
-  echo "        <item>UPDATED:</item>"
+  echo "        <item>UPDATED:</item>" >> $EN_CHANGELOG
     for i in $(cat < "$TMP_UPDATED"); do
-      echo "<item>$i</item>" >> $EN_CHANGELOG
+      echo "        <item>${i/- /}</item>" >> $EN_CHANGELOG
     done
 fi
 if [ $NUMREMOVED -gt 0 ]; then
   echo "## Removed  " >> $TMP_CHANGELOG
   cat $TMP_REMOVED >> $TMP_CHANGELOG
-  echo "        <item>REMOVED:</item>"
+  echo "        <item>REMOVED:</item>" >> $EN_CHANGELOG
       for i in $(cat < "$TMP_REMOVED"); do
-        echo "<item>$i</item>" >> $EN_CHANGELOG
+        echo "        <item>${i/- /}</item>" >> $EN_CHANGELOG
       done
 fi
 awk '!seen[$0]++' "$TMP_CHANGELOG" >> changeLog.md
