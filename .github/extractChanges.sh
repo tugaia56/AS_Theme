@@ -74,7 +74,7 @@ touch $IT_CHANGELOG
 echo '<?xml version="1.0" encoding="utf-8"?>' >> $EN_CHANGELOG
 echo "<resources>" >> $EN_CHANGELOG
 echo '    <string-array name="ThemeChangelog">' >> $EN_CHANGELOG
-echo '        <item>Version 6.1.0</item>' >> $EN_CHANGELOG
+echo '        <item>Version '$NEWVERNAME'</item>' >> $EN_CHANGELOG
 
 if [ $NUMADDED -gt 0 ]; then
   echo "## Added  " >> $TMP_CHANGELOG
