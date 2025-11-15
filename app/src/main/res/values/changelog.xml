@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.1.0</item>
-        <item>ADDED:</item>
-        <item>Alarm Clock Xtreme v25.2.0</item>
+        <item>Version 6.2.0</item>
         <item>UPDATED:</item>
-        <item>Applicazions Github</item>
-        <item>REMOVED:</item>
-        <item>Microsoft Edge</item>
+        <item>Add OxygenOS 16  </item>
+        <item>versione 6.1.0  </item>
+        <item>Applicazioni Github  </item>
+        <item>prova app  </item>
     </string-array>
 </resources>
