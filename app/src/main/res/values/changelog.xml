@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.1.0</item>
-        <item>UPDATED:</item>
-        <item>All app on Github  </item>
-        <item>All app on Github  </item>
-        <item>Scripts  </item>
-        <item>Alarm Clock Xtreme v25.22.0  </item>
+        <item>Version 6.0.9</item>
     </string-array>
 </resources>
