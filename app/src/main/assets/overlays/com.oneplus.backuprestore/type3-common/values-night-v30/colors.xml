@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_navigation_bar_color">@*android:color/background_dark</color>
+    <color name="window_background_color">@*android:color/background_dark</color>
+    <color name="window_tool_bar_color">@*android:color/background_dark</color>
+</resources>

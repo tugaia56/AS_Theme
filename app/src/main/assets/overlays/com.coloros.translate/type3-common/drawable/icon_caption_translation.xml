@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dip" android:width="32.0dip" android:autoMirrored="true" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M16,0L16,0A16,16 0,0 1,32 16L32,16A16,16 0,0 1,16 32L16,32A16,16 0,0 1,0 16L0,16A16,16 0,0 1,16 0z" />
+    <path android:fillColor="#ffffffff" android:pathData="M8,12.067C8,11.036 8.836,10.2 9.867,10.2H22.133C23.164,10.2 24,11.036 24,12.067V19.933C24,20.964 23.164,21.8 22.133,21.8H13.022H9.87C8.837,21.8 8,20.962 8,19.93V12.067Z" />
+    <path android:fillColor="#00000000" android:pathData="M10.917,18.95L12.917,18.95" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M20.083,16.617L21.083,16.617" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M10.917,16.617L17.084,16.617" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M15.917,18.95L21.084,18.95" android:strokeColor="@*android:color/accent_material_dark" android:strokeWidth="1.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

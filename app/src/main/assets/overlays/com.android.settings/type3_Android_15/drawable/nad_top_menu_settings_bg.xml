@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="#33f9f9f9"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@*android:id/mask" android:top="3.0dip" android:bottom="3.0dip">
+        <shape>
+            <solid android:color="#ffffffff" />
+            <corners android:radius="12.0dip" />
+        </shape>
+    </item>
+    <item android:top="2.0dip" android:bottom="2.0dip">
+        <shape>
+            <gradient android:startColor="#00000000" android:endColor="#00f9f9f9" android:angle="270.0" />
+            <corners android:radius="12.0dip" />
+        </shape>
+    </item>
+</ripple>

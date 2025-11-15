@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glance_colorBackground">#ff0000</color>
+    <color name="glance_colorOnBackground">#6d4c41</color>
+    <color name="glance_colorOnPrimary">#8d6e63</color>
+    <color name="glance_colorOnPrimaryContainer">#dd2c00</color>
+    <color name="glance_colorOnSecondary">#ff3d00</color>
+    <color name="glance_colorOnSecondaryContainer">#ff6e40</color>
+    <color name="glance_colorOnSurface">#ff9e80</color>
+    <color name="glance_colorOnSurfaceInverse">#bf360c</color>
+    <color name="glance_colorOnSurfaceVariant">#ffd600</color>
+    <color name="glance_colorOnTertiary">#ffff00</color>
+    <color name="glance_colorOnTertiaryContainer">#fbc02d</color>
+    <color name="glance_colorOutline">#aeea00</color>
+    <color name="glance_colorPrimary">#c6ff00</color>
+    <color name="glance_colorPrimaryContainer">#eeff41</color>
+    <color name="glance_colorPrimaryInverse">#f4ff81</color>
+    <color name="glance_colorSecondary">#827717</color>
+    <color name="glance_colorSecondaryContainer">#00c853</color>
+    <color name="glance_colorSurface">#00e676</color>
+    <color name="glance_colorSurfaceInverse">#b9f6ca</color>
+    <color name="glance_colorSurfaceVariant">#1b5e20</color>
+    <color name="glance_colorTertiary">#6200ea</color>
+    <color name="glance_colorTertiaryContainer">#7c4dff</color>
+    <color name="glance_colorWidgetBackground">#311b92</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">@*android:color/background_dark</color>
+    <color name="ic_launcher_foreground">@null</color>
+    <color name="very_light_blue">@*android:color/accent_material_dark</color>
+    <color name="tvery_light_blue">@*android:color/ripple_material_dark</color>
+    <color name="navbar">@*android:color/background_dark</color>
+    <color name="navbar_light">@*android:color/button_material_dark</color>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffe8f2ee" android:pathData="M24
+            24m-24
+            0a24
+            24 0
+            1 1
+            48 0a24
+            24 0
+            1 1
+            -48 0" />
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M24
+            23C24
+            23 19.783
+            19.6112 19.2003
+            17.9786C18.6176
+            16.3461 19.3494
+            14.6239 20.8348
+            14.1321C21.9692
+            13.7564 23.215
+            14.207 24
+            15.168C24.785
+            14.207 26.0308
+            13.7564 27.1652
+            14.1321C28.6506
+            14.6239 29.3824
+            16.3461 28.7997
+            17.9786C28.217
+            19.6112 24
+            23 24
+            23Z" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M26.5
+            28.1373L31.5722
+            26.8596C32.4214
+            26.6457 33.311
+            27.0092 33.7675
+            27.7566L34
+            28.1373L24
+            33.5L14
+            29.5" android:strokeColor="@*android:color/background_dark" android:strokeWidth="1.5" />
+    <path android:fillColor="@*android:color/background_dark" android:pathData="M26
+            29V29.75H26.75V29H26ZM22
+            26.5L21.6646
+            27.1708C21.7687
+            27.2229 21.8836
+            27.25 22
+            27.25V26.5ZM19
+            25L19.3354
+            24.3292L19.1771
+            24.25H19V25ZM25.25
+            28.5V29H26.75V28.5H25.25ZM26
+            28.25H20.5V29.75H26V28.25ZM22
+            27.25H24V25.75H22V27.25ZM22.3354
+            25.8292L19.3354
+            24.3292L18.6646
+            25.6708L21.6646
+            27.1708L22.3354
+            25.8292ZM19
+            24.25H14V25.75H19V24.25ZM26.75
+            28.5C26.75
+            26.9812 25.5188
+            25.75 24
+            25.75V27.25C24.6904
+            27.25 25.25
+            27.8096 25.25
+            28.5H26.75Z" />
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toggle_bar_apply_btn_enabled_color">@*android:color/accent_material_dark</color>
+    <color name="toggle_bar_apply_btn_enabled_color_bright">@*android:color/accent_material_dark</color>
+    <color name="toggle_bar_apply_btn_disabled_color">@*android:color/ripple_material_dark</color>
+    <color name="toggle_bar_apply_btn_disabled_color_bright">@*android:color/ripple_material_dark</color>
+    <color name="toggle_bar_exit_btn_bg_color_bright">#33000000</color>
+    <color name="toggle_bar_normal_color_bright">@*android:color/background_dark</color>
+    <color name="toggle_bar_normal_color_dark">@*android:color/accent_material_dark</color>
+    <color name="toggle_bar_top_tops_btn_color">#ff00ff</color>
+</resources>

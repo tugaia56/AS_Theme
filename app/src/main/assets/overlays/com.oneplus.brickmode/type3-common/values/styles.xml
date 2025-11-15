@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.ThemeOverlay.AppCompat" parent="">
+        <item name="*android:colorControlNormal">@*android:color/white</item>
+        <item name="*android:colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="*android:colorButtonNormal">@*android:color/white</item>
+        <item name="*android:colorControlHighlight">@*android:color/accent_material_dark</item>
+        <item name="*android:colorPrimary">@*android:color/accent_material_dark</item>
+        <item name="*android:colorPrimaryDark">@*android:color/background_dark</item>
+        <item name="*android:colorAccent">@*android:color/accent_material_dark</item>
+    </style>
+    <style name="medal_congratulate_dialog" parent="@*android:style/Theme.Dialog">
+        <item name="*android:windowBackground">@*android:color/background_dark</item>
+        <item name="*android:windowNoTitle">true</item>
+    </style>	
+    <style name="ThemeOverlayColorAccentRed">
+        <item name="*android:colorAccent">@*android:color/accent_material_dark</item>
+    </style>
+</resources>

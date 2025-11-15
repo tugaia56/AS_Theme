@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="77.84241dip" android:width="169.0dip" android:autoMirrored="true" android:viewportWidth="495.0" android:viewportHeight="228.0" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/group_button_dialog_pressed_holo_light" android:pathData="M24,0L471,0A24,24 0,0 1,495 24L495,204A24,24 0,0 1,471 228L24,228A24,24 0,0 1,0 204L0,24A24,24 0,0 1,24 0z" />
+</vector>

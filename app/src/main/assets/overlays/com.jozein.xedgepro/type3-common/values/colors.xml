@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorBackgroundDark">@*android:color/background_dark</color>
+    <color name="colorBackgroundLightGray">#ffcccccc</color>
+    <color name="colorPrimary">@*android:color/background_dark</color>
+    <color name="colorPrimaryDark">@*android:color/background_dark</color>
+    <color name="colorPrimaryLight">#ff30a9a2</color>
+    <color name="ic_launcher_background">@*android:color/background_dark</color>
+</resources>

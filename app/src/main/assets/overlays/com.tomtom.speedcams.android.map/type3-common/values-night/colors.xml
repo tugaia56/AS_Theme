@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="carColorBlue">@*android:color/accent_material_dark</color>
+    <color name="carColorGreen">#ff448b47</color>
+    <color name="carColorRed">#ffc5221f</color>
+    <color name="carColorYellow">#ffd5792d</color>
+    <color name="ua_message_center_accent">#ff1c5afa</color>
+    <color name="ua_message_center_background">@*android:color/background_dark</color>
+    <color name="ua_message_center_secondary_variant">@*android:color/background_dark</color>
+    <color name="ua_message_center_surface">@*android:color/background_dark</color>
+    <color name="ua_message_center_surface_container">@*android:color/background_dark</color>
+    <color name="ua_message_center_surface_variant">#ff021852</color>
+    <color name="ua_message_center_ui_text_color">#ffffffff</color>
+</resources>

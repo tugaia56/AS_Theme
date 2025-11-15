@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_bar_separator">#ff4f4f4f</color>
+    <color name="box_dialog_text_color">@*android:color/white</color>
+    <color name="default_background_gradient_end_color">@*android:color/background_dark</color>
+    <color name="dialog_background_color">@*android:color/background_dark</color>
+    <color name="dialog_button_background_color">@*android:color/transparent</color>
+    <color name="dialog_button_text_color">@*android:color/accent_material_dark</color>
+    <color name="dialog_text_color">@*android:color/white</color>
+    <color name="dialog_title_color">@*android:color/white</color>
+    <color name="nav_bar_color">@*android:color/background_dark</color>
+    <color name="navigation_bar_item_unselected">#ffffffff</color>
+    <color name="primary_dark">@*android:color/background_dark</color>
+    <color name="textPrimary">@*android:color/white</color>
+    <color name="toolbar_background">@*android:color/background_dark</color>
+</resources>

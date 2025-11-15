@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_1870B6_CBA01F_osnight_1870B6">#ffcba01f</color>
+    <color name="color_c2c2c2_33ffffff">#33ffffff</color>
+    <color name="color_fffafafa_303030">@*android:color/background_dark</color>
+    <color name="fb_navigation_item_text_color">@*android:color/button_material_dark</color>
+    <color name="go_premium_no_connection_btn_backgroundTint">#ff2196f3</color>
+    <color name="go_premium_no_connection_btn_strokeColor">#ff2196f3</color>
+    <color name="module_dialog_separator">#ff585858</color>
+    <color name="ms_backgroundColor">@*android:color/background_dark</color>
+    <color name="ms_captionColor">#ffababab</color>
+    <color name="ms_disabledItemTextColor">#ff7b7b7b</color>
+    <color name="ms_focusColor">@*android:color/background_dark</color>
+    <color name="ms_headlineColor">#fff4f4f4</color>
+    <color name="ms_iconColor">#fff4f4f4</color>
+    <color name="ms_iconColor_alpha_52">#52f4f4f4</color>
+    <color name="ms_inputBoxStrokeColor">#fff4f4f4</color>
+    <color name="ms_itemSelectionColor">@*android:color/ripple_material_dark</color>
+    <color name="ms_linesColor">@*android:color/ripple_material_dark</color>
+    <color name="ms_menuColor">@*android:color/background_dark</color>
+    <color name="ms_primaryColor">@*android:color/accent_material_dark</color>
+    <color name="ms_selectionColor">@*android:color/ripple_material_dark</color>
+    <color name="ms_snackbarBackgroundColor">#ffffffff</color>
+    <color name="ms_snackbarButtonColor">@*android:color/accent_material_dark</color>
+    <color name="ms_snackbarTextColor">@*android:color/background_dark</color>
+    <color name="ms_subtitleColor">#ffababab</color>
+    <color name="ms_toolbarColor">@*android:color/background_dark</color>
+    <color name="ms_toolbarDividerColor">@*android:color/ripple_material_dark</color>
+    <color name="native_ad_round_stroke">#ff585858</color>
+</resources>

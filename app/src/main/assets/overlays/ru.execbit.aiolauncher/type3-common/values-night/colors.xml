@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seekbar_preference_text_color">@*android:color/primary_text_dark</color>
+    <color name="settings_icon_color">#ffffffff</color>
+    <color name="settings_text_color">#ffffffff</color>
+    <color name="toolbar_color">@*android:color/background_dark</color>
+</resources>

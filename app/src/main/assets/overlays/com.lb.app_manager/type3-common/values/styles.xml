@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBarThemeOverlay">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="colorControlHighlight">@*android:color/accent_material_dark</item>
+        <item name="colorControlNormal">#ffffffff</item>
+    </style>
+</resources>
