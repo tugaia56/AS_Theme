@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.0.9</item>
+        <item>VersionE 6.1.0</item>
+        <item>AGGIUNTO:</item>
+        <item>Alarm Clock Xtreme v25.2.0</item>
+        <item>MODIFICATO:</item>
+        <item>ApP 2</item>
+        <item>RIMOSSO:</item>
+        <item>Microsoft Edge</item>
     </string-array>
 </resources>
