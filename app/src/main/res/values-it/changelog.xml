@@ -2,9 +2,10 @@
 <resources>
     <string-array name="ThemeChangelog">
         <item>Version 6.1.0</item>
-        <item>AGGIUNTO:</item>
-        <item>App1  </item>
         <item>MODIFICATO:</item>
-        <item>App2  </item>
+        <item>All app on Github  </item>
+        <item>All app on Github  </item>
+        <item>Scripts  </item>
+        <item>Alarm Clock Xtreme v25.22.0  </item>
     </string-array>
 </resources>
