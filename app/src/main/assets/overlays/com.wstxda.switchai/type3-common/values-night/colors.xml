@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="divider_color">#1fffffff</color>
+    <color name="ic_shortcut_background">@*android:color/background_dark</color>
+    <color name="ic_shortcut_icon">@*android:color/accent_material_dark</color>
+    <color name="ic_splash_dots">@*android:color/accent_material_dark</color>
+    <color name="ic_splash_stars">#ffffffff</color>
     <color name="md_theme_background">@*android:color/background_dark</color>
     <color name="md_theme_background_highContrast">@*android:color/background_dark</color>
     <color name="md_theme_background_mediumContrast">@*android:color/background_dark</color>
@@ -38,7 +42,7 @@
     <color name="md_theme_onPrimaryFixed_mediumContrast">#ff00102d</color>
     <color name="md_theme_onPrimary_highContrast">@*android:color/background_dark</color>
     <color name="md_theme_onPrimary_mediumContrast">#ff002454</color>
-    <color name="md_theme_onSecondary">#ff283041</color>
+    <color name="md_theme_onSecondary">@*android:color/button_material_dark</color>
     <color name="md_theme_onSecondaryContainer">#ffdbe2f9</color>
     <color name="md_theme_onSecondaryContainer_highContrast">#ff040b1b</color>
     <color name="md_theme_onSecondaryContainer_mediumContrast">@*android:color/background_dark</color>
@@ -127,4 +131,15 @@
     <color name="md_theme_tertiaryFixed_mediumContrast">#fffbd7fc</color>
     <color name="md_theme_tertiary_highContrast">#ffffeafd</color>
     <color name="md_theme_tertiary_mediumContrast">#fff5d1f6</color>
+    <color name="search_bar_background">@*android:color/button_material_dark</color>
+    <color name="widget_on_primary_container">#ffd8e2ff</color>
+    <color name="widget_on_secondary_container">#ffdbe2f9</color>
+    <color name="widget_on_tertiary_container">#fffbd7fc</color>
+    <color name="widget_primary">#ffadc7ff</color>
+    <color name="widget_primary_container">#ff2a4678</color>
+    <color name="widget_secondary">#ffbfc6dc</color>
+    <color name="widget_secondary_container">#ff3f4759</color>
+    <color name="widget_surface">#ff111318</color>
+    <color name="widget_tertiary">#ffdebcdf</color>
+    <color name="widget_tertiary_container">#ff583e5b</color>
 </resources>

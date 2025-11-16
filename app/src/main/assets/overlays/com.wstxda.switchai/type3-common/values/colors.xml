@@ -74,6 +74,9 @@
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="ic_shortcut_background">#ffffffff</color>
+    <color name="ic_shortcut_icon">@*android:color/accent_material_dark</color>
+    <color name="ic_splash_dots">@*android:color/accent_material_dark</color>
+    <color name="ic_splash_stars">@*android:color/accent_material_dark</color>
     <color name="immersive_bars">#99ffffff</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
     <color name="m3_ref_palette_blue0">@*android:color/background_dark</color>
@@ -530,14 +533,25 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
     <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
+    <color name="search_bar_background">#fff9f9ff</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
+    <color name="widget_on_primary_container">#ff2a4678</color>
+    <color name="widget_on_secondary_container">#ff3f4759</color>
+    <color name="widget_on_tertiary_container">#ff583e5b</color>
+    <color name="widget_primary">#ff435e91</color>
+    <color name="widget_primary_container">#ffd8e2ff</color>
+    <color name="widget_secondary">#ff565e71</color>
+    <color name="widget_secondary_container">#ffdbe2f9</color>
+    <color name="widget_surface">#fff9f9ff</color>
+    <color name="widget_tertiary">#ff715574</color>
+    <color name="widget_tertiary_container">#fffbd7fc</color>
 </resources>
