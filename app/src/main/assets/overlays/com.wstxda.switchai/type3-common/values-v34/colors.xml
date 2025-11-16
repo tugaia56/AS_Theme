@@ -3,7 +3,7 @@
     <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">@*android:color/accent_material_dark</color>
-    <color name="m3_sys_color_dynamic_dark_inverse_surface">#00ff00</color>
+    <color name="m3_sys_color_dynamic_dark_inverse_surface">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_background">#8c9eff</color>
     <color name="m3_sys_color_dynamic_dark_on_primary">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_primary_container">#ffffffff</color>
@@ -46,7 +46,7 @@
     <color name="m3_sys_color_dynamic_light_outline">#ff6f00</color>
     <color name="m3_sys_color_dynamic_light_outline_variant">#ff8f00</color>
     <color name="m3_sys_color_dynamic_light_primary">#ffa000</color>
-    <color name="m3_sys_color_dynamic_light_primary_container">#ffb300</color>
+    <color name="m3_sys_color_dynamic_light_primary_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_light_secondary">#ffc107</color>
     <color name="m3_sys_color_dynamic_light_secondary_container">#ffca28</color>
     <color name="m3_sys_color_dynamic_light_surface">#ffd54f</color>
