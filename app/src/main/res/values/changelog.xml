@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.2.0</item>
+        <item>Version 6.1.0</item>
+        <item>ADDED:</item>
+        <item>- - -</item>
         <item>UPDATED:</item>
-        <item>SwitchAI by wstxda v3.4 AGGIORNATO: SwitchAI by wstxda v3.4  </item>
-        <item>SwitchAI by wstxda v3.4 AGGIORNATO: SwitchAI by wstxda v3.4  </item>
-        <item>Perplexity v2.61.0  </item>
+        <item>Alarm Clock Xtreme v25.22.0</item>
+        <item>SwitchAI by wstxda v3.4</item>
+        <item>REMOVED: </item>
+        <item>Microsoft Edge (criptato)</item>
     </string-array>
 </resources>
