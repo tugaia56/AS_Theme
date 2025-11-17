@@ -76,7 +76,7 @@
     <color name="ic_shortcut_background">#ffffffff</color>
     <color name="ic_shortcut_icon">@*android:color/accent_material_dark</color>
     <color name="ic_splash_dots">@*android:color/accent_material_dark</color>
-    <color name="ic_splash_stars">@*android:color/accent_material_dark</color>
+    <color name="ic_splash_stars">@*android:color/accent_material_light</color>
     <color name="immersive_bars">#99ffffff</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
     <color name="m3_ref_palette_blue0">@*android:color/background_dark</color>
