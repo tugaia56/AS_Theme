@@ -1527,7 +1527,7 @@
     <color name="coui_color_ripple_press_background_light">#1f000000</color>
     <color name="coui_color_secondary_blue">@*android:color/ripple_material_dark</color>
     <color name="coui_color_secondary_blue_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
-    <color name="coui_color_secondary_blue_light">#260066ff</color>
+    <color name="coui_color_secondary_blue_light">#26908dff</color>
     <color name="coui_color_secondary_green">#2600bd13</color>
     <color name="coui_color_secondary_green_dark">@*android:color/keyguard_avatar_frame_pressed_color</color>
     <color name="coui_color_secondary_green_light">#2600bd13</color>

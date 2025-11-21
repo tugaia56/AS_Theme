@@ -3,10 +3,20 @@
     <string-array name="ThemeChangelog">
         <item>Versione 6.1.0</item>
         <item>AGGIUNTO:</item>
-        <item>- - -</item>
+        <item>OxygenOS 16</item>
+        <item>Compass v16.1.12</item>
+        <item>Video (System)v9.19.1.0</item>
+        <item>Copywriting AI v16.0.21</item>
+        <item>Motore assistenza AI v16.0.12</item>
+        <item>Trascrizione vocale AI v16.1.18</item>
         <item>AGGIORNATO:</item>
+        <item>Traduci v16.0.16</item>
+        <item>Assistene Giochi v10.19.6</item>
+        <item>Zen Space v16.4.4</item>
+        <item>BeaconLink v15.52.8</item>
         <item>Alarm Clock Xtreme v25.22.0</item>
         <item>SwitchAI by wstxda v3.4</item>
+        <item>Swift Backup v5.0.6</item>
         <item>RIMOSSO: </item>
         <item>Microsoft Edge (criptato)</item>
     </string-array>

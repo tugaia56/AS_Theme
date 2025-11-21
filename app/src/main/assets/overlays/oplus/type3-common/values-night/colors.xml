@@ -4,7 +4,7 @@
     <color name="oplus_save_dialog_text_color">#ffffffff</color>
     <color name="oplus_save_dialog_title_color">#ffffffff</color>
     <color name="oplus_save_dialog_divider_color">#33ffffff</color>
-    <color name="oplus_save_dialog_background_color">#ff333333</color>
+    <color name="oplus_save_dialog_background_color">@*android:color/button_material_dark</color>
     <color name="oplus_save_dialog_ripple_color">#0dffffff</color>
     <color name="oplus_dialog_button_divider_color">#33ffffff</color>
     <color name="oplus_alert_dialog_content_text_color">#ffffffff</color>
@@ -33,7 +33,7 @@
     <color name="oplus_chooser_preview_text_line">#1fffffff</color>
     <color name="oplus_dialog_button_text_color_bottom">#ffffffff</color>
     <color name="oplus_dialog_button_text_color_center">#ff6b97ff</color>
-    <color name="oplus_floating_toolbar_background_color">#ff333333</color>
+    <color name="oplus_floating_toolbar_background_color">@*android:color/button_material_dark</color>
     <color name="oplus_floating_toolbar_icon_color">#ffffffff</color>
     <color name="oplus_floating_toolbar_menu_button_ripple_color">#33ffffff</color>
     <color name="oplus_green_tint_control_disabled">#4dffffff</color>

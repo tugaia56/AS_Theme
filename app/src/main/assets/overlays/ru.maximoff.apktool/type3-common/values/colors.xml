@@ -125,7 +125,7 @@
     <color name="grey">#ff999999</color>
     <color name="xls_green">#ff558500</color>
     <color name="very_dark_blue">#ff000099</color>
-    <color name="very_dark_grey">#ff333333</color>
+    <color name="very_dark_grey">@*android:color/button_material_dark</color>
     <color name="very_dark_green">#ff006600</color>
     <color name="very_dark_red">#ff990000</color>
     <color name="very_light_green">#ff66ff66</color>

@@ -11,8 +11,6 @@
     <color name="holo_button_normal">#21908dff</color>
     <color name="ripple_material_dark">#80908dff</color>
     <color name="ripple_material_light">#66908dff</color>
-    <color name="system_error_dark">#2e7d32</color>
-    <color name="system_on_error_dark">#dd0000</color>	
     <color name="holo_red_dark">#dd0000</color>
 
     <color name="system_accent1_0">#ffffffff</color>

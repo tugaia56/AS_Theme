@@ -489,7 +489,7 @@
     <color name="zs_featured_news_dividing_color">#0dffffff</color>
     <color name="zs_feed_back_icon_color">#ffffffff</color>
     <color name="zs_feed_shade_color">#59000000</color>
-    <color name="zs_feeds_news_options_bg_color">#ff333333</color>
+    <color name="zs_feeds_news_options_bg_color">@*android:color/button_material_dark</color>
     <color name="zs_feeds_news_options_pressed_bg_color">#ff5b5b5b</color>
     <color name="zs_feeds_news_options_text_color">#ff999999</color>
     <color name="zs_fl_bottom_view_head_bg_color">#66a1a1a1</color>

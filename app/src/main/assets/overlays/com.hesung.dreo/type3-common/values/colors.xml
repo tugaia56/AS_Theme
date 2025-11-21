@@ -555,7 +555,7 @@
     <color name="ps_color_0077F6">#ff0077f6</color>
     <color name="ps_color_20">#20000000</color>
     <color name="ps_color_20c064">#ff20c064</color>
-    <color name="ps_color_33">#ff333333</color>
+    <color name="ps_color_33">@*android:color/button_material_dark</color>
     <color name="ps_color_394a3e">#ff394a3e</color>
     <color name="ps_color_4d">#ff4d4d4d</color>
     <color name="ps_color_4e4d4e">#ff4e4d4e</color>

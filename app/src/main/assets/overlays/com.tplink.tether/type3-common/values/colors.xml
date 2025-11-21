@@ -77,7 +77,7 @@
     <color name="device_list_offline_background">#4dffffff</color>
     <color name="device_list_offline_content_color">#4dffffff</color>
     <color name="device_list_title_color">#ffffffff</color>
-    <color name="dialog_bg_color">#ff333333</color>
+    <color name="dialog_bg_color">@*android:color/button_material_dark</color>
     <color name="divider_gaming_color">#29e6e6e6</color>
     <color name="double_nat_select_bg_solid_color">#294acbd6</color>
     <color name="drawer_card_bg">#0fececfe</color>
@@ -444,7 +444,7 @@
     <color name="base_008577">@*android:color/accent_material_dark</color>
     <color name="base_1994FF">#ff1994ff</color>
     <color name="base_1E8AE8">#ff1e8ae8</color>
-    <color name="base_333333">#ff333333</color>
+    <color name="base_333333">@*android:color/button_material_dark</color>
     <color name="base_61FFFFFF">#61ffffff</color>
     <color name="base_808080">#ff808080</color>
     <color name="base_CC000000">#cc000000</color>
@@ -1212,7 +1212,7 @@
     <color name="tools_blue_gradient_end">#ff4acbd6</color>
     <color name="tools_blue_gradient_start">#ff34c6eb</color>
     <color name="tools_camera_background">#33000000</color>
-    <color name="tools_card_title_text_color">#ff333333</color>
+    <color name="tools_card_title_text_color">@*android:color/button_material_dark</color>
     <color name="tools_chart_text_color">#99000000</color>
     <color name="tools_clear_edit_text_underline_accent_color">#ff2bd8ec</color>
     <color name="tools_clear_edit_text_underline_warning_color">#ffff2954</color>

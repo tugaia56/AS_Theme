@@ -681,7 +681,7 @@
     <color name="main_bg_photo">@*android:color/button_material_dark</color>
     <color name="main_bg_simultaneous">@*android:color/button_material_dark</color>
     <color name="main_divider">#33ffffff</color>
-    <color name="out_screen_recognized_bg">#260066ff</color>
+    <color name="out_screen_recognized_bg">#26908dff</color>
     <color name="picker_background">#ff545454</color>
     <color name="picker_focus_color">#d9ffffff</color>
     <color name="picker_normal_color">#66ffffff</color>

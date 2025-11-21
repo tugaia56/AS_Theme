@@ -421,7 +421,7 @@
     <color name="opal_text">#ff666666</color>
     <color name="opal_text_strong">@*android:color/background_dark</color>
     <color name="opal_theme">#ff1993b5</color>
-    <color name="pipl_disagree_text_color">#ff333333</color>
+    <color name="pipl_disagree_text_color">@*android:color/button_material_dark</color>
     <color name="popup_menu_title_color">#ff242424</color>
     <color name="primary_dark_material_dark">@*android:color/background_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -486,7 +486,7 @@
     <color name="sn_black">@*android:color/background_dark</color>
     <color name="sn_bottom_sheet_row_text">@*android:color/background_dark</color>
     <color name="sn_button_pressed_color">#fff2f2f2</color>
-    <color name="sn_button_pressed_color_dark">#ff333333</color>
+    <color name="sn_button_pressed_color_dark">@*android:color/button_material_dark</color>
     <color name="sn_content_background">#ffffffff</color>
     <color name="sn_content_background_pressed">#fff5f5f5</color>
     <color name="sn_date_time_dark">#ffd8d8d8</color>
@@ -495,7 +495,7 @@
     <color name="sn_font_dark">#ff252423</color>
     <color name="sn_font_light">#ffcccccc</color>
     <color name="sn_formatting_button_background">#fff6f9fa</color>
-    <color name="sn_formatting_button_background_dark">#ff333333</color>
+    <color name="sn_formatting_button_background_dark">@*android:color/button_material_dark</color>
     <color name="sn_formatting_button_border">#ffc2c9cc</color>
     <color name="sn_gray_divider">#ffd8d8d8</color>
     <color name="sn_grey_dark">@*android:color/background_dark</color>
@@ -795,7 +795,7 @@
     <color name="uniform_style_gray_two">#ffdedede</color>
     <color name="uniform_style_white">#ffffffff</color>
     <color name="uninstall_target_hover_tint">#fff0592b</color>
-    <color name="upload_background_color">#ff333333</color>
+    <color name="upload_background_color">@*android:color/button_material_dark</color>
     <color name="views_calendar_appointment_join_meeting_button_background_color">#ff4e56bd</color>
     <color name="views_calendar_appointment_join_skype_button_background_color">#ff097dbb</color>
     <color name="views_calendar_appointment_join_teams_button_background_color">#ff4b53bc</color>
@@ -807,7 +807,7 @@
     <color name="visual_aria_black">@*android:color/background_dark</color>
     <color name="voice_bg_theme">@*android:color/background_dark</color>
     <color name="voice_recog_deny_dialog_background_color">#ffffffff</color>
-    <color name="voice_recog_deny_dialog_content_color">#ff333333</color>
+    <color name="voice_recog_deny_dialog_content_color">@*android:color/button_material_dark</color>
     <color name="voice_recog_deny_dialog_open_setting_color">#ff436bee</color>
     <color name="voice_recog_deny_dialog_title_color">#ff111111</color>
     <color name="voice_wave_color_from_arrow">#ff0061fe</color>

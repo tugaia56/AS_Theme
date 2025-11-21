@@ -408,7 +408,7 @@
     <color name="icon_color_primary_light">#ff606060</color>
     <color name="item_divider">#19000000</color>
     <color name="item_wp_widget_setting_stroke">#ffe4e4e4</color>
-    <color name="lau_az_letter_select_color_day">#ff333333</color>
+    <color name="lau_az_letter_select_color_day">@*android:color/button_material_dark</color>
     <color name="lau_az_letter_select_color_night">#ffcdcdcd</color>
     <color name="lau_az_search_bg_solid_white">#e0ffffff</color>
     <color name="lau_os_altitude_primary_color_day">#fff7f7f7</color>
@@ -490,7 +490,7 @@
     <color name="launcher_sort_background_color">#80000000</color>
     <color name="launcher_text_shadow_color">#59000000</color>
     <color name="launcher_white">#ffffffff</color>
-    <color name="letter_select_color">#ff333333</color>
+    <color name="letter_select_color">@*android:color/button_material_dark</color>
     <color name="light_black_color">#ff222222</color>
     <color name="line">#ffe6e6e6</color>
     <color name="list_item_divider_color">#fff5f6f9</color>
@@ -1049,7 +1049,7 @@
     <color name="pn_color8">#ff388e3c</color>
     <color name="pn_color9">#ff0bc459</color>
     <color name="pn_comment_tv_num">#ffffffff</color>
-    <color name="pn_country_text_color">#ff333333</color>
+    <color name="pn_country_text_color">@*android:color/button_material_dark</color>
     <color name="pn_detail_divider_color">#ffdddddd</color>
     <color name="pn_hot_comment_title_tv_color">#ffbdbdbd</color>
     <color name="pn_news_app_color">#ff909090</color>

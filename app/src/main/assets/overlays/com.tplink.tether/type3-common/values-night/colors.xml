@@ -77,7 +77,7 @@
     <color name="device_list_offline_background">#4dffffff</color>
     <color name="device_list_offline_content_color">#4dffffff</color>
     <color name="device_list_title_color">#ffffffff</color>
-    <color name="dialog_bg_color">#ff333333</color>
+    <color name="dialog_bg_color">@*android:color/button_material_dark</color>
     <color name="divider_gaming_color">#29e6e6e6</color>
     <color name="double_nat_select_bg_solid_color">#294acbd6</color>
     <color name="drawer_card_bg">#0fececfe</color>

@@ -9,7 +9,7 @@
     <color name="ad_overlay_background">#99000000</color>
     <color name="ad_text_1_light">#ff131313</color>
     <color name="ad_text_2_light">#ff606060</color>
-    <color name="ad_text_3_light">#ff333333</color>
+    <color name="ad_text_3_light">@*android:color/button_material_dark</color>
     <color name="ad_text_4_light">#ff666666</color>
     <color name="add_text_shadow_color">#55000000</color>
     <color name="alignment_marker_color">#ffb4b4b4</color>

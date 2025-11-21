@@ -2015,7 +2015,7 @@
     <color name="coui_dialog_list_background_color_no_blur">#ffffffff</color>
     <color name="coui_dialog_list_blend_blur">#ff4d4d4d</color>
     <color name="coui_dialog_list_blend_blur_dark">#ff737373</color>
-    <color name="coui_dialog_list_blend_blur_light">#ff333333</color>
+    <color name="coui_dialog_list_blend_blur_light">@*android:color/button_material_dark</color>
     <color name="coui_dialog_list_mix_blur">#ccb2b2b2</color>
     <color name="coui_dialog_list_mix_blur_dark">#cc404040</color>
     <color name="coui_dialog_list_mix_blur_light">#e6c1c1c1</color>

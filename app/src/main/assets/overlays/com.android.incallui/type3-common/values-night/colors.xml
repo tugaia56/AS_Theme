@@ -354,7 +354,7 @@
     <color name="coui_color_secondary_yellow">#40e5a100</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">@*android:color/background_dark</color>
-    <color name="coui_color_surface_top">#ff333333</color>
+    <color name="coui_color_surface_top">@*android:color/button_material_dark</color>
     <color name="coui_color_surface_with_card">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_color_violet">@*android:color/accent_material_dark</color>

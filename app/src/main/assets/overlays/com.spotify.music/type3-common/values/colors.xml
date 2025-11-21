@@ -59,7 +59,7 @@
     <color name="blue_violet_155">#ffafb1ff</color>
     <color name="blue_violet_25">#ff26008d</color>
     <color name="blue_violet_55">#ff3c00e4</color>
-    <color name="blue_violet_75">#ff5925ff</color>
+    <color name="blue_violet_75">@*android:color/accent_material_dark</color>
     <color name="bottom_sheet_background_color">#b3000000</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>

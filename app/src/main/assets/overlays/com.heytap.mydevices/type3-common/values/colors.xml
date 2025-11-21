@@ -632,7 +632,7 @@
     <color name="coui_btn_stress_text_disabled_color">#ffbee2de</color>
     <color name="coui_btn_stress_text_normal_color">@*android:color/accent_material_dark</color>
     <color name="coui_btn_stress_text_pressed_color">@*android:color/accent_material_dark</color>
-    <color name="coui_button_main_disable">#4d0066ff</color>
+    <color name="coui_button_main_disable">#4d908dff</color>
     <color name="coui_button_main_disable_text">#8affffff</color>
     <color name="coui_button_neutral_color">#0f000000</color>
     <color name="coui_button_neutral_color_disable">#0f000000</color>

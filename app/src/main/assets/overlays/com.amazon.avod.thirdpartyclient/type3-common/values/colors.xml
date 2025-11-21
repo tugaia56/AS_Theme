@@ -286,7 +286,7 @@
     <color name="fable_color_warm_600">#ff808080</color>
     <color name="fable_color_warm_700">#ff666666</color>
     <color name="fable_color_warm_800">@*android:color/background_leanback_dark</color>
-    <color name="fable_color_warm_900">#ff333333</color>
+    <color name="fable_color_warm_900">@*android:color/button_material_dark</color>
     <color name="fable_color_warm_900_tint_060">#99333333</color>
     <color name="fable_color_white">#ffffffff</color>
     <color name="fable_color_white_tint_000">#00ffffff</color>

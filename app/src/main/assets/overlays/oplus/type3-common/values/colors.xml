@@ -98,7 +98,7 @@
     <color name="coui_popup_list_background_color_above_blur">#00000000</color>
     <color name="float_handle_view_container_bg">#ffececec</color>
     <color name="zoom_float_handle_view_ambientShadowColor">#2e000000</color>
-    <color name="float_handle_view_container_bg_dark">#ff333333</color>
+    <color name="float_handle_view_container_bg_dark">@*android:color/button_material_dark</color>
     <color name="background_color_dark_4">#ffffffff</color>
     <color name="background_color_dark_5">#ffffffff</color>
     <color name="background_color_dark_6">#ffffffff</color>
@@ -256,7 +256,7 @@
     <color name="oplus_circle_loading_paintcolor">#ffc0c0c0</color>
     <color name="oplus_circle_loading_paintcolor_inlist">#ffc0c0c0</color>
     <color name="oplus_compoundbutton_textcolor_disable">#4c999d9c</color>
-    <color name="oplus_compoundbutton_textcolor_nomal">#ff333333</color>
+    <color name="oplus_compoundbutton_textcolor_nomal">@*android:color/button_material_dark</color>
     <color name="oplus_decor_title_dark_color">@*android:color/material_deep_teal_100</color>
     <color name="oplus_decor_title_light_color">@*android:color/material_deep_teal_200</color>
     <color name="oplus_delete_alert_dialog_button_focused_color">#ff2ac795</color>

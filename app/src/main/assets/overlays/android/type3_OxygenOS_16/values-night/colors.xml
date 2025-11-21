@@ -7,7 +7,7 @@
     <color name="language_picker_item_selected_stroke">@*android:color/accent_material_dark</color>
     <color name="language_picker_item_text_color">#fff1f3f4</color>
     <color name="language_picker_item_text_color_secondary">#ffbdc1c6</color>
-    <color name="language_picker_item_text_color_secondary_selected">@*android:color/background_dark</color>																		   
+    <color name="language_picker_item_text_color_secondary_selected">@*android:color/background_dark</color>
     <color name="notification_action_button_text_color">#deffffff</color>
     <color name="notification_expand_button_pill_color">#0affffff</color>
     <color name="personal_apps_suspension_notification_color">@*android:color/accent_material_dark</color>
