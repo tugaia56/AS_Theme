@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.1.1</item>
+        <item>Version 6.1.0</item>
+        <item>ADDED:</item>
+        <item>OxygenOS 16</item>
+        <item>Compass v16.1.12</item>
+        <item>Video (System)v9.19.1.0</item>
+        <item>AI Writer v16.0.21</item>
+        <item>AI Service Engine v16.0.12</item>
+        <item>AI VoiceScribe v16.1.18</item>
+        <item>Oneplus AI (Ubiquitous Manager Service) v16.1.34</item>
         <item>UPDATED:</item>
-        <item>SwitchAI by wstxda v3.4 AGGIORNATO: SwitchAI by wstxda v3.4  </item>
+        <item>Translate v16.0.16</item>
+        <item>Games Assistant v10.19.6</item>
+        <item>Zen Space v16.4.4</item>
+        <item>BeaconLink v15.52.8</item>
+        <item>Alarm Clock Xtreme v25.22.0</item>
+        <item>SwitchAI by wstxda v3.4</item>
+        <item>Swift Backup v5.0.6</item>
+        <item>REMOVED: </item>
+        <item>Microsoft Edge (encrypted)</item>
     </string-array>
 </resources>
