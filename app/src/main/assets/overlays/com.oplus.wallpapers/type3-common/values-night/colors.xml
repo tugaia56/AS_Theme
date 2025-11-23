@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="ai_item_wallpaper_shadow_1_color">#@*android:color/background_dark</color>
-    <color name="ai_item_wallpaper_shadow_2_color">#@*android:color/background_leanback_dark</color>
+    <color name="ai_item_wallpaper_shadow_1_color">@*android:color/background_dark</color>
+    <color name="ai_item_wallpaper_shadow_2_color">@*android:color/background_leanback_dark</color>
     <color name="aod_surface_drawable_color">@*android:color/accent_material_dark</color>
     <color name="bottom_recommended_title_common">#ffffffff</color>
     <color name="bottom_recommended_title_head">#73ffffff</color>
@@ -46,7 +46,6 @@
     <color name="couiBlueThirdColorFocusOutlineNormal">#664d8eff</color>
     <color name="couiBlueThirdLightNormal">#4d4d8eff</color>
     <color name="couiBlueThirdNormal">#ff4d8eff</color>
-    <color name="couiBlueTintColorDisableNormal">#4d1875f5</color>
     <color name="couiBlueTintColorDisableNormal">#4d1875f5</color>
     <color name="couiBlueTintColorFocusNormal">#1f1875f5</color>
     <color name="couiBlueTintColorFocusOutlineNormal">#661875f5</color>
@@ -442,7 +441,7 @@
     <color name="coui_color_assist_orange">#ffcc7f3d</color>
     <color name="coui_color_assist_purple">#ffa466cc</color>
     <color name="coui_color_assist_red">#ffcc615a</color>
-    <color name="coui_color_assist_yellow">#@*android:color/accent_material_dark</color>
+    <color name="coui_color_assist_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure">@*android:color/accent_material_dark</color>
     <color name="coui_color_azure_variant">@*android:color/accent_material_dark</color>
     <color name="coui_color_background_elevated">@*android:color/transparent</color>
@@ -459,14 +458,14 @@
     <color name="coui_color_container16">#40ffffff</color>
     <color name="coui_color_container4">#14ffffff</color>
     <color name="coui_color_container8">#26ffffff</color>
-    <color name="coui_color_container_azure">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_blue">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_cyan">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_green">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_mint">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_orange">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_purple">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_red">#@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_azure">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_blue">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_cyan">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_green">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_mint">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_orange">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_purple">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_solid">@*android:color/background_leanback_dark</color>
     <color name="coui_color_container_theme_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_green">@*android:color/accent_material_dark</color>
@@ -478,8 +477,8 @@
     <color name="coui_color_container_theme_orange">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_yellow">@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_violet">#@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_yellow">#@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_violet">@*android:color/accent_material_dark</color>
+    <color name="coui_color_container_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_control_highlight">#7f707070</color>
     <color name="coui_color_controls">#40ffffff</color>
     <color name="coui_color_cyan">@*android:color/accent_material_dark</color>
@@ -565,13 +564,13 @@
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_color_violet">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow">@*android:color/accent_material_dark</color>
-    <color name="coui_color_yellow_variant">#@*android:color/accent_material_dark</color>
+    <color name="coui_color_yellow_variant">@*android:color/accent_material_dark</color>
     <color name="coui_edit_text_delete_bg_color_normal">#33ffffff</color>
     <color name="coui_floating_button_label_broader_color">#1affffff</color>
     <color name="coui_floating_button_label_text_color_disable">#26ffffff</color>
     <color name="coui_icon_seekbar_background">#26ffffff</color>
     <color name="coui_icon_seekbar_background_color_normal">#1affffff</color>
-    <color name="coui_list_dialog_background_color_no_blur">#@*android:color/background_dark</color>
+    <color name="coui_list_dialog_background_color_no_blur">@*android:color/background_dark</color>
     <color name="coui_full_page_statement_privacy_icon_light_color">#ff156a42</color>
     <color name="coui_jump_preference_btn_next_bg_color">#1affffff</color>
     <color name="coui_jump_preference_btn_next_color">#80ffffff</color>
@@ -658,7 +657,7 @@
     <color name="flip_wallpaper_confirm_layout_bg">@*android:color/background_dark</color>
     <color name="flip_wallpaper_confirm_panel_layout_bg">@*android:color/background_dark</color>
     <color name="flip_wallpaper_confirm_panel_more_icon_color">#ffffffff</color>
-    <color name="folder_coz_item_bg_color">#@*android:color/background_dark</color>
+    <color name="folder_coz_item_bg_color">@*android:color/background_dark</color>
     <color name="font_display_drawable_color">@*android:color/accent_material_dark</color>
     <color name="graffiti_font_alignment_color">#ffffffff</color>
     <color name="icon_livephoto_off">#ffffffff</color>
