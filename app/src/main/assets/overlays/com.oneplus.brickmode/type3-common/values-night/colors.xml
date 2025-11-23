@@ -17,8 +17,8 @@
     <color name="chip_unchecked_text_disable_color">#29ffffff</color>
     <color name="color_fafafa">#ffffffff</color>
     <color name="color_primary_black">#ffffffff</color>
-    <color name="color_share">#d9000000</color>
-    <color name="color_share_bg">#d9ffffff</color>
+    <color name="color_share">@*android:color/white</color>
+    <color name="color_share_bg">@*android:color/accent_material_dark</color>
     <color name="color_white_new">@*android:color/button_material_dark</color>
     <color name="couiBlueColorDisableNormal">#4d00bfc0</color>
     <color name="couiBlueColorFocusNormal">#3300bfc0</color>

@@ -138,7 +138,7 @@
     <color name="about_phone_game_archi_summary">#8a000000</color>
     <color name="about_phone_logo_color">#e6000000</color>
     <color name="about_phone_name_version_color">#ffffddeb</color>
-    <color name="about_phone_text_color">#00ff00</color>
+    <color name="about_phone_text_color">#ffffffff</color>
     <color name="about_phone_text_color_10">#e6ffffff</color>
     <color name="about_share_bg_color">#ffffffff</color>
     <color name="accessibility_color_inversion_background">#ff546e7a</color>
@@ -2122,7 +2122,7 @@
     <color name="screen_space_preset_opaque_color_01">#ff0044ff</color>
     <color name="screen_space_preset_opaque_color_G">#ff2da74e</color>
     <color name="screen_space_preset_opaque_color_R">@*android:color/accent_material_dark</color>
-    <color name="search_background">#ff00ff</color>
+    <color name="search_background">#55555555</color>
     <color name="search_view_window_mask">#66000000</color>
     <color name="secondary_color_dark_default">#ff20c0ce</color>
     <color name="secondary_color_darker_default">#ff949dab</color>

@@ -709,7 +709,6 @@
     <color name="coui_color_hover">#14000000</color>
     <color name="coui_color_hover_dark">#26ffffff</color>
     <color name="coui_color_hover_light">#14000000</color>
-    <color name="coui_color_label_on_color">#ffffffff</color>
     <color name="coui_color_label_on_color_dark">#ffffffff</color>
     <color name="coui_color_label_on_color_light">#ffffffff</color>
     <color name="coui_color_label_primary">#e6000000</color>
@@ -1163,8 +1162,6 @@
     <color name="kgd_bottom_text_dark_color">#e6000000</color>
     <color name="kgd_bottom_text_light_color">#e6ffffff</color>
     <color name="kgd_color_auth_pwd_error_color">@*android:color/accent_material_dark</color>
-    <color name="kgd_color_simple_lock_filled_rectangle_icon_color">#ffffffff</color>
-    <color name="kgd_color_simple_lock_outlined_rectangle_icon_color">#26ffffff</color>
     <color name="kgd_edit_text_background_line_color">#33ffffff</color>
     <color name="kgd_edit_text_color">#d0ffffff</color>
     <color name="kgd_edit_text_cursor_color">#ffffffff</color>
