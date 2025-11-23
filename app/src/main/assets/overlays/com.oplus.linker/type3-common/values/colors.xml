@@ -148,7 +148,7 @@
     <color name="calendar_picker_day_hint_color">#33000000</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
-    <color name="card_bg_color">#ffffffff</color>
+    <color name="card_bg_color">@*android:color/background_dark</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -414,8 +414,8 @@
     <color name="couiSingleNinthTextHighLight">#4cc35570</color>
     <color name="couiSingleSecondBarDisabledColor">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondColorDisableNormal">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondColorFocusNormal">#1fffcb1b</color>
-    <color name="couiSingleSecondColorFocusOutlineNormal">#66ffcb1b</color>
+    <color name="couiSingleSecondColorFocusNormal">@*android:color/accent_material_dark</color>
+    <color name="couiSingleSecondColorFocusOutlineNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondLightNormal">@*android:color/button_material_dark</color>
     <color name="couiSingleSecondNormal">@*android:color/accent_material_dark</color>
     <color name="couiSingleSecondTextHighLight">@*android:color/accent_material_dark</color>
@@ -602,9 +602,9 @@
     <color name="coui_btn_eye_color_pressed">#fff2f2f2</color>
     <color name="coui_btn_eye_dark_color_normal">#ffb5b5b5</color>
     <color name="coui_btn_eye_light_color_normal">#ff737373</color>
-    <color name="coui_btn_eye_slash_color_left_top">#ffffffff</color>
+    <color name="coui_btn_eye_slash_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_eye_slash_dark_color_left_top">@*android:color/background_dark</color>
-    <color name="coui_btn_eye_slash_light_color_left_top">#ffffffff</color>
+    <color name="coui_btn_eye_slash_light_color_left_top">@*android:color/background_dark</color>
     <color name="coui_btn_part_check_color_on_disabled">#ffebebeb</color>
     <color name="coui_btn_part_check_inner_color_on_disabled">#fffafafa</color>
     <color name="coui_btn_part_check_inner_color_on_normal">#8affffff</color>
@@ -793,9 +793,9 @@
     <color name="coui_color_container_red">#ffeedadc</color>
     <color name="coui_color_container_red_dark">#ff3a3030</color>
     <color name="coui_color_container_red_light">#ffeedadc</color>
-    <color name="coui_color_container_solid">#ffebebeb</color>
+    <color name="coui_color_container_solid">@*android:color/background_dark</color>
     <color name="coui_color_container_solid_dark">@*android:color/background_leanback_dark</color>
-    <color name="coui_color_container_solid_light">#ffebebeb</color>
+    <color name="coui_color_container_solid_light">@*android:color/background_dark</color>
     <color name="coui_color_container_theme_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_blue_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_blue_light">@*android:color/accent_material_dark</color>
@@ -1072,12 +1072,12 @@
     <color name="coui_color_surface">#ffffffff</color>
     <color name="coui_color_surface_dark">@*android:color/background_dark</color>
     <color name="coui_color_surface_light">#ffffffff</color>
-    <color name="coui_color_surface_top">#ffffffff</color>
-    <color name="coui_color_surface_top_dark">@*android:color/button_material_dark</color>
-    <color name="coui_color_surface_top_light">#ffffffff</color>
-    <color name="coui_color_surface_with_card">#fff0f1f2</color>
+    <color name="coui_color_surface_top">@*android:color/background_dark</color>
+    <color name="coui_color_surface_top_dark">@*android:color/background_dark</color>
+    <color name="coui_color_surface_top_light">@*android:color/background_dark</color>
+    <color name="coui_color_surface_with_card">@*android:color/background_dark</color>
     <color name="coui_color_surface_with_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_surface_with_card_light">#fff0f1f2</color>
+    <color name="coui_color_surface_with_card_light">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_color_tips_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_tips_light">@*android:color/accent_material_dark</color>
@@ -1178,7 +1178,7 @@
     <color name="coui_main_button_text_color_pressed">#ffffffff</color>
     <color name="coui_navigation_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_divider_color">#1a000000</color>
-    <color name="coui_navigation_enlarge_default_bg">#fffafafa</color>
+    <color name="coui_navigation_enlarge_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_enlarge_item_color">#4dffffff</color>
     <color name="coui_navigation_rail_icon_unselected_color">#4d000000</color>
     <color name="coui_navigation_tool_color_disabled">#26000000</color>
@@ -1385,7 +1385,6 @@
     <color name="coui_theme_primary_color">#ffffffff</color>
     <color name="coui_title_text_color_large">@*android:color/background_dark</color>
     <color name="coui_tool_navigation_item_bg_color_dark">#0dffffff</color>
-																		
     <color name="coui_tool_tips_delete_icon_bg_color">#24ffffff</color>
     <color name="coui_tool_tips_delete_icon_color">#ffffffff</color>
     <color name="coui_tool_tips_shadow_color">#e0000000</color>
@@ -1396,11 +1395,10 @@
     <color name="coui_touchsearchview_key_text_dark_color_unpressed">#8cffffff</color>
     <color name="coui_touchsearchview_popup_bg_color">#ffffffff</color>
     <color name="coui_transparence">#00000000</color>
-																				  
     <color name="default_color">#fff0f1f2</color>
     <color name="default_color_8c000000">#8c000000</color>
     <color name="default_color_back_cast_bg">#ffffffff</color>
-    <color name="default_color_connect_bg">#ffffffff</color>
+    <color name="default_color_connect_bg">@*android:color/background_dark</color>
     <color name="default_color_d9000000">#d9000000</color>
     <color name="default_color_ec3e50">@*android:color/accent_material_dark</color>
     <color name="default_color_f5f5f5">#fff5f5f5</color>

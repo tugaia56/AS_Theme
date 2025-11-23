@@ -5,7 +5,7 @@
     <color name="black">@*android:color/background_dark</color>
     <color name="bottom_recommended_title_common">#ffffffff</color>
     <color name="bottom_recommended_title_head">#73ffffff</color>
-    <color name="card_bg_color">#ff191919</color>
+    <color name="card_bg_color">@*android:color/background_dark</color>
     <color name="carousel_text_color">#99ffffff</color>
     <color name="cast_assistant_dialog_bg_color">#ff2e2e2e</color>
     <color name="cast_panel_dialog">#1affffff</color>
@@ -375,7 +375,7 @@
     <color name="coui_color_segment_button_indicator">#1affffff</color>
     <color name="coui_color_success">@*android:color/accent_material_dark</color>
     <color name="coui_color_surface">@*android:color/background_dark</color>
-    <color name="coui_color_surface_top">@*android:color/button_material_dark</color>
+    <color name="coui_color_surface_top">@*android:color/background_dark</color>
     <color name="coui_color_surface_with_card">@*android:color/background_dark</color>
     <color name="coui_color_tips">@*android:color/accent_material_dark</color>
     <color name="coui_color_violet">@*android:color/accent_material_dark</color>
@@ -399,7 +399,7 @@
     <color name="coui_lock_pattern_dot_color">#66ffffff</color>
     <color name="coui_lock_pattern_path_color">#ffffffff</color>
     <color name="coui_lock_pattern_success_color">#ffffffff</color>
-    <color name="coui_navigation_default_bg">#ffffffff</color>
+    <color name="coui_navigation_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_divider_color">#33ffffff</color>
     <color name="coui_navigation_enlarge_default_bg">@*android:color/background_dark</color>
     <color name="coui_navigation_rail_icon_unselected_color">#ffffffff</color>
@@ -463,7 +463,7 @@
     <color name="coui_touchsearchview_key_text_color_unpressed">#8cffffff</color>
     <color name="default_color">#ffffffff</color>
     <color name="default_color_back_cast_bg">#1affffff</color>
-    <color name="default_color_connect_bg">#1affffff</color>
+    <color name="default_color_connect_bg">@*android:color/background_dark</color>
     <color name="default_color_fafafa">#ffffffff</color>
     <color name="default_color_pad_relay_bg">#1affffff</color>
     <color name="default_color_panel_bg">#1affffff</color>
