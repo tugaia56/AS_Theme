@@ -94,7 +94,7 @@
     <color name="c1_tag_finished">#ffe2f4e6</color>
     <color name="c1_tag_waiting">#ffdee7f7</color>
     <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="card_bg">#ffffffff</color>
     <color name="card_shadow">#0a000000</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>

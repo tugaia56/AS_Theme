@@ -87,7 +87,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="calendar_data_text_color">#a6000000</color>
     <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="card_data_text_color">@*android:color/background_dark</color>
     <color name="card_half_button_press_color">#26908dff</color>
     <color name="card_half_button_solid_color">#0a908dff</color>

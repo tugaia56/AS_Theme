@@ -748,12 +748,12 @@
     <color name="coui_color_blue_variant_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_variant_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card">@*android:color/background_dark</color>
-    <color name="coui_color_card_background">@*android:color/background_dark</color>
-    <color name="coui_color_card_background_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background_light">@*android:color/background_dark</color>
-    <color name="coui_color_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_light">@*android:color/background_dark</color>
+    <color name="coui_color_card">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_light">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_light">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>
@@ -1389,7 +1389,7 @@
     <color name="coui_tool_tips_delete_icon_bg_color">#24ffffff</color>
     <color name="coui_tool_tips_delete_icon_color">#ffffffff</color>
     <color name="coui_tool_tips_shadow_color">#e0000000</color>
-    <color name="coui_toolbar_text_menu_bg_color">#ffffffff</color>
+    <color name="coui_toolbar_text_menu_bg_color">@*android:color/background_dark</color>
     <color name="coui_toptips_background">#14000000</color>
     <color name="coui_touchsearch_popup_text_color">#d9000000</color>
     <color name="coui_touchsearchview_key_text_color_unpressed">#8c000000</color>
@@ -1408,7 +1408,7 @@
     <color name="default_color_pad_relay_bg">#ffffffff</color>
     <color name="default_color_panel_bg">#ffffffff</color>
     <color name="default_color_search_bg">#fffafbfb</color>
-    <color name="default_toolbar_color">#ffffffff</color>
+    <color name="default_toolbar_color">@*android:color/background_dark</color>
     <color name="description_color">#fffafafa</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>

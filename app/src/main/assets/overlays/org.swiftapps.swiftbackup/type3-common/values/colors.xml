@@ -59,7 +59,7 @@
     <color name="call_incoming">@*android:color/accent_material_dark</color>
     <color name="call_missed">#fff44336</color>
     <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="call_outgoing">@*android:color/accent_material_dark</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>

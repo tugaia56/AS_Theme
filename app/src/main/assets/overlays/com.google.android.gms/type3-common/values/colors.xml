@@ -97,7 +97,7 @@
     <color name="call_background">#ffe8eaed</color>
     <color name="call_casting_device_outline">#ffdadce0</color>
     <color name="call_notification_answer_color">#ff1d873b</color>
-    <color name="call_notification_decline_color">#ffd93025</color>
+    <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
     <color name="call_switching_illustration_background">@*android:color/white</color>
     <color name="car_light_blue_500">#ff03a9f4</color>
     <color name="card_stroke_color">#1affffff</color>
@@ -228,7 +228,7 @@
     <color name="external_consent_context_color_dark_theme">#cc000000</color>
     <color name="fallback_color_device_default_dark">#ff669df6</color>
     <color name="fallback_color_device_default_light">#ff1a73e8</color>
-    <color name="fast_pair_battery_level_low">#ffd93025</color>
+    <color name="fast_pair_battery_level_low">@*android:color/holo_red_dark</color>
     <color name="fast_pair_notification_background">#00000000</color>
     <color name="fido_account_border_color_light">#ff747775</color>
     <color name="fido_black_or_white_color_dark">#ffffffff</color>
@@ -534,7 +534,7 @@
     <color name="gm_ref_palette_red400">#ffee675c</color>
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
-    <color name="gm_ref_palette_red600">#ffd93025</color>
+    <color name="gm_ref_palette_red600">@*android:color/holo_red_dark</color>
     <color name="gm_ref_palette_red700">#ffc5221f</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
@@ -621,7 +621,7 @@
     <color name="hearable_control_panel_v2">#ffffff</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
-    <color name="icon_background">#ffd93025</color>
+    <color name="icon_background">@*android:color/holo_red_dark</color>
     <color name="image_element_background">#fff1f3f4</color>
     <color name="input_text_highlight_font_color_dark">#801967d2</color>
     <color name="input_text_highlight_font_color_light">#808ab4f8</color>
@@ -1009,9 +1009,9 @@
     <color name="settingslib_color_grey50">#fff8f9fa</color>
     <color name="settingslib_color_grey800">#ff3c4043</color>
     <color name="settingslib_color_red500">#ffb3261e</color>
-    <color name="settingslib_color_red600">#ffd93025</color>
+    <color name="settingslib_color_red600">@*android:color/holo_red_dark</color>
     <color name="settingslib_dialog_accent">@*android:color/accent_material_dark</color>
-    <color name="settingslib_dialog_colorError">#ffd93025</color>
+    <color name="settingslib_dialog_colorError">@*android:color/holo_red_dark</color>
     <color name="settingslib_expressive_color_status_level_off">#ffd1c2cb</color>
     <color name="settingslib_list_divider_color">@*android:color/system_neutral1_200</color>
     <color name="settingslib_materialColorBackground">@*android:color/accent_material_dark</color>
@@ -1112,7 +1112,7 @@
     <color name="sud_color_background_dark">@*android:color/background_dark</color>
     <color name="sud_color_background_light">#fffafafa</color>
     <color name="sud_color_error_text_dark">#fff28b82</color>
-    <color name="sud_color_error_text_light">#ffd93025</color>
+    <color name="sud_color_error_text_light">@*android:color/holo_red_dark</color>
     <color name="sud_color_on_surface">@*android:color/accent_material_dark</color>
     <color name="sud_error_warning_default_dark">#fff28b82</color>
     <color name="sud_error_warning_default_light">#ffea4335</color>
@@ -1393,7 +1393,7 @@
     <color name="wallet_uic_visdre_apps_primary_button_pressed_color_light">#ff056449</color>
     <color name="wallet_uic_visdre_apps_primary_color_dark">#ff00a173</color>
     <color name="wallet_uic_visdre_apps_primary_color_light">#ff01875f</color>
-    <color name="wallet_uic_visdre_error_color_light">#ffd93025</color>
+    <color name="wallet_uic_visdre_error_color_light">@*android:color/holo_red_dark</color>
     <color name="warning_card_bg_color">#fffef7e0</color>
     <color name="warning_card_icon_color">#fff29900</color>
     <color name="warning_card_link_color">#ffb26409</color>

@@ -131,8 +131,8 @@
     <color name="settingslib_color_grey50">#fff8f9fa</color>
     <color name="settingslib_color_grey800">#ff3c4043</color>
     <color name="settingslib_color_red500">#ffb3261e</color>
-    <color name="settingslib_color_red600">#ffd93025</color>
-    <color name="settingslib_dialog_colorError">#ffd93025</color>
+    <color name="settingslib_color_red600">@*android:color/holo_red_dark</color>
+    <color name="settingslib_dialog_colorError">@*android:color/holo_red_dark</color>
     <color name="settingslib_materialColorOnPrimary">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorOnPrimaryContainer">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorOnSurface">@*android:color/accent_material_dark</color>
@@ -150,7 +150,7 @@
     <color name="settingslib_protection_color">@*android:color/white</color>
     <color name="settingslib_ripple_color">@*android:color/ripple_material_dark</color>
     <color name="sud_color_accent_glif_light">#ff4285f4</color>
-    <color name="sud_color_error_text_light">#ffd93025</color>
+    <color name="sud_color_error_text_light">@*android:color/holo_red_dark</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
     <color name="sud_list_item_icon_color_light">#89000000</color>
