@@ -2723,7 +2723,7 @@
     <color name="fuchsia_decorative_subdued">#fff03ca7</color>
     <color name="fuchsia_essential_base">#ffffffff</color>
     <color name="fuchsia_text_base">#ffffffff</color>
-    <color name="game_ai_play_rate_high">#ff64bd0b</color>
+    <color name="game_ai_play_rate_high">@*android:color/accent_material_dark</color>
     <color name="game_ai_play_rate_low">@*android:color/accent_material_dark</color>
     <color name="game_ai_play_rate_normal">@*android:color/accent_material_dark</color>
     <color name="game_assistant_switch_selected_bar">#ff2dc84e</color>
@@ -2999,11 +2999,11 @@
     <color name="gc_desktop_space_aggregation_playing_green_dot_tip_color">@*android:color/accent_material_dark</color>
     <color name="gc_desktop_space_background_color">@*android:color/background_dark</color>
     <color name="gc_desktop_space_btn_normal_bg_color">#4064bd0b</color>
-    <color name="gc_desktop_space_btn_normal_text_color">#ff64bd0b</color>
+    <color name="gc_desktop_space_btn_normal_text_color">@*android:color/accent_material_dark</color>
     <color name="gc_desktop_space_dynamic_bg_color">#08ffffff</color>
     <color name="gc_desktop_space_game_aggregation_list_default_color">#0affffff</color>
     <color name="gc_desktop_space_gift_btn_normal_bg_color">#4064bd0b</color>
-    <color name="gc_desktop_space_gift_btn_normal_text_color">#ff64bd0b</color>
+    <color name="gc_desktop_space_gift_btn_normal_text_color">@*android:color/accent_material_dark</color>
     <color name="gc_desktop_space_gift_btn_received_bg_color">#27ffffff</color>
     <color name="gc_desktop_space_gift_dt_btn_bg_color">#ff2eb85a</color>
     <color name="gc_desktop_space_group_chat_input_text_color_highlight">#4c2fb152</color>
@@ -3015,7 +3015,7 @@
     <color name="gc_desktop_space_theme_color_green">@*android:color/accent_material_dark</color>
     <color name="gc_desktop_space_theme_color_green_2664DB0B">#2664db0b</color>
     <color name="gc_desktop_space_theme_color_green_4064DB0B">#4064db0b</color>
-    <color name="gc_desktop_space_theme_color_green_64BD0B">#ff64bd0b</color>
+    <color name="gc_desktop_space_theme_color_green_64BD0B">@*android:color/accent_material_dark</color>
     <color name="gc_desktop_space_theme_color_green_B364DB0B">#b364db0b</color>
     <color name="gc_desktop_space_theme_color_green_a25">#262fb152</color>
     <color name="gc_desktop_space_theme_color_orange">@*android:color/accent_material_dark</color>
@@ -3154,13 +3154,13 @@
     <color name="green_light">#ff1ed760</color>
     <color name="gs_available_storage_info_color">#ff2c312d</color>
     <color name="gs_balanced_performance_bg_color">#ff7ddb1f</color>
-    <color name="gs_balanced_performance_text_color">#ff64bd0b</color>
+    <color name="gs_balanced_performance_text_color">@*android:color/accent_material_dark</color>
     <color name="gs_default_img_color">#fff2f2f2</color>
-    <color name="gs_desktop_space_chat_receiver_text_high_color">#4d64db0b</color>
+    <color name="gs_desktop_space_chat_receiver_text_high_color">@*android:color/ripple_material_dark</color>
     <color name="gs_desktop_space_chat_sender_handle_color">#ff448900</color>
     <color name="gs_desktop_space_chat_sender_text_high_color">#4d2d5b00</color>
     <color name="gs_desktop_space_network_color">#ff63bd0b</color>
-    <color name="gs_desktop_space_theme_color_green_64BD0B">#ff64bd0b</color>
+    <color name="gs_desktop_space_theme_color_green_64BD0B">@*android:color/accent_material_dark</color>
     <color name="gs_desktop_space_theme_color_green_64BD0B_25">#4064bd0b</color>
     <color name="gs_game_card_default_bg_color">#ffebebeb</color>
     <color name="gs_game_storage_info_color">#ff6dea38</color>
@@ -3181,7 +3181,7 @@
     <color name="gs_loading_switch_unchecked_Color">#ff535353</color>
     <color name="gs_low_performance_bg_color">#ff77dbdb</color>
     <color name="gs_low_performance_text_color">#ff77dbdb</color>
-    <color name="gs_network_accel_open_btn_background">#ff64bd0b</color>
+    <color name="gs_network_accel_open_btn_background">@*android:color/accent_material_dark</color>
     <color name="gs_offline_mini_game_thump_bg_color">#ff343434</color>
     <color name="gs_other_storage_info_color">#ff324f28</color>
     <color name="gs_played_game_list_select_bg_end_color">#337ddb1f</color>
@@ -3189,7 +3189,7 @@
     <color name="gs_played_game_list_select_line_end_color">#e67ddb1f</color>
     <color name="gs_played_game_list_select_line_start_color">#007ddb1f</color>
     <color name="gs_popup_window_bg">@*android:color/background_dark</color>
-    <color name="gs_portrait_big_event_cancel_menu_color">#ff64bd0b</color>
+    <color name="gs_portrait_big_event_cancel_menu_color">@*android:color/accent_material_dark</color>
     <color name="gs_progress_center_color">#ff91fb67</color>
     <color name="gs_progress_end_color">#ffaaff93</color>
     <color name="gs_progress_start_color">#ff63e62b</color>
@@ -4669,7 +4669,7 @@
     <color name="studiolight_warningsubdued_essential_base">#ff491e00</color>
     <color name="studiolight_warningsubdued_text_base">#ff491e00</color>
     <color name="suggest_network_button_bg">#4064bd0b</color>
-    <color name="suggest_network_button_text">#ff64bd0b</color>
+    <color name="suggest_network_button_text">@*android:color/accent_material_dark</color>
     <color name="suggest_network_text_end">#ffd5fab5</color>
     <color name="suggest_network_text_start">#ff7ddb1f</color>
     <color name="suggest_perf_button_bg">#4077dbdb</color>
@@ -4732,7 +4732,7 @@
     <color name="text_black">@*android:color/background_dark</color>
     <color name="text_color_gray">#ff696969</color>
     <color name="text_ripple_bg_solid_color">#ffffffff</color>
-    <color name="theme_color">#ff64bd0b</color>
+    <color name="theme_color">@*android:color/accent_material_dark</color>
     <color name="theme_color_15">#2664bd0b</color>
     <color name="theme_color_20">#3364bd0b</color>
     <color name="theme_color_30">#4d64bd0b</color>
@@ -4802,9 +4802,9 @@
     <color name="view_game_ai_play_share_type_unselect_color">#42ffffff</color>
     <color name="view_game_ai_play_strategy_bg_bottom_color">#f2000000</color>
     <color name="view_game_ai_play_strategy_bg_top_color">#99333333</color>
-    <color name="view_game_ai_play_strategy_btn_send_color">#ff64bd0b</color>
-    <color name="view_game_ai_play_strategy_left_item_stop_color">#ff64bd0b</color>
-    <color name="view_game_ai_play_strategy_mode_select_color">#ff64bd0b</color>
+    <color name="view_game_ai_play_strategy_btn_send_color">@*android:color/accent_material_dark</color>
+    <color name="view_game_ai_play_strategy_left_item_stop_color">@*android:color/accent_material_dark</color>
+    <color name="view_game_ai_play_strategy_mode_select_color">@*android:color/accent_material_dark</color>
     <color name="violet">#ffaf2896</color>
     <color name="violet_84">#ffb02897</color>
     <color name="violet_background_base">#ffb02897</color>

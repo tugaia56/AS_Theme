@@ -99,7 +99,7 @@
     <color name="sud_system_surface_variant_dark">#ffeb3b</color>
     <color name="sud_system_surface_variant_light">#ffee58</color>
     <color name="sud_system_tertiary_container_dark">#00ff00</color>
-    <color name="sud_system_tertiary_container_light">#fff59d</color>
+    <color name="sud_system_tertiary_container_light">@*android:color/ripple_material_dark</color>
     <color name="sud_system_tertiary_dark">#00bfa5</color>
     <color name="sud_system_tertiary_fixed_dark">#1de9b6</color>
     <color name="sud_system_tertiary_fixed_dim_dark">#64ffda</color>
@@ -153,7 +153,7 @@
     <color name="gm3_sys_color_dynamic_light_primary">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_light_primary_container">#ffee58</color>
     <color name="gm3_sys_color_dynamic_light_secondary">#fff176</color>
-    <color name="gm3_sys_color_dynamic_light_secondary_container">#fff59d</color>
+    <color name="gm3_sys_color_dynamic_light_secondary_container">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_light_surface">#fff9c4</color>
     <color name="gm3_sys_color_dynamic_light_surface_bright">#aeea00</color>
     <color name="gm3_sys_color_dynamic_light_surface_container">#c6ff00</color>
