@@ -33,6 +33,8 @@
     <color name="chips_dropdown_text_default">@*android:color/background_dark</color>
     <color name="chips_dropdown_text_highlighted">@*android:color/button_material_dark</color>
     <color name="chooser_icon_outline">#ffe6e6e6</color>
+    <color name="colorPrimary">#fff1f3f4</color>
+    <color name="colorPrimaryDark">@*android:color/background_dark</color>
     <color name="color_selector_black">@*android:color/black</color>
     <color name="color_selector_blue">#ff1166ef</color>
     <color name="color_selector_purple">#ff9e00ff</color>
@@ -75,15 +77,6 @@
     <color name="discussion_container_background_open">#fff9f9f9</color>
     <color name="discussion_list_selector_focused">@*android:color/accent_material_dark</color>
     <color name="discussion_one_discussion_list_background">@*android:color/white</color>
-    <color name="ds_actionbar_background_color">@*android:color/background_dark</color>
-    <color name="ds_actionbar_title_color">#fff3f3f3</color>
-    <color name="ds_editor_panel_backfill">#ff252525</color>
-    <color name="ds_material_btn_filled_bg">#338ab4f8</color>
-    <color name="ds_ripple_light">@*android:color/white</color>
-    <color name="ds_share_bottom_sheet_dialog_background">#ff333438</color>
-    <color name="ds_share_bottom_sheet_dialog_line">#ff444746</color>
-    <color name="ds_share_snackbar_background">@*android:color/background_dark</color>
-    <color name="ds_share_snackbar_text">#ffe3e3e3</color>
     <color name="edit_fab_background">#ffffffff</color>
     <color name="edit_fab_default_icon_tint">@*android:color/accent_material_dark</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
@@ -99,11 +92,12 @@
     <color name="fallback_color_device_default_light">#ff1a73e8</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
+    <color name="form_fields_highlight_color">@*android:color/ripple_material_dark</color>
     <color name="gemini_gradient_end">#ffac87eb</color>
     <color name="gemini_gradient_middle">#ff2e96ff</color>
     <color name="gemini_gradient_start">#ff217bfe</color>
-    <color name="gm3_dark_default_color_elevation_overlay">#d1e1ff</color>
-    <color name="gm3_default_color_elevation_overlay">#6991d6</color>
+    <color name="gm3_dark_default_color_elevation_overlay">@*android:color/accent_material_dark</color>
+    <color name="gm3_default_color_elevation_overlay">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_brand_color_blue">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_brand_color_red">#ffea4335</color>
     <color name="gm3_ref_brand_color_yellow">#fffbbc04</color>
@@ -146,7 +140,7 @@
     <color name="gm3_ref_palette_primary40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary70">#ff7cacf8</color>
     <color name="gm3_ref_palette_primary80">@*android:color/accent_material_dark</color>
-    <color name="gm3_ref_palette_primary90">#ffd3e3fd</color>
+    <color name="gm3_ref_palette_primary90">@*android:color/ripple_material_dark</color>
     <color name="gm3_ref_palette_red20">#ff60150f</color>
     <color name="gm3_ref_palette_red40">#ffb3251e</color>
     <color name="gm3_ref_palette_red60">#fff55e57</color>
@@ -240,7 +234,6 @@
     <color name="grey_light">#ff666666</color>
     <color name="grey_medium">@*android:color/background_dark</color>
     <color name="hairline_color">#29202125</color>
-    <color name="helpcard_secondary">#ff444444</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="highlighter_default_blue">#ff00b0ff</color>
@@ -374,6 +367,10 @@
     <color name="mtrl_textinput_disabled_color">#1f000000</color>
     <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
+    <color name="navigationColor">@*android:color/background_dark</color>
+    <color name="navigationColorDark">@*android:color/background_dark</color>
+    <color name="navigationDividerColor">@*android:color/background_dark</color>
+    <color name="navigationDividerColorDark">@*android:color/background_dark</color>
     <color name="og_elevation_dark_2">@*android:color/background_dark</color>
     <color name="og_elevation_dark_5">@*android:color/background_dark</color>
     <color name="og_material3_elevation_dark_2">@*android:color/background_dark</color>
@@ -495,6 +492,8 @@
     <color name="sud_error_warning_default_light">@*android:color/accent_material_dark</color>
     <color name="sud_glif_background_color_dark">@*android:color/background_dark</color>
     <color name="sud_glif_background_color_light">#ffffffff</color>
+    <color name="sud_glif_color_secondary_container_dark">@*android:color/accent_material_dark</color>
+    <color name="sud_glif_color_secondary_container_light">@*android:color/accent_material_dark</color>
     <color name="sud_glif_edit_text_bg_dark_color">@*android:color/background_dark</color>
     <color name="sud_glif_edit_text_bg_light_color">#0a000000</color>
     <color name="sud_glif_v3_dialog_background_color_dark">@*android:color/background_dark</color>
@@ -560,7 +559,7 @@
     <color name="sud_system_neutral2_400">#ff909090</color>
     <color name="sud_system_neutral2_50">#fff0f0f0</color>
     <color name="sud_system_neutral2_500">@*android:color/button_material_dark</color>
-    <color name="system_neutral2_700">@*android:color/button_material_light</color>
+    <color name="sud_system_neutral2_700">@*android:color/button_material_light</color>
     <color name="sud_system_on_background_dark">#ffe5e2e1</color>
     <color name="sud_system_on_background_light">@*android:color/background_dark</color>
     <color name="sud_system_on_error_container_dark">#fff9dedc</color>

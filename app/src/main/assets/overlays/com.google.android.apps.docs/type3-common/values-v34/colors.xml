@@ -15,7 +15,6 @@
     <color name="settingslib_materialColorSurfaceContainerHighest">#ff9e80</color>
     <color name="settingslib_materialColorSurfaceVariant">#fff000</color>
     <color name="sud_color_on_surface">@*android:color/accent_material_dark</color>
-    <color name="sud_dynamic_color_accent_glif_v3_dark">#00ffff</color>
     <color name="sud_system_background_dark">#ff5722</color>
     <color name="sud_system_background_light">#ff7043</color>
     <color name="sud_system_error_container_dark">#ff8a65</color>
@@ -111,7 +110,7 @@
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_on_background">@*android:color/accent_material_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_on_background">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary_container">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#a1887f</color>
@@ -129,7 +128,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">#ff8a65</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/accent_material_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/holo_primary</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/background_dark</color>
