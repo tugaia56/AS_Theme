@@ -231,7 +231,7 @@
     <color name="on_background_dark">#ffe0e2ed</color>
     <color name="on_background_light">@*android:color/background_dark</color>
     <color name="on_primary_fixed">#ff001a42</color>
-    <color name="on_primary_fixed_variant">#ff004396</color>
+    <color name="on_primary_fixed_variant">@*android:color/accent_material_dark</color>
     <color name="on_surface_variant_dark">#ffc7c6cb</color>
     <color name="on_surface_variant_light">#ff46464b</color>
     <color name="outline_dark">#ff909095</color>
