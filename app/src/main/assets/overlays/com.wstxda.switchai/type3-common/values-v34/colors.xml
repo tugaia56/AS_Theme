@@ -7,7 +7,7 @@
     <color name="m3_sys_color_dynamic_dark_on_background">#00c853</color>
     <color name="m3_sys_color_dynamic_dark_on_primary">#ffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_primary_container">#ffffff</color>
-    <color name="m3_sys_color_dynamic_dark_on_secondary">#b9f6ca</color>
+    <color name="m3_sys_color_dynamic_dark_on_secondary">@*android:color/button_material_light</color>
     <color name="m3_sys_color_dynamic_dark_on_secondary_container">#ffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface">#ffffff</color>
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">@*android:color/darker_gray</color>
