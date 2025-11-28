@@ -131,7 +131,7 @@
     <color name="md_theme_tertiaryFixed_mediumContrast">#fffbd7fc</color>
     <color name="md_theme_tertiary_highContrast">#ffffeafd</color>
     <color name="md_theme_tertiary_mediumContrast">#fff5d1f6</color>
-    <color name="search_bar_background">@*android:color/button_material_dark</color>
+    <color name="search_bar_background">@*android:color/button_material_light</color>
     <color name="widget_on_primary_container">#ffd8e2ff</color>
     <color name="widget_on_secondary_container">#ffdbe2f9</color>
     <color name="widget_on_tertiary_container">#fffbd7fc</color>

@@ -4,7 +4,7 @@
     <color name="ic_shortcut_icon">@*android:color/accent_material_dark</color>
     <color name="ic_splash_dots">@*android:color/accent_material_dark</color>				<!-- Splash -->
     <color name="ic_splash_stars">@*android:color/accent_material_light</color>				<!-- Splash -->
-    <color name="search_bar_background">@*android:color/accent_material_dark</color>
+    <color name="search_bar_background">@*android:color/button_material_light</color>		<!-- searchbar -->
     <color name="widget_on_primary_container">#ffffff</color>								<!-- testo widget min sopra -->
     <color name="widget_on_secondary_container">#76ff03</color>
     <color name="widget_on_tertiary_container">#ffffff</color>								<!-- testo widget min sotto -->

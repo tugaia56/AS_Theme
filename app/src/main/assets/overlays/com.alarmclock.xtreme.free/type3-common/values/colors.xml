@@ -405,7 +405,7 @@
     <color name="ui_on_success_extra_light">#1a0c053e</color>
     <color name="ui_on_success_light">#330c053e</color>
     <color name="ui_on_success_secondary">#bf0c053e</color>
-    <color name="ui_on_surface">#00ff00</color>
+    <color name="ui_on_surface">#ffffffff</color>
     <color name="ui_on_surface_disabled">#80ffffff</color>
     <color name="ui_on_surface_extra_light">#14ffffff</color>
     <color name="ui_on_surface_light">#26ffffff</color>
