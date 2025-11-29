@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.1.0</item>
+        <item>Version 6.2.0</item>
         <item>ADDED:</item>
-        <item>- - -</item>
+        <item>OxygenOS 16  </item>
         <item>UPDATED:</item>
-        <item>- - -</item>
+        <item>Fuck for VIP v5.0.8r307  </item>
+        <item>Hide My Applist v3.6.1-142  </item>
+        <item>Wa Enhancer  </item>
+        <item>BUG FIX Switch AI  </item>
+        <item>UI System Keypad Pin  </item>
+        <item>UI System Keypad Pin  </item>
+        <item>App Drive  </item>
+        <item>Contacts Sync  </item>
+        <item>Shazam  </item>
+        <item>Oxygen Customizer  </item>
+        <item>REMOVED:</item>
+        <item>home screen switcher (obsolete)  </item>
     </string-array>
 </resources>
