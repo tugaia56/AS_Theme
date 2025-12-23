@@ -116,7 +116,7 @@
     <color name="google_grey_900">@*android:color/background_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="incall_background_gradient_bottom">@*android:color/system_accent1_400</color>
+    <color name="incall_background_gradient_bottom">@*android:color/accent_material_dark</color>
     <color name="incall_background_gradient_middle">@*android:color/system_accent1_500</color>
     <color name="incall_background_gradient_spam_bottom">#b8e55135</color>
     <color name="incall_background_gradient_spam_middle">#d6c01111</color>

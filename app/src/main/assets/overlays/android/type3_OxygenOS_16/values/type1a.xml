@@ -44,10 +44,10 @@
     <color name="system_accent3_0">#ffffffff</color>
     <color name="system_accent3_10">#ffffffff</color>
     <color name="system_accent3_50">#ffffffff</color>
-    <color name="system_accent3_100">#c8e6c9</color>
-    <color name="system_accent3_200">#a5d6a7</color>
-    <color name="system_accent3_300">#81c784</color>
-    <color name="system_accent3_400">#66bb6a</color>
+    <color name="system_accent3_100">#d50000</color>
+    <color name="system_accent3_200">#ff1744</color>
+    <color name="system_accent3_300">#ff5252</color>
+    <color name="system_accent3_400">#ff8a80</color>
     <color name="system_accent3_500">#4caf50</color>
     <color name="system_accent3_600">#43a047</color>
     <color name="system_accent3_700">#388e3c</color>

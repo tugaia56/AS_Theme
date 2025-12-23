@@ -451,8 +451,8 @@
     <color name="coui_color_bar">@*android:color/background_dark</color>
     <color name="coui_color_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card">@*android:color/holo_primary</color>
-    <color name="coui_color_card_background">@*android:color/background_dark</color>
+    <color name="coui_color_card">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_container12">#33ffffff</color>
     <color name="coui_color_container16">#40ffffff</color>
@@ -466,7 +466,7 @@
     <color name="coui_color_container_orange">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_purple">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_red">@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_solid">@*android:color/background_leanback_dark</color>
+    <color name="coui_color_container_solid">@*android:color/background_dark</color>
     <color name="coui_color_container_theme_blue">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_green">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_halftone_blue">#40908dff</color>
@@ -690,7 +690,7 @@
     <color name="ux_oplus_custom_shape_normal">#26ffffff</color>
     <color name="ux_panel_backgound_color">#99000000</color>
     <color name="ux_panel_bg_with_shadow_color">@*android:color/background_dark</color>
-    <color name="ux_personal_background_color">#ff202020</color>
+    <color name="ux_personal_background_color">@*android:color/background_dark</color>
     <color name="ux_personal_bottom_title_text_color">#d9ffffff</color>
     <color name="ux_personal_item_mask_color">#d5202020</color>
     <color name="ux_text_black_alpha_50">#80ffffff</color>
@@ -748,8 +748,8 @@
     <color name="couiSingleNinthLightPressedPatchO">#4dbc4260</color>
     <color name="couiSingleNinthTextHighLightRepatchP">#4cb1362f</color>
     <color name="couiSingleSecondLightNormalPatchO">@*android:color/accent_material_dark</color>
-    <color name="couiSingleSecondLightPressedPatchO">#4dffc502</color>
-    <color name="couiSingleSecondTextHighLightRepatchP">#4c3a39ad</color>
+    <color name="couiSingleSecondLightPressedPatchO">@*android:color/accent_material_dark</color>
+    <color name="couiSingleSecondTextHighLightRepatchP">@*android:color/accent_material_dark</color>
     <color name="couiSingleSeventhLightNormalPatchO">#4d007aff</color>
     <color name="couiSingleSeventhLightPressedPatchO">#4d006ee6</color>
     <color name="couiSingleSeventhTextHighLightRepatchP">#4c806300</color>
